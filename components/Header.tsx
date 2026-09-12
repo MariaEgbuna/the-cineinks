@@ -22,9 +22,6 @@ export default function Header() {
             <div className="w-10 h-10 rounded-full bg-cream/10" />
             <div className="text-left">
               <p className="font-serif text-2xl text-cream">The CineInks</p>
-              <p className="text-xs text-cream/60 mt-0.5">
-                No fancy film degrees here. Just honest takes on what I&apos;m watching or have watched.
-              </p>
             </div>
           </Link>
 
