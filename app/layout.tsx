@@ -17,7 +17,7 @@ const workSans = Work_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Reel Inks",
+  title: "The CineInks",
   description: "No fancy film degrees here. Just honest takes on what I'm watching or have watched.",
 };
 
