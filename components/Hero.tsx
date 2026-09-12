@@ -1,0 +1,90 @@
+import Image from "next/image";
+import Link from "next/link";
+import { scoreColor } from "../utils/scoreColor";
+import type { Post } from "../utils/posts";
+
+type HeroProps = {
+  featuredPost: Post;
+  recentlyWatched: Post[];
+};
+
+export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
+  return (
+    <section className="bg-ink">
+      <div className="max-w-[1600px] mx-auto px-5 py-6 grid grid-cols-1 md:grid-cols-[1.7fr_1fr] gap-5">
+        <Link
+          href={`/posts/${featuredPost.slug}`}
+          className="relative block bg-white/5 rounded-xl aspect-[16/9] p-5 flex flex-col justify-end overflow-hidden"
+        >
+          {featuredPost.coverImage && (
+            <Image
+              src={featuredPost.coverImage}
+              alt={featuredPost.title}
+              fill
+              sizes="(min-width: 768px) 60vw, 100vw"
+              priority
+              className="object-cover"
+            />
+          )}
+          <span className="absolute top-4 left-4 bg-teal text-teal-light text-xs px-2.5 py-1 rounded">
+            {featuredPost.category}
+          </span>
+          {featuredPost.score !== null && (
+            <span
+              className={`absolute top-4 right-4 bg-ink text-sm font-medium px-3 py-1 rounded ${scoreColor(
+                featuredPost.score
+              )}`}
+            >
+              {featuredPost.score}/10
+            </span>
+          )}
+          <h1 className="font-serif text-2xl md:text-3xl text-cream leading-snug mb-2">
+            {featuredPost.title}
+          </h1>
+          <p className="text-sm text-cream/70 leading-relaxed">
+            {featuredPost.excerpt}
+          </p>
+        </Link>
+
+        <div className="bg-white/5 rounded-xl p-5 flex flex-col">
+          <p className="text-xs text-teal-light font-medium mb-3">
+            Recently watched
+          </p>
+          <div className="flex flex-col justify-between flex-1 gap-3">
+            {recentlyWatched.map((post) => (
+              <Link
+                key={post.slug}
+                href={`/posts/${post.slug}`}
+                className="flex gap-3 items-center"
+              >
+                <div className="relative w-12 h-12 bg-white/10 rounded-md shrink-0 overflow-hidden">
+                    {post.coverImage && (
+                      <Image
+                        src={post.coverImage}
+                        alt={post.title}
+                        fill
+                        sizes="48px"
+                        className="object-cover"
+                      />
+                    )}
+                  </div>
+                <div>
+                  <p className="text-sm text-cream font-medium leading-snug">
+                    {post.title}
+                  </p>
+                  <p className="text-xs text-cream/50 mt-0.5">
+                    {new Date(post.date).toLocaleDateString("en-US", {
+                      month: "short",
+                      day: "numeric",
+                      year: "numeric",
+                    })}
+                  </p>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
