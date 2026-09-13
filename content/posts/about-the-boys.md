@@ -6,10 +6,10 @@ category: "Extra"
 labels: ["Extra", "Series"]
 score: null
 excerpt: "The actual finale episode was not that bad. I kind of liked it. My real issue is with the season as a whole."
-coverImage: "/images/posts/about-the-boys/image-1.jpeg"
+coverImage: "/images/posts/about-the-boys/image-1.jpg"
 ---
 
-![About The Boys.](/images/posts/about-the-boys/image-1.jpeg)
+![About The Boys.](/images/posts/about-the-boys/image-1.jpg)
 
 The actual finale episode was not that bad. I kind of liked it. My real issue is with the season as a whole.
 

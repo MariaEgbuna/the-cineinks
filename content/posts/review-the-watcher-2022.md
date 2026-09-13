@@ -6,10 +6,10 @@ category: "Review"
 labels: ["Review", "Series"]
 score: 5.1
 excerpt: "A true crime mystery with a great premise, a stacked cast, and somehow still no idea where it's going."
-coverImage: "/images/posts/review-the-watcher-2022/image-1.png"
+coverImage: "/images/posts/review-the-watcher-2022/image-1.jpg"
 ---
 
-![REVIEW: The Watcher (2022)](/images/posts/review-the-watcher-2022/image-1.png)
+![REVIEW: The Watcher (2022)](/images/posts/review-the-watcher-2022/image-1.jpg)
 
 A true crime mystery with a great premise, a stacked cast, and somehow still no idea where it's going.
 

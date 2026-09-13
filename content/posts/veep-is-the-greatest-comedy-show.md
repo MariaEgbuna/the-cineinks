@@ -6,10 +6,10 @@ category: "Series"
 labels: ["Series", "Hall of Fame"]
 score: null
 excerpt: "Veep is not a show about politics. It is a show about people, deeply catastrophically flawed people, who just happen to work in politics."
-coverImage: "/images/posts/veep-is-the-greatest-comedy-show/image-1.png"
+coverImage: "/images/posts/veep-is-the-greatest-comedy-show/image-1.jpg"
 ---
 
-![VEEP Is The Greatest Comedy Show](/images/posts/veep-is-the-greatest-comedy-show/image-1.png)
+![VEEP Is The Greatest Comedy Show](/images/posts/veep-is-the-greatest-comedy-show/image-1.jpg)
 
 Veep is not a show about politics. It is a show about people, deeply catastrophically flawed people, who just happen to work in politics.
 
@@ -57,7 +57,7 @@ The ensemble works because nobody is good. Not one person. And yet you cannot ta
 
 ### Honorable Mentions: Jonah Ryan and Richard Splett
 
-![VEEP Is The Greatest Comedy Show](/images/posts/veep-is-the-greatest-comedy-show/image-3.webp)
+![VEEP Is The Greatest Comedy Show](/images/posts/veep-is-the-greatest-comedy-show/image-3.jpg)
 
 **Jonah Ryan:** Timothy Simons plays him as a White House staffer who is tall, oblivious, self-aggrandizing, and disliked by literally everyone who has ever met him including foreign politicians. He is a punching bag, a canvas, a target the writers use to show just how creative human cruelty can get when properly motivated.
 

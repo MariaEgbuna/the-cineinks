@@ -47,7 +47,7 @@ Then things go fully feral. A blood moon turns the sky red and a pack of raptors
 
 ### Every episode Trying To Break Them, And Failing
 
-![RECAP: Primal Season 1](/images/posts/recap-primal-season-1/image-4.png)
+![RECAP: Primal Season 1](/images/posts/recap-primal-season-1/image-4.jpg)
 
 Episode five is where the season goes for the throat. Spear and Fang stumble into a peaceful oasis, and for a few minutes the show lets them just exist: fishing, eating, resting, being something close to happy. Then they are ambushed by a tribe of ape-men who run brutal gladiator fights for entertainment. Fang gets thrown into the arena against their reigning champion, who drinks some kind of black ooze that turns him into a hulking, mutated monster. He nearly kills her.
 

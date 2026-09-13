@@ -6,10 +6,10 @@ category: "Extra"
 labels: ["Extra"]
 score: null
 excerpt: "Every fanbase has that group of celebrities everyone loves and you just cannot get the appeal of. This is mine."
-coverImage: "/images/posts/my-unpopular-actor-opinions/image-1.png"
+coverImage: "/images/posts/my-unpopular-actor-opinions/image-1.jpg"
 ---
 
-![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-1.png)
+![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-1.jpg)
 
 Every fanbase has that group of celebrities everyone loves and you just cannot get the appeal of. This is mine.
 
@@ -37,7 +37,7 @@ Every fanbase has that group of celebrities everyone loves and you just cannot g
 
 **Christian Bale:** The hardest one to justify, because objectively he is one of the best actors working right now. The transformations, the accents, the way he vanishes into a role instead of just playing it, all real, all deserved. I am just not a fan.
 
-![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-7.webp)
+![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-7.jpg)
 
 **Terrence Howard:** This one's a bit more personal. It is his _**voice**_, something about it makes me tune out the second he is on screen. There is one silver lining though: he played James Rhodey Rhodes in the first Iron Man and was originally supposed to come back for the sequel. That did not happen, reportedly over a pay dispute with the studio, and Don Cheadle took over instead. Both of them have said it is water under the bridge now. I am just relieved it worked out that way, because Iron Man 2 with the original casting would have been rough for me to sit through.
 
@@ -49,11 +49,11 @@ Every fanbase has that group of celebrities everyone loves and you just cannot g
 
 **Gal Gadot:** She tests my patience the most out of everyone here, because the acting itself just is not good. She seems warm and likable enough in interviews, which almost makes it worse, since people extend her a grace the performances themselves do not earn. The first Wonder Woman got away with a lot because the character was a fish out of water by design, so playing stiff and unsure actually worked in her favor. The sequel removed that safety net completely, and suddenly the limitations were impossible to ignore. I think a lot of people who fell for the first movie quietly noticed during the second, and honestly, that correction was way overdue.
 
-![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-9.jpeg)
+![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-9.jpg)
 
 **Ruby Rose:** She has built a whole career around one expression, and it shows up whether the scene calls for it or not. She broke out on **Orange Is the New Black**, moved into a run of action roles like Resident Evil, xXx, and John Wick: Chapter 2, and eventually landed the lead on Batwoman. She just tries too hard if you ask me.
 
-![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-10.jpeg)
+![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-10.jpg)
 
 **Gwyneth Paltrow:** This is kind of hard to put a finger on. It's not one bad role I can point to, it's more just her general presence that feels off. Her voice, her eyes, the way she carries herself on camera, something about her always seems _slightly removed_ from everyone else in the scene, like she is not quite from around **_here_**. I cannot prove it yet. Still working on that theory.
 

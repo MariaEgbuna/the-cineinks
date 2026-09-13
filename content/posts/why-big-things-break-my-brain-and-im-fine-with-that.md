@@ -6,7 +6,7 @@ category: "Extra"
 labels: ["Extra"]
 score: null
 excerpt: "Big and Loud beats Deep and Boring every single time. If there's a creature on screen that could step on a skyscraper, I'm watching."
-coverImage: "/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.png"
+coverImage: "/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.jpg"
 ---
 
 Big and Loud beats Deep and Boring every single time. If there's a creature on screen that could step on a skyscraper, I'm watching.
@@ -19,7 +19,7 @@ This is not a review of any single film; it's a defense of an entire way of watc
 
 ### The Obsession Has an Origin Story
 
-![Why Big Things Break My Brain (And I'm Fine With That)](/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.png)
+![Why Big Things Break My Brain (And I'm Fine With That)](/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.jpg)
 
 This has been my whole personality since I was a kid. My brain saw something massive, impossible, and world-ending on a screen and just decided: **Yes. More of this, please**. It started with the 2005 King Kong. Peter Jackson's remake cost $207 million, ran for over three hours, and became the most expensive film ever made at the time. Universal signed off on every single overrun. Someone sat in a boardroom and kept saying yes to a movie about a giant gorilla, because they knew.
 
@@ -45,7 +45,7 @@ What I can tell you, with complete clarity, is exactly what it felt like watchin
 
 ### Jurassic Park: The Franchise That Lost the Plot (I'm Still There)
 
-![Why Big Things Break My Brain (And I'm Fine With That)](/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-4.png)
+![Why Big Things Break My Brain (And I'm Fine With That)](/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-4.jpg)
 
 The original Jurassic Park is a great film. Steven Spielberg made something in 1993 that has never been fully replicated despite everyone trying. That moment when the T-Rex steps into the rain and roars for the first time, and with the water trembling in the cup is one of cinema's all-time hold-your-breath moments.
 

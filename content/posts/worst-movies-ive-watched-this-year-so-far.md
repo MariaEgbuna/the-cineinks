@@ -6,10 +6,10 @@ category: "List"
 labels: ["List"]
 score: null
 excerpt: "I already wrote about the best movies I've watched this year, so it only feels right to flip it and talk about the bad ones too."
-coverImage: "/images/posts/worst-movies-ive-watched-this-year-so-far/image-1.png"
+coverImage: "/images/posts/worst-movies-ive-watched-this-year-so-far/image-1.jpg"
 ---
 
-![Worst Movies I've Watched This Year (So Far)](/images/posts/worst-movies-ive-watched-this-year-so-far/image-1.png)
+![Worst Movies I've Watched This Year (So Far)](/images/posts/worst-movies-ive-watched-this-year-so-far/image-1.jpg)
 
 I already wrote about the best movies I've watched this year, so it only feels right to flip it and talk about the bad ones too.
 
@@ -45,7 +45,7 @@ The acting is subpar, the scares are weak, nothing about this one really worked.
 
 ### 07\. War Machine (2026) - My rating: 5.4
 
-![Worst Movies I've Watched This Year (So Far)](/images/posts/worst-movies-ive-watched-this-year-so-far/image-5.png)
+![Worst Movies I've Watched This Year (So Far)](/images/posts/worst-movies-ive-watched-this-year-so-far/image-5.jpg)
 
 This one switched genres on me halfway through and I was not ready for it. It starts as a grounded military drama about a soldier going through Army Ranger training, and then suddenly we're in alien shooting machine territory. What the hell?
 

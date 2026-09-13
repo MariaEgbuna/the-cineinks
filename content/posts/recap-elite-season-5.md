@@ -6,10 +6,10 @@ category: "Recap"
 labels: ["Recap"]
 score: 6
 excerpt: "This season was such a slog to get through."
-coverImage: "/images/posts/recap-elite-season-5/image-1.png"
+coverImage: "/images/posts/recap-elite-season-5/image-1.jpg"
 ---
 
-![RECAP: Elite Season 5](/images/posts/recap-elite-season-5/image-1.png)
+![RECAP: Elite Season 5](/images/posts/recap-elite-season-5/image-1.jpg)
 
 This season was such a slog to get through.
 

@@ -6,10 +6,10 @@ category: "List"
 labels: ["List"]
 score: null
 excerpt: "Four films. One day. Zero regrets."
-coverImage: "/images/posts/movie-recommendations-may-11-2026/image-1.png"
+coverImage: "/images/posts/movie-recommendations-may-11-2026/image-1.jpg"
 ---
 
-![MOVIE RECOMMENDATIONS: (May 11, 2026)](/images/posts/movie-recommendations-may-11-2026/image-1.png)
+![MOVIE RECOMMENDATIONS: (May 11, 2026)](/images/posts/movie-recommendations-may-11-2026/image-1.jpg)
 
 Four films. One day. Zero regrets.
 

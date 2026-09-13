@@ -6,10 +6,10 @@ category: "Spotlight"
 labels: ["Spotlight"]
 score: null
 excerpt: "Keanu Reeves is not, by any technical measure, a great actor. And somehow none of that matters."
-coverImage: "/images/posts/keanu-reeves-is-so-likable/image-1.JPG"
+coverImage: "/images/posts/keanu-reeves-is-so-likable/image-1.jpg"
 ---
 
-![Keanu Reeves Is So Likable](/images/posts/keanu-reeves-is-so-likable/image-1.JPG)
+![Keanu Reeves Is So Likable](/images/posts/keanu-reeves-is-so-likable/image-1.jpg)
 
 Keanu Reeves is not, by any technical measure, a great actor. And somehow none of that matters.
 

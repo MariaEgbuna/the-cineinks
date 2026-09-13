@@ -6,10 +6,10 @@ category: "Extra"
 labels: ["Extra"]
 score: null
 excerpt: "We all have a list of movies we love, but I think the list of movies we refuse to watch is just as revealing."
-coverImage: "/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.png"
+coverImage: "/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.jpg"
 ---
 
-![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.png)
+![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.jpg)
 
 We all have a list of movies we love, but I think the list of movies we refuse to watch is just as revealing.
 
@@ -21,7 +21,7 @@ There are themes and genres I avoid completely, no matter how many people tell m
 
 ### Protecting My Peace
 
-![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-2.png)
+![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-2.jpg)
 
 There is a category of film and television that some people call _important_ and I understand the argument. Representation matters, telling difficult stories has value, but there is a difference between a story that challenges you and a story that just grinds you down. Some content exists almost entirely to immerse you in suffering, often the suffering of people who look like me, with very little payoff beyond the reminder that the world can be brutal. I have heard that described as **trauma porn** and I think that label fits.
 
@@ -33,7 +33,7 @@ Given the choice between a supernatural thriller and a historically grounded sto
 
 ### Grit vs. Intellectual Stakes
 
-![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-3.png)
+![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-3.jpg)
 
 Gang violence and the drug trade fall into the same category for me. These are stories I actively avoid, no matter how well they are made. People tell me constantly to watch _**Top Boy**_. They tell me _**Snowfall**_ is one of the best shows on television. I believe them. I also have no plans to watch either. _**We Own This City**_ is on that same list. The reason is simple: corrupt cops are just another gang. The uniform is different but the cycle is the same: territory, power, violence, consequences, repeat. I do not find that cycle interesting to watch.
 
@@ -43,7 +43,7 @@ _**Breaking Bad**_ is one I respect deeply, and I think it works for a different
 
 ### The Isekai, Fanservice, and Harassment Problem
 
-![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-4.png)
+![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-4.jpg)
 
 Let me be clear: I am not anti-anime. Some of the most creative, ambitious storytelling I have encountered has come from anime. The medium is capable of doing things that live-action simply cannot, in terms of world-building, visual imagination, and the sheer scale of ideas it can put on screen. But over the years, I have watched my patience with a large portion of the medium quietly disappear, and I have had to be honest with myself about why.
 

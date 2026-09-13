@@ -6,10 +6,10 @@ category: "Extra"
 labels: ["Extra", "Movies"]
 score: null
 excerpt: "Five days, eight movies, and three of them didn't survive past the one-hour mark."
-coverImage: "/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.png"
+coverImage: "/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.jpg"
 ---
 
-![Horror, heartbreak, and a flock of very good detectives](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.png)
+![Horror, heartbreak, and a flock of very good detectives](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.jpg)
 
 Five days, eight movies, and three of them didn't survive past the one-hour mark.
 
@@ -27,7 +27,7 @@ This is the rewatch that started it all. Everything gets turned up from the firs
 
 ### The Evil Dead (1981)
 
-![Horror, heartbreak, and a flock of very good detectives](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-3.png)
+![Horror, heartbreak, and a flock of very good detectives](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-3.jpg)
 
 This is where I fell asleep on a horror classic, then gave up on the sequels. I went straight into the original, **The Evil Dead**, the low budget cabin in the woods film that basically wrote the rulebook every possession horror movie since has been copying from. I fell asleep twice trying to get through it but it was okay for most of the runtime, right up until the ending, where the gross practical effects mixed with animation threw me off completely. The acting and the effects both got so over the top so it came in at a **6.0** for me, decent but not a movie I'd rush back to.
 
@@ -37,7 +37,7 @@ What did work was the 2013 remake, **Evil Dead**, watched the same day Army of D
 
 ### Leviticus (2026)
 
-![Horror, heartbreak, and a flock of very good detectives](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-4.png)
+![Horror, heartbreak, and a flock of very good detectives](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-4.jpg)
 
 This one's the queer horror gut punch of the week. It follows two teenage boys in a remote Christian community whose feelings for each other start manifesting as a violent supernatural entity, and the movie doesn't try to hide that it's a metaphor for conversion therapy and religious repression. I really loved this movie. My only complaint was the runtime. It felt too short for how much I'd gotten attached to these two, my poor babies, and I closed it wishing there was an extra twenty minutes to sit in. It still pulled a strong 8.5 out of me, appreciation and mild heartbreak included.
 

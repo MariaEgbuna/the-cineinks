@@ -6,10 +6,10 @@ category: "Extra"
 labels: ["Extra"]
 score: null
 excerpt: "I am so tired. I am deeply, spiritually tired of watching gay people suffer on screen and being told that's a love story."
-coverImage: "/images/posts/gay-romance-in-media-has-a-suffering-problem/image-1.png"
+coverImage: "/images/posts/gay-romance-in-media-has-a-suffering-problem/image-1.jpg"
 ---
 
-![Gay Romance In Media Has A Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-1.png)
+![Gay Romance In Media Has A Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-1.jpg)
 
 I am so tired. I am deeply, spiritually tired of watching gay people suffer on screen and being told that's a love story.
 
@@ -21,7 +21,7 @@ _This post contains spoilers for some of the films and series mentioned._
 
 ### The Film That Broke Me (And Not In A Good Way)
 
-![Gay Romance In Media Has A Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-2.png)
+![Gay Romance In Media Has A Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-2.jpg)
 
 I recently watched **The Paradise of Thorns**, a 2024 Thai film about Thongkam and Sek, a gay couple who pour everything they have into building a life together on a durian orchard. They buy back the land. They build a home. They have a whole future planned. And then Sek dies in an accident before you've even had a chance to breathe. What follows is Thongkam spending the rest of the film fighting Sek's family for their shared home, because same-sex marriage had no legal recognition in Thailand at the time, meaning he has zero rights to any of it.
 

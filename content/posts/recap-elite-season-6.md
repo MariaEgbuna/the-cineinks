@@ -6,10 +6,10 @@ category: "Recap"
 labels: ["Recap"]
 score: 5.8
 excerpt: "I have watched this show turn from a sharp, cold class thriller into a full telenovela in a designer school uniform."
-coverImage: "/images/posts/recap-elite-season-6/image-1.png"
+coverImage: "/images/posts/recap-elite-season-6/image-1.jpg"
 ---
 
-![RECAP: Elite Season 6](/images/posts/recap-elite-season-6/image-1.png)
+![RECAP: Elite Season 6](/images/posts/recap-elite-season-6/image-1.jpg)
 
 I have watched this show turn from a sharp, cold class thriller into a full telenovela in a designer school uniform.
 

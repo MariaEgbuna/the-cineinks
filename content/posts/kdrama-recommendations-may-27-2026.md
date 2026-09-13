@@ -6,10 +6,10 @@ category: "List"
 labels: ["KDrama", "List"]
 score: null
 excerpt: "I did not plan to become a K-drama person. It happened quietly, the way most obsessions do."
-coverImage: "/images/posts/kdrama-recommendations-may-27-2026/image-1.png"
+coverImage: "/images/posts/kdrama-recommendations-may-27-2026/image-1.jpg"
 ---
 
-![KDRAMA RECOMMENDATIONS: (May 27, 2026)](/images/posts/kdrama-recommendations-may-27-2026/image-1.png)
+![KDRAMA RECOMMENDATIONS: (May 27, 2026)](/images/posts/kdrama-recommendations-may-27-2026/image-1.jpg)
 
 I did not plan to become a K-drama person. It happened quietly, the way most obsessions do.
 

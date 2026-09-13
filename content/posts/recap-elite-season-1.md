@@ -6,10 +6,10 @@ category: "Recap"
 labels: ["Recap"]
 score: 8.3
 excerpt: "Elite is what happens when you throw three broke kids into a school built entirely on money and secrets. It's messy, it's soapy, and I could not stop watching."
-coverImage: "/images/posts/recap-elite-season-1/image-1.png"
+coverImage: "/images/posts/recap-elite-season-1/image-1.jpg"
 ---
 
-![RECAP: Elite Season 1](/images/posts/recap-elite-season-1/image-1.png)
+![RECAP: Elite Season 1](/images/posts/recap-elite-season-1/image-1.jpg)
 
 Elite is what happens when you throw three broke kids into a school built entirely on money and secrets. It's messy, it's soapy, and I could not stop watching.
 

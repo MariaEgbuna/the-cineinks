@@ -51,7 +51,7 @@ Their whole dynamic works because they're two totally different reactions to the
 
 ### The Gus Fring effect
 
-![Is Breaking Bad Really The Best Show Ever Made?](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-4.jpeg)
+![Is Breaking Bad Really The Best Show Ever Made?](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-4.jpg)
 
 Ask any Breaking Bad fan when the show really clicked for them, and most people will say the same thing: when Gus Fring showed up. Played by Giancarlo Esposito, Gus runs a chicken restaurant chain called Los Pollos Hermanos as a front for his meth operation, all while staying so squeaky clean publicly that he's friendly with the local DEA. He's not loud or threatening in the usual villain way. He's polite, professional, smiles at his customers, his employees love him, and all that good stuff.
 

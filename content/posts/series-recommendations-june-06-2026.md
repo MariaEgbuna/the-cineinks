@@ -6,10 +6,10 @@ category: "List"
 labels: ["List"]
 score: null
 excerpt: "Somehow this all started with Sam Reid and ended with four shows permanently lodged in my brain."
-coverImage: "/images/posts/series-recommendations-june-06-2026/image-1.png"
+coverImage: "/images/posts/series-recommendations-june-06-2026/image-1.jpg"
 ---
 
-![SERIES RECOMMENDATIONS: (June 06, 2026)](/images/posts/series-recommendations-june-06-2026/image-1.png)
+![SERIES RECOMMENDATIONS: (June 06, 2026)](/images/posts/series-recommendations-june-06-2026/image-1.jpg)
 
 Somehow this all started with Sam Reid and ended with four shows permanently lodged in my brain.
 

@@ -6,10 +6,10 @@ category: "Recap"
 labels: ["Recap"]
 score: 7.4
 excerpt: "Season 3 is basically a season-long autopsy of a tragedy that was set in motion the moment Marina died back in Season 1."
-coverImage: "/images/posts/recap-elite-season-3/image-1.jpeg"
+coverImage: "/images/posts/recap-elite-season-3/image-1.jpg"
 ---
 
-![RECAP: Elite Season 3](/images/posts/recap-elite-season-3/image-1.jpeg)
+![RECAP: Elite Season 3](/images/posts/recap-elite-season-3/image-1.jpg)
 
 Season 3 is basically a season-long autopsy of a tragedy that was set in motion the moment Marina died back in Season 1.
 

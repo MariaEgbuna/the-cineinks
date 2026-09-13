@@ -33,7 +33,7 @@ The collision between these two storylines is brutal. Red and Fang, now bonded, 
 
 ### New faces, old ghosts, and a war with the Vikings
 
-![RECAP: Primal Season 2](/images/posts/recap-primal-season-2/image-3.webp)
+![RECAP: Primal Season 2](/images/posts/recap-primal-season-2/image-3.jpg)
 
 Still shaken by what happened with Red, Spear and Fang take shelter in a cave during a storm, where Spear finds a wall of old paintings showing humans, dinosaurs, and creatures from long before either of them. It is a quiet stretch. Spear even copies Mira's nightly moon ritual at one point, without really understanding why he is doing it.
 

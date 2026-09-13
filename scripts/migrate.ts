@@ -3,6 +3,7 @@ import path from "path";
 import { XMLParser } from "fast-xml-parser";
 import slugify from "slugify";
 import TurndownService from "turndown";
+import sharp from "sharp";
 
 const xml = readFileSync("migration/feed.atom", "utf-8");
 const parser = new XMLParser({ ignoreAttributes: false });
@@ -52,7 +53,13 @@ function stripBacklink(content: string): string {
 async function downloadImage(url: string, destPath: string): Promise<void> {
   const response = await fetch(url);
   const buffer = Buffer.from(await response.arrayBuffer());
-  writeFileSync(destPath, buffer);
+
+  const compressed = await sharp(buffer)
+    .resize({ width: 1200, withoutEnlargement: true })
+    .jpeg({ quality: 80 })
+    .toBuffer();
+
+  writeFileSync(destPath, compressed);
 }
 
 const turndown = new TurndownService();
@@ -82,8 +89,7 @@ async function migratePost(entry: any, index: number, total: number) {
 
   for (let i = 0; i < imageUrls.length; i++) {
     const url = imageUrls[i];
-    const ext = path.extname(new URL(url).pathname) || ".jpg";
-    const filename = `image-${i + 1}${ext}`;
+    const filename = `image-${i + 1}.jpg`;
     const localPath = `/images/posts/${slug}/${filename}`;
 
     const fullLocalPath = path.join(imageDir, filename);
@@ -121,9 +127,6 @@ async function migratePost(entry: any, index: number, total: number) {
 }
 
 async function run() {
-  // TEST MODE: only processing the first 3 posts for now.
-  // Once we've checked the output, remove ".slice(0, 3)" to run
-  // against all of them.
   const testBatch = posts;
 
   for (let i = 0; i < testBatch.length; i++) {

@@ -6,10 +6,10 @@ category: "List"
 labels: ["List"]
 score: null
 excerpt: "From psychological thrillers that will rot your brain to sports anime that will make you want to run through a brick wall."
-coverImage: "/images/posts/anime-recommendations-may-20-2026/image-1.png"
+coverImage: "/images/posts/anime-recommendations-may-20-2026/image-1.jpg"
 ---
 
-![ANIME RECOMMENDATIONS: (May 20, 2026)](/images/posts/anime-recommendations-may-20-2026/image-1.png)
+![ANIME RECOMMENDATIONS: (May 20, 2026)](/images/posts/anime-recommendations-may-20-2026/image-1.jpg)
 
 From psychological thrillers that will rot your brain to sports anime that will make you want to run through a brick wall.
 
@@ -57,7 +57,7 @@ I know the ending divided people, but I loved it. The scale of this show is comp
 
 ### 3\. Monster
 
-![ANIME RECOMMENDATIONS: (May 20, 2026)](/images/posts/anime-recommendations-may-20-2026/image-4.jpeg)
+![ANIME RECOMMENDATIONS: (May 20, 2026)](/images/posts/anime-recommendations-may-20-2026/image-4.jpg)
 
 If you want a slow-burn psychological thriller that actually treats you like an adult, this is the gold standard. It is a tense cat-and-mouse game between an innocent doctor and Johan Liebert, who is easily one of the most chilling, terrifying antagonists in the history of fiction. Not just anime. **Fiction.**
 
@@ -205,7 +205,7 @@ These two did not quite crack the top ten, but they are still essential viewing 
 
 **Nichijou**
 
-![ANIME RECOMMENDATIONS: (May 20, 2026)](/images/posts/anime-recommendations-may-20-2026/image-12.png)
+![ANIME RECOMMENDATIONS: (May 20, 2026)](/images/posts/anime-recommendations-may-20-2026/image-12.jpg)
 
 The absolute peak of surreal comedy. It takes the boring, mundane daily lives of high schoolers and turns them into over-the-top, spectacularly animated absurdism. Funny as hell and impossible not to smile at.
 

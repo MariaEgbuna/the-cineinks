@@ -6,10 +6,10 @@ category: "List"
 labels: ["List"]
 score: null
 excerpt: "I built a database to track every movie and show I've watched since 2025. I know how that sounds."
-coverImage: "/images/posts/best-movies-ive-watched-this-year-so-far/image-1.png"
+coverImage: "/images/posts/best-movies-ive-watched-this-year-so-far/image-1.jpg"
 ---
 
-![Best Movies I've Watched This Year (So Far)](/images/posts/best-movies-ive-watched-this-year-so-far/image-1.png)
+![Best Movies I've Watched This Year (So Far)](/images/posts/best-movies-ive-watched-this-year-so-far/image-1.jpg)
 
 I built a database to track every movie and show I've watched since 2025. I know how that sounds.
 
@@ -87,7 +87,7 @@ I had an absolute blast from start to finish. The story gets genuinely chaotic a
 
 ### 02\. Predator: Killer of Killers (2025) - My rating: 9.4
 
-![Best Movies I've Watched This Year (So Far)](/images/posts/best-movies-ive-watched-this-year-so-far/image-10.png)
+![Best Movies I've Watched This Year (So Far)](/images/posts/best-movies-ive-watched-this-year-so-far/image-10.jpg)
 
 I'd never seen the original Predator movies. The first one I actually watched was Prey, and I liked it well enough. So when I heard there was a new animated Predator anthology coming out, I went in with low expectations. I came out with my mind blown.
 

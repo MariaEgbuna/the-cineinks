@@ -6,10 +6,10 @@ category: "Extra"
 labels: ["Extra"]
 score: null
 excerpt: "Another year, another beloved animated thing dragged kicking and screaming into a live action remake nobody asked for."
-coverImage: "/images/posts/stop-making-live-action-slop/image-1.png"
+coverImage: "/images/posts/stop-making-live-action-slop/image-1.jpg"
 ---
 
-![Stop Making Live Action Slop!](/images/posts/stop-making-live-action-slop/image-1.png)
+![Stop Making Live Action Slop!](/images/posts/stop-making-live-action-slop/image-1.jpg)
 
 Another year, another beloved animated thing dragged kicking and screaming into a live action remake nobody asked for.
 

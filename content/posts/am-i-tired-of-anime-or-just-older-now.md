@@ -6,10 +6,10 @@ category: "Extra"
 labels: ["Extra"]
 score: null
 excerpt: "People keep asking me if I've fallen out of love with anime, and the answer is no. Also, this is not a \"quitting anime\" post."
-coverImage: "/images/posts/am-i-tired-of-anime-or-just-older-now/image-1.png"
+coverImage: "/images/posts/am-i-tired-of-anime-or-just-older-now/image-1.jpg"
 ---
 
-![Am I Tired of Anime, or Just Older Now?](/images/posts/am-i-tired-of-anime-or-just-older-now/image-1.png)
+![Am I Tired of Anime, or Just Older Now?](/images/posts/am-i-tired-of-anime-or-just-older-now/image-1.jpg)
 
 People keep asking me if I've fallen out of love with anime, and the answer is no. Also, this is not a "quitting anime" post.
 
@@ -31,13 +31,13 @@ The second thing, and this is the one I'm less comfortable admitting, is that I 
 
 ### The solo leveling gut check
 
-![Am I Tired of Anime, or Just Older Now?](/images/posts/am-i-tired-of-anime-or-just-older-now/image-2.png)
+![Am I Tired of Anime, or Just Older Now?](/images/posts/am-i-tired-of-anime-or-just-older-now/image-2.jpg)
 
 Solo Leveling is the clearest example of what I mean. The hype for this show was massive, I went in expecting to be floored, and what I got was a lot of flashy power up moments stapled onto a story I've basically seen a hundred times. Weak guy gets secret power, becomes strongest hunter, and everyone who doubted him regrets it. The animation is gorgeous by the way, I'm not taking that away from it. But gorgeous animation around a plot I could predict from episode two just isn't enough for me right now.
 
 ### Isekai is not helping matters
 
-![Am I Tired of Anime, or Just Older Now?](/images/posts/am-i-tired-of-anime-or-just-older-now/image-3.png)
+![Am I Tired of Anime, or Just Older Now?](/images/posts/am-i-tired-of-anime-or-just-older-now/image-3.jpg)
 
 Then there's isekai, which has gotten so saturated that shows now use the entire title as the plot summary. 
 

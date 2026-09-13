@@ -6,10 +6,10 @@ category: "Hall of Fame"
 labels: ["Hall of Fame", "Anime"]
 score: null
 excerpt: "The Legend of Vox Machina is one of the best things animation has given us this decade, and I'm putting it in the Hall of Fame while the show is still running. This show has already given me enough to know exactly where it stands."
-coverImage: "/images/posts/the-legend-of-vox-machina-is-peak/image-1.png"
+coverImage: "/images/posts/the-legend-of-vox-machina-is-peak/image-1.jpg"
 ---
 
-![The Legend of Vox Machina Is Peak](/images/posts/the-legend-of-vox-machina-is-peak/image-1.png)
+![The Legend of Vox Machina Is Peak](/images/posts/the-legend-of-vox-machina-is-peak/image-1.jpg)
 
 The Legend of Vox Machina is one of the best things animation has given us this decade, and I'm putting it in the Hall of Fame while the show is still running. This show has already given me enough to know exactly where it stands.
 

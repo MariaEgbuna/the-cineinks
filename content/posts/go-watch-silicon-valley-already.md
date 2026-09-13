@@ -6,10 +6,10 @@ category: "Series"
 labels: ["Series", "Hall of Fame"]
 score: null
 excerpt: "I finished Silicon Valley recently, and I honestly cannot believe it took me this long to watch it."
-coverImage: "/images/posts/go-watch-silicon-valley-already/image-1.jpeg"
+coverImage: "/images/posts/go-watch-silicon-valley-already/image-1.jpg"
 ---
 
-![Go Watch Silicon Valley Already](/images/posts/go-watch-silicon-valley-already/image-1.jpeg)
+![Go Watch Silicon Valley Already](/images/posts/go-watch-silicon-valley-already/image-1.jpg)
 
 I finished Silicon Valley recently, and I honestly cannot believe it took me this long to watch it.
 
@@ -61,7 +61,7 @@ The strangest and most lovable character on the show, no contest. This man was c
 
 #### DINESH CHUGTAI:
 
-![Go Watch Silicon Valley Already](/images/posts/go-watch-silicon-valley-already/image-6.webp)
+![Go Watch Silicon Valley Already](/images/posts/go-watch-silicon-valley-already/image-6.jpg)
 
 He is someone who is good enough to know he is not quite as talented as the people around him, which makes him constantly desperate to prove himself in ways that always backfire. On his own he is fine. Against Gilfoyle he is great. Watching the two of them go back and forth in petty one-upmanship is where Dinesh really shines, and Nanjiani's ability to play wounded pride at full volume makes every loss he takes funnier than it has any right to be.
 
@@ -75,7 +75,7 @@ Big Head is not very good at his job, has no real direction, and barely seems to
 
 #### GAVIN BELSON:
 
-![Go Watch Silicon Valley Already](/images/posts/go-watch-silicon-valley-already/image-8.jpeg)
+![Go Watch Silicon Valley Already](/images/posts/go-watch-silicon-valley-already/image-8.jpg)
 
 Hooli's CEO and he is basically a walking portrait of a tech billionaire who has been told he is a genius for so long that he has completely lost touch with reality. He's surrounded by yes-people who enable his worst ideas every step of the way, burning huge amounts of money on vanity projects and making decisions based on his ego before his actual business. He is a joke, but a very specific kind of joke that anyone who has ever worked inside a big company will recognize instantly.
 

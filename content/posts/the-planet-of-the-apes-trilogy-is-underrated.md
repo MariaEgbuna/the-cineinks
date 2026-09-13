@@ -6,10 +6,10 @@ category: "Hall of Fame"
 labels: ["Hall of Fame", "Movies"]
 score: null
 excerpt: "The Planet of the Apes reboot trilogy does not get nearly enough credit, and I am tired of pretending otherwise."
-coverImage: "/images/posts/the-planet-of-the-apes-trilogy-is-underrated/image-1.png"
+coverImage: "/images/posts/the-planet-of-the-apes-trilogy-is-underrated/image-1.jpg"
 ---
 
-![The Planet of the Apes Trilogy is Underrated](/images/posts/the-planet-of-the-apes-trilogy-is-underrated/image-1.png)
+![The Planet of the Apes Trilogy is Underrated](/images/posts/the-planet-of-the-apes-trilogy-is-underrated/image-1.jpg)
 
 The Planet of the Apes reboot trilogy does not get nearly enough credit, and I am tired of pretending otherwise.
 

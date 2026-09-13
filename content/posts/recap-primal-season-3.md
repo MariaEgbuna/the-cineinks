@@ -6,10 +6,10 @@ category: "Recap"
 labels: ["Recap"]
 score: 7.9
 excerpt: "Season 3 apparently picks up before the epilogue that closed out season 2. Knowing that going in changes how you watch it. You already know Spear survives in some form. What you do not know is how brutal that road back is going to be."
-coverImage: "/images/posts/recap-primal-season-3/image-1.png"
+coverImage: "/images/posts/recap-primal-season-3/image-1.jpg"
 ---
 
-![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-1.png)
+![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-1.jpg)
 
 Season 3 apparently picks up before the epilogue that closed out season 2. Knowing that going in changes how you watch it. You already know Spear survives in some form. What you do not know is how brutal that road back is going to be.
 
@@ -21,7 +21,7 @@ Spear died at the end of season 2. That should have been the end of it. Instead,
 
 ### A Shaman brings him back wrong
 
-![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-2.png)
+![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-2.jpg)
 
 The season opens on a burning village and a Shaman performing a ritual most people would call cursed. He rips a heart from a dead raider, floods it with magic, and jams it into Spear's corpse. What crawls out of that tomb is not a man, it is a weapon on a leash, and the Shaman uses him to wipe out an entire raiding party before catching a stray blade himself. The second the Shaman dies, his control over Spear dies with him, and what is left just stands there in the wreckage, twitching, poking at his own exposed brain like he does not know what a brain is supposed to feel like.
 
@@ -31,7 +31,7 @@ The lion siege in Kingdom of Sorrow is one of the best action sequences the show
 
 ### Grassy, and the grief that turns him feral
 
-![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-3.png)
+![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-3.jpg)
 
 Episode 3 is where this season really shows its teeth emotionally. Spear latches onto a random grasshopper because its coloring reminds him of Fang, and he spends the whole episode obsessively protecting it like it is the last piece of her he has left. When a swarm of cave dwelling creatures kill the grasshopper right in front of him after he already fell into a ravine trying to save it, Spear snaps. What follows is a straight up massacre, crushed skulls, torn limbs, until he is standing in a cave full of bodies holding a dead insect.
 
@@ -41,7 +41,7 @@ It is a strange choice to build an entire episode around, a zombie grieving a bu
 
 ### Mira refuses to stop looking
 
-![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-4.png)
+![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-4.jpg)
 
 While Spear is out there getting mauled by every creature in a fifty mile radius, Mira is heavily pregnant, mourning him, and trying to build a life. That gets interrupted fast when Jabu, one of the village kids who has grown close to Fang's two hatchlings, gets snatched by a pack of Andrewsarchus. Mira volunteers for the rescue party without a second of hesitation, pregnancy and all, and this stretch of episodes belongs to her just as much as it belongs to Spear.
 
@@ -55,7 +55,7 @@ The actual rescue of the captives in Cavern of Horrors is one of the tensest seq
 
 ### Driven out with torches and rocks
 
-![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-5.png)
+![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-5.jpg)
 
 The gratitude does not last. Mira gets seriously hurt during the rescue, and the second Spear carries the group back into her village, the villagers see a rotting corpse walking toward them and lose it. He gets pelted with rocks and driven out of town, twice, the second time by a mob with torches that chases him into the jungle until he sinks into a mud pit to escape. It is a hard scene to watch, mostly because Spear does not actually understand why everyone is so scared of him. He saved these people's kids. He does not have the capacity left to process rejection the way a person would.
 
@@ -77,7 +77,7 @@ Meanwhile, back in the village, Mira gives birth to their daughter, and the show
 
 ### Coming home to almost lose everyone
 
-![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-7.png)
+![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-7.jpg)
 
 The finale stretch throws Spear back together with his family just in time for Fang to get mauled by a werepanther type creature protecting Mira and the baby, which gives us a proper, no hesitation reunion. Spear shows Mira and Fang how much he has healed, gives his daughter the doll he carved for her, and for one episode it actually feels like this family finally gets a break.
 
