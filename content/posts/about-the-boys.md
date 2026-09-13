@@ -1,14 +1,16 @@
 ---
-title: "About The Boys."
-slug: "about-the-boys"
-date: "2026-05-22T07:23:21.430Z"
-category: "Extra"
-labels: ["Extra", "Series"]
+title: About The Boys.
+slug: about-the-boys
+date: 2026-05-22T07:23:21.430Z
+category: Extra
+labels:
+  - Extra
+  - Series
 score: null
-excerpt: "The actual finale episode was not that bad. I kind of liked it. My real issue is with the season as a whole."
-coverImage: "/images/posts/about-the-boys/image-1.jpg"
+excerpt: The actual finale episode was not that bad. I kind of liked it. My real
+  issue is with the season as a whole.
+coverImage: /images/posts/about-the-boys/image-1.jpg
 ---
-
 ![About The Boys.](/images/posts/about-the-boys/image-1.jpg)
 
 The actual finale episode was not that bad. I kind of liked it. My real issue is with the season as a whole.
@@ -19,9 +21,9 @@ The Boys is an Amazon Prime Video series created by Eric Kripke, who also create
 
 That premise is extraordinary. And for two seasons it was executed with a precision and a nastiness that made it feel like nothing else on television. Then something shifted. And by the time Season 5 wrapped up, the show that had once felt revolutionary had become the thing it spent its entire run mocking: bloated, unfocused, and more interested in its own mythology than in the story that made people care in the first place.
 
-_This post contains spoilers for The Boys on Amazon Prime._
+*This post contains spoilers for The Boys on Amazon Prime.*
 
-* * *
+- - -
 
 ### What This Show Was at Its Best
 
@@ -75,7 +77,7 @@ She crossed over into Season 5 and brought a notebook and escorted some people t
 
 If you can skip an entire spinoff series, watch those characters appear on the main show, and still not miss a single thing that matters to the plot, then that spinoff should not have been positioned as essential viewing. The whole point of building out a connected universe is that the connections pay off. The Gen V crossover did not pay off. It was a waste of the audience's goodwill and a waste of a genuinely interesting character the spinoff had done real work to develop.
 
-* * *
+- - -
 
 ### Did The Boys Stick The Landing?
 
@@ -85,9 +87,9 @@ But the season as a whole? Not even close to what this show was capable of at it
 
 The Boys at its best, Seasons 1 and 2, is some of the smartest, nastiest, most genuinely unsettling television of the 2020s. You can still go back and watch it. The finale does not erase that. But a show this good deserved a final season that matched what it was capable of. It did not get one.
 
-It is what it is.
+Sad, but it is what it is.
 
-* * *
+- - -
 
 **But enough of my rant. How did you actually feel about the finale?**
 
