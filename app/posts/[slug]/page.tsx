@@ -61,6 +61,7 @@ export default async function PostPage({ params }: PageProps) {
         itemReviewed: {
           "@type": post.labels.includes("Movies") ? "Movie" : "CreativeWorkSeries",
           name: post.title.replace(/^REVIEW:\s*/i, ""),
+          ...(post.coverImage && { image: `${SITE_URL}${post.coverImage}` }),
         },
         reviewRating: {
           "@type": "Rating",
