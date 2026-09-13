@@ -24,6 +24,20 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: `${post.title} | The CineInks`,
     description: post.excerpt,
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      url: `/posts/${post.slug}`,
+      type: "article",
+      publishedTime: post.date,
+      images: post.coverImage ? [{ url: post.coverImage }] : [],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.excerpt,
+      images: post.coverImage ? [post.coverImage] : [],
+    },
   };
 }
 
@@ -40,7 +54,6 @@ export default async function PostPage({ params }: PageProps) {
   });
 
   return (
-    <>
       <main>
         <section className="bg-ink">
           <div className="max-w-[900px] mx-auto px-5 py-10">
@@ -73,6 +86,5 @@ export default async function PostPage({ params }: PageProps) {
           </div>
         </section>
       </main>
-    </>
   );
 }
