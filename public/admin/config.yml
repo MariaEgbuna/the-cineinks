@@ -1,0 +1,32 @@
+backend:
+  name: github
+  repo: MariaEgbuna/the-cineinks
+  branch: master
+  base_url: https://cineinks.vercel.app
+  auth_endpoint: api/auth
+
+media_folder: "public/images/posts"
+public_folder: "/images/posts"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Review", "Recap", "List", "Spotlight", "Extra"]
+      - label: "Labels"
+        name: "labels"
+        widget: "list"
+      - { label: "Score", name: "score", widget: "number", required: false, value_type: "float" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Cover Image", name: "coverImage", widget: "image", required: false }
+      - { label: "Featured", name: "featured", widget: "boolean", required: false, default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
