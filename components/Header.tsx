@@ -20,13 +20,14 @@ export default function Header() {
       <div className="max-w-[1600px] mx-auto px-5 pt-4">
         <div className="flex flex-wrap items-center justify-between gap-3 pb-4">
           <Link href="/" className="flex items-center gap-3">
-            <Image
-              src="/logo.png"
-              alt="The CineInks logo"
-              width={40}
-              height={40}
-              className="rounded-full"
-            />
+            <div className="relative w-10 h-10 rounded-full overflow-hidden shrink-0">
+              <Image
+                src="/logo.png"
+                alt="The CineInks logo"
+                fill
+                className="object-cover scale-125"
+              />
+            </div>
             <p className="font-serif text-2xl text-cream">The CineInks</p>
           </Link>
 
