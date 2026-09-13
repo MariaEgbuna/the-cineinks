@@ -59,7 +59,7 @@ export default async function PostPage({ params }: PageProps) {
         "@context": "https://schema.org",
         "@type": "Review",
         itemReviewed: {
-          "@type": "CreativeWork",
+          "@type": post.labels.includes("Movies") ? "Movie" : "CreativeWorkSeries",
           name: post.title.replace(/^REVIEW:\s*/i, ""),
         },
         reviewRating: {
