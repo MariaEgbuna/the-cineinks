@@ -4,6 +4,7 @@ import { categories } from "../utils/categories";
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import Image from "next/image";
 
 const navItems = [
   { label: "Home", href: "/" },
@@ -19,10 +20,14 @@ export default function Header() {
       <div className="max-w-[1600px] mx-auto px-5 pt-4">
         <div className="flex flex-wrap items-center justify-between gap-3 pb-4">
           <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-full bg-cream/10" />
-            <div className="text-left">
-              <p className="font-serif text-2xl text-cream">The CineInks</p>
-            </div>
+            <Image
+              src="/logo.png"
+              alt="The CineInks logo"
+              width={40}
+              height={40}
+              className="rounded-full"
+            />
+            <p className="font-serif text-2xl text-cream">The CineInks</p>
           </Link>
 
           <div className="flex items-center gap-4">
