@@ -1,25 +1,26 @@
 ---
 title: "RECAP: Elite Season 6"
-slug: "recap-elite-season-6"
-date: "2026-05-28T10:30:00Z"
-category: "Recap"
-labels: ["Recap"]
+slug: recap-elite-season-6
+date: 2026-05-28T10:30:00Z
+category: Recap
+labels:
+  - Recap
 score: 5.8
-excerpt: "I have watched this show turn from a sharp, cold class thriller into a full telenovela in a designer school uniform."
-coverImage: "/images/posts/recap-elite-season-6/image-1.jpg"
+excerpt: I have watched this show turn from a sharp, cold class thriller into a
+  full telenovela in a designer school uniform.
+coverImage: /images/posts/season-6.jpg
 ---
-
-![RECAP: Elite Season 6](/images/posts/recap-elite-season-6/image-1.jpg)
+![RECAP: Elite Season 6](/images/posts/season-6.jpg)
 
 I have watched this show turn from a sharp, cold class thriller into a full telenovela in a designer school uniform.
 
 I am not pretending I am above any of it. But this season tested me in specific ways. This is the first season with zero cast members from Seasons 1 through 3. Samuel, Omar, Rebe, and Cayetana fan favorites who have been here since the very beginning, are all gone.
 
-And here's the part that actually threw me: apparently Samuel _died_. Season 6 just tells you this, somewhere in the background, like it's old news. Except the last time we saw him, he was conscious, bleeding by the pool, and lucid enough to name Benjamín as the one who put him there. There was no further explanation, or proper send-off, just a retcon dropped in passing for a character who anchored this entire show for five seasons. This show is just all over the place.
+And here's the part that actually threw me: apparently Samuel *died*. Season 6 just tells you this, somewhere in the background, like it's old news. Except the last time we saw him, he was conscious, bleeding by the pool, and lucid enough to name Benjamín as the one who put him there. There was no further explanation, or proper send-off, just a retcon dropped in passing for a character who anchored this entire show for five seasons. This show is just all over the place.
 
-_This post contains spoilers for Season 6 of Netflix's Elite._
+*This post contains spoilers for Season 6 of Netflix's Elite.*
 
-* * *
+- - -
 
 ### How it kicks off
 
@@ -47,7 +48,7 @@ The episode closes with a video of Cruz and Patrick kissing at the club going vi
 
 Nico's parents start worrying about him almost immediately, and a strange flash shows Ari driving near the club the night Ivan got hit, though whether that means anything yet is anyone's guess. In the present, Ari keeps chasing Nico and finally gets a real date with him. Meanwhile, the school splits over what happened to Isadora, the boys responsible corroborating each other's story well enough that Sara, of all people, sides with them over her. The Cruz and Patrick kiss video is still spreading too, and Patrick tries to protect Cruz by going live and taking the blame himself, claiming he was the one who pursued Cruz out of starstruck obsession. He tells Ivan afterward that he knows he's ruined things between them, but at least Cruz's name is safer for it. Cruz later tells Ivan the truth, that Patrick sacrificed his own reputation purely out of love for him. Ivan doesn't want to hear it, telling his father all he ever wanted was a real, present father instead.
 
-Didac shows up at Isadora's club with the boys who assaulted her, all of them acting like free men with nothing to hide. Isadora, cornered and desperate, makes the mistake of airing her frustration on social media, which brings out a wave of vile comments telling her to kill herself. Didac, working an angle of his own, secretly records one of the boys, Javi, incriminating himself in the bathroom, and brings the recording straight to Isadora along with an apology for ever doubting her. Around the same time, Ari and Nico's night together falls apart when she hesitates undressing him, and he storms out convinced she's not as _accepting_ as she claims to be. Sara publicly apologizes for siding with the accused boys, loses over a million followers for it, and fights hard with Raul over the fallout. Cruz, trying to control the narrative around the kiss, holds a press conference and publicly claims responsibility himself.
+Didac shows up at Isadora's club with the boys who assaulted her, all of them acting like free men with nothing to hide. Isadora, cornered and desperate, makes the mistake of airing her frustration on social media, which brings out a wave of vile comments telling her to kill herself. Didac, working an angle of his own, secretly records one of the boys, Javi, incriminating himself in the bathroom, and brings the recording straight to Isadora along with an apology for ever doubting her. Around the same time, Ari and Nico's night together falls apart when she hesitates undressing him, and he storms out convinced she's not as *accepting* as she claims to be. Sara publicly apologizes for siding with the accused boys, loses over a million followers for it, and fights hard with Raul over the fallout. Cruz, trying to control the narrative around the kiss, holds a press conference and publicly claims responsibility himself.
 
 Isadora's recording turns out to be useless in court since it was captured illegally, and Didac keeps trying to make himself useful to her anyway, mostly getting shut out for his trouble. Sara's video apology mysteriously disappears after another blowup with Raul, throwing Ari into a spiral trying to figure out what's actually true. Mencia senses Sara secretly believes Isadora but can't break free of Raul's control, and steps in enough times to buy her small windows of freedom. Cruz, meanwhile, gets sent a chilling message: a mannequin strung up outside his house with "queer" scrawled across it. He tells Patrick to keep it from Ivan entirely. That night, Isadora's friends gather to unwind, drinking and smoking together with Bilal reluctantly pulled into the circle. Ari flirts openly with Bilal, which sends Nico storming out jealous, and when Ari follows, he finally admits he's fallen for her despite everything, torn up by her earlier transphobic comment. They fight it out, and Ari ends up going straight to Bilal instead. Mencia notices a bruise on Sara's arm that doesn't match her explanation, and when Raul crashes the party furious, Sara bolts, souring the whole night. A fight breaks out on the dance floor between Ivan and Javi, and once the chaos clears, Isadora finally puts her revenge plan into motion, spiking the drinks of the boys who assaulted her in full view of the club.
 
@@ -61,7 +62,7 @@ Raul, meanwhile, starts manipulating his way back into Sara's life with a public
 
 Further along, a flash shows Ari pouring gasoline over the car involved in the accident, seemingly trying to cover something up. In the present, Benjamín pushes Ari to get the family to testify on his behalf ahead of his trial, and Mencia refuses outright, telling her sister to stop protecting a man who doesn't deserve it. Ivan, spiraling through grief, ends up at a drugged-out hookup party and nearly sleeps with a masked stranger before realizing it's Patrick, and furiously blames him for Cruz's death before throwing him out. Nico keeps dealing on the side, and Isadora buys dangerous drugs off him specifically to use against one of her attackers as revenge. Raul's true colors resurface fast, controlling and possessive as ever, until Sara starts filming him mid-outburst to protect herself. Ari finally visits her father in prison and tells him that he let Samuel die and she hopes he rots there.
 
-A flash-forward shows Ari at the hospital after the car's been burned, finding Patrick devastated and terrified he'll never see Ivan again. Back in the present, a masquerade party at the club brings everyone together, Patrick showing up despite warnings that Ivan needs space, and Ivan recognizing him instantly even behind a mask before walking away. Ari takes a pregnancy test in the club bathroom and finds out she's pregnant with Ivan's baby, and rather than deal with it, drowns the _news_ in alcohol instead. Raul sneaks into the club in disguise hunting for Sara, drugs Mencia's drink to get her out of the way, and corners Sara alone, trying to guilt her one more time about Mencia's "manipulation." Sara finally stands her ground, telling him he has no power over her anymore and revealing she and Mencia have already kissed. Ivan and Patrick try to talk things out, but Ivan makes clear he only wants comfort, not commitment, and a heartbroken Patrick walks away wanting more than Ivan's willing to give.
+A flash-forward shows Ari at the hospital after the car's been burned, finding Patrick devastated and terrified he'll never see Ivan again. Back in the present, a masquerade party at the club brings everyone together, Patrick showing up despite warnings that Ivan needs space, and Ivan recognizing him instantly even behind a mask before walking away. Ari takes a pregnancy test in the club bathroom and finds out she's pregnant with Ivan's baby, and rather than deal with it, drowns the *news* in alcohol instead. Raul sneaks into the club in disguise hunting for Sara, drugs Mencia's drink to get her out of the way, and corners Sara alone, trying to guilt her one more time about Mencia's "manipulation." Sara finally stands her ground, telling him he has no power over her anymore and revealing she and Mencia have already kissed. Ivan and Patrick try to talk things out, but Ivan makes clear he only wants comfort, not commitment, and a heartbroken Patrick walks away wanting more than Ivan's willing to give.
 
 Blind drunk, Ari decides to drive herself home. Others notice and alert Mencia, still groggy from the drugged drink, while Isadora pushes Ivan to go find Patrick and finally be honest about his feelings. In the scramble of everyone trying to stop Ari, it's Mencia who ends up grabbing her own keys instead, and the episode cuts straight to the aftermath of the hit and run: Mencia behind the wheel, waking up dazed with the windshield shattered in front of her.
 
@@ -79,36 +80,25 @@ But the truth about that night isn't what anyone thinks. It turns out Sara was a
 
 The season closes with Raul holding that secret over Sara like a leash, while Ivan finally wakes up in the hospital, the first word out of his mouth being "Patrick", too late for that now. As everyone drives off trying to move forward from everything that just happened, another car speeds toward the school, an arm hanging out the back window with a gun firing wildly.
 
-_sigh_ 
+*sigh* 
 
-* * *
+- - -
 
 ### Where we left everyone:
 
-*   **Ivan:** Alive in hospital. Patrick left him a voicemail while he was unconscious. He wakes up not knowing who to be angry at or how to grieve.
-    
-*   **Patrick:** Stepped back to give Ivan space. Still in love with him. Gets no credit for any of it. Leaves Madrid with his family.
-    
-*   **Ari:** Ends her pregnancy, burns the car to protect Mencia, and helps get her father out of prison, all in the same handful of days. Leaves with the family.
-    
-*   **Mencia:** Fully believes she hit Ivan. Doesn't know Sara and Raul set her up entirely. Leaves Madrid.
-    
-*   **Benjamin:** Released from prison after his children testify for him. The most complete ending any character gets this season: he gets exactly what he manipulated everyone for, and the cost is written on all three of his children's faces.
-    
-*   **Sara:** Still in Raul's orbit heading into Season 7. She got close to leaving and couldn't finish it.
-    
-*   **Raul:** Back in full control with brand new blackmail material over Sara. The most dangerous person heading into Season 7.
-    
-*   **Nico:** Surgery arc rushed into the final episodes. Gets a tender moment with Sonia by his side in recovery. Deserved significantly more runway than he got.
-    
-*   **Isadora:** Hugo and Alex are arrested. She and Didac end the season cautiously finding their way back to each other, only for someone to open fire outside the school right as they get there. Happy for approximately ninety seconds.
-    
-*   **Rocio:** Kissed Bilal. Lives in a mansion. Did nothing else of note. Somehow still here for Season 7.
-    
-*   **Didac:** Did the right thing all season and it cost him nearly everything.
-    
+* **Ivan:** Alive in hospital. Patrick left him a voicemail while he was unconscious. He wakes up not knowing who to be angry at or how to grieve.
+* **Patrick:** Stepped back to give Ivan space. Still in love with him. Gets no credit for any of it. Leaves Madrid with his family.
+* **Ari:** Ends her pregnancy, burns the car to protect Mencia, and helps get her father out of prison, all in the same handful of days. Leaves with the family.
+* **Mencia:** Fully believes she hit Ivan. Doesn't know Sara and Raul set her up entirely. Leaves Madrid.
+* **Benjamin:** Released from prison after his children testify for him. The most complete ending any character gets this season: he gets exactly what he manipulated everyone for, and the cost is written on all three of his children's faces.
+* **Sara:** Still in Raul's orbit heading into Season 7. She got close to leaving and couldn't finish it.
+* **Raul:** Back in full control with brand new blackmail material over Sara. The most dangerous person heading into Season 7.
+* **Nico:** Surgery arc rushed into the final episodes. Gets a tender moment with Sonia by his side in recovery. Deserved significantly more runway than he got.
+* **Isadora:** Hugo and Alex are arrested. She and Didac end the season cautiously finding their way back to each other, only for someone to open fire outside the school right as they get there. Happy for approximately ninety seconds.
+* **Rocio:** Kissed Bilal. Lives in a mansion. Did nothing else of note. Somehow still here for Season 7.
+* **Didac:** Did the right thing all season and it cost him nearly everything.
 
-* * *
+- - -
 
 ### What worked
 
@@ -126,7 +116,7 @@ _sigh_ 
 
 **The finale's twist works in the moment. It falls apart the second you think about it.** Isadora House is a professional venue with a staffed car park and visible security. Not one camera catches who got into which car. Raul supposedly bleaches an entire car interior, and nobody, including Mencia waking up inside it, notices the smell? The club's spent the whole season being trivially easy to drug people in with apparently zero surveillance, and that same convenient blind spot just happens to reappear right when the plot needs it most. Elite has always asked for some suspension of disbelief. The finale asks for a little too much.
 
-_PS: I still have no idea what Bilal's role was supposed to be this season. Genuinely useless._
+*PS: I still have no idea what Bilal's role was supposed to be this season. Genuinely useless.*
 
 ### Overall thoughts
 
