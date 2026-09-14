@@ -1,7 +1,7 @@
 ---
 title: "RECAP: Elite Season 1"
 slug: recap-elite-season-1
-date: 2026-05-08T10:30:00Z
+date: 2026-05-08T10:30:00.000Z
 category: Recap
 labels:
   - Recap
@@ -21,7 +21,7 @@ Elite is what happens when you throw three broke kids into a school built entire
 
 ### How it kicks off
 
-![RECAP: Elite Season 1](/images/posts/recap-elite-season-1/image-2.jpg)
+![RECAP: Elite Season 1](/images/posts/trio.jpg)
 
 Samuel, Nadia, and Christian walk into Las Encinas as outsiders on day one. Their old school, San Esteban, had its roof cave in, and the construction company behind the shoddy job, run by Teo and Ventura, both of whom have kids enrolled at Las Encinas, hands out scholarships as a PR move to make the whole thing look less bad.
 
@@ -57,7 +57,7 @@ It all blows up by the end of episode seven. Carla can't prove Marina and Nano a
 
 ### How it all wraps up
 
-![RECAP: Elite Season 1](/images/posts/recap-elite-season-1/image-3.jpg)
+![RECAP: Elite Season 1](/images/posts/s1-finale.jpg)
 
 Marina and Nano have a plan by the season finale. Her father intends to force an abortion the next morning, so the two decide to skip town before that happens, heading to Asilah in Morocco to start over and raise the baby there.
 
