@@ -1,23 +1,24 @@
 ---
 title: "RECAP: Elite Season 8"
-slug: "recap-elite-season-8"
-date: "2026-06-19T11:34:00Z"
-category: "Recap"
-labels: ["Recap"]
+slug: recap-elite-season-8
+date: 2026-06-19T11:34:00Z
+category: Recap
+labels:
+  - Recap
 score: 6.5
-excerpt: "Eight seasons of secrets, sex scandals, murder, and filthy rich teenagers making the worst decisions imaginable, and this is how we go out."
-coverImage: "/images/posts/recap-elite-season-8/image-1.jpg"
+excerpt: Eight seasons of secrets, sex scandals, murder, and filthy rich
+  teenagers making the worst decisions imaginable, and this is how we go out.
+coverImage: /images/posts/recap-elite-season-8/image-1.jpg
 ---
-
-![RECAP: Elite Season 8](/images/posts/recap-elite-season-8/image-1.jpg)
+![RECAP: Elite Season 8](/images/posts/elite-s8.jpg)
 
 Eight seasons of secrets, sex scandals, murder, and filthy rich teenagers making the worst decisions imaginable, and this is how we go out.
 
 Look, I've been on this Elite journey longer than I care to admit and the final season had a lot to live up to. Did it deliver? Sort of. Was it frustrating? Absolutely. Was I still glued to my screen? Every single episode.
 
-_This post contains spoilers for Season 8 of Netflix's Elite._
+*This post contains spoilers for Season 8 of Netflix's Elite.*
 
-* * *
+- - -
 
 ### How it kicks off
 
@@ -103,34 +104,23 @@ After Luis is finally caught, Dalmar hands the footage of Raul's murder over to 
 
 In the fallout from Omar's livestream, worried parents start protesting outside the school, and Principal Virginia, emboldened rather than defensive, makes the call to shut Las Encinas down for good. The graduating seniors finish their final exams at a public school instead, and the series ends on Ivan, Isa, Eric, Sonia, Nico, and Sara walking through its doors, overdressed and completely out of place, while the other students just stare.
 
-* * *
+- - -
 
 ### How the show ended
 
-*   **Joel:** Dead. Murdered by Luis in the Alumni room on graduation night with Eric's forgotten knife.
-    
-*   **Omar:** Alive and finally the one who brings everything down. He goes live with Sara, exposes eight seasons' worth of covered-up crimes, and ends the show with Nadia choosing to stay.
-    
-*   **Ivan:** Cleared of Joel's murder. Still grieving.
-    
-*   **Dalmar:** Released from custody once Luis is unmasked.
-    
-*   **Chloe:** Leaves Madrid with Carmen after Sara signals she is not done with them.
-    
-*   **Eric:** Stays behind. Reconciles with Nico. Heads to the public school with the rest of the group.
-    
-*   **Isa:** Alive. She killed Luis herself, quietly, as he was being led away by police. Cruz9 is still hers.
-    
-*   **Nico and Sara:** They find their way to each other. I don't care for them.
-    
-*   **Hector and Emilia Krawietz:** Arrested, then freed. They vanish. The ending clearly left a door open for something else.
-    
-*   **Luis:** Dead. Isa injected him mid-arrest. He had a seizure, threw up, and died.
-    
-*   **Las Encinas:** Shut down permanently, eight seasons of secrets finally catching up to the school itself.
-    
+* **Joel:** Dead. Murdered by Luis in the Alumni room on graduation night with Eric's forgotten knife.
+* **Omar:** Alive and finally the one who brings everything down. He goes live with Sara, exposes eight seasons' worth of covered-up crimes, and ends the show with Nadia choosing to stay.
+* **Ivan:** Cleared of Joel's murder. Still grieving.
+* **Dalmar:** Released from custody once Luis is unmasked.
+* **Chloe:** Leaves Madrid with Carmen after Sara signals she is not done with them.
+* **Eric:** Stays behind. Reconciles with Nico. Heads to the public school with the rest of the group.
+* **Isa:** Alive. She killed Luis herself, quietly, as he was being led away by police. Cruz9 is still hers.
+* **Nico and Sara:** They find their way to each other. I don't care for them.
+* **Hector and Emilia Krawietz:** Arrested, then freed. They vanish. The ending clearly left a door open for something else.
+* **Luis:** Dead. Isa injected him mid-arrest. He had a seizure, threw up, and died.
+* **Las Encinas:** Shut down permanently, eight seasons of secrets finally catching up to the school itself.
 
-* * *
+- - -
 
 ### What worked
 
@@ -150,7 +140,7 @@ And can we talk about how many grown adults are chasing after teenagers this sea
 
 The first half of the season is pretty scattered too, juggling too many threads without much sense of where it's actually headed. And once Luis gets exposed, Isa killing him in full view of arresting officers makes zero sense when you think about it for even a second. No autopsy, no follow-up questions, nothing. Dalmar's arc doesn't hold together either: the same guy who blackmailed Carmen to avoid deportation somehow turns down her payout later, meaning he had two real shots at securing his citizenship and managed to blow both of them.
 
-_PS: Nico was completely wasted this season._
+*PS: Nico was completely wasted this season.*
 
 **My Rating: 6.5**
 
