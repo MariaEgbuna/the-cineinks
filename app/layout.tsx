@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   title: "The CineInks",
   description: "No fancy film degrees here. Just honest takes on what I'm watching or have watched.",
   metadataBase: new URL(SITE_URL),
+  other: {
+    "p:domain_verify": "c8377afcc71ef5f213af8797e73ddc0f",
+  },
   openGraph: {
     title: "The CineInks",
     description: "No fancy film degrees here. Just honest takes on what I'm watching or have watched.",
