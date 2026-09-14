@@ -114,4 +114,4 @@ As a whole, Season 1 held up well. The pacing and the mystery structure worked, 
 
 Drop your take in the comments. I also want to know if you think Samuel should have stayed quiet or if the honest thing was still the right thing even knowing what it cost.
 
-[Next: Season 2 →](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-2-high-stakes-higher.html)
+[Next: Season 2 →](https://cineinks.vercel.app/posts/recap-elite-season-2)

@@ -158,4 +158,4 @@ And yet here I am, still watching, still annoyed enough to write all of this, st
 
 Lemme know in the comments. Am I crazy for still watching?
 
-[← Prev: Season 3](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-3-right-place-to-say.html) [Next: Season 5 →](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-5-what-has-this-show-become.html)
+[← Prev: Season 3](https://cineinks.vercel.app/posts/recap-elite-season-3) [Next: Season 5 →](https://cineinks.vercel.app/posts/recap-elite-season-5)

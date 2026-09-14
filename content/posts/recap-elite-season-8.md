@@ -158,4 +158,4 @@ _PS: Nico was completely wasted this season._
 
 Did Luis as the killer work for you, or were you also convinced it had to be Emilia? And while we're at it, where do you think the show jumped the shark?
 
-[← Prev: Season 7](https://thewatchlistchronicles.blogspot.com/2026/06/elite-season-7-okay-they-actually-did.html)
+[← Prev: Season 7](https://cineinks.vercel.app/posts/recap-elite-season-7)

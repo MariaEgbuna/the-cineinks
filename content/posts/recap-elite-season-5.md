@@ -136,4 +136,4 @@ The pieces are there for Season 6 to do something interesting. Benjamin is in ha
 
 Drop it in the comments. I need to know I wasn't alone in this. Also if you somehow enjoyed the Cruz storyline unironically, I really want to understand your reasoning.
 
-[← Prev: Season 4](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-4-season-that-almost-made.html) [Next: Season 6 →](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-6-somehow-still-going.html)
+[← Prev: Season 4](https://cineinks.vercel.app/posts/recap-elite-season-4) [Next: Season 6 →](https://cineinks.vercel.app/posts/recap-elite-season-6)

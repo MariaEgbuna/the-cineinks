@@ -120,4 +120,4 @@ My Rating: **8.5**
 
 Drop your take in the comments. And if you somehow feel bad for Polo after all of this, I want to understand your reasoning.
 
-[← Prev: Season 1](https://thewatchlistchronicles.blogspot.com/2026/05/lets-talk-about-elite-s1-best-season.html) [Next: Season 3 →](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-3-right-place-to-say.html)
+[← Prev: Season 1](https://cineinks.vercel.app/posts/recap-elite-season-1) [Next: Season 3 →](https://cineinks.vercel.app/posts/recap-elite-season-3)

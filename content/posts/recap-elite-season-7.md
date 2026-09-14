@@ -150,4 +150,4 @@ The weak spots are still there. The dialogue is kind of cheesy, Isa and Didac go
 
 One season left. The show set up the right questions to answer. Here's hoping Season 8 actually crosses the finish line properly, because after seven seasons of watching these people hurt each other in increasingly creative ways, they all deserve a clean exit.
 
-[← Prev: Season 6](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-6-somehow-still-going.html) [Next: Season 8 →](https://thewatchlistchronicles.blogspot.com/2026/06/elite-season-8-i-can-finally-move-on.html)
+[← Prev: Season 6](https://cineinks.vercel.app/posts/recap-elite-season-6) [Next: Season 8 →](https://cineinks.vercel.app/posts/recap-elite-season-8)

@@ -138,4 +138,4 @@ Season 6 is soapy enough to stay watchable, stretched too thin in the right plac
 
 Of course I will. I have absolutely no self-control, and neither do you if you made it this far.
 
-[← Prev: Season 5](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-5-what-has-this-show-become.html) [Next: Season 7 →](https://thewatchlistchronicles.blogspot.com/2026/06/elite-season-7-okay-they-actually-did.html)
+[← Prev: Season 5](https://cineinks.vercel.app/posts/recap-elite-season-5) [Next: Season 7 →](https://cineinks.vercel.app/posts/recap-elite-season-7)

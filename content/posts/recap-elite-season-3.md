@@ -119,4 +119,4 @@ I'm currently watching Season 4, and a big part of me thinks the show should've 
 
 Drop your take in the comments. I also want to know if the collective cover-up in the finale made you emotional or if you saw it coming from a mile away.
 
-[← Prev: Season 2](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-2-high-stakes-higher.html) [Next: Season 4 →](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-4-season-that-almost-made.html)
+[← Prev: Season 2](https://cineinks.vercel.app/posts/recap-elite-season-2) [Next: Season 4 →](https://cineinks.vercel.app/posts/recap-elite-season-4)
