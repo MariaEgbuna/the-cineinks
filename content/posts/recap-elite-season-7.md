@@ -1,15 +1,17 @@
 ---
 title: "RECAP: Elite Season 7"
-slug: "recap-elite-season-7"
-date: "2026-06-08T10:30:00Z"
-category: "Recap"
-labels: ["Recap"]
+slug: recap-elite-season-7
+date: 2026-06-08T10:30:00Z
+category: Recap
+labels:
+  - Recap
 score: 7.1
-excerpt: "No cold open dropping you into a crime scene this time. The story just starts and moves forward. That decision alone signals that the writers were trying to do something different."
-coverImage: "/images/posts/recap-elite-season-7/image-1.jpg"
+excerpt: No cold open dropping you into a crime scene this time. The story just
+  starts and moves forward. That decision alone signals that the writers were
+  trying to do something different.
+coverImage: /images/posts/recap-elite-season-7/image-1.jpg
 ---
-
-![RECAP: Elite Season 7](/images/posts/recap-elite-season-7/image-1.jpg)
+![RECAP: Elite Season 7](/images/posts/elie.jpg)
 
 No cold open dropping you into a crime scene this time. The story just starts and moves forward. That decision alone signals that the writers were trying to do something different.
 
@@ -17,9 +19,9 @@ This was the first season to drop the flash-forward interrogation structure the 
 
 I went into Season 7 expecting absolutely nothing. After what Seasons 4 through 6 put me through I had basically written this show off and was just watching out of stubbornness. But here is the thing: Season 7 actually has consequences. People carry their baggage from one episode to the next, the decisions they make actually cost them something, the new characters come with real drama attached instead of just taking up screen time. Is it a full comeback? No. But it is enough to make me sit up and pay attention again, and after the last few seasons, that counts for a lot.
 
-_This post contains spoilers for Season 7 of Netflix's Elite._
+*This post contains spoilers for Season 7 of Netflix's Elite.*
 
-* * *
+- - -
 
 ### How it kicks off
 
@@ -99,40 +101,26 @@ Then the season delivers its real gut punch. On the rooftop with Raul, Carmen co
 
 The season closes on the fallout. Nico brings Eric home to his parents' relief. Roberta is stunned by everything that's come out, and Isadora pretends total ignorance about her father's arrest to Didac, telling him to stay away from her instead of explaining anything. Chloe and Carmen are both questioned by police once Raul's body is discovered, Carmen calmly telling officers he was a troubled abuser and that Chloe was with her the entire time. In the final scene, a flashback reveals Dalmar was standing near the building when Raul fell, and the footage on his phone clearly shows Carmen watching from the rooftop right after. He stares at the video, terrified of what he's just found.
 
-* * *
+- - -
 
 ### Where we left everyone:
 
-*   **Raul:** Dead. Pushed off a rooftop by Carmen. The police are calling it suicide for now.
-    
-*   **Carmen:** Covered by Chloe's alibi. Has Ivan's two million and also has Dalmar's video hanging over her whether she knows it or not.
-    
-*   **Sara:** Free. It took recording him, baiting him, and watching someone else finish the job, but she got out.
-    
-*   **Chloe:** Shaken but standing. She lied to the police for her mother. That relationship is unresolved in a way that feels very intentional.
-    
-*   **Ivan:** On a plane to South Africa. Moving forward the way Patrick asked him to. The Joel chapter is open-ended.
-    
-*   **Joel:** Stayed. He chose himself over Ivan's cab and went home to people who actually know him. Hurting, but finally making decisions on his own terms.
-    
-*   **Omar:** Back in therapy and out of Joel's space. A small step in the right direction.
-    
-*   **Eric:** Home and safe, thanks to Nico. The road ahead is still uncertain but he's on it.
-    
-*   **Nico:** Stumbled a lot this season but showed up when it counted most.
-    
-*   **Isa:** Father's under arrest. Corruption shut down. Steps out of her family's shadow for the first time. She and Didac part ways.
-    
-*   **Didac:** Still in love with Isa. His cooperation with Luis paid off but cost him everything else.
-    
-*   **Rocio:** Her mother was arrested for corruption. She deserved better from the writing this season and I'm still annoyed about it.
-    
-*   **Luis:** Case closed. Martin and Duran are both in custody. He got what he came for.
-    
-*   **Dalmar:** Sitting on video evidence of the night Raul died. He hasn't decided what to do with it yet. This will absolutely matter in Season 8.
-    
+* **Raul:** Dead. Pushed off a rooftop by Carmen. The police are calling it suicide for now.
+* **Carmen:** Covered by Chloe's alibi. Has Ivan's two million and also has Dalmar's video hanging over her whether she knows it or not.
+* **Sara:** Free. It took recording him, baiting him, and watching someone else finish the job, but she got out.
+* **Chloe:** Shaken but standing. She lied to the police for her mother. That relationship is unresolved in a way that feels very intentional.
+* **Ivan:** On a plane to South Africa. Moving forward the way Patrick asked him to. The Joel chapter is open-ended.
+* **Joel:** Stayed. He chose himself over Ivan's cab and went home to people who actually know him. Hurting, but finally making decisions on his own terms.
+* **Omar:** Back in therapy and out of Joel's space. A small step in the right direction.
+* **Eric:** Home and safe, thanks to Nico. The road ahead is still uncertain but he's on it.
+* **Nico:** Stumbled a lot this season but showed up when it counted most.
+* **Isa:** Father's under arrest. Corruption shut down. Steps out of her family's shadow for the first time. She and Didac part ways.
+* **Didac:** Still in love with Isa. His cooperation with Luis paid off but cost him everything else.
+* **Rocio:** Her mother was arrested for corruption. She deserved better from the writing this season and I'm still annoyed about it.
+* **Luis:** Case closed. Martin and Duran are both in custody. He got what he came for.
+* **Dalmar:** Sitting on video evidence of the night Raul died. He hasn't decided what to do with it yet. This will absolutely matter in Season 8.
 
-* * *
+- - -
 
 ### What worked
 
