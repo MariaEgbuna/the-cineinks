@@ -37,8 +37,6 @@ export default async function ArchivePaginatedPage({ params }: PageProps) {
   const allPosts = getAllPosts();
   const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
 
-  // Guards against someone visiting an invalid page number directly,
-  // like /archive/999 or /archive/abc.
   if (isNaN(pageNumber) || pageNumber < 2 || pageNumber > totalPages) {
     notFound();
   }
