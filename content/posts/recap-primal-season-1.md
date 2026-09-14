@@ -84,4 +84,4 @@ My Rating: **9.3**
 
 **Has anyone else seen this show?**
 
-[Next: Season 2 →](https://thewatchlistchronicles.blogspot.com/2026/06/primal-season-2-recap.html)
+[Next: Season 2 →](https://cineinks.vercel.app/posts/recap-primal-season-2)

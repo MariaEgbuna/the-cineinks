@@ -104,4 +104,4 @@ Where it lost me a little was the ending. It felt rushed, and from what I have h
 
 Season 3 is already out, so I am watching that next and dropping my recap with my thoughts as usual once I am done.
 
-[← Prev: Season 1](https://thewatchlistchronicles.blogspot.com/2026/06/primal-season-1-recap.html) [Next: Season 3 →](https://thewatchlistchronicles.blogspot.com/2026/07/primal-season-3-recap.html)
+[← Prev: Season 1](https://cineinks.vercel.app/posts/recap-primal-season-1) [Next: Season 3 →](https://cineinks.vercel.app/posts/recap-primal-season-3)

@@ -114,4 +114,4 @@ The Fang and Spear conflict was the hardest part to sit through, not because it 
 
 Drop your take in the comments, I want to know if I am alone on this one.
 
-[← Prev: Season 2](https://thewatchlistchronicles.blogspot.com/2026/06/primal-season-2-recap.html)
+[← Prev: Season 2](https://cineinks.vercel.app/posts/recap-primal-season-2)
