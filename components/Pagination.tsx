@@ -9,10 +9,6 @@ function getPageHref(page: number): string {
   return page === 1 ? "/archive" : `/archive/${page}`;
 }
 
-// Builds a shortened list of page numbers to display, using "..." to
-// represent skipped ranges, rather than listing every single page.
-// Always includes page 1, the last page, and a small cluster around
-// whatever page the visitor is currently on.
 function getVisiblePages(currentPage: number, totalPages: number): (number | "...")[] {
   const pages = new Set<number>([1, totalPages, currentPage]);
   if (currentPage > 1) pages.add(currentPage - 1);
