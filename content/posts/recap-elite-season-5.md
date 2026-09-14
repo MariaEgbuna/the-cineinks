@@ -1,23 +1,23 @@
 ---
 title: "RECAP: Elite Season 5"
-slug: "recap-elite-season-5"
-date: "2026-05-21T09:29:40.516Z"
-category: "Recap"
-labels: ["Recap"]
+slug: recap-elite-season-5
+date: 2026-05-21T09:29:40.516Z
+category: Recap
+labels:
+  - Recap
 score: 6
-excerpt: "This season was such a slog to get through."
-coverImage: "/images/posts/recap-elite-season-5/image-1.jpg"
+excerpt: This season was such a slog to get through.
+coverImage: /images/posts/elite-s5.jpg
 ---
-
-![RECAP: Elite Season 5](/images/posts/recap-elite-season-5/image-1.jpg)
+![RECAP: Elite Season 5](/images/posts/elite-s5.jpg)
 
 This season was such a slog to get through.
 
 Somewhere underneath all the chaos there's an actual plot this time, one that finally circles back to something that's been buried since Season 4: Armando's body. So before we get into what worked and what absolutely did not, let's walk through how we get from a fundraiser party to a man in handcuffs by a swimming pool.
 
-_This post contains spoilers for Season 5 of Netflix's Elite._
+*This post contains spoilers for Season 5 of Netflix's Elite.*
 
-* * *
+- - -
 
 ### How it kicks off
 
@@ -45,11 +45,11 @@ Benjamín escalates the war on his students by handing out drug tests tied to gr
 
 Bilal keeps circling back, and during a lakeside fundraiser Samuel catches him pick pocketing a guest and kicks him out again, right as Omar, following Samuel outside, spots a body floating in the lake and dives in convinced it's Bilal. It isn't. It's Armando, who was killed and dumped at the end of last season, finally surfacing. Bilal shows up to help pull the body out. Rebe, Omar, and Bilal end up disposing of it together on the beach, Omar furious nobody told him the truth sooner. Eventually Samuel calls the police himself, and the flashforward the season opened comes with a shocking twist: the body in the pool everyone's been building toward. It's Samuel.
 
-While that unfolds, Phillipe drifts further from Cayetana and toward Isadora, eventually breaking things off with Cayetana entirely and kissing Isadora in full view of everyone. Patrick, meanwhile, catches Ari and Ivan having sex out on the water and falls apart over it, and it's Cruz, _of all people,_ who comforts him. The two end up kissing. Rebe and Mencia's relationship keeps fracturing too, worsened when Mencia sees Rebe with another girl, Jess, at a drive-in. In the chaos of the fundraiser, Mencia finds a second SIM card hidden in her own phone, planted there by Armando, and traces the number on it straight back to her father.
+While that unfolds, Phillipe drifts further from Cayetana and toward Isadora, eventually breaking things off with Cayetana entirely and kissing Isadora in full view of everyone. Patrick, meanwhile, catches Ari and Ivan having sex out on the water and falls apart over it, and it's Cruz, *of all people,* who comforts him. The two end up kissing. Rebe and Mencia's relationship keeps fracturing too, worsened when Mencia sees Rebe with another girl, Jess, at a drive-in. In the chaos of the fundraiser, Mencia finds a second SIM card hidden in her own phone, planted there by Armando, and traces the number on it straight back to her father.
 
 Ivan and Patrick, bonding over shared father issues, finally sleep together. Cruz tried to pull Patrick into his room, gets stood up, as Patrick chose Ivan instead. Benjamín, meanwhile, gets pressed by the Inspector over the very investigation Mencia's SIM card ties into, and has Mencia hide a second phone for him, unaware the Inspector's watching it all on camera. Isadora's drinking spirals hard enough that Cayetana ends up taking her home, and later, finding her stash laid out and Isadora finally sober enough to talk, gets a rare honest glimpse into how lonely Isadora's life actually is underneath the chaos.
 
-Cruz confronts Patrick in front of Benjamín with a line that lands like a threat (to me) dressed as heartbreak: _I waited for you._ Before it can go further, police arrive to search Benjamín's office. In the scramble, Mencia's caught stashing his second phone, and just before she can say anything to the investigator, Samuel bursts in and confesses to Armando's murder himself. It comes out that Benjamín had already offered him a deal beforehand: take the fall, and Benjamín would make sure his life afterward was taken care of completely.
+Cruz confronts Patrick in front of Benjamín with a line that lands like a threat (to me) dressed as heartbreak: *I waited for you.* Before it can go further, police arrive to search Benjamín's office. In the scramble, Mencia's caught stashing his second phone, and just before she can say anything to the investigator, Samuel bursts in and confesses to Armando's murder himself. It comes out that Benjamín had already offered him a deal beforehand: take the fall, and Benjamín would make sure his life afterward was taken care of completely.
 
 Samuel plays along at first, coached by Benjamín to stay calm while bail gets arranged. The group scrambles to raise the twenty-five thousand euros needed to get him out, and it's revealed the SIM card was never Benjamín's to begin with, Armando had hidden it in Mencia's phone specifically because it was the last place anyone would think to check. Mencia's already made her own copy of everything incriminating, not fully trusting her father either. Ivan, moved by how much Ari clearly cares about Samuel, decides to help raise the bail money, especially once Cruz, learning Ivan slept with Patrick, refuses to contribute out of spite.
 
@@ -59,7 +59,7 @@ By episode seven, the investigator's pushing Samuel harder, laying out evidence 
 
 Back at school, Rebe learns about the SIM card and convinces both Cayetana and Mencia to help track it down as the evidence that could finally clear Samuel and take Benjamín down for good. Cayetana breaks into the school at night to search Benjamín's office while Rebe searches his home, and it's ultimately Mencia who hands it over, telling Rebe she loves her and refuses to let an innocent man go to prison over her father's secrets. Benjamín gets tipped off that Cayetana was caught snooping around his office the same night.
 
-Phillipe, meanwhile, tells Isadora that no amount of glitter and money fills the emptiness underneath, refusing to date her while she's still spiraling. She responds by flying out to a party in Ibiza via helicopter. Worried, Phillipe follows her out there. During a dinner at Benjamín's house, Patrick shoves him in a moment of rage over everything with Ivan and Cruz, and later admits to Cruz just how conflicted falling for him has left him. They kiss _**again**_. In the middle of it all, a drunk Ivan leaves a voicemail confessing his real feelings for Patrick, and by mistake, sends it straight to Ari's phone instead.
+Phillipe, meanwhile, tells Isadora that no amount of glitter and money fills the emptiness underneath, refusing to date her while she's still spiraling. She responds by flying out to a party in Ibiza via helicopter. Worried, Phillipe follows her out there. During a dinner at Benjamín's house, Patrick shoves him in a moment of rage over everything with Ivan and Cruz, and later admits to Cruz just how conflicted falling for him has left him. They kiss ***again***. In the middle of it all, a drunk Ivan leaves a voicemail confessing his real feelings for Patrick, and by mistake, sends it straight to Ari's phone instead.
 
 In Ibiza, Isadora collapses at the party, unconscious. Phillipe, barely conscious himself, is slumped against a wall nearby when three men at the party notice she's out cold and decide to take advantage of the situation, locking the door behind them.
 
@@ -85,28 +85,18 @@ The police finally arrive and arrest Benjamín, leading him away in handcuffs wh
 
 ### Where we left everyone:
 
-*   **Samuel:** Pushed into the pool by Benjamin, hits his head, and nearly drowns, but survives, conscious enough to name Benjamin as the one responsible. After five seasons of this show using him as a punching bag, at least this time he lives to say so.
-    
-*   **Benjamin:** Arrested. Handcuffed in front of his three children by a swimming pool.
-    
-*   **Patrick:** Pulls Samuel out of the pool and watches his father get taken away.
-    
-*   **Ivan:** Stays in Spain instead of going to Qatar because Cruz tells him to follow his heart. After all the back and forth this season, I'd stopped caring.
-    
-*   **Cruz:** Steps aside. After spending the entire season pursuing his son's classmate. Sure.
-    
-*   **Rebe and Mencia:** Pulled apart and pushed back together so many times this season that the emotional whiplash became its own subplot.
-    
-*   **Ari:** Her love story with Samuel was one of the flattest things this season produced, which is a shame because these are two characters who should work together on paper and simply don't on screen.
-    
-*   **Omar:** Walks away from the finale with Rebe. His whole Bilal subplot goes essentially nowhere. Omar's been coasting on the goodwill of his earlier seasons for two years now and the writers genuinely owe him a real storyline.
-    
-*   **Cayetana:** Fired from the school partway through the season and still hanging around anyway. I don't know what else she's here for and based on the evidence, neither do the writers.
-    
-*   **Isadora:** Survives an assault the season never gives proper weight to. Season 6 has a chance to actually do something with her. Whether it will is a different question.
-    
+* **Samuel:** Pushed into the pool by Benjamin, hits his head, and nearly drowns, but survives, conscious enough to name Benjamin as the one responsible. After five seasons of this show using him as a punching bag, at least this time he lives to say so.
+* **Benjamin:** Arrested. Handcuffed in front of his three children by a swimming pool.
+* **Patrick:** Pulls Samuel out of the pool and watches his father get taken away.
+* **Ivan:** Stays in Spain instead of going to Qatar because Cruz tells him to follow his heart. After all the back and forth this season, I'd stopped caring.
+* **Cruz:** Steps aside. After spending the entire season pursuing his son's classmate. Sure.
+* **Rebe and Mencia:** Pulled apart and pushed back together so many times this season that the emotional whiplash became its own subplot.
+* **Ari:** Her love story with Samuel was one of the flattest things this season produced, which is a shame because these are two characters who should work together on paper and simply don't on screen.
+* **Omar:** Walks away from the finale with Rebe. His whole Bilal subplot goes essentially nowhere. Omar's been coasting on the goodwill of his earlier seasons for two years now and the writers genuinely owe him a real storyline.
+* **Cayetana:** Fired from the school partway through the season and still hanging around anyway. I don't know what else she's here for and based on the evidence, neither do the writers.
+* **Isadora:** Survives an assault the season never gives proper weight to. Season 6 has a chance to actually do something with her. Whether it will is a different question.
 
-* * *
+- - -
 
 ### What worked and what didn't
 
@@ -114,7 +104,7 @@ I can see what the writers were going for with Isadora: a wealthy, untethered gi
 
 The Benjamin and Samuel dynamic was a little interesting, and credit where it's due, there's something almost poignant about Samuel who's never had a reliable father figure gravitate towards Benjamin over and over, even knowing it would end badly. The reveal that he's the body in the pool at the end of episode four was the one moment this season actually shocked me.
 
-The Patrick, Ivan, and Cruz subplot. I can't believe this storyline made it through a room full of adults, got pitched, approved, shot, edited, and released onto Netflix. I was rooting for Patrick and Ivan. Then Cruz happened, and it's the same predatory, completely inappropriate dynamic between a grown man and a teenager the show's leaned on before. The resolution, where he _graciously steps aside_ and urges his own son to chase down the boy he'd been pursuing all season, gets played as redemptive, even touching. It pissed me off. I hated it.
+The Patrick, Ivan, and Cruz subplot. I can't believe this storyline made it through a room full of adults, got pitched, approved, shot, edited, and released onto Netflix. I was rooting for Patrick and Ivan. Then Cruz happened, and it's the same predatory, completely inappropriate dynamic between a grown man and a teenager the show's leaned on before. The resolution, where he *graciously steps aside* and urges his own son to chase down the boy he'd been pursuing all season, gets played as redemptive, even touching. It pissed me off. I hated it.
 
 Rebe and Mencía ended Season 4 in a good place, so naturally Season 5 spends its entire runtime dismantling that, pulled apart and pushed back together so many times across eight episodes that by the finale I was just exhausted.
 
@@ -124,7 +114,7 @@ I wrote in my [Season 4](https://thewatchlistchronicles.blogspot.com/2026/05/eli
 
 This season was a mess, and not in the fun, chaotic way earlier seasons managed to pull off. Isadora spending part of the season defending Phillipe against assault allegations, only for the show to turn around and put her through an assault of her own, felt less like irony and more like the writers not thinking through what they were doing. Ivan flip-flopping between Ari and Patrick for eight straight episodes, Ari, doing the same thing on her end, bouncing between feelings for Samuel and Ivan with no real throughline connecting any of it.
 
-And then there's Cruz. A grown man pursuing his own son's teenage classmate all season, and the show wraps it up by having him step aside like it's a gracious, mature decision instead of the bare minimum. That's a man stopping something he never should have started, and the show treats it like _growth_. Sick work by the writers, honestly.
+And then there's Cruz. A grown man pursuing his own son's teenage classmate all season, and the show wraps it up by having him step aside like it's a gracious, mature decision instead of the bare minimum. That's a man stopping something he never should have started, and the show treats it like *growth*. Sick work by the writers, honestly.
 
 Season 5 isn't the disaster Season 4 was, but it's forgettable. This season made me tired.
 

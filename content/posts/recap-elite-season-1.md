@@ -1,25 +1,27 @@
 ---
 title: "RECAP: Elite Season 1"
-slug: "recap-elite-season-1"
-date: "2026-05-08T10:30:00Z"
-category: "Recap"
-labels: ["Recap"]
+slug: recap-elite-season-1
+date: 2026-05-08T10:30:00.000Z
+category: Recap
+labels:
+  - Recap
 score: 8.3
-excerpt: "Elite is what happens when you throw three broke kids into a school built entirely on money and secrets. It's messy, it's soapy, and I could not stop watching."
-coverImage: "/images/posts/recap-elite-season-1/image-1.jpg"
+excerpt: Elite is what happens when you throw three broke kids into a school
+  built entirely on money and secrets. It's messy, it's soapy, and I could not
+  stop watching.
+coverImage: /images/posts/elite-s1.jpg
 ---
-
-![RECAP: Elite Season 1](/images/posts/recap-elite-season-1/image-1.jpg)
+![RECAP: Elite Season 1](/images/posts/elite-s1.jpg)
 
 Elite is what happens when you throw three broke kids into a school built entirely on money and secrets. It's messy, it's soapy, and I could not stop watching.
 
-_This post contains spoilers for Season 1 of Netflix's Elite._
+*This post contains spoilers for Season 1 of Netflix's Elite.*
 
-* * *
+- - -
 
 ### How it kicks off
 
-![RECAP: Elite Season 1](/images/posts/recap-elite-season-1/image-2.jpg)
+![RECAP: Elite Season 1](/images/posts/trio.jpg)
 
 Samuel, Nadia, and Christian walk into Las Encinas as outsiders on day one. Their old school, San Esteban, had its roof cave in, and the construction company behind the shoddy job, run by Teo and Ventura, both of whom have kids enrolled at Las Encinas, hands out scholarships as a PR move to make the whole thing look less bad.
 
@@ -55,7 +57,7 @@ It all blows up by the end of episode seven. Carla can't prove Marina and Nano a
 
 ### How it all wraps up
 
-![RECAP: Elite Season 1](/images/posts/recap-elite-season-1/image-3.jpg)
+![RECAP: Elite Season 1](/images/posts/s1-finale.jpg)
 
 Marina and Nano have a plan by the season finale. Her father intends to force an abortion the next morning, so the two decide to skip town before that happens, heading to Asilah in Morocco to start over and raise the baby there.
 
@@ -73,26 +75,17 @@ Guzman almost doesn't make it through the next day either. Lu finds him standing
 
 ### Where we left everyone:
 
-*   **Polo:** Free. Not a scratch on him. Walking back into school thinking he got away with it clean.
-    
-*   **Carla:** Completely untouchable. She managed an entire murder cover-up in real time and her world is still exactly how she designed it.
-    
-*   **Christian:** Trapped. He is an accessory now and Carla holds that over him indefinitely.
-    
-*   **Nano:** In prison for a murder he didn't commit.
-    
-*   **Samuel:** His crush is dead, his brother is behind bars, and he's the reason the police even looked at Nano in the first place.
-    
-*   **Guzman:** Wrecked with guilt and grief. He stood on the edge of a bridge the same night Marina died, and Lu was the one who talked him down.
-    
-*   **Nadia:** Pulled out of school entirely by her father, missing her own exams in the process.
-    
-*   **Ander:** Badly beaten in the brawl and left bleeding in an alley, found by Omar.
-    
-*   **Omar:** Still with Ander despite everything, but staring down a forced marriage his own father is arranging to bury the shame of him being outed.
-    
+* **Polo:** Free. Not a scratch on him. Walking back into school thinking he got away with it clean.
+* **Carla:** Completely untouchable. She managed an entire murder cover-up in real time and her world is still exactly how she designed it.
+* **Christian:** Trapped. He is an accessory now and Carla holds that over him indefinitely.
+* **Nano:** In prison for a murder he didn't commit.
+* **Samuel:** His crush is dead, his brother is behind bars, and he's the reason the police even looked at Nano in the first place.
+* **Guzman:** Wrecked with guilt and grief. He stood on the edge of a bridge the same night Marina died, and Lu was the one who talked him down.
+* **Nadia:** Pulled out of school entirely by her father, missing her own exams in the process.
+* **Ander:** Badly beaten in the brawl and left bleeding in an alley, found by Omar.
+* **Omar:** Still with Ander despite everything, but staring down a forced marriage his own father is arranging to bury the shame of him being outed.
 
-* * *
+- - -
 
 ### What worked and what didn't
 
@@ -102,7 +95,7 @@ Samuel just didn't do it for me as the lead. A few episodes in, I could already 
 
 The Lu and Guzman bet was one I went in already rolling my eyes at. A bet to take someone's virginity is such a tired, gross setup on paper, and normally I'd check out the second a show tries it. But credit where it's due, the show kinda pulled it off. It turned something that could've been lazy and mean spirited into an actual redemption arc, so I'll let this one slide.
 
-The major thing I couldn't get past was the whole Nano and Marina relationship, and I need to be blunt about it: Nano is a grown man in his twenties, Marina is sixteen, and the show frames this as a forbidden romance. That's a grown man sleeping with a high schooler, and the writing just glosses over it, no pushback from any other character, no acknowledgment that something is deeply wrong here. I understand the plot needs Nano in Marina's orbit for the blackmail storyline to work, but there were other ways to get there that didn't require romanticizing whatever _this_ was. It soured a real chunk of the season for me, and it's the one storyline choice I can't give the show a pass on.
+The major thing I couldn't get past was the whole Nano and Marina relationship, and I need to be blunt about it: Nano is a grown man in his twenties, Marina is sixteen, and the show frames this as a forbidden romance. That's a grown man sleeping with a high schooler, and the writing just glosses over it, no pushback from any other character, no acknowledgment that something is deeply wrong here. I understand the plot needs Nano in Marina's orbit for the blackmail storyline to work, but there were other ways to get there that didn't require romanticizing whatever *this* was. It soured a real chunk of the season for me, and it's the one storyline choice I can't give the show a pass on.
 
 ### Overall thoughts
 
