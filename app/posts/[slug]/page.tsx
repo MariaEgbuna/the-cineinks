@@ -5,7 +5,6 @@ import { getAllPosts, getPostBySlug } from "../../../utils/posts";
 import { scoreColor } from "../../../utils/scoreColor";
 import { Metadata } from "next";
 import { SITE_URL } from "../../../utils/site";
-import Comments from "../../../components/Comments";
 
 export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
@@ -115,7 +114,6 @@ export default async function PostPage({ params }: PageProps) {
           <ReactMarkdown remarkPlugins={[remarkGfm]}>
             {post.content}
           </ReactMarkdown>
-          <Comments />
         </div>
       </section>
     </main>
