@@ -1,12 +1,14 @@
 ---
 title: "The Anime vs Cartoon Debate: What's Actually the Difference?"
-slug: "the-anime-vs-cartoon-debate-whats-actually-the-difference"
-date: "2026-07-06T12:00:00Z"
-category: "Extra"
-labels: ["Extra"]
+slug: the-anime-vs-cartoon-debate-whats-actually-the-difference
+date: 2026-07-06T12:00:00Z
+category: Extra
+labels:
+  - Anime
 score: null
-excerpt: "People argue about anime vs cartoon constantly, and most of the argument comes down to a technicality nobody explains properly"
-coverImage: "/images/posts/the-anime-vs-cartoon-debate-whats-actually-the-difference/image-1.jpg"
+excerpt: People argue about anime vs cartoon constantly, and most of the
+  argument comes down to a technicality nobody explains properly
+coverImage: /images/posts/the-anime-vs-cartoon-debate-whats-actually-the-difference/image-1.jpg
 ---
 
 ![The Anime vs Cartoon Debate: What's Actually the Difference?](/images/posts/the-anime-vs-cartoon-debate-whats-actually-the-difference/image-1.jpg)
