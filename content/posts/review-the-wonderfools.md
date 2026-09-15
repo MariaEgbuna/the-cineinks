@@ -1,12 +1,16 @@
 ---
 title: "REVIEW: The WonderFOOLS"
-slug: "review-the-wonderfools"
-date: "2026-06-24T10:30:00Z"
-category: "KDrama"
-labels: ["KDrama", "Series"]
+slug: review-the-wonderfools
+date: 2026-06-24T10:30:00Z
+category: Review
+labels:
+  - KDrama
+  - Series
 score: 8.3
-excerpt: "A superhero K-drama set during the Y2K scare sounded like exactly the kind of concept that looks fun in a trailer and falls apart by episode 3. It didn't."
-coverImage: "/images/posts/review-the-wonderfools/image-1.jpg"
+excerpt: A superhero K-drama set during the Y2K scare sounded like exactly the
+  kind of concept that looks fun in a trailer and falls apart by episode 3. It
+  didn't.
+coverImage: /images/posts/review-the-wonderfools/image-1.jpg
 ---
 
 ![REVIEW: The WonderFOOLS](/images/posts/review-the-wonderfools/image-1.jpg)
