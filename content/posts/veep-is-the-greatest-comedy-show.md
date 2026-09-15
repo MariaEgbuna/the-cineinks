@@ -3,9 +3,7 @@ title: VEEP Is The Greatest Comedy Show
 slug: veep-is-the-greatest-comedy-show
 date: 2026-05-11T18:07:00.004Z
 category: Series
-labels:
-  - Hall of Fame
-  - Series
+labels: [Hall of Fame, Series]
 score: null
 excerpt: Veep is not a show about politics. It is a show about people, deeply
   catastrophically flawed people, who just happen to work in politics.
