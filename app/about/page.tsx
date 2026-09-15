@@ -6,26 +6,25 @@ export default function AboutPage() {
 
         <p>
           No fancy film degrees here. Just someone who watches a lot of
-          movies, series, anime, and K-dramas, and wanted a place to write
-          it all down.
+          movies, series, anime, and K-dramas.
         </p>
 
         <p>
           This blog started because I kept finishing shows and movies with
           something to say, and nowhere to say it. So now I write it down.
           Sometimes it is a full review. Sometimes it is just a quick take
-          highlighting the good and bad. Either way, it is honest.
+          highlighting the good and bad. Either way, it's just my voice.
         </p>
 
         <p>
-          I cover everything: Korean dramas, anime, Hollywood blockbusters,
-          prestige TV, and the occasional thing I probably should have
-          skipped. If I watched it, it is fair game.
+          I'll try and cover everything: Korean dramas, anime, Hollywood blockbusters,
+          prestige TV, even the occasional thing I probably should have
+          skipped. If I watched it, it's fair game.
         </p>
 
         <p>
           <strong>I am not a critic.</strong> My only rating system is
-          whether I actually enjoyed it. That is it.
+          how much I actually enjoyed it. That is it.
         </p>
 
         <p>
@@ -53,6 +52,12 @@ export default function AboutPage() {
           <p className="m-0">
             <strong>Spotlight:</strong> When a specific actor, director, or
             detail deserves its own conversation.
+          </p>
+        </div>
+
+        <div className="border-l-[3px] border-teal pl-4 mb-4">
+          <p className="m-0">
+            <strong>Hall of Fame:</strong> Movies/Shows that have left a lasting impression.
           </p>
         </div>
 
