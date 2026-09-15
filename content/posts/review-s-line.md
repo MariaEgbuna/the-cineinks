@@ -1,12 +1,15 @@
 ---
 title: "REVIEW: S Line"
-slug: "review-s-line"
-date: "2026-06-01T10:31:56.116Z"
-category: "Review"
-labels: ["Series", "Review"]
+slug: review-s-line
+date: 2026-06-01T10:31:56.116Z
+category: Review
+labels:
+  - KDrama
+  - Review
 score: 6.1
-excerpt: "S Line had everything it needed to be one of the most interesting K-dramas of 2025, and somehow, it still managed to blow it completely."
-coverImage: "/images/posts/review-s-line/image-1.jpg"
+excerpt: S Line had everything it needed to be one of the most interesting
+  K-dramas of 2025, and somehow, it still managed to blow it completely.
+coverImage: /images/posts/review-s-line/image-1.jpg
 ---
 
 ![REVIEW: S Line](/images/posts/review-s-line/image-1.jpg)
