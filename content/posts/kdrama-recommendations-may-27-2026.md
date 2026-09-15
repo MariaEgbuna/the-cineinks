@@ -1,12 +1,15 @@
 ---
 title: "KDRAMA RECOMMENDATIONS: (May 27, 2026)"
-slug: "kdrama-recommendations-may-27-2026"
-date: "2026-05-27T17:53:33.242Z"
-category: "List"
-labels: ["KDrama", "List"]
+slug: kdrama-recommendations-may-27-2026
+date: 2026-05-27T17:53:33.242Z
+category: Recommendations
+labels:
+  - KDrama
+  - List
 score: null
-excerpt: "I did not plan to become a K-drama person. It happened quietly, the way most obsessions do."
-coverImage: "/images/posts/kdrama-recommendations-may-27-2026/image-1.jpg"
+excerpt: I did not plan to become a K-drama person. It happened quietly, the way
+  most obsessions do.
+coverImage: /images/posts/kdrama-recommendations-may-27-2026/image-1.jpg
 ---
 
 ![KDRAMA RECOMMENDATIONS: (May 27, 2026)](/images/posts/kdrama-recommendations-may-27-2026/image-1.jpg)
