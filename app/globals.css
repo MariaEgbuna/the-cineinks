@@ -25,6 +25,6 @@ html {
   --color-score-red: #f09595;
 
   /* Font families, pulling in the variables set up in layout.tsx */
-  --font-serif: var(--font-fraunces);
-  --font-sans: var(--font-work-sans);
+  --font-serif: var(--font-instrument-serif);
+  --font-sans: var(--font-public-sans);
 }

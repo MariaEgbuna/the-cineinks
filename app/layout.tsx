@@ -1,20 +1,20 @@
 import type { Metadata } from "next";
-import { Fraunces, Work_Sans } from "next/font/google";
+import { Instrument_Serif, Public_Sans } from "next/font/google";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { SITE_URL } from "../utils/site";
 
-const fraunces = Fraunces({
+const instrumentSerif = Instrument_Serif({
   subsets: ["latin"],
-  weight: ["600"],
-  variable: "--font-fraunces",
+  weight: ["400"],
+  variable: "--font-instrument-serif",
 });
 
-const workSans = Work_Sans({
+const publicSans = Public_Sans({
   subsets: ["latin"],
   weight: ["400", "500"],
-  variable: "--font-work-sans",
+  variable: "--font-public-sans",
 });
 
 export const metadata: Metadata = {
@@ -45,8 +45,8 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return (
-    <html lang="en" className={`${fraunces.variable} ${workSans.variable}`}>
+   return (
+    <html lang="en" className={`${instrumentSerif.variable} ${publicSans.variable}`}>
       <body>
         <Header />
         {children}
