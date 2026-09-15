@@ -1,12 +1,14 @@
 ---
 title: "SERIES RECOMMENDATIONS: (June 06, 2026)"
-slug: "series-recommendations-june-06-2026"
-date: "2026-06-06T10:30:00Z"
-category: "List"
-labels: ["List"]
+slug: series-recommendations-june-06-2026
+date: 2026-06-06T10:30:00Z
+category: Recommendations
+labels:
+  - List
 score: null
-excerpt: "Somehow this all started with Sam Reid and ended with four shows permanently lodged in my brain."
-coverImage: "/images/posts/series-recommendations-june-06-2026/image-1.jpg"
+excerpt: Somehow this all started with Sam Reid and ended with four shows
+  permanently lodged in my brain.
+coverImage: /images/posts/series-recommendations-june-06-2026/image-1.jpg
 ---
 
 ![SERIES RECOMMENDATIONS: (June 06, 2026)](/images/posts/series-recommendations-june-06-2026/image-1.jpg)
