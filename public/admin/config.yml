@@ -21,7 +21,7 @@ collections:
       - label: "Category"
         name: "category"
         widget: "select"
-        options: ["Review", "Recap", "List", "Spotlight", "Extra"]
+        options: ["Series", "Movies", "Hall of Fame", "Extra", "Review", "Recap", "List", "Recommendations", "Spotlight"]
       - label: "Labels"
         name: "labels"
         widget: "list"
