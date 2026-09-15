@@ -26,12 +26,12 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
               className="object-cover"
             />
           )}
-          <span className="absolute top-4 left-4 bg-teal text-teal-light text-xs px-2.5 py-1 rounded">
+          <span className="absolute top-4 left-4 bg-teal text-teal-light text-xs px-2.5 py-1">
             {featuredPost.category}
           </span>
           {featuredPost.score !== null && (
             <span
-              className={`absolute top-4 right-4 bg-ink text-sm font-medium px-3 py-1 rounded ${scoreColor(
+              className={`absolute top-4 right-4 bg-ink text-sm font-medium px-3 py-1 ${scoreColor(
                 featuredPost.score
               )}`}
             >
