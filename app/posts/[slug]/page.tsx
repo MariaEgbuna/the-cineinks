@@ -1,3 +1,4 @@
+import React from "react";
 import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -5,6 +6,9 @@ import { getAllPosts, getPostBySlug } from "../../../utils/posts";
 import { scoreColor } from "../../../utils/scoreColor";
 import { Metadata } from "next";
 import { SITE_URL } from "../../../utils/site";
+import MarkdownImage from "../../../components/MarkdownImage";
+
+type MarkdownImageComponent = React.ComponentType<React.ImgHTMLAttributes<HTMLImageElement>>;
 
 export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
@@ -111,7 +115,10 @@ export default async function PostPage({ params }: PageProps) {
 
       <section className="bg-cream">
         <div className="max-w-[900px] mx-auto px-5 py-10 prose prose-neutral">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            components={{ img: MarkdownImage as unknown as MarkdownImageComponent }}
+          >
             {post.content}
           </ReactMarkdown>
         </div>
