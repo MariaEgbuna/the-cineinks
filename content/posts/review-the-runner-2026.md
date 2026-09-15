@@ -8,7 +8,7 @@ labels:
 score: 4.8
 excerpt: Gal Gadot runs across London for 84 minutes and somehow it still feels
   longer than the trial her character is supposed to be prosecuting.
-coverImage: /images/posts/the-runner.jpg
+coverImage: /images/posts/the-runner-1-.jpg
 featured: false
 ---
 Gal Gadot runs across London for 84 minutes and somehow it still feels longer than the trial her character is supposed to be prosecuting. That's the whole vibe of The Runner in one sentence, but stick with me, because there's more to unpack here than just legs and spandex.
@@ -17,7 +17,7 @@ If you've watched more than three action thrillers in the last decade, you alrea
 
 ## The setup
 
-![Screenshot of Gal in a train](/images/posts/gal-gadot.jpg)
+![Screenshot of Gal in a train](/images/posts/gal-gadot-1-.jpg)
 
 Maia Marten (Gal Gadot) is a prosecuting attorney in London, sharp, controlled, the kind of woman who has her whole life scheduled down to the minute. She drops her son Noah off at school, heads out for her usual morning run before a major court appearance, and that's when everything breaks. Her phone rings, and it's Noah's number, except it's not Noah on the line. It's a man (voiced with zero enthusiasm by Damian Lewis) who says he's got her son, and the only way she sees him alive again is if she does exactly what he says.
 
@@ -31,7 +31,7 @@ So this isn't a case of nobody trying. London looks great in this too, all quick
 
 ## The rest of the cast
 
-![Edited photo of Damian Lewis](/images/posts/the-runner-villian.jpg)
+![Edited photo of Damian Lewis](/images/posts/the-runner-villian-1-.jpg)
 
 Damian Lewis plays the voice on the phone, credited only as "the Caller" since we never actually see his face until much later. He's a decent actor, Homeland and Billions fans know this already, but there's barely anything for him to do here beyond reading menacing lines down a phone line. A few reviewers pointed out that he sounds like he's just collecting a paycheck, which tracks, because the character has no dimension beyond "ominous voice giving orders". Alfred Enoch shows up in a supporting role tied to the case Maia is prosecuting, and young Rory Wilmot plays Noah, the kidnapped son whose diabetes becomes a plot device more than once, since the kidnapper threatens to withhold his insulin if Maia doesn't comply. It's a cheap way to raise the stakes, and it works in the moment, but it's also the kind of shortcut that tells you the script wasn't confident enough to build tension through character alone.
 
