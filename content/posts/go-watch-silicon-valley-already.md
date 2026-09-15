@@ -1,12 +1,15 @@
 ---
-title: "Go Watch Silicon Valley Already"
-slug: "go-watch-silicon-valley-already"
-date: "2026-04-29T10:30:00Z"
-category: "Series"
-labels: ["Series", "Hall of Fame"]
+title: Go Watch Silicon Valley Already
+slug: go-watch-silicon-valley-already
+date: 2026-04-29T10:30:00Z
+category: Series
+labels:
+  - Hall of Fame
+  - Series
 score: null
-excerpt: "I finished Silicon Valley recently, and I honestly cannot believe it took me this long to watch it."
-coverImage: "/images/posts/go-watch-silicon-valley-already/image-1.jpg"
+excerpt: I finished Silicon Valley recently, and I honestly cannot believe it
+  took me this long to watch it.
+coverImage: /images/posts/go-watch-silicon-valley-already/image-1.jpg
 ---
 
 ![Go Watch Silicon Valley Already](/images/posts/go-watch-silicon-valley-already/image-1.jpg)
