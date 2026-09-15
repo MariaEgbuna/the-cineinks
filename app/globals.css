@@ -11,20 +11,16 @@ html {
 }
 
 @theme {
-  /* Core palette */
   --color-ink: #17110f; 
   --color-cream: #f7f5f1; 
 
-  /* Teal accent, used for category badges and highlights */
   --color-teal: #0f6e56;
   --color-teal-light: #5dcaa5;
 
-  /* Score tier colors, used only for the rating number itself */
   --color-score-green: #97c459;
   --color-score-yellow: #ef9f27;
   --color-score-red: #f09595;
 
-  /* Font families, pulling in the variables set up in layout.tsx */
   --font-serif: var(--font-instrument-serif);
   --font-sans: var(--font-public-sans);
 }
