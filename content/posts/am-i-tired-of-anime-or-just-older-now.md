@@ -62,9 +62,3 @@ That's probably the grumpy old lady talking, but I think there's something hones
 No. I keep coming back to that answer every time I think this through. What I'm actually tired of is the noise, and I'm less patient than I used to be when a show doesn't earn my time quickly. Those two things together can look like burnout from the outside, but they're not the same as losing interest in the medium.
 
 The fix isn't quitting anime. It's probably getting more selective, leaning harder on recommendations I trust instead of chasing whatever's trending, and giving myself permission to drop something the moment it stops working for me instead of finishing it out of obligation**.**
-
-* * *
-
-**Anyone else feel like this, where it's less "I hate anime now" and more "nothing's grabbing me"?**
-
-Tell me in the comments, what's the last show that actually pulled you in, no forcing required?

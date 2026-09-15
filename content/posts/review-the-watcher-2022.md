@@ -47,8 +47,3 @@ I don't think this is a bad watch exactly. It's decent, the cast is doing real w
 
 _PS: if you've seen this one, I'd love to know if you figured out or have an idea about who The Watcher was supposed to be before the finale, because I couldn't tell you._
 
-* * *
-
-**What did you make of the ending, and did the mystery actually work for you?**
-
-Drop your theory below, I want to know if I'm the only one who checked out by episode five.

@@ -50,9 +50,3 @@ The reconciliation between Marina and Shizuka in the finale also could have used
 Even with those gaps, the ending pulls everything together. Takopi's sacrifice, backed by his narration over those final scenes, is the moment that stays with me the most, and choosing empathy over another shock for the final note was the right call.
 
 _PS: the parents in this show are awful. I've never seen anything like it._
-
-* * *
-
-**If you were in Marina's position, do you think you'd have turned out any different?**
-
-Drop your honest answer below, no judgment.

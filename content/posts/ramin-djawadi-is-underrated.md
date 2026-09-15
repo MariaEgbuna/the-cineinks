@@ -45,7 +45,7 @@ Everyone points to the Game of Thrones theme when this conversation comes up, an
 
 If I had to point to one single moment though, it's Westworld's reworking of "Paint It Black" into a full orchestral shootout piece. Turning a song everyone already knows into something that hits completely different in context takes a composer who understands storytelling, not just music.
 
-### TWC Recommends
+### CineInks Recommends
 
 If you're just getting into his work, start here:
 
@@ -54,6 +54,4 @@ If you're just getting into his work, start here:
 
 * * *
 
-**Westworld or Game of Thrones, which theme actually wins for you, and is Prison Break criminally underrated in this conversation or what?**
-
-Drop your pick below, I already know I'm right lol.
+Ramin Djawadi is criminally underrated, and I hope this post helps a few more people notice him.

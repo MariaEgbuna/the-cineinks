@@ -71,13 +71,7 @@ There's one thing that's actually keeping me hopeful. Guy Ritchie and Statham ha
 
 I'm not saying it'll be a return to form. I'm saying the man clearly still has the appetite for something different. Let me hope small. It's all I've got.
 
-### TWC recommends
+### CineInks recommends
 
 *   **The entry point:** The Transporter (2002). It's still the clearest picture of what Statham actually is and why it works. Tight, focused, and built entirely around his strengths. No bloat, no overcomplicated plot trying to justify itself. Just a precise physical lead performance in a film that knows exactly what it is. Start here.
 *   **The deep cut:** Wrath of Man (2021). This is Statham at his most stripped back, a man running almost entirely on presence and barely concealed fury. Ritchie directs it like a cold, methodical revenge machine, and Statham matches the energy. H barely speaks, barely explains himself, and you don't need him to. If you want proof that Statham doesn't need dialogue to hold a film together, this is your exhibit A. Also, Spy (2015) deserves a mention here. It's not a deep cut in the traditional sense, but as a Statham performance it's wildly underappreciated. Rick Ford is one of the funniest characters he's ever played, and he does it all with a completely straight face. Watch that one too. Watch both of them.
-
-* * *
-
-**If Statham did one proper comedy tomorrow, would you actually watch it, or are you already too comfortable in the brooding-man-with-a-past era to want anything different?**
-
-Drop your answer in the comments. And if there's a Statham film I'm sleeping on, I want to hear that too.

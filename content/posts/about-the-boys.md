@@ -88,9 +88,3 @@ But the season as a whole? Not even close to what this show was capable of at it
 The Boys at its best, Seasons 1 and 2, is some of the smartest, nastiest, most genuinely unsettling television of the 2020s. You can still go back and watch it. The finale does not erase that. But a show this good deserved a final season that matched what it was capable of. It did not get one.
 
 Sad, but it is what it is.
-
-- - -
-
-**But enough of my rant. How did you actually feel about the finale?**
-
-Did it work for you or are you sitting there just as disappointed? What else pissed you off this season that I did not mention? Drop it in the comments, let us talk about it.

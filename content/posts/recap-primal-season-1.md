@@ -67,13 +67,10 @@ And then the season ends on a gut punch that has nothing to do with monsters at 
 
 ### Where We Left Everyone
 
-*   **Spear:** Lost his entire first family in episode one, found something with Fang and almost lost her too, and ends the season screaming Mira's name as she disappears over the horizon.
-    
+*   **Spear:** Lost his entire first family in episode one, found something with Fang and almost lost her too, and ends the season screaming Mira's name as she disappears over the horizon.  
 *   **Fang:** Lost her own children the same day Spear lost his family, nearly died in the ape-men arena, and spends the finale roaring in helpless grief right alongside him.
-    
 *   **Mira:** Escaped slavery only to get recaptured in the final minutes of the season, taken away on a ship before Spear and Fang can reach her.
     
-
 * * *
 
 ### Final Verdict & Overall Thoughts
@@ -81,7 +78,5 @@ And then the season ends on a gut punch that has nothing to do with monsters at 
 This is a must watch. If you love drama that is pure, intense, and a little unhinged, this is exactly that, stripped down to its rawest form. No dialogue to hide behind, no exposition to lean on, just pure visual storytelling that hits you right in the chest every single episode. I went in expecting a cool concept and came out completely wrecked by a show that never says a single word.
 
 My Rating: **9.3**
-
-**Has anyone else seen this show?**
 
 [Next: Season 2 →](https://cineinks.vercel.app/posts/recap-primal-season-2)

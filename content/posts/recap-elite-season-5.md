@@ -108,7 +108,7 @@ The Patrick, Ivan, and Cruz subplot. I can't believe this storyline made it thro
 
 Rebe and Mencía ended Season 4 in a good place, so naturally Season 5 spends its entire runtime dismantling that, pulled apart and pushed back together so many times across eight episodes that by the finale I was just exhausted.
 
-I wrote in my [Season 4](https://thewatchlistchronicles.blogspot.com/2026/05/elite-season-4-season-that-almost-made.html) post that the writers have never figured out what to do with Cayetana. Updated assessment: it's now Season 5 and they still haven't. I hope I don't see her in Season 6.
+I wrote in my [Season 4](https://cineinks.vercel.app/posts/recap-elite-season-4) post that the writers have never figured out what to do with Cayetana. Updated assessment: it's now Season 5 and they still haven't. I hope I don't see her in Season 6.
 
 ### Overall thoughts
 
@@ -121,9 +121,5 @@ Season 5 isn't the disaster Season 4 was, but it's forgettable. This season made
 The pieces are there for Season 6 to do something interesting. Benjamin is in handcuffs. The Blanco Commerford era is officially over. In theory that clears the stage for a proper reset. Whether the show has the discipline to actually use that space is the only question I have going into the next season. And yes, before you ask: I'll be watching. Against all available evidence and better judgment. Because apparently this is just who I am now.
 
 **My Rating: 6.0**
-
-**What are your thoughts on this season?**
-
-Drop it in the comments. I need to know I wasn't alone in this. Also if you somehow enjoyed the Cruz storyline unironically, I really want to understand your reasoning.
 
 [← Prev: Season 4](https://cineinks.vercel.app/posts/recap-elite-season-4) [Next: Season 6 →](https://cineinks.vercel.app/posts/recap-elite-season-6)

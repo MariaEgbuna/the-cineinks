@@ -37,9 +37,3 @@ The real tragedy of S Line is that it did not fail because it was a bad idea. It
 **My Rating: 6.1**
 
 Look, if you are curious about S Line because of the premise or the cast, that curiosity is completely understandable. The first five episodes are worth watching as a standalone exercise in high-concept KDrama done right. But go in knowing that the ending will not pay off what those episodes set up. If you can make peace with an unresolved, chaotic finale and enjoy the ride for what it is, there is something here. If you need a show to stick the landing, do yourself a favor and look elsewhere. There are KDramas out there that take their audiences seriously from episode one all the way through to the final frame. S Line, unfortunately, is **not** one of them.
-
-* * *
-
-**Did the S Line finale completely kill the show for you, or did you find a way to make peace with it?**
-
-Drop your take in the comments. Especially if you read the webtoon and think the ending makes more sense with that context, because I genuinely want to know if it does.

@@ -80,16 +80,11 @@ The season closes years later, with Fang and her now grown offspring still livin
 ### Where we left everyone
 
 *   **Spear:** Died defending Mira's village from the Viking Chieftain, after finally finding the sense of family and belonging he had been chasing since losing his first family in season one.
-    
 *   **Fang:** Survived the Chieftain's attack, raised her surviving offspring to adulthood, and remains in Mira's village years after Spear's death.
-    
 *   **Mira:** Lost Spear but carried on his legacy, raising their daughter within her own community alongside Fang and her offspring.
-    
 *   **The Viking Chieftain:** Survived his final fight with Spear, dragged back into the fiery underworld by the demon that gave him his powers in the first place.
-    
 *   **Kamau:** Freed himself and his daughter from the Egyptian Queen's enslavement, last seen sailing toward an unknown future after years of servitude.
     
-
 * * *
 
 ### Final verdict and overall thoughts
@@ -99,8 +94,6 @@ I went into this season already knowing Mira was Spear's love interest. That was
 Where it lost me a little was the ending. It felt rushed, and from what I have heard, that comes down to the show not knowing if it would even get a third season while this one was being made. You can feel that uncertainty in how fast everything wraps up. Still, even with that stumble, the story this season told was a great one, and it lands as bittersweet in the best and worst ways.
 
 **My Rating: 8.7**
-
-**Did this season hit you as hard as it hit me?**
 
 Season 3 is already out, so I am watching that next and dropping my recap with my thoughts as usual once I am done.
 

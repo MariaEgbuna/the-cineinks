@@ -34,5 +34,3 @@ I actually like Spy x Family. But let us be honest, that show has not had a plot
 The one thing I cannot complain about is the animation. It is gorgeous. Every single episode looks like a painting come to life. The backgrounds, the lighting, the little details in how characters move. Madhouse is doing their job and then some. I just wish the actual story gave me a reason to care as much as the animation does.
 
 Maybe I am being impatient. Maybe it picks up. But right now, three episodes in, something feels off.
-
-Tell me I am wrong in the comments.

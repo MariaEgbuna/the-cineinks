@@ -48,9 +48,3 @@ It is a small complaint in the scheme of things, the writing and premise are str
 Season 1 of From earned that number by building a genuinely unsettling premise and backing it up with characters worth caring about, especially Victor, whose arc is the emotional gut punch of the whole season. The acting inconsistency knocked a little off, but not enough to change how much I enjoyed sitting with this show. I went in expecting jump scares and left thinking about a kid who grew up trapped in a town with no way out, and that is exactly the kind of horror I want more of.
 
 _PS: if you have not seen it yet and you like your horror mixed with a genuine mystery you have to think about, this is worth the watch._
-
-* * *
-
-**Who was your favorite character in season 1, and did the town's mystery pull you in the way it pulled me in?**
-
-Drop your thoughts below, I want to know if Victor got to you too.

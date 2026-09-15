@@ -93,5 +93,3 @@ The writers also backed all of it up with real research, talking to actual engin
 ### Final Verdict
 
 Silicon Valley is sharp, funny, and smarter about the industry it is making fun of than people usually give it credit for. Sure it's not perfect: the middle seasons get a bit repetitive, and sometimes Erlich's a lot to handle. But the cast is one of the best ensembles HBO has ever put together, the finale sticks the landing, and it somehow gets more relevant with every year that passes. Hall of Fame. No question about it.
-
-**Who was your favorite character, and do you think the Hall of Fame call is earned?**

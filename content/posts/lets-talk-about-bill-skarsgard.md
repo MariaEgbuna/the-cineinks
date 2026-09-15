@@ -47,13 +47,7 @@ The storm drain scene in IT (2017). No competition. Georgie crouches down at the
 
 He's playing something ancient and ravenous that's also working very hard to perform friendliness for its prey. The drooling, apparently unscripted, and the wandering eye he deliberately deployed combine to create an organism barely holding a mask in place. You can feel the thing straining underneath. It's the moment you realize this isn't just a scary movie clown. This is something that shouldn't exist. All of that, without ever raising his voice.
 
-### TWC Recommends
+### CineInks Recommends
 
 *   **The Entry Point:** Start with **IT (2017)** if you _somehow_ haven't seen it. But if you have and want a completely different side of him, go straight to **John Wick: Chapter 4 (2023)**. He's all polished menace and dry arrogance, and he carries it without the safety net of heavy prosthetics or horror atmosphere. A great showcase for how well he holds his own in a big action franchise.
 *   **The Deep Cut:** **Clark (2022)** on Netflix. It's a Swedish limited series where Skarsgård plays real-life criminal Clark Olofsson, the man whose story inspired the term Stockholm Syndrome. The show is chaotic, darkly funny, and wildly stylish, and it gives him room to be charming, monstrous, and oddly pathetic all in the same episode. It's the kind of performance that refuses to fit any single category, which makes it the most him of anything he's ever done. Required viewing.
-
-* * *
-
-**What's your favorite Bill Skarsgård performance, and do you think he gets enough credit for his range outside of Pennywise?**
-
-Drop your take in the comments, and if there's another actor you think deserves the Spotlight treatment, let me know.

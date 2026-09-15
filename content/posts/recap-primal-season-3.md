@@ -90,15 +90,10 @@ The season closes years later. Fang's kids are grown. Spear's daughter is a teen
 ### Where we left everyone
 
 *   **Spear:** Fully restored after months as a zombie chasing scraps of memory back to his family. Ends the season healed, human, and watching his daughter grow up alongside Fang's own children.
-    
-*   **Fang:** Spent most of the season hostile toward the zombified Spear before finally accepting him back, then survived the Black River fluid's mutation to keep raising her two kids in Mira's village.
-    
+*   **Fang:** Spent most of the season hostile toward the zombified Spear before finally accepting him back, then survived the Black River fluid's mutation to keep raising her two kids in Mira's village. 
 *   **Mira:** Gave birth to Spear's daughter while he was still lost in the wild, led a rescue mission for Jabu while heavily pregnant, and eventually reunited her whole fractured family for good.
-    
 *   **Jabu:** Rescued from the Andrewsarchus pack thanks to Mira and Fang's kids, and survives the season without any lasting harm.
-    
 *   **The Black River people:** Left behind, likely scattered or dead, after their volcano erupted mid ritual and swallowed most of the arena along with their leader.
-    
 
 * * *
 
@@ -109,9 +104,5 @@ This season is different from the first two, and not entirely in a good way. I l
 The Fang and Spear conflict was the hardest part to sit through, not because it was badly written, but because watching two characters whose bond carried the entire show suddenly hate each other for several episodes is uncomfortable in a way I was not fully prepared for. It works as drama. It is just not fun to watch. Still, none of that makes this a bad season. It is just the weakest of the three so far, sitting a notch below what season 1 and season 2 managed to pull off.
 
 **My rating: 7.9/10**
-
-**Did the Fang and Spear falling out work for you, or did it drag the season down more than it needed to?**
-
-Drop your take in the comments, I want to know if I am alone on this one.
 
 [← Prev: Season 2](https://cineinks.vercel.app/posts/recap-primal-season-2)

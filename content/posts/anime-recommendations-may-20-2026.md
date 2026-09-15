@@ -219,6 +219,4 @@ A masterful blend of Edo-period samurai culture and hip-hop aesthetics that has 
 
 * * *
 
-**Did I miss anything, or did your personal favourite get left out?**
-
-Hit the comments and let me know. And if you have somehow never watched any of these, I envy you. You have a lot of very good evenings ahead of you.
+Each of these shows has something unique to offer, whether it's emotional depth, thrilling action, or mind-bending storytelling. If you haven't seen any of these yet, I highly recommend giving them a watch.

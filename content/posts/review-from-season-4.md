@@ -42,7 +42,3 @@ I hate a character now. The Boy in White can piss off, honestly. He never gives 
 **7.8** out of 10.
 
 Season 4 pulled the show back up after a shakier season 3, with real threats, a plot that kept moving, and residents who finally started talking to each other. The Boy in White knocked some points off for me personally, purely because his whole deal is the opposite of everything the show finally started getting right. Word is season 5 will be the last one, and if that holds, they need to wrap this up well. There is a lot riding on how they land this.
-
-* * *
-
-**Does the Boy in White frustrate anyone else as much as he frustrates me, or am I alone in wanting him to just explain himself once?**

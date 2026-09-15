@@ -60,9 +60,3 @@ I'll also mention **Heated Rivalry** briefly, even though I came into the show h
 Here's what I keep coming back to: queer relationships in media are almost always written with an expiry date on their happiness. The joy is loudest during the forbidden, secret, stolen-moment phase, when being gay is still a source of tension and drama in itself. But the second the characters come out, the second they settle into actually being together? Writers lose the plot. They reach for an affair, a tragedy, an illness, a cheating arc, because apparently two people being gay and in love and doing fine is not a compelling enough story on its own. But it is, and we have seen it done. The excuses are running out.
 
 **I'm tired of bracing myself every time I sit down to watch something. I'm tired of treating hope as a risk.** Queer love stories don't need suffering to feel real. They just need writers who actually believe that queer love is worth something beyond the pain it causes.
-
-* * *
-
-**What queer love stories have you watched that actually got it right?**
-
-Drop them in the comments. I'm building a list and I need recommendations that won't leave me needing recovery time afterward.

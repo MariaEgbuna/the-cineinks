@@ -35,9 +35,3 @@ Just watch BB, then come straight here.
 **My Rating: 8.4**
 
 I think I actually liked this more than Breaking Bad. There, I said it. Watch it if you love deep character work and storytelling that takes its time and means every second of it. Just don't go in expecting a quick ride.
-
-* * *
-
-**Which slow burn did you enjoy more?**
-
-Drop a comment below and let me know if you think Better Call Saul actually managed to outdo Breaking Bad, or if the original is still king.

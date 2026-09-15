@@ -38,9 +38,3 @@ When word gets out, he and his old high school friend Frances find themselves ca
 **My Rating: 8.5.**
 
 Common Side Effects is sharp, weird, and surprisingly moving. If you're into conspiracy thrillers, dark comedy, or animation that actually has something to say, don't sleep on this one. Watch it now so you're caught up when Season 2 finally drops.
-
-* * *
-
-**Did You Sleep on This One Too, or Were You Already a Fan From the Start?**
-
-Drop your thoughts in the comments and let me know what you're hoping to see when Season 2 finally arrives.

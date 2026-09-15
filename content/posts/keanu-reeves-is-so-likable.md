@@ -43,13 +43,7 @@ People love Keanu the person way more than they respect Keanu the actor, and I t
 
 The moment Keanu went from "guy from the Matrix" to "wait, this guy's actually special" for me was the lobby fight in the original John Wick. It's not the most technically impressive sequence in the franchise once you get to Chapter 4, but it's the one where you first feel the shift happen. A grieving man who just lost his dog grabs a gun and starts taking apart a room full of professional killers with brutal efficiency. No quips, no fanfare, just pure controlled fury. It set the tone for everything the franchise became, and it's the scene where you go "oh, this isn't just another action movie, he actually found his role."
 
-### TWC Recommends
+### CineInks Recommends
 
 *   **The Entry Point:** John Wick (2014). The most accessible Keanu performance out there, lean and mean at under two hours, and the film that explains exactly why everyone fell back in love with him in the first place.
 *   **The Deep Cut:** A Scanner Darkly (2006). A rotoscoped animated adaptation of a Philip K. Dick novel about drug addiction and surveillance paranoia, and Keanu is unsettling and sad in it in a way his bigger movies never really let him be. It's strange, it's a little uncomfortable, and it's nothing like the guy you think you know from John Wick.
-
-* * *
-
-**Is Keanu Reeves a great actor we just don't give enough credit, or a guy with limited range who got incredibly lucky with the right roles at the right time?**
-
-I think it's the second one, and I don't think that makes him any less worth watching. Where do you land on it?

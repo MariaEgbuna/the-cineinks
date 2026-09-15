@@ -41,7 +41,3 @@ Also worth noting, for a film made on a budget under a million dollars, it's now
 * * *
 
 _PS: I keep thinking about how differently this story would have gone if Bear had just told Nikki how he felt in the first place. Though I guess that's the whole point, the shortcut is always tempting but it's never actually free._
-
-Do you think you would have immediately picked up on Nikki's weird behavior, if you were in Bear's position?
-
-Comment below and let me know!

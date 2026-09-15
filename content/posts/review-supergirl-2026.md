@@ -36,9 +36,3 @@ I won't lie, I was a little skeptical to watch it. The Twitter discourse around 
 **My Rating: 6.8**
 
 It's a shame this one bombed the way it did, because it didn't deserve the pile-on it got. The box office numbers were bad, reviews were mixed to negative, and Alcock personally took a lot of heat online that had nothing to do with her actual performance. A lot of that heat was about things completely separate from the movie itself, which says more about where the internet is right now than it does about Supergirl. Feels like everything gets torn apart these days regardless of what it actually is. If you skipped this because of the discourse, it's worth a watch now that it's on digital. Go in expecting a solid, average superhero movie carried by a strong lead performance and a villain who does his job well, not a disaster and not a triumph. Just a movie.
-
-* * *
-
-**Did the online backlash change how you went into this one, or did you watch it with an open mind?**
-
-Drop your take below, curious if anyone else came away thinking it got treated worse than it deserved.

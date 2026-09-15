@@ -90,6 +90,4 @@ It is a little predictable and does not land twists the way the other films on t
 
 * * *
 
-**Have you seen any of these?**
-
-Drop a comment below and tell me which one you are adding to your watchlist first. And if you have already seen The Handmaiden and never told me to watch it, we need to talk.
+That's it for this batch. Four films, four very different experiences, and all of them worth your time in their own way.

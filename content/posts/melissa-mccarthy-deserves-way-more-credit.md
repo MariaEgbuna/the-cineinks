@@ -65,13 +65,7 @@ The Sean Spicer sketches are the obvious highlight, and for good reason. She pla
 
 And that's just one bit. She also strapped into Chris Farley's actual jacket for the SNL 40 anniversary special to pay tribute to Matt Foley, going full body into a character that wasn't even hers to begin with, and it worked because that's just how she operates. Give her a wig, a costume, and thirty seconds of screen time, and she'll find a way to make it the moment everyone's talking about on Monday morning.
 
-### TWC Recommends
+### CineInks Recommends
 
 *   **The Entry Point:** Bridesmaids (2011). This is the movie that made the whole world pay attention, and it still holds up as one of the sharpest ensemble comedies of the last fifteen years. Easiest, most rewarding place to start if you want to get the whole McCarthy effect in one sitting.
 *   **The Deep Cut:** Can You Ever Forgive Me? (2018). Skip the jokes entirely for this one. It's quiet, prickly, and kind of sad, and it shows you exactly what McCarthy can do once she strips off the comedic armor completely. If you only know her from big loud studio comedies, this one's going to catch you off guard.
-
-* * *
-
-**Which side of Melissa McCarthy deserves more credit: the comedic chaos or the dramatic restraint?**
-
-Drop your pick in the comments, and if there's a McCarthy performance I slept on, tell me so I can go fix that immediately.

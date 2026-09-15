@@ -48,9 +48,3 @@ The season also ends with another massive cliffhanger, which by this point I exp
 Season 3 is still watchable, still has Victor doing the heavy lifting emotionally, and still ends on a cliffhanger that makes me need the next season immediately. But the pacing issues and the refusal of these characters to just talk to one another are dragging the show down in a way it was not doing in season 1 or 2. I am hoping season 4 course corrects, because the bones of this show are still strong even when the execution slips.
 
 _PS: Kenny is more of a son to Boyd than Ellis will ever be, and I said what I said._
-
-* * *
-
-**Am I wrong for thinking Ellis has wasted his entire arc so far, or does anyone actually rate his storyline this season?**
-
-Tell me if I am being too harsh on him.

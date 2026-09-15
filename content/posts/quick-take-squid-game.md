@@ -66,9 +66,3 @@ But the storytelling takes a real hit. Momentum matters in serialized narrative.
 Yes. Start from Season 1 and watch through Episode 6, the marbles episode, which is one of the best single episodes of television in recent memory. If the show hasn't grabbed you completely by then, it probably won't. If it has, you're finishing it.
 
 The later seasons are imperfect: the release strategy was cynical, the VIPs never worked. But Season 1 alone is some of the best TV of the decade, and Seasons 2 and 3 watched back to back, without the enforced wait, are a better experience than most people who watched them as they aired will give them credit for.
-
-* * *
-
-**Did the ending satisfy you, or do you think the show used up everything it had in Season 1?**
-
-Let me know in the comments. I'm especially curious from anyone who binge-watched the whole thing straight through whether the later seasons felt different that way.

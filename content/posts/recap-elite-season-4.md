@@ -154,8 +154,4 @@ And yet here I am, still watching, still annoyed enough to write all of this, st
 
 **My Rating: 5.3**
 
-**Are there people who have actually finished the show?**
-
-Lemme know in the comments. Am I crazy for still watching?
-
 [← Prev: Season 3](https://cineinks.vercel.app/posts/recap-elite-season-3) [Next: Season 5 →](https://cineinks.vercel.app/posts/recap-elite-season-5)

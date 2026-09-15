@@ -144,8 +144,4 @@ The first half of the season is pretty scattered too, juggling too many threads 
 
 **My Rating: 6.5**
 
-**What did you think of the finale?**
-
-Did Luis as the killer work for you, or were you also convinced it had to be Emilia? And while we're at it, where do you think the show jumped the shark?
-
 [← Prev: Season 7](https://cineinks.vercel.app/posts/recap-elite-season-7)

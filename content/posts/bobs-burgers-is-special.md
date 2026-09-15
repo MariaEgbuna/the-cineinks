@@ -63,6 +63,4 @@ Still, it's annoying as a viewer. You can't really settle into a weekly rhythm w
 
 * * *
 
-At the end of the day I love this show because this family always has each other's back. Always. And sometimes that's really all I want from a TV show. If you haven't watched Bob's Burgers yet, you're genuinely missing out on one of the most wholesome family shows on TV.
-
-**Have you been keeping up with Bob's Burgers, or did you fall off somewhere along the way?** Let me know in the comments which Belcher you'd want running your own burger joint.
+At the end of the day I love this show because this family always has each other's back. Always. And sometimes that's really all I want from a TV show. If you haven't watched Bob's Burgers yet, you're seriously missing out on one of the most wholesome family shows on TV.

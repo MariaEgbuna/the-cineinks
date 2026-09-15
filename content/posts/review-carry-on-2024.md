@@ -40,5 +40,3 @@ This movie is basically the definition of a perfectly average thriller. All the 
 * * *
 
 **Am I being too harsh?**
-
-If you've already seen Carry-On, I want to hear your take. Drop a comment below, especially if you think Taron Egerton was actually the right call.

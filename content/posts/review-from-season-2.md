@@ -46,9 +46,3 @@ The acting issues from season 1 are still around too. I have mostly made peace w
 **8.0** out of 10.
 
 Season 2 still has everything that made me fall for this show in the first place, the dread, the mystery, characters like Victor who keep giving me a reason to care. But the communication problem among the residents genuinely frustrates me at this point, and the pacing in the middle stretch drags in a way season 1 never did. It is still a strong season, just not as tight as the one before it.
-
-* * *
-
-**Am I the only one yelling at Boyd to just talk to Donna already, or does the silence bother you too?**
-
-Tell me I'm not alone on this one.

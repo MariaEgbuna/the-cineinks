@@ -63,6 +63,4 @@ Every fanbase has that group of celebrities everyone loves and you just cannot g
 
 * * *
 
-**So who is on yours?**
-
-The actor or actress you cannot fully explain not liking, nothing to do with talent, just something that never clicked. Drop the name in the comments.
+No hate, no malice, just a simple list. These are the actors I have never been able to get into, and I am not sure I ever will.

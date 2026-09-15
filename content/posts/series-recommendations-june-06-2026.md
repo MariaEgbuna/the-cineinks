@@ -91,6 +91,4 @@ Set on a small, isolated fishing island called Crockett Island, the story follow
 
 * * *
 
-**Which of these four have you already watched, and which one are you adding to your list first?**
-
-Drop your thoughts in the comments, especially if you have strong feelings about the Hellbound Season 3 situation, because I know I am not the only one refreshing for that renewal news.
+_PS: I really hope I get a third season of Hellbound._

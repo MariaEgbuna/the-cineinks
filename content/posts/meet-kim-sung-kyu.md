@@ -47,13 +47,7 @@ For many fans, including me, the moment it truly clicked was The King of Pigs (2
 
 Kim Sung-kyu plays Detective Jung Jong-seok, a man trying to solve a string of mysterious murders that pulls him straight back into memories of violence from his own school days. It's the first major lead role of his career, and he carries it completely. The way he navigates the character's dual timeline, the haunted teenager and the hardened detective, without ever letting the seams show, is exactly the kind of performance that makes you sit back and think: _Why is this man not in every conversation about the best actors working in Korean television right now?_ The series even premiered at the Fantasia International Film Festival in 2022, becoming the first Korean drama series to be shown there. Kim Sung-kyu was the anchor of the whole thing.
 
-### TWC Recommends
+### CineInks Recommends
 
 *   **The Entry Point: Kingdom (2019 - Netflix).** If you haven't watched Kingdom yet, this is your excuse to finally fix that. He's physically explosive, quietly funny in the right moments, and carries an emotional backstory that the show reveals slowly enough to make every new detail hit harder. It's a great introduction to what he does, and it's immediately accessible if you're not yet deep into Korean drama territory.
 *   **The Deep Cut: The King of Pigs (2022 - TVING).** This is the one. Once you're ready to see what he can do when he's fully unleashed in a lead role, go here. It's dark, it's slow-burning, it's psychologically intense, and Kim Sung-kyu is extraordinary in it. The series is adapted from Yeon Sang-ho's cult animated film and it doesn't soften any of the source material's sharp edges. **One Ordinary Day (2021)** is also absolutely worth your time if you want to see him do something a little different before committing to King of Pigs.
-
-* * *
-
-**Are you already a Kim Sung-kyu fan, or is this the first time you're hearing his name?**
-
-Drop your favourite performance of his in the comments below, and if you think there's another deeply underrated Korean actor who deserves the Spotlight treatment, go ahead and make the case.

@@ -66,9 +66,3 @@ And then JLU takes that same foundation and proves it can scale massively withou
 Justice League and Justice League Unlimited are the real deal. Not great for a cartoon. Not impressive given the format. Just great, by any measure, against any standard. The kind of show that makes you mad it took you this long to watch it, and then immediately makes you want to start over from the beginning. The JLU finale does not fully stick the landing and that stings a little for something this good. But everything leading up to it is so strong, so consistent, and so full of genuine craft that the ending is barely a footnote. This is a masterpiece of superhero storytelling and it belongs in the Hall of Fame without any debate whatsoever.
 
 Go watch it. Right now. I am serious.
-
-* * *
-
-**Who was your favourite on the team, and did JLU's massive roster surprise you with anyone you ended up loving?**
-
-Tell me in the comments, and please tell me I'm not the only one who completely underestimated Hawkgirl before this show.

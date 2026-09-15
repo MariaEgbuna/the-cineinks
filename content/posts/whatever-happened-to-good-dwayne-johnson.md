@@ -55,13 +55,11 @@ If one scene sums up where his choices ended up, it's that **Hobbs & Shaw** heli
 
 Most recently, that same instinct to lean on spectacle over substance showed up again with the live action **Moana** remake, where his return as Maui came with a wig so widely mocked online that even Weird Al Yankovic joked about the resemblance to his own hair. Johnson laughed it off publicly, but it's one more project riding on his name instead of earning attention on its own.
 
-### TWC Recommends
+### CineInks Recommends
 
 *   **The Entry Point:** The Game Plan (2007). This is peak _actually likeable Dwayne Johnson_, funny, a little sentimental, and built around him actually acting instead of surviving explosions. Start here if you want to remember why people liked him in the first place.
 *   **The Deep Cut:** The Smashing Machine (2025) strips the whole persona away completely and this was the proof he could still do it when he wanted to. It's quiet, vulnerable, and easily the best thing he's done in years, even if barely anyone watched it in theaters.
 
 * * *
 
-**Do you think Dwayne Johnson still has range in him, or has he leaned so far into the invincible action guy thing that there's no coming back?**
-
-Drop your take in the comments, I want to know if I'm the only one who misses old Dwayne.
+I think Dwayne Johnson still has range in him, but he has to want to use it. He has to want to be more than a brand, and he has to want to be more than a guy who survives things no human should survive. I don't know if he will, but I hope he does.

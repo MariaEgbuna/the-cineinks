@@ -60,9 +60,3 @@ There is also something refreshing about Ma Seok-do as a protagonist in the curr
 ### Final Verdict
 
 I am completely locked into this franchise for life. Watch it if you want high-octane, brutally fun action cinema that never lets up and always delivers. Watch the films in order, because the first two are essential. Power through the third. Let the fourth remind you why you started. With a fifth already confirmed, there is no better time to get caught up.
-
-* * *
-
-**Which film in the franchise hit hardest for you, and are you as hyped for the fifth as I am?**
-
-Drop a comment below. I want to know if you also think the Yakuza crew in No Way Out deserved their own film, because that is an argument I am fully prepared to have.

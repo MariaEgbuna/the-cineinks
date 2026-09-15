@@ -116,8 +116,6 @@ The real question heading into Season 3 is whether the show can hold this kind o
 
 My Rating: **8.5**
 
-**Did Cayetana destroying that evidence also made you furious?**
-
-Drop your take in the comments. And if you somehow feel bad for Polo after all of this, I want to understand your reasoning.
+*PS: Cayetana destroying the evidence made me so furious*
 
 [← Prev: Season 1](https://cineinks.vercel.app/posts/recap-elite-season-1) [Next: Season 3 →](https://cineinks.vercel.app/posts/recap-elite-season-3)

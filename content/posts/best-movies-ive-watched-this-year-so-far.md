@@ -100,9 +100,3 @@ Killer of Killers tells three separate stories across three different eras, a Vi
 I'm a little late getting to this one, but I'm glad I finally did. The Handmaiden is told from multiple perspectives, and without spoiling anything, it's a queer love story that actually gets to have a good ending. That alone makes it worth the watch.
 
 The way the story keeps recontextualizing itself as it unfolds is what makes it unforgettable. I love this movie so much. It's the kind of film that rewards a rewatch almost immediately because you start noticing what was hiding in plain sight the whole time.
-
-* * *
-
-**Have you watched any of these? And more importantly, what's been the best thing you've watched so far this year?**
-
-Drop it in the comments. I'm always looking for the next thing to add to the database.

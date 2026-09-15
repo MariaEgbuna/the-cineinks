@@ -66,5 +66,3 @@ The Planet of the Apes reboot trilogy is one of the best things blockbuster film
 * * *
 
 **These movies have no right being this good, so what is your excuse for sleeping on them?**
-
-Drop your film ranking in the comments and tell me which character surprised you the most. And if you are not emotionally wrecked by the end of War, I genuinely want to know how you managed that.

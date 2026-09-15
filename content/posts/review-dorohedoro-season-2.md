@@ -46,9 +46,3 @@ And here's the best part: we're not waiting another six years for the next one. 
 This season is what happens when a show knows exactly what it wants to be and executes it without hesitation. I have nothing to complain about here. If Season 1 was the setup, Season 2 is the show fully realized.
 
 _PS: This season will have you googling theories and things you missed on your first watch. Don't be surprised if you end up rewatching an episode or three before moving on._
-
-* * *
-
-**Which storyline got you the most this season: the Cross-Eyes, Shin and Noi, or Caiman's past?**
-
-Let me know below, I want to hear the theories.

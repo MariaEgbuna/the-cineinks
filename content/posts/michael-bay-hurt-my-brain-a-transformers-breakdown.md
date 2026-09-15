@@ -110,9 +110,3 @@ Short answer, no. Not the way the MonsterVerse movies did, not the way Attack on
 Part of it is scale. I like Optimus Prime, I like Bumblebee, there's a real charm to these robots across the series. But size wise, they just don't hit the level I want from giant robot media. I'm talking Pacific Rim kaiju scale, Attack on Titan colossal titan scale. Transformers robots don't feel big in a "_this thing could swallow a city block_" way, and that difference matters more to my enjoyment than I expected going in.
 
 Still, not a bad watch overall. The first film earns its reputation. The rest range from fine to forgettable, with Revenge of the Fallen being the clear low point for reasons that go beyond just plot quality.
-
-* * *
-
-**What about you, have you sat through all five of these, and did any of them actually convert you into a fan?**
-
-Or did you also stop at one and never look back. Drop your verdict in the comments.

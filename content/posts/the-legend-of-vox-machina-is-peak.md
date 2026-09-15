@@ -74,9 +74,3 @@ Critically, the show has backed up the hype too. All three completed seasons hol
 I'm putting an unfinished show in the Hall of Fame, and I'm not apologizing for it. Some things don't need a finished story to prove they're great, they just need to keep giving you a reason to trust them every time they come back. Vox Machina has done that four seasons running, and I have zero doubt season five closes it out exactly the way this cast and crew have built it up to.
 
 If you love fantasy with actual heart, characters who feel like people instead of archetypes, and animation that never stops getting more ambitious, this is for you. If you think D&D is just nerds rolling dice in a basement, this is also for you, because it'll change your mind by episode three.
-
-* * *
-
-**Are you caught up on season four, or are you still working through the Briarwoods arc?**
-
-Tell me who your favorite member of Vox Machina is, and don't be shy about defending them in the comments if I didn't give them enough love up there.

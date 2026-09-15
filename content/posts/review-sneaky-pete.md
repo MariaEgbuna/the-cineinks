@@ -35,9 +35,3 @@ The plan? Track down Pete's estranged family, a loud, messy, lovable crew of bai
 **My Rating: 7.1**
 
 Seasons 1 and 2 are great, just stop there. You'll know when Season 3 starts losing you, and when it does, just leave it. Trust me.
-
-* * *
-
-**Did anyone actually push through Season 3 or did you bail too?**
-
-Drop it in the comments. I want to know if I'm alone in this or if we all made the same call.

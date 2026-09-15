@@ -32,7 +32,3 @@ This is the sequel to Ready or Not, the 2019 horror comedy where Grace married i
 **My Rating: 7.7**
 
 This sequel had no business working as well as it does. Taking a tight, one-location premise and blowing it up into a whole council of families with ancestral rules and a "High Seat" could have collapsed into nonsense fast, but it mostly holds together, mainly because Weaving refuses to let it fall apart. Worth it if you loved the chaos and dark comedy of the first one and don't mind the world getting bigger and messier.
-
-* * *
-
-**Did the bigger cult mythology work for you, or did you want something closer to the first film's scale?**

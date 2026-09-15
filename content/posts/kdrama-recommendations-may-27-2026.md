@@ -184,6 +184,4 @@ Song Hye-Kyo plays a woman who spent years methodically constructing a life desi
 
 * * *
 
-**What KDrama has had you in a chokehold lately?**
-
-I know I am not the only one who has fallen down this particular rabbit hole. If you have seen any of these and want to talk about them, the comments are right there. And if you have a hidden gem I missed, especially in the crime thriller space, drop it below because I want to know about it.
+That is my list. I have no doubt that I will be adding to it in the future, but these are the shows that have earned a permanent spot in my memory.

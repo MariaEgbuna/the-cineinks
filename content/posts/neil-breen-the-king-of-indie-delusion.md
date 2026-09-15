@@ -61,7 +61,7 @@ The fact that the films land as accidental comedy doesn't diminish that. If anyt
 
 The staging is chaotic, the delivery is robotic, and your brain just cannot process what it's watching in real time. It's the moment where Fateful Findings stops being just a bad movie and becomes something else entirely, a piece of accidental art that you'll never, ever forget.
 
-### TWC Recommends
+### CineInks Recommends
 
 So you want to enter the world of Neil Breen. Here's your homework:
 
@@ -71,5 +71,3 @@ So you want to enter the world of Neil Breen. Here's your homework:
 * * *
 
 **Do I lose brain cells watching his films? Yes. Do I care? No.**
-
-Have you taken the Neil Breen plunge yet, and if so, did you come out the other side a changed person? Drop your first reaction in the comments, whether it's pure confusion, helpless laughter, or a strange and unexpected respect for the man. And if there's another cult filmmaker you think deserves a Spotlight, let me know.

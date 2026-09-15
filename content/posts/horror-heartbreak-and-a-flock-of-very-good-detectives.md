@@ -62,7 +62,3 @@ This is a (sheep) whodunit mystery. After Backrooms and Hokum I just needed some
 * * *
 
 That's the full ride: a John Wick comfort watch, an Evil Dead franchise that couldn't decide if it wanted to scare me or lose me, two horror movies I actively regret finishing, and a flock of sheep that somehow ended up being the best thing I watched all week. If nothing else, this week proved that horror won't always deliver, but the movie you expect the least from sometimes will.
-
-**What have you seen recently?**
-
-Drop a comment if you disagree with some of my ratings.

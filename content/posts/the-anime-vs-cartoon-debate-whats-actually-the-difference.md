@@ -64,9 +64,3 @@ So no, calling Peppa Pig anime isn't wrong exactly, it's just using a different 
 The real answer nobody wants to hear: **it's all just animation.** Some of it happens to come with subtitles, a specific visual pedigree, and a fanbase ready to throw hands over what you call it.
 
 And look, I say all this as someone who watches plenty of it myself. I'm not trying to dunk on anime fans from the outside, I'm one of the people in the crowd laughing at how seriously this argument gets taken. It's a good bit precisely because there's a real answer buried in there somewhere, it's just wrapped in enough internet passion that nobody can have the conversation calmly.
-
-* * *
-
-**So where do you stand, is anime just Japanese cartoons with better marketing, or is there an actual meaningful difference?**
-
-Drop your take in the comments, and if you've got a favorite "wait, is this technically anime" example, I want to hear it.

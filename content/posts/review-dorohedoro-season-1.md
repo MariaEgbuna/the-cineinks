@@ -44,9 +44,3 @@ That said, I wouldn't call this a real downside. Once the story pulls you in, th
 The story, the characters, the tone, all of it worked together in a way I wasn't expecting going in. I loved almost everything about this season, and the parts that took adjusting turned into strengths by the end. If you haven't watched Dorohedoro yet, this is your sign.
 
 _PS: Noi and Nikaido are the reason I'll be thinking about this show for a while. More buff women in anime, please and thank you._
-
-* * *
-
-**Which of the two is your favorite: Noi or Nikaido?**
-
-Drop your pick below, no wrong answers here.

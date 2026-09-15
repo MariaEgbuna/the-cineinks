@@ -76,9 +76,3 @@ Breaking Bad is genuinely well made, with a clear vision, great performances, an
 But _greatest show ever made?_ That's where things get complicated. Going in with the reputation the internet has built up around this show almost makes the rough early episodes harder to get through, because you're comparing them to a legend they haven't earned yet on screen. 
 
 I think, **the greatest show ever probably shouldn't require you to push through a patience test before it becomes the greatest show ever.** That said, still watch it. Just go in with normal expectations instead of the impossible ones everyone online hands you. Give it until Season 3. Let Gus show up. You'll get it by then. Just don't be surprised if you spend the first couple seasons wondering what the fuss is about. That's completely normal.
-
-* * *
-
-**Did the hype mess with your first watch too?**
-
-Drop a comment and let me know, did you push through the slow start or bail before it got good? And do you think "greatest show ever" is earned here, or is it just internet hyperbole at this point?

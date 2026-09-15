@@ -37,9 +37,3 @@ I found this movie because of a gif on Twitter. Spent way too long scrolling thr
 **My Rating: 7.5.**
 
 If you're into slow, character-driven movies that let things simmer, this one's worth your time. The performances and the emotional honesty carry it even through the slow parts. Just don't go in expecting a typical love story, because that's not what this is.
-
-* * *
-
-**Have you seen Matthias & Maxime?**
-
-Drop your thoughts in the comments. Whether it wrecked you or left you cold, I want to know.

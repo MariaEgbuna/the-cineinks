@@ -48,9 +48,3 @@ Awkwafina should never voice anything ever again, and honestly, I do not want to
 I am putting this in writing so I actually follow through. I have avoided most of the MCU shows for years, the only ones I have actually watched are **WandaVision**, **She-Hulk**, and more recently **Wonder Man**. Everything else I just never cared enough to start. But something has shifted in me lately, and I am genuinely in the mood for superhero content right now, so I am finally going to work through the ones I skipped.
 
 No real strategy yet on where I am starting, I just know the mood has hit and I am not going to fight it this time. Consider this my public commitment to actually finishing what I keep saying I will get to eventually.
-
-* * *
-
-**Which MCU show should I actually start with, and which one should I brace myself for skipping again?**
-
-Drop your recommendation below, I am taking this seriously this time.

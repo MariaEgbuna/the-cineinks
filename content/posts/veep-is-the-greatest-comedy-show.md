@@ -79,9 +79,3 @@ The show also has a thesis beneath all the chaos. Iannucci built Veep on the sam
 ### Final Verdict
 
 If you love sharp writing, flawless performances, and comedy that respects your intelligence enough to never slow down and explain the joke, Veep is the only show you need. It is the greatest comedy ever made, and I do not say that lightly. Seven seasons, no weak links, and an ending that actually earns the finale it gives itself. Go watch it.
-
-* * *
-
-**What do you think, does Veep earn the Hall of Fame label?**
-
-Who was your favorite character, and which insult do you think should go down as the greatest of all time? Let me know in the comments.

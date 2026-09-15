@@ -51,9 +51,3 @@ The dogs, the actual people Kyung-min is hunting, never feel like more than targ
 **9.0** out of 10.
 
 The imbalance in how much depth the leads get versus everyone else keeps this from a perfect score, but everything the show is actually trying to do, it does with total conviction. Twelve episodes, pacing that never lets up, and an ending that refuses to let you feel settled about any of it. That's rare, and it's why this one's stuck with me longer than most.
-
-* * *
-
-**Has this one found you yet, or am I about to ruin your next few evenings?**
-
-Drop a comment below. I need someone else to process the Kim Cheol of it all with.

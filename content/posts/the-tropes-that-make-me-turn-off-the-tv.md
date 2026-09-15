@@ -77,6 +77,4 @@ What both films share is that they lead with a cinematic idea, a specific, delib
 
 * * *
 
-**What are your "hard pass" genres?**
-
-Are there certain types of movies or shows you refuse to watch, even if they are popular or well-reviewed? I am curious whether other people have thought this through as deliberately as I have. Let me know in the comments. I would like to see how many people have a list like mine.
+I am curious whether other people have thought this through as deliberately as I have.

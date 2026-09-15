@@ -101,6 +101,4 @@ They just shat all over a franchise that used to actually mean something, and I 
 
 * * *
 
-**Did any of your least favorites make this list? Or am I about to start a fight in the comments?**
-
-Let me know what you'd add to my worst-of pile. I clearly have room for more disappointment in my life.
+That's the full list (at least for now)

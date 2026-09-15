@@ -33,9 +33,3 @@ What starts as a road rage exchange spirals fast. Tom follows Rachel and her son
 **My Rating: 7.3**
 
 Unhinged isn't trying to be a prestige thriller and it knows it. What it does do is make you tense, make you squirm, and make you check your mirrors on the drive home. Watch it for Crowe. Stay for the chaos.
-
-* * *
-
-**Have you ever had a truly unsettling road rage encounter?**
-
-Drop your story in the comments, the more unhinged the better.

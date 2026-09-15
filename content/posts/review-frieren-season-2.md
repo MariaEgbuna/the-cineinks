@@ -40,7 +40,3 @@ I didn't enjoy this season the way I wanted to, if I'm being real. It dragged fo
 What frustrates me most is that Season 1 proved this show knows exactly how to make quiet moments hit without needing a fight scene to justify them. Season 2 remembers the aesthetic of that but not the substance. The Divine Revolte arc had a strong villain concept, a demon whose whole threat is built around unpredictability, swords that change weight on command, decades of battle experience, an opponent Frieren herself has never seen the likes of. That's a great setup. The show just didn't know what to do with it once the fight was over.
 
 I'm a little hopeful for Season 3, mainly because the manga's Golden Land arc is supposed to be one of the strongest stretches in the whole series, and this season only got as far as scratching the surface of it before the credits rolled. But this one doesn't hold up next to Season 1, and I don't think pretending otherwise does anyone any favors.
-
-**Did the back half feel thin to you too, or am I being too harsh on a season that still had its moments?**
-
-Drop your take in the comments, I want to know if episode eight saved it for you too.

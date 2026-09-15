@@ -62,9 +62,3 @@ Overall, a strong watch. Gyeong-hun and Ro-bin alone make it worth the time, and
 Watch it if you want something that doesn't take itself too seriously but still hits real emotional beats when it wants to. The comedy actually lands, the conspiracy stuff gives the back half real stakes, and even with the romance not fully working for me, it never got in the way of everything else the show was doing right.
 
 I'd love a season 2, but it's Netflix, and with Cha Eun-woo now serving his enlistment, I'm not getting my hopes up anytime soon.
-
-* * *
-
-**Did the romance work for you, or was it just me?**
-
-Drop your take in the comments.

@@ -68,7 +68,3 @@ That's the actual crime here. These remakes assume the audience needs everything
 ### Final Thoughts
 
 Look, I'm not saying every adaptation in history has been garbage. I'm saying the live action well has officially run dry, and instead of admitting that, these studios keep dipping the same empty bucket back into it and acting surprised when nothing comes up. There are original stories, original animated shows, original ideas sitting untouched while executives green light remake number forty seven of something that was already perfect the first time. Leave animation alone. Let it be its own medium instead of treating it like a rough draft for the "real" version.
-
-* * *
-
-**What's the worst live action remake you've sat through, and did anything about it actually work for you?**

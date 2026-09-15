@@ -39,9 +39,3 @@ If you've seen Netflix's Dark and loved how it made your brain work overtime, th
 **My Rating: 9.4**
 
 Caddo Lake is a must-watch. It's beautifully crafted, it respects your intelligence, and it sticks the landing in a way that a lot of mystery thrillers simply don't. Clear your evening, go in knowing as little as possible, and just let it do its thing.
-
-* * *
-
-**Have You Seen Caddo Lake Yet?**
-
-Drop a comment below, especially if you also went in without seeing the trailers. No spoilers though. Let's keep it clean for the people who still have this ahead of them.
