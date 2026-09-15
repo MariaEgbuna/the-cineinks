@@ -1,12 +1,15 @@
 ---
 title: "REVIEW: The King of Pigs."
-slug: "review-the-king-of-pigs"
-date: "2026-05-23T06:49:02.198Z"
-category: "Review"
-labels: ["Review", "KDrama"]
+slug: review-the-king-of-pigs
+date: 2026-05-23T06:49:02.198Z
+category: Review
+labels:
+  - KDrama
+  - Review
 score: 9
-excerpt: "I finished The King of Pigs at some unreasonable hour of the night and just sat there for a while after it ended."
-coverImage: "/images/posts/review-the-king-of-pigs/image-1.jpg"
+excerpt: I finished The King of Pigs at some unreasonable hour of the night and
+  just sat there for a while after it ended.
+coverImage: /images/posts/review-the-king-of-pigs/image-1.jpg
 ---
 
 ![REVIEW: The King of Pigs.](/images/posts/review-the-king-of-pigs/image-1.jpg)
