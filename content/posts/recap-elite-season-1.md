@@ -1,5 +1,5 @@
 ---
-title: "RECAP: Elite Season 1"
+title: Elite Season 1
 slug: recap-elite-season-1
 date: 2026-05-08T10:30:00.000Z
 category: Recap
