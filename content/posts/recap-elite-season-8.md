@@ -1,7 +1,7 @@
 ---
-title: "RECAP: Elite Season 8"
+title: Elite Season 8
 slug: recap-elite-season-8
-date: 2026-06-19T11:34:00Z
+date: 2026-06-19T11:34:00.000Z
 category: Recap
 labels:
   - Recap
