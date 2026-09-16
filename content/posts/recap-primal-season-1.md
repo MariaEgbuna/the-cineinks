@@ -1,12 +1,14 @@
 ---
-title: "RECAP: Primal Season 1"
-slug: "recap-primal-season-1"
-date: "2026-06-26T10:30:00Z"
-category: "Recap"
-labels: ["Recap"]
+title: Primal Season 1
+slug: recap-primal-season-1
+date: 2026-06-26T10:30:00Z
+category: Recap
+labels:
+  - Recap
 score: 9.3
-excerpt: "I randomly saw the trailer for Season 3 and decided to give the show a shot. Ended up binging the first season in one day."
-coverImage: "/images/posts/recap-primal-season-1/image-1.jpg"
+excerpt: I randomly saw the trailer for Season 3 and decided to give the show a
+  shot. Ended up binging the first season in one day.
+coverImage: /images/posts/recap-primal-season-1/image-1.jpg
 ---
 
 ![RECAP: Primal Season 1](/images/posts/recap-primal-season-1/image-1.jpg)
