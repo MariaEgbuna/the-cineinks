@@ -1,7 +1,7 @@
 ---
-title: "RECAP: Elite Season 6"
+title: Elite Season 6
 slug: recap-elite-season-6
-date: 2026-05-28T10:30:00Z
+date: 2026-05-28T10:30:00.000Z
 category: Recap
 labels:
   - Recap
