@@ -66,11 +66,7 @@ function getMainTypeLabel(post: Post): string | undefined {
   );
 }
 
-export function getRelatedPosts(
-  post: Post,
-  allPosts: Post[],
-  limit: number = 3
-): Post[] {
+export function getRelatedPosts(post: Post, allPosts: Post[]): Post[] {
   const mainType = getMainTypeLabel(post);
 
   if (!mainType) return [];
@@ -78,8 +74,7 @@ export function getRelatedPosts(
   return allPosts
     .filter((p) => p.slug !== post.slug)
     .filter((p) => getMainTypeLabel(p)?.toLowerCase() === mainType.toLowerCase())
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-    .slice(0, limit);
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
 export function getSearchablePosts(): SearchablePost[] {
