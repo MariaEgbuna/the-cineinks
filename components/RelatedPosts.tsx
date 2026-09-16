@@ -3,12 +3,19 @@
 import { useState, useEffect } from "react";
 import ArticleCard from "./ArticleCard";
 import type { Post } from "../utils/posts";
-import { formatDate } from "../utils/posts";
 
 type RelatedPostsProps = {
   candidates: Post[];
   limit?: number;
 };
+
+function formatDate(date: string): string {
+  return new Date(date).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  });
+}
 
 export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProps) {
   const [selected, setSelected] = useState<Post[] | null>(null);
