@@ -5,6 +5,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { SITE_URL } from "../utils/site";
 import { getSearchablePosts } from "../utils/posts";
+import { Analytics } from "@vercel/analytics/next";
 
 const instrumentSerif = Instrument_Serif({
   subsets: ["latin"],
@@ -59,6 +60,7 @@ export default function RootLayout({
         <Header searchablePosts={searchablePosts} />
         {children}
         <Footer />
+        <Analytics />
       </body>
     </html>
   );
