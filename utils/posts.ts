@@ -56,24 +56,26 @@ export function formatDate(date: string): string {
   });
 }
 
-function getMainTypeLabel(post: Post): string | undefined {
+function getMatchingLabel(post: Post): string | undefined {
   const mainTypeLabels = categories
     .filter((c) => c.isMainType)
     .map((c) => c.label.toLowerCase());
 
-  return post.labels?.find((label) =>
+  const mainType = post.labels?.find((label) =>
     mainTypeLabels.includes(label.toLowerCase())
   );
+
+  return mainType ?? post.labels?.[0];
 }
 
 export function getRelatedPosts(post: Post, allPosts: Post[]): Post[] {
-  const mainType = getMainTypeLabel(post);
+  const matchingLabel = getMatchingLabel(post);
 
-  if (!mainType) return [];
+  if (!matchingLabel) return [];
 
   return allPosts
     .filter((p) => p.slug !== post.slug)
-    .filter((p) => getMainTypeLabel(p)?.toLowerCase() === mainType.toLowerCase())
+    .filter((p) => getMatchingLabel(p)?.toLowerCase() === matchingLabel.toLowerCase())
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
