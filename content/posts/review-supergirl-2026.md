@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Supergirl (2026)"
+title: "Supergirl (2026) is Overhated"
 slug: "review-supergirl-2026"
 date: "2026-07-29T10:30:00Z"
 category: "Review"

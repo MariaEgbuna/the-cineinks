@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Dorohedoro Season 2"
+title: "Dorohedoro Season 2"
 slug: "review-dorohedoro-season-2"
 date: "2026-08-03T10:30:00Z"
 category: "Review"

@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Frieren Season 2"
+title: "Frieren Season 2"
 slug: "review-frieren-season-2"
 date: "2026-06-24T11:30:00Z"
 category: "Review"

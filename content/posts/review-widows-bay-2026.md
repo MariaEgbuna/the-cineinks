@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Widow's Bay (2026)"
+title: "I Watched Widow's Bay"
 slug: review-widow-bay-2026
 date: 2026-09-15T10:45:00.000+01:00
 category: Review
@@ -21,7 +21,7 @@ Let me explain that mess first, because it's kind of funny in hindsight. Twenty 
 
 ![Cover image](/images/posts/poster-image.jpg)
 
-If you haven't heard of it yet, Widow's Bay is Apple TV's comedy horror series about a small, fictional New England island that may or may not be cursed. The mayor wants to turn it into the next big tourist destination, cappuccino shops and all, and the locals (especially one) keep warning him that's a terrible idea because of the whole centuries-old curse situation. He doesn't listen. Fog rolls in. Church bells ring on their own. People start seeing things that shouldn't be there. It's basically what happens if the mayor from Jaws refused to close the beach, except instead of one shark, you get a whole island's worth of buried secrets clawing their way back to the surface.
+If you haven't heard of it yet, Widow's Bay is 2026 Apple TV's comedy horror series about a small, fictional New England island that may or may not be cursed. The mayor wants to turn it into the next big tourist destination, cappuccino shops and all, and the locals (especially one) keep warning him that's a terrible idea because of the whole centuries-old curse situation. He doesn't listen. Fog rolls in. Church bells ring on their own. People start seeing things that shouldn't be there. It's basically what happens if the mayor from Jaws refused to close the beach, except instead of one shark, you get a whole island's worth of buried secrets clawing their way back to the surface.
 
 The show comes from Katie Dippold, the same writer behind the Ghostbusters remake and a long stretch of Parks and Recreation episodes, and it's directed largely by Hiro Murai, who you might know from his work on Barry and a stack of music videos for Childish Gambino. Widow's Bay has this specific talent for making you laugh right before it makes your skin crawl, sometimes in the same scene. It premiered in April 2026, ran for ten episodes, and the fact that it manages to be both funny and unsettling without either side canceling the other out is the whole magic trick of the show.
 

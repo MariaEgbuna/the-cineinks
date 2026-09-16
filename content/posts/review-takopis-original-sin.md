@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Takopi's Original Sin"
+title: "Takopi's Original Sin"
 slug: "review-takopis-original-sin"
 date: "2026-07-20T08:05:00Z"
 category: "Review"

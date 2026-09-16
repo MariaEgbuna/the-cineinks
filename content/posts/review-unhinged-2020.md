@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Unhinged (2020)"
+title: "Have You Seen Unhinged?"
 slug: "review-unhinged-2020"
 date: "2026-05-11T10:12:00.004Z"
 category: "Review"
@@ -13,7 +13,7 @@ coverImage: "/images/posts/review-unhinged-2020/image-1.jpg"
 
 Unhinged is chasing the same nerve as Duel or The Hitcher: an ordinary drive turning into a nightmare you can't shake.
 
-Unhinged is a thriller directed by Derrick Borte, written by Carl Ellsworth, the same writer behind Disturbia and Red Eye. So if you know those films, you already know the kind of tight, single-premise tension this one is going for. It follows Rachel Flynn (Caren Pistorius), a single mom already having the worst morning of her life, and Tom Cooper (Russell Crowe), the stranger who decides her horn honk at a red light is the final straw.
+Unhinged is a 2020 thriller directed by Derrick Borte, written by Carl Ellsworth, the same writer behind Disturbia and Red Eye. So if you know those films, you already know the kind of tight, single-premise tension this one is going for. It follows Rachel Flynn (Caren Pistorius), a single mom already having the worst morning of her life, and Tom Cooper (Russell Crowe), the stranger who decides her horn honk at a red light is the final straw.
 
 What starts as a road rage exchange spirals fast. Tom follows Rachel and her son home, and from there he doesn't stop, not at her job, lawyer's office, or anyone she cares about. The film treats one bad interaction in traffic as the spark for a full day of escalating terror.
 

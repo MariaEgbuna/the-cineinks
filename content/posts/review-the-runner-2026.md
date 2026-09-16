@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: The Runner (2026)"
+title: "My Thoughts on The Runner (2026)"
 slug: review-the-runner-2026
 date: 2026-09-05T11:30:00.000+01:00
 category: Review

@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Call it Love (2023)"
+title: "Call it Love (2023)"
 slug: review-call-it-love
 date: 2026-09-09T11:37:00.000+01:00
 category: Review

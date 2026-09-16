@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Ready Or Not 2 (2026)"
+title: "Ready Or Not 2 (2026)"
 slug: "review-ready-or-not-2-2026"
 date: "2026-05-11T10:33:00.006Z"
 category: "Review"

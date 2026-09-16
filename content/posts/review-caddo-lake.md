@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Caddo Lake"
+title: "Caddo Lake"
 slug: "review-caddo-lake"
 date: "2026-06-04T15:42:02.745Z"
 category: "Review"

@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Matthias & Maxime"
+title: "Matthias & Maxime"
 slug: "review-matthias-and-maxime"
 date: "2026-06-10T08:30:00Z"
 category: "Review"

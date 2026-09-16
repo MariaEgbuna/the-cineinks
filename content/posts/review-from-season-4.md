@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: FROM Season 4"
+title: "FROM Season 4"
 slug: "review-from-season-4"
 date: "2026-07-31T12:30:00Z"
 category: "Review"

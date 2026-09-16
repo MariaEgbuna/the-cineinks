@@ -1,5 +1,5 @@
 ---
-title: "RECAP: Primal Season 3"
+title: "Primal Season 3"
 slug: "recap-primal-season-3"
 date: "2026-07-08T02:39:10.959Z"
 category: "Recap"

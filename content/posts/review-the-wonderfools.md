@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: The WonderFOOLS"
+title: "The WonderFOOLS"
 slug: review-the-wonderfools
 date: 2026-06-24T10:30:00Z
 category: Review

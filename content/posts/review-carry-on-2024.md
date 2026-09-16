@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Carry On (2024)"
+title: "Carry On (2024)"
 slug: "review-carry-on-2024"
 date: "2026-05-11T10:18:00.007Z"
 category: "Review"

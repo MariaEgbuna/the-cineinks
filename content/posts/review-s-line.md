@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: S Line"
+title: "S Line: When a Show Wastes Its Potential"
 slug: review-s-line
 date: 2026-06-01T10:31:56.116Z
 category: Review

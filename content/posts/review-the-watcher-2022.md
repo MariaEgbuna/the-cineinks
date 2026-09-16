@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: The Watcher (2022)"
+title: "I Did Not Enjoy The Watcher"
 slug: "review-the-watcher-2022"
 date: "2026-08-26T10:30:00Z"
 category: "Review"
@@ -13,7 +13,7 @@ coverImage: "/images/posts/review-the-watcher-2022/image-1.jpg"
 
 A true crime mystery with a great premise, a stacked cast, and somehow still no idea where it's going.
 
-_**The Watcher**_ was created by Ryan Murphy and Ian Brennan for Netflix, and it stars Naomi Watts and Bobby Cannavale as a couple who buy their dream house and start getting threatening letters from someone who signs off as "The Watcher." It's billed as horror and mystery thriller, and it's loosely based on a real unsolved case out of New Jersey.
+_**The Watcher**_ was created by Ryan Murphy and Ian Brennan for Netflix, and it stars Naomi Watts and Bobby Cannavale as a couple who buy their dream house and start getting threatening letters from someone who signs off as "The Watcher." It's a 2022 show billed as horror and mystery thriller, and it's loosely based on a real unsolved case out of New Jersey.
 
 That true story angle is exactly what pulled me in. A family gets stalked by an anonymous letter writer who claims to have been watching the house for generations, and to this day nobody knows who sent those letters. It's a strong premise for a series. In practice, I finished all seven episodes disappointed.
 

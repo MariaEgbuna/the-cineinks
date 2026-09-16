@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: The King of Pigs."
+title: "The King of Pigs is Brutal"
 slug: review-the-king-of-pigs
 date: 2026-05-23T06:49:02.198Z
 category: Review

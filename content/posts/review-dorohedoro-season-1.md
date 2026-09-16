@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Dorohedoro Season 1"
+title: "Dorohedoro Season 1"
 slug: "review-dorohedoro-season-1"
 date: "2026-07-31T19:03:21.141Z"
 category: "Review"

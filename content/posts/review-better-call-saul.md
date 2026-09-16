@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Better Call Saul"
+title: "Better Call Saul"
 slug: "review-better-call-saul"
 date: "2026-05-30T10:51:48.774Z"
 category: "Review"

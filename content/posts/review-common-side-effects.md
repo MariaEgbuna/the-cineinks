@@ -1,5 +1,5 @@
 ---
-title: "REVIEW: Common Side Effects"
+title: "Common Side Effects"
 slug: "review-common-side-effects"
 date: "2026-06-03T10:30:00Z"
 category: "Review"
