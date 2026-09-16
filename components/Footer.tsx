@@ -15,18 +15,7 @@ export default function Footer() {
   return (
     <footer className="bg-ink">
       <div className="max-w-[1600px] mx-auto px-5 py-10">
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 pb-8 border-b border-cream/10">
-          <div>
-            <p className="text-xs text-teal-light font-medium mb-3">Categories</p>
-            <div className="flex flex-col gap-2">
-              {categories.map((item) => (
-                <Link key={item.href} href={item.href} className="text-sm text-cream/60">
-                  {item.label}
-                </Link>
-              ))}
-            </div>
-          </div>
-
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pb-8 border-b border-cream/10">
           <div>
             <p className="text-xs text-teal-light font-medium mb-3">Information</p>
             <div className="flex flex-col gap-2">
