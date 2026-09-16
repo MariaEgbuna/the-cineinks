@@ -25,6 +25,11 @@ export const metadata: Metadata = {
   other: {
     "p:domain_verify": "c8377afcc71ef5f213af8797e73ddc0f",
   },
+  alternates: {
+    types: {
+      "application/rss+xml": "/feed.xml",
+    },
+  },
   openGraph: {
     title: "The CineInks",
     description: "No fancy film degrees here. Just honest takes on what I'm watching or have watched.",
