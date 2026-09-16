@@ -1,7 +1,7 @@
 ---
-title: "RECAP: Elite Season 7"
+title: Elite Season 7
 slug: recap-elite-season-7
-date: 2026-06-08T10:30:00Z
+date: 2026-06-08T10:30:00.000Z
 category: Recap
 labels:
   - Recap
