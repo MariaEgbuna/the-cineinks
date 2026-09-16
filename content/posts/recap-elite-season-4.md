@@ -1,12 +1,14 @@
 ---
-title: "RECAP: Elite Season 4"
-slug: "recap-elite-season-4"
-date: "2026-05-20T06:14:10.494Z"
-category: "Recap"
-labels: ["Recap"]
+title: Elite Season 4
+slug: recap-elite-season-4
+date: 2026-05-20T06:14:10.494Z
+category: Recap
+labels:
+  - Recap
 score: 5.3
-excerpt: "Half the original cast was gone, the internet was already in meltdown mode, and I went in bracing myself. Turns out I wasn't bracing hard enough."
-coverImage: "/images/posts/recap-elite-season-4/image-1.jpg"
+excerpt: Half the original cast was gone, the internet was already in meltdown
+  mode, and I went in bracing myself. Turns out I wasn't bracing hard enough.
+coverImage: /images/posts/recap-elite-season-4/image-1.jpg
 ---
 
 ![RECAP: Elite Season 4](/images/posts/recap-elite-season-4/image-1.jpg)
