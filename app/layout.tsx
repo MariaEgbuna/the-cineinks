@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { SITE_URL } from "../utils/site";
+import { getSearchablePosts } from "../utils/posts";
 
 const instrumentSerif = Instrument_Serif({
   subsets: ["latin"],
@@ -45,10 +46,12 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-   return (
+  const searchablePosts = getSearchablePosts();
+
+  return (
     <html lang="en" className={`${instrumentSerif.variable} ${publicSans.variable}`}>
       <body>
-        <Header />
+        <Header searchablePosts={searchablePosts} />
         {children}
         <Footer />
       </body>

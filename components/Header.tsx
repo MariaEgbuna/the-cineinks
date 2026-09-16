@@ -5,13 +5,19 @@ import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
+import SearchBar from "./SearchBar";
+import type { SearchablePost } from "../utils/posts";
 
 const navItems = [
   { label: "Home", href: "/" },
   ...categories.map((c) => ({ label: c.label, href: `/category/${c.slug}` })),
 ];
 
-export default function Header() {
+type HeaderProps = {
+  searchablePosts: SearchablePost[];
+};
+
+export default function Header({ searchablePosts }: HeaderProps) {
   const pathname = usePathname();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -32,12 +38,7 @@ export default function Header() {
           </Link>
 
           <div className="flex items-center gap-4">
-            <button aria-label="Search" className="text-cream">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <circle cx="11" cy="11" r="8" />
-                <line x1="21" y1="21" x2="16.65" y2="16.65" />
-              </svg>
-            </button>
+            <SearchBar posts={searchablePosts} />
 
             {/* Hamburger toggle, only visible below the md breakpoint */}
             <button

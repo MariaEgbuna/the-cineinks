@@ -18,6 +18,14 @@ export type Post = {
   content: string;
 };
 
+export type SearchablePost = {
+  title: string;
+  slug: string;
+  date: string;
+  category: string;
+  excerpt: string;
+};
+
 export function getAllPosts(): Post[] {
   const filenames = readdirSync(POSTS_DIR).filter((name) => name.endsWith(".md"));
 
@@ -72,4 +80,14 @@ export function getRelatedPosts(
     .filter((p) => getMainTypeLabel(p)?.toLowerCase() === mainType.toLowerCase())
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
     .slice(0, limit);
+}
+
+export function getSearchablePosts(): SearchablePost[] {
+  return getAllPosts().map((post) => ({
+    title: post.title,
+    slug: post.slug,
+    date: post.date,
+    category: post.category,
+    excerpt: post.excerpt,
+  }));
 }
