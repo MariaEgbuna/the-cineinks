@@ -1,12 +1,14 @@
 ---
-title: "RECAP: Elite Season 2"
-slug: "recap-elite-season-2"
-date: "2026-05-12T10:30:00Z"
-category: "Recap"
-labels: ["Recap"]
+title: Elite Season 2
+slug: recap-elite-season-2
+date: 2026-05-12T10:30:00Z
+category: Recap
+labels:
+  - Recap
 score: 8.5
-excerpt: "Season 2 picks up directly from season 1 and doesn't let you forget for one second how completely rigged the whole thing was."
-coverImage: "/images/posts/recap-elite-season-2/image-1.jpg"
+excerpt: Season 2 picks up directly from season 1 and doesn't let you forget for
+  one second how completely rigged the whole thing was.
+coverImage: /images/posts/recap-elite-season-2/image-1.jpg
 ---
 
 ![RECAP: Elite Season 2](/images/posts/recap-elite-season-2/image-1.jpg)
