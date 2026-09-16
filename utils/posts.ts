@@ -1,6 +1,7 @@
 import { readdirSync, readFileSync } from "fs";
 import path from "path";
 import matter from "gray-matter";
+import { categories } from "./categories";
 
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
 
@@ -45,4 +46,30 @@ export function formatDate(date: string): string {
     day: "numeric",
     year: "numeric",
   });
+}
+
+function getMainTypeLabel(post: Post): string | undefined {
+  const mainTypeLabels = categories
+    .filter((c) => c.isMainType)
+    .map((c) => c.label.toLowerCase());
+
+  return post.labels?.find((label) =>
+    mainTypeLabels.includes(label.toLowerCase())
+  );
+}
+
+export function getRelatedPosts(
+  post: Post,
+  allPosts: Post[],
+  limit: number = 3
+): Post[] {
+  const mainType = getMainTypeLabel(post);
+
+  if (!mainType) return [];
+
+  return allPosts
+    .filter((p) => p.slug !== post.slug)
+    .filter((p) => getMainTypeLabel(p)?.toLowerCase() === mainType.toLowerCase())
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .slice(0, limit);
 }

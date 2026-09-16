@@ -2,11 +2,12 @@ import React from "react";
 import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { getAllPosts, getPostBySlug } from "../../../utils/posts";
+import { getAllPosts, getPostBySlug, getRelatedPosts, formatDate } from "../../../utils/posts";
 import { scoreColor } from "../../../utils/scoreColor";
 import { Metadata } from "next";
 import { SITE_URL } from "../../../utils/site";
 import MarkdownImage from "../../../components/MarkdownImage";
+import ArticleCard from "../../../components/ArticleCard";
 
 type MarkdownImageComponent = React.ComponentType<React.ImgHTMLAttributes<HTMLImageElement>>;
 
@@ -51,6 +52,10 @@ export default async function PostPage({ params }: PageProps) {
   const post = getPostBySlug(slug);
 
   if (!post) notFound();
+
+  // Needed to find other posts that share this post's main type label.
+  const allPosts = getAllPosts();
+  const relatedPosts = getRelatedPosts(post, allPosts);
 
   const formattedDate = new Date(post.date).toLocaleDateString("en-US", {
     month: "long",
@@ -123,6 +128,28 @@ export default async function PostPage({ params }: PageProps) {
           </ReactMarkdown>
         </div>
       </section>
+
+      {relatedPosts.length > 0 && (
+        <section className="bg-cream border-t border-black/5">
+          <div className="max-w-[900px] mx-auto px-5 py-10">
+            <h2 className="font-serif text-2xl text-ink mb-5">Related Posts</h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {relatedPosts.map((related) => (
+                <ArticleCard
+                  key={related.slug}
+                  slug={related.slug}
+                  coverImage={related.coverImage}
+                  category={related.category}
+                  score={related.score}
+                  title={related.title}
+                  excerpt={related.excerpt}
+                  date={formatDate(related.date)}
+                />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </main>
   );
 }
