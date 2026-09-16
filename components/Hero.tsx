@@ -47,7 +47,7 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
             <h1 className="font-serif text-2xl md:text-3xl text-cream leading-snug mb-2">
               {featuredPost.title}
             </h1>
-            <p className="text-sm text-cream/70 leading-relaxed line-clamp-2 md:line-clamp-none">
+            <p className="text-sm text-cream/70 leading-relaxed md:line-clamp-none">
               {featuredPost.excerpt}
             </p>
           </div>
