@@ -1,6 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
-import type { Post } from "../utils/posts";
 
 const categories = [
   { label: "Movies", href: "/category/movies" },
@@ -47,33 +45,7 @@ export default function Footer({ recentPosts }: FooterProps) {
               </Link>
             </div>
           </div>
-
-          <div>
-            <p className="text-xs text-teal-light font-medium mb-3">Recent Posts</p>
-            <div className="flex flex-col gap-3">
-              {recentPosts.map((post) => (
-                <Link
-                  key={post.slug}
-                  href={`/posts/${post.slug}`}
-                  className="flex gap-2.5 items-center"
-                >
-                  <div className="relative w-8 h-8 bg-white/10 rounded shrink-0 overflow-hidden">
-                    {post.coverImage && (
-                      <Image
-                        src={post.coverImage}
-                        alt={post.title}
-                        fill
-                        sizes="32px"
-                        className="object-cover"
-                      />
-                    )}
-                  </div>
-                  <p className="text-sm text-cream/60 leading-snug">{post.title}</p>
-                </Link>
-              ))}
-            </div>
-          </div>
-
+          
           <div>
             <p className="text-xs text-teal-light font-medium mb-3">Come Say Hi</p>
             <p className="text-sm text-cream/60 mb-4">
