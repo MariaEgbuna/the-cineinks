@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
+import type { Post } from "../utils/posts";
 
 const categories = [
   { label: "Movies", href: "/category/movies" },
@@ -11,11 +13,15 @@ const categories = [
   { label: "Extra", href: "/category/extra" },
 ];
 
-export default function Footer() {
+type FooterProps = {
+  recentPosts: Post[];
+};
+
+export default function Footer({ recentPosts }: FooterProps) {
   return (
     <footer className="bg-ink">
       <div className="max-w-[1600px] mx-auto px-5 py-10">
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pb-8 border-b border-cream/10">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 pb-8 border-b border-cream/10">
           <div>
             <p className="text-xs text-teal-light font-medium mb-3">Categories</p>
             <div className="flex flex-col gap-2">
@@ -39,6 +45,65 @@ export default function Footer() {
               <Link href="/privacy-policy" className="text-sm text-cream/60">
                 Privacy Policy
               </Link>
+            </div>
+          </div>
+
+          <div>
+            <p className="text-xs text-teal-light font-medium mb-3">Recent Posts</p>
+            <div className="flex flex-col gap-3">
+              {recentPosts.map((post) => (
+                <Link
+                  key={post.slug}
+                  href={`/posts/${post.slug}`}
+                  className="flex gap-2.5 items-center"
+                >
+                  <div className="relative w-8 h-8 bg-white/10 rounded shrink-0 overflow-hidden">
+                    {post.coverImage && (
+                      <Image
+                        src={post.coverImage}
+                        alt={post.title}
+                        fill
+                        sizes="32px"
+                        className="object-cover"
+                      />
+                    )}
+                  </div>
+                  <p className="text-sm text-cream/60 leading-snug">{post.title}</p>
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <p className="text-xs text-teal-light font-medium mb-3">Come Say Hi</p>
+            <p className="text-sm text-cream/60 mb-4">
+              No fancy film degrees here, just honest takes. Follow along.
+            </p>
+            <div className="flex gap-4">
+              <a
+                href="https://www.instagram.com/eagercricket/"
+                target="_blank"
+                rel="noopener"
+                aria-label="Instagram"
+                className="text-cream/60"
+              >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <rect x="3" y="3" width="18" height="18" rx="5" />
+                  <circle cx="12" cy="12" r="4" />
+                  <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
+                </svg>
+              </a>
+              <a
+                href="https://x.com/eagercricket"
+                target="_blank"
+                rel="noopener"
+                aria-label="Twitter"
+                className="text-cream/60"
+              >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
+                </svg>
+              </a>
             </div>
           </div>
         </div>
