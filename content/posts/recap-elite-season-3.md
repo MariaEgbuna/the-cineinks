@@ -1,12 +1,14 @@
 ---
-title: "RECAP: Elite Season 3"
-slug: "recap-elite-season-3"
-date: "2026-05-14T11:15:13.863Z"
-category: "Recap"
-labels: ["Recap"]
+title: Elite Season 3
+slug: recap-elite-season-3
+date: 2026-05-14T11:15:13.863Z
+category: Recap
+labels:
+  - Recap
 score: 7.4
-excerpt: "Season 3 is basically a season-long autopsy of a tragedy that was set in motion the moment Marina died back in Season 1."
-coverImage: "/images/posts/recap-elite-season-3/image-1.jpg"
+excerpt: Season 3 is basically a season-long autopsy of a tragedy that was set
+  in motion the moment Marina died back in Season 1.
+coverImage: /images/posts/recap-elite-season-3/image-1.jpg
 ---
 
 ![RECAP: Elite Season 3](/images/posts/recap-elite-season-3/image-1.jpg)
