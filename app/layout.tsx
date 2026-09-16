@@ -4,7 +4,7 @@ import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { SITE_URL } from "../utils/site";
-import { getAllPosts, getSearchablePosts } from "../utils/posts";
+import { getSearchablePosts } from "../utils/posts";
 import { Analytics } from "@vercel/analytics/next";
 
 const instrumentSerif = Instrument_Serif({
@@ -52,16 +52,14 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const allPosts = getAllPosts();
   const searchablePosts = getSearchablePosts();
-  const recentPosts = allPosts.slice(0, 4);
 
   return (
     <html lang="en" className={`${instrumentSerif.variable} ${publicSans.variable}`}>
       <body>
         <Header searchablePosts={searchablePosts} />
         {children}
-        <Footer recentPosts={recentPosts} />
+        <Footer />
         <Analytics />
       </body>
     </html>
