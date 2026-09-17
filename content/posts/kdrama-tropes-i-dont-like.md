@@ -57,4 +57,4 @@ Then there's **the suspicious IV drip tampering**, which might be even more ridi
 
 There are probably more tropes I've forgotten about, ones I've just started accepting automatically that they don't even register as annoying anymore. But these are the ones sitting closest to the surface for me right now. I hold out hope that someday, especially in the romance genre specifically, writers will trust their characters enough to let a relationship develop without leaning on the same six moves every single time. Until then, I'll keep watching anyway, complaining the whole way through, because apparently that's just part of the deal now.
 
-*PS: I've only seen clips of Boys Over Flowers on Youtube, and boy am I glad I never the full show.*
+*PS: I've only seen clips of Boys Over Flowers on Youtube, and boy am I glad I never watched the show.*
