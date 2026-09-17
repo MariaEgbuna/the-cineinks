@@ -28,4 +28,14 @@ Two reasons. The old Blogger setup had some serious indexing problems, pages jus
 - A CMS ([Decap](https://decapcms.org)) so I can actually write and publish posts without touching code
 - Vercel Web Analytics for basic visitor and page view tracking
 
+## Random fixes and tweaks along the way
+
+Small stuff I ran into and sorted out, keeping track mostly for myself:
+
+- CMS Category dropdown kept showing blank even though the post had a value saved. Dropdown only allowed a few hardcoded options and the real value wasn't one of them.
+- Noticed Google wasn't indexing a chunk of pages. Turned out some of my multi-season recap/review posts (Elite, From, Primal, Dorohedoro) all had near-identical titles like "Recap: Elite Season 4," which probably read as repetitive, low-value content to Google. Rewrote all of them with actual opinions baked into the title instead, plus new slugs to match.
+- Related posts kept showing the exact same three every time. Apparently I only had 4 posts in that category, so there was nothing left to shuffle. Not a bug.
+- Featured post excerpt was invisible on some cover images. Was rendering fine, there was just no contrast between light images and the text sitting on top. Added a gradient overlay.
+- Hero looked great on desktop, broke on mobile, text was overflowing past the image. Will try to rework the aspect ratio specifically for smaller screens.
+
 More to come as I keep working on this.
