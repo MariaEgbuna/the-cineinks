@@ -14,7 +14,7 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
       <div className="max-w-[1600px] mx-auto px-5 py-6 grid grid-cols-1 md:grid-cols-[1.7fr_1fr] gap-5">
         <Link
           href={`/posts/${featuredPost.slug}`}
-          className="relative block bg-white/5 rounded-xl aspect-[3/4] md:aspect-[16/9] p-5 flex flex-col justify-end overflow-hidden"
+          className="relative block bg-white/5 rounded-xl aspect-[4/3] md:aspect-[16/9] p-5 flex flex-col justify-end overflow-hidden"
         >
           {featuredPost.coverImage && (
             <Image
