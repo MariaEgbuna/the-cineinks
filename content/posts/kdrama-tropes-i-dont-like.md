@@ -5,6 +5,7 @@ date: 2026-09-17T15:30:00.000+01:00
 category: Extra
 labels:
   - KDrama
+score: null
 excerpt: I say this as someone who genuinely loves the genre, and is not looking
   for a reason to hate on it.
 coverImage: /images/posts/cover-image-1-.jpg

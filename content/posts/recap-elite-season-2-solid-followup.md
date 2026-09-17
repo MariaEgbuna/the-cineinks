@@ -1,5 +1,5 @@
 ---
-title: "Elite Season 2 Was a Solid"
+title: "Elite Season 2 Was Solid"
 slug: "recap-elite-season-2-solid-followup"
 date: 2026-05-12T10:30:00Z
 category: Recap
