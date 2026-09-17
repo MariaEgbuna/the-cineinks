@@ -8,7 +8,7 @@ This used to live on Blogger, under the name "The Watchlist Chronicles." I decid
 
 ## Why I rebuilt it
 
-Two reasons. The old Blogger setup had real indexing problems, pages just weren't getting crawled or found on Google. And I wanted something real to show for my front-end skills, not just a template.
+Two reasons. The old Blogger setup had some serious indexing problems, pages just weren't getting crawled or found on Google. And I wanted something real to show for my front-end skills, not just a template.
 
 ## Built with
 
