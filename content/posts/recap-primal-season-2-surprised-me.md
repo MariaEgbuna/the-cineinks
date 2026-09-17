@@ -1,6 +1,6 @@
 ---
-title: "Primal Season 2"
-slug: "recap-primal-season-2"
+title: "Primal Season 2 Surprised Me"
+slug: "recap-primal-season-2-surprised-me"
 date: "2026-07-01T10:30:00Z"
 category: "Recap"
 labels: ["Recap"]

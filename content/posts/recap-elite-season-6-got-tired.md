@@ -1,6 +1,6 @@
 ---
-title: Elite Season 6
-slug: recap-elite-season-6
+title: "I Got Tired Of Watching Elite Season 6"
+slug: "recap-elite-season-6-got-tired"
 date: 2026-05-28T10:30:00.000Z
 category: Recap
 labels:

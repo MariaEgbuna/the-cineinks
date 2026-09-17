@@ -1,6 +1,6 @@
 ---
-title: "FROM Season 2"
-slug: "review-from-season-2"
+title: "From Season 2 Is Getting Repetitive, But Still Good"
+slug: "review-from-season-2-still-good"
 date: "2026-07-24T10:30:00Z"
 category: "Review"
 labels: ["Review", "Series"]

@@ -1,6 +1,6 @@
 ---
-title: "Dorohedoro Season 1"
-slug: "review-dorohedoro-season-1"
+title: "Underrated — That's Dorohedoro Season 1"
+slug: "review-dorohedoro-season-1-underrated"
 date: "2026-07-31T19:03:21.141Z"
 category: "Review"
 labels: ["Anime", "Review"]

@@ -1,6 +1,6 @@
 ---
-title: Elite Season 4
-slug: recap-elite-season-4
+title: "Awful. Just Awful. That's Elite Season 4"
+slug: "recap-elite-season-4-awful"
 date: 2026-05-20T06:14:10.494Z
 category: Recap
 labels:

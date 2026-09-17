@@ -1,6 +1,6 @@
 ---
-title: "Primal Season 3"
-slug: "recap-primal-season-3"
+title: "I Didn't Need Primal Season 3, But I Enjoyed It Anyway"
+slug: "recap-primal-season-3-wasnt-needed"
 date: "2026-07-08T02:39:10.959Z"
 category: "Recap"
 labels: ["Recap"]

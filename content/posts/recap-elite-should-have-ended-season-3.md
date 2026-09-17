@@ -1,6 +1,6 @@
 ---
-title: Elite Season 3
-slug: recap-elite-season-3
+title: "This Should've Been Elite's Final Season"
+slug: "recap-elite-should-have-ended-season-3"
 date: 2026-05-14T11:15:13.863Z
 category: Recap
 labels:

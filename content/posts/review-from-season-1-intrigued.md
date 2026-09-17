@@ -1,6 +1,6 @@
 ---
-title: "FROM Season 1"
-slug: "review-from-season-1"
+title: "I'm Intrigued By From Season 1"
+slug: "review-from-season-1-intrigued"
 date: "2026-07-22T10:30:00Z"
 category: "Review"
 labels: ["Review", "Series"]

@@ -1,6 +1,6 @@
 ---
-title: Elite Season 8
-slug: recap-elite-season-8
+title: "I Can't Even Call Elite Season 8 A Finale"
+slug: "recap-elite-season-8-not-a-finale"
 date: 2026-06-19T11:34:00.000Z
 category: Recap
 labels:

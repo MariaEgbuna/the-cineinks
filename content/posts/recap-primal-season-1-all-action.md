@@ -1,6 +1,6 @@
 ---
-title: Primal Season 1
-slug: recap-primal-season-1
+title: "No Words, All Action — Primal Season 1"
+slug: "recap-primal-season-1-all-action"
 date: 2026-06-26T10:30:00Z
 category: Recap
 labels:

@@ -1,6 +1,6 @@
 ---
-title: Elite Season 7
-slug: recap-elite-season-7
+title: "I Actually Enjoyed Elite Season 7"
+slug: "recap-elite-season-7-actually-enjoyed"
 date: 2026-06-08T10:30:00.000Z
 category: Recap
 labels:

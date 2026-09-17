@@ -1,6 +1,6 @@
 ---
-title: Elite Season 5
-slug: recap-elite-season-5
+title: "Elite Season 5: Weak and Forgettable"
+slug: "recap-elite-season-5-weak"
 date: 2026-05-21T09:29:40.516Z
 category: Recap
 labels:

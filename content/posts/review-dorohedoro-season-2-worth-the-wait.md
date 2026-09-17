@@ -1,6 +1,6 @@
 ---
-title: "Dorohedoro Season 2"
-slug: "review-dorohedoro-season-2"
+title: "Dorohedoro's Second Season Was Worth The Wait"
+slug: "review-dorohedoro-season-2-worth-the-wait"
 date: "2026-08-03T10:30:00Z"
 category: "Review"
 labels: ["Anime", "Review"]

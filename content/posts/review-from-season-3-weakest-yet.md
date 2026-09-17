@@ -1,6 +1,6 @@
 ---
-title: "FROM Season 3"
-slug: "review-from-season-3"
+title: "The Weakest Season Of From Yet"
+slug: "review-from-season-3-weakest-yet"
 date: "2026-07-27T10:00:00Z"
 category: "Review"
 labels: ["Review", "Series"]

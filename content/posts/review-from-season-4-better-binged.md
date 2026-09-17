@@ -1,6 +1,6 @@
 ---
-title: "FROM Season 4"
-slug: "review-from-season-4"
+title: "Binge From Season 4, Don't Watch It Weekly"
+slug: "review-from-season-4-better-binged"
 date: "2026-07-31T12:30:00Z"
 category: "Review"
 labels: ["Review", "Series"]
