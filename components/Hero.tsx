@@ -26,7 +26,7 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
               className="object-cover"
             />
           )}
-          {/* Dark gradient so title and excerpt stay readable regardless
+          {/* Dark gradient so the title stays readable regardless
               of how light or busy the underlying cover image is. */}
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
 
@@ -44,12 +44,9 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
             <span className="inline-block bg-teal text-teal-light text-xs px-2.5 py-1 mb-3">
               {featuredPost.category}
             </span>
-            <h1 className="font-serif text-2xl md:text-3xl text-cream leading-snug mb-2">
+            <h1 className="font-serif text-2xl md:text-3xl text-cream leading-snug">
               {featuredPost.title}
             </h1>
-            <p className="text-sm text-cream/70 leading-relaxed line-clamp-3 md:line-clamp-none">
-              {featuredPost.excerpt}
-            </p>
           </div>
         </Link>
 
