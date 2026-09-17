@@ -21,7 +21,11 @@ Two reasons. The old Blogger setup had some serious indexing problems, pages jus
 - Custom design system built from scratch (no templates)
 - All 68 posts migrated from Blogger, including a script to convert the old export into clean Markdown with self-hosted, compressed images
 - Individual post pages, category pages, and paginated archive pages
+- Related posts on every article, matched by shared label and randomized on each visit
+- Site-wide search in the header, filtering by title and excerpt
+- An RSS feed at `/feed.xml`
 - Sitemap, robots.txt, per-page metadata, Open Graph tags, and structured data for review scores, verified with Google's Rich Results Test
 - A CMS ([Decap](https://decapcms.org)) so I can actually write and publish posts without touching code
+- Vercel Web Analytics for basic visitor and page view tracking
 
 More to come as I keep working on this.
