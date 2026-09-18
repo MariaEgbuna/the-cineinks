@@ -26,6 +26,8 @@ This is the sequel to Ready or Not, the 2019 horror comedy where Grace married i
 
 *   **Kathryn Newton feels a bit stiff next to Weaving.** Faith is supposed to be the emotional counterweight here, the sister with history and baggage, but Newton's delivery doesn't always match the intensity the scene needs. Standing next to someone as committed as Weaving makes that gap more obvious than it would be on its own.
 *   **Sarah Michelle Gellar deserved so much more.** Ursula had real potential as a rival with her own fears about her twin brother, and there's a scene late in the film where she actually opens up about it. Then the script kills her off almost immediately after, before that thread gets to go anywhere. Feels like a waste of a good actor and a good setup.
+ 
+---
 
 ### Final rating and overall thoughts
 

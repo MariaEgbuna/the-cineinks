@@ -17,6 +17,8 @@ Season 4 of **From** premiered in April 2026, and thank heavens, it was actually
 
 _This post contains spoilers for season 4._
 
+---
+
 ### The Plot
 
 The season opens with a new arrival throwing the town into chaos, while Jade and Tabitha are still reeling from what they learned at the Bottle Tree, and Boyd has to sit with what Smiley's return actually means for everyone. It does not take long before a gruesome discovery sends the whole town into a panic, and Jade and Tabitha keep carrying the weight of their revelation through the early episodes. Boyd tries to talk Acosta back from the edge while Julie starts digging into a set of abilities she is only beginning to understand, and Tabitha takes a desperate gamble that puts her right in the middle of the danger.
@@ -37,7 +39,9 @@ The plot itself was strong from start to finish. Things actually moved, decision
 
 I hate a character now. The Boy in White can piss off, honestly. He never gives straight answers, he just shows up whenever the residents are trying to make an actual plan and goes "don't do this" or "don't do that" without a single word of explanation. Tell us why! He cannot keep appearing every time people are trying to figure something out and shutting it down with zero context. It is maddening to watch characters who have earned a little trust from me get undermined by a figure who refuses to just communicate, of all things, in a season that was otherwise doing so much better with that exact issue.
 
-### Rating
+---
+
+### Final Verdict
 
 **7.8** out of 10.
 

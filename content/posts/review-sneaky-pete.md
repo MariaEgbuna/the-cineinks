@@ -29,6 +29,8 @@ The plan? Track down Pete's estranged family, a loud, messy, lovable crew of bai
 *   **Season 3 is bad. Like, disappointing bad.** The plot gets bloated, the character work feels rushed and inconsistent, and the tight focus that made the first two seasons so good just disappears. The acting is still solid but the writing isn't there, and at some point I just tapped out.
 *   **It got cancelled and I found out too late.** Already struggling to care and when I found out the show got axed in 2019, that sealed it for me. Closed the tab and never looked back.
 *   **Some plot points ask a lot of you.** This is a con man show so a certain amount of "okay I'll buy it" is part of the deal. But there are moments, especially later on, where the writing leans a little too hard on convenient coincidences to keep things moving.
+ 
+---
 
 ### Final Verdict
 

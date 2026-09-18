@@ -15,7 +15,7 @@ I don't need a trailer or the reviews or for someone to tell me the CGI looks a 
 
 This is not a review of any single film; it's a defense of an entire way of watching. Because spectacle gets treated like a guilty pleasure, something you are supposed to outgrow or apologize for once you have developed more sophisticated taste. I'm not here to do that.
 
-* * *
+---
 
 ### The Obsession Has an Origin Story
 
@@ -63,8 +63,12 @@ You know the scene, episode one of season one, where the Colossal Titan peers ov
 
 I was awed, and it's the exact feeling I have been chasing since I was a kid going very still in front of a screen for reasons I could not yet explain.
 
+---
+
 ### The Part Where I Justify All of This With Psychology
 
 This reaction has a name, and it is older than cinema. In 1757, Edmund Burke wrote about why certain experiences produce a feeling that's not quite fear or pleasure but sits somewhere between both. He called it **The Sublime**. His argument was that it happens when something is so vast or powerful that it overwhelms your ability to fully process it; your brain hits a limit and goes quiet. Burke was thinking about mountains and thunderstorms, I just happen to experience the exact same thing watching a fictional radioactive lizard level a city.
 
-We created fictional creatures to trigger this on demand and built cinemas to deliver it at maximum volume and scale. And I will always show up for it. Every single time.
+We created fictional creatures to trigger this on demand and built cinemas to deliver it at maximum volume and scale. And I will always show up for it. 
+
+Every single time.

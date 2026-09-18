@@ -15,7 +15,7 @@ She's also one of the few comedic actors alive who can turn around and gut you i
 
 Today's Spotlight is about why that mix is so rare, and why nobody's giving her enough credit for it these days.
 
-* * *
+---
 
 ### She Has No Off Switch
 
@@ -64,6 +64,8 @@ I can't talk about McCarthy and skip her SNL work, because that's some of the fu
 The Sean Spicer sketches are the obvious highlight, and for good reason. She played then-White House Press Secretary Sean Spicer as a sweaty, unhinged mess barreling through a press conference, chasing reporters around with his podium on wheels, pulling out prop boxes to spell out his points, and at one point spraying a reporter with a literal water gun mid-rant. It's absurd, it's mean in exactly the right way, and it's built entirely on the same fearless physical commitment that makes her movie work so good. She didn't just do an impression. She turned a press briefing into a full blown chase scene and made it look easy.
 
 And that's just one bit. She also strapped into Chris Farley's actual jacket for the SNL 40 anniversary special to pay tribute to Matt Foley, going full body into a character that wasn't even hers to begin with, and it worked because that's just how she operates. Give her a wig, a costume, and thirty seconds of screen time, and she'll find a way to make it the moment everyone's talking about on Monday morning.
+
+---
 
 ### CineInks Recommends
 

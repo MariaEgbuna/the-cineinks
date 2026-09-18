@@ -51,6 +51,8 @@ At home, Joel receives a package from Ivan: a full scholarship offer to Las Enci
 
 When Joel shows up to register, Ivan's thrilled to show him around, and Omar turns up too, finally accepting the internship offer to help run the school's app. Maria and Roberta agree to let Didac stay, which Luis calls the right call. The episode ends on a gut punch: Luis, revealed to be an undercover cop, pinning Didac's photo up on an investigation board.
 
+---
+
 ### The twists and the escalation
 
 The school's anonymous app becomes a weapon almost immediately, students piling onto Didac while Omar quietly spirals, unsettled by how close Ivan and Joel have gotten and increasingly convinced therapy isn't helping. He has a panic attack reliving the night Samuel died. Ivan, oblivious to any of that tension, buys Joel a suit for an upcoming race, and their flirtation deepens fast enough that when Omar finally meets Joel in person, Ivan introduces him as his boyfriend, and the moment was a little awkward for everyone.
@@ -72,6 +74,8 @@ As Omar recovers, Sara pulls Chloe further into her scheme, using her to help st
 Sara turns on Chloe publicly not long after, throwing her under the bus to protect her own image, and it fractures whatever fragile trust they'd built. Isadora, manipulated by her father into signing off on an eviction she doesn't realize targets her own friends' building, is eventually talked back from it by Didac, who pushes her to see through the scam before real damage is done. Sara, cornered by Raul, finally turns the tables and threatens mutual destruction if he goes to the police, forcing an uneasy standoff between them. Eric's spiral bottoms out in an incident that ends with an ultimatum from Nico's family, therapy or nothing, while Carmen quietly begs Ivan to keep what happened between them secret, unaware Chloe's already overheard everything.
 
 By the final stretch of this run, everything's converging. Omar, finally choosing himself, moves out and back in with his own parents, leaving Joel behind in tears over an empty room. Ivan and Joel commit to each other for real. Isadora, growing suspicious of Didac, secretly installs cameras and catches him photographing documents meant to expose her family, the exact betrayal Luis had quietly been engineering all along. And Ivan, done being used, finally confronts Carmen directly, coldly negotiating a two million euro payout in exchange for cutting all ties for good, unaware of just how much more complicated the truth of who she really is to him might still become.
+
+---
 
 ### How it all wraps up
 
@@ -125,6 +129,8 @@ The season closes on the fallout. Nico brings Eric home to his parents' relief. 
 ### What worked
 
 Eric stole the show this season. His mental health arc gets more room to breathe than almost anything else here, and it hits because the writing treats it seriously rather than as a shock beat. Ivan handled himself with real maturity this season too, especially given everything he's been carrying since Cruz died. And Carmen pushing Raul off that roof works well as more than just a shocking finale twist, it's a woman finally acting on years of watching men like him get away with it, and the show earns that catharsis by the time it happens. Dalmar was a quiet highlight too, steady in a season full of people barely holding it together.
+
+---
 
 ### Overall thoughts
 

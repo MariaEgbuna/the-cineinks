@@ -43,7 +43,9 @@ Later on, once Shizuka's own darker side starts coming through, the show never r
 
 The reconciliation between Marina and Shizuka in the finale also could have used a bit more room to breathe.
 
-### Rating
+---
+
+### Final Verdict
 
 **8.6** out of 10.
 

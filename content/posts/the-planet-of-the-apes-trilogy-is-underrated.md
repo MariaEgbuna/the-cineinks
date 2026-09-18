@@ -17,7 +17,7 @@ These are not just good blockbusters, they are great. And if you have actually s
 
 Rise came out in 2011 on a $93 million budget and pulled $481.8 million worldwide. Nobody saw that coming. This was a franchise that had already been rebooted once in 2001 under Tim Burton and landed with a thud critically despite turning a profit. The idea of going back to the well again felt desperate rather than promising. It was more than fine. It was the start of one of the most quietly consistent trilogies in modern blockbuster filmmaking. Dawn followed in 2014 and grossed over $710 million worldwide on a budget that ballooned past $170 million. War closed it out in 2017, earning $490 million globally off a roughly $150 million budget. Three films. $1.5 billion combined. Critical scores of 81%, 91%, and 94% on Rotten Tomatoes respectively. A franchise that got better with every single entry. Hall of Fame. No debate.
 
-* * *
+---
 
 ### The Plot (In a Nutshell)
 
@@ -59,10 +59,8 @@ This trilogy works because it never once forgets that spectacle without characte
 
 The one honest criticism is that War underperformed commercially relative to its scale, earning $490 million on a budget reported anywhere from $150 to $190 million, which turns into a thin profit once marketing costs get factored in. The trilogy never got the mainstream cultural recognition it deserved during its original run, which is baffling given the quality. Rise got 81% on Rotten Tomatoes. Dawn got 91%. War got 94%. A franchise that improved with every entry, treated its audience as intelligent adults, and stuck its landing. It just did it quietly, and quiet excellence gets overlooked more often than it should. The fact that the franchise was confident enough in this trilogy's foundation to keep building on it, with Kingdom of the Planet of the Apes picking up the story generations later in 2024, says everything about how much groundwork these three films actually laid. That's partly what this post is for.
 
+---
+
 ### Final Verdict
 
 The Planet of the Apes reboot trilogy is one of the best things blockbuster filmmaking produced in the 2010s, and it's not particularly close. Three films. One continuous story. Zero filler. Character-first storytelling dressed up in stunning visuals, with a lead performance that should have changed the conversation around motion capture entirely. If you haven't seen it, fix that immediately. If you have, you already know I'm right. Hall of Fame. No debate whatsoever.
-
-* * *
-
-**These movies have no right being this good, so what is your excuse for sleeping on them?**

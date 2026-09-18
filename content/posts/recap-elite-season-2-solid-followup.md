@@ -23,7 +23,7 @@ As usual, flash-forwards drop you back into police interrogations while the seas
 
 _This post contains spoilers for Season 2 of Netflix's Elite._
 
-* * *
+---
 
 ### How it kicks off
 
@@ -40,6 +40,8 @@ While all that's unfolding, Omar and Nadia's father has a stroke back at the fam
 Back at Valerio's, he and Lu end up drunk and alone together, and it tips into an actual kiss before Lu catches herself and pulls away, reminding him they swore this would never happen again. He's her brother. The look on his face says he's not over it.
 
 Then the episode cuts to something that changes everything you just watched: a police search moving through a forest, calling out a name, looking for a Las Encinas student who never made it home in his uniform. It's Samuel.
+
+---
 
 ### The twists and the escalation
 
@@ -58,6 +60,8 @@ The Halloween party's where things start to boil over. Samuel and Rebeka have be
 By episode six, Samuel's confident enough in what he knows to confront Guzman directly and tell him Polo's behind Marina's murder, with Christian somehow involved too. Guzman nearly starts a fight over it. Not long after, Nano goes to see Marina's mother to insist on his innocence, and when Guzman finds out, he goes looking for blood. He catches up to Samuel in the street and starts beating him down, and it's only when Samuel plays back a recorded confession from Carla that Guzman actually stops.
 
 Everything goes down for real at Cayetana's charity event in episode seven. What was supposed to be a small fundraiser to quietly bail out her family spirals into a massive gala, and Lu, humiliated after discovering she'd been played, uses her speech in front of every wealthy parent in town to blow up everyone's secrets at once: Cayetana's lie, Guzman and Nadia's affair, and Carla sleeping with Samuel, all in one breath. The party implodes. Cayetana runs off devastated, Lu escalates further and later posts a video of Nadia and Guzman having sex online out of pure spite, and Guzman corners Ander to ask, point blank, if Polo killed his sister. Ander lies straight to his face. The episode ends with Samuel riding home alone through the woods at night, a car closing in behind him in the dark.
+
+---
 
 ### How it all wraps up
 
@@ -79,24 +83,19 @@ Omar's packing to leave Ander for good, done with months of watching him shut do
 
 By the time school resumes after New Year's, Guzman and Samuel seem to have made peace, at least on the surface. Then Polo walks back into school like nothing happened, released from custody with no explanation given. Only Cayetana looks happy to see him. Behind him, a new student is already talking to the principal, and the season ends on that note, one door quietly closing while another one opens.
 
+---
+
 ### Where we left everyone:
 
 *   **Polo:** Free again. Cayetana hid the evidence that would've kept him locked up.
-    
 *   **Carla:** She confessed to the police and it meant absolutely nothing. That has to be its own kind of devastating.
-    
-*   **Nano:** Cleared, but a wrongful arrest doesn't just evaporate. He packs his bags and disappears in the rain, gone before the season even ends.
-    
-*   **Samuel:** Got his brother out, but the method cost him more than he expected, including whatever he and Carla actually became to each other.
-    
-*   **Ander:** Spent the whole season hollowed out by Polo's secret, but Omar finally learns the truth and forgives him. They end the season back together.
-    
-*   **Cayetana:** Burned her integrity to belong somewhere.
-    
+*   **Nano:** Cleared, but a wrongful arrest doesn't just evaporate. He packs his bags and disappears in the rain, gone before the season even ends.   
+*   **Samuel:** Got his brother out, but the method cost him more than he expected, including whatever he and Carla actually became to each other.    
+*   **Ander:** Spent the whole season hollowed out by Polo's secret, but Omar finally learns the truth and forgives him. They end the season back together.   
+*   **Cayetana:** Burned her integrity to belong somewhere.   
 *   **Valerio:** Still here. Still underdressed for an academic institution. Still somehow everyone's problem.
     
-
-* * *
+---
 
 ### What worked and what didn't
 
@@ -109,6 +108,8 @@ The Valerio and Lu thing was rough to watch. They're half siblings, they kiss mo
 The show does a solid job of showing how guilt with nowhere to go just starts rotting everything around the person carrying it. When Polo finally breaks and confesses to Ander, it feels like relief for about five seconds before you realize what a massive disaster he just created. Because now Ander knows. And that secret's too heavy to carry and too dangerous to pass on, especially to Omar. Watching it hollow Ander out across the season was just painful. The warmth just drains out of him completely. And the biggest casualty of all of it is his relationship with Omar, taken apart piece by piece by something Omar isn't even allowed to know about.
 
 Cayetana, the girl who spent the entire season desperately performing like she belonged at Las Encinas, finally crossed the line into actually becoming one of them: through covering up a murder. That's either brilliant writing or a coincidence that happened to work out perfectly.
+
+---
 
 ### Overall thoughts
 

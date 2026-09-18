@@ -17,6 +17,8 @@ It is not a bad season by any means, but compared to what came before it, it fel
 
 _This post contains spoilers for season 3._
 
+---
+
 ### The Plot
 
 Boyd opens the season feeling the town slip away from him as the weather turns colder and the people around him grow more desperate by the day. Jim and Kenny head into the forest looking for Tabitha, who is off on her own frantic search, and that separation sets the tone for a season where everyone seems to be chasing something on their own instead of together. The town says goodbye to one of their own early on, Fatima's health starts to decline in a way that worries everyone around her, and Tabitha ends up finding help from an ally nobody expected.
@@ -41,7 +43,9 @@ Ellis is a waste of a character this season, and I will die on this hill. He is 
 
 The season also ends with another massive cliffhanger, which by this point I expect, but my issue still stands. Communicate! My goodness. This season drags a lot in the middle stretch, the questions keep piling up without matching answers, and word going around is that a chunk of the delay and pacing issues might trace back to the 2023 writers strike affecting the writers room before filming started. I cannot confirm that fully, but if it is true, it would explain a lot about why this season feels less tight than the two before it.
 
-### Rating
+---
+
+### Final Verdict
 
 **7.2** out of 10.
 

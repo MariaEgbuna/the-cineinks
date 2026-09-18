@@ -33,6 +33,8 @@ Back at school, Mencia tells the Inspector she was assaulted, on top of everythi
 
 The episode closes back where it started, in that interview room, where Samuel admits that he killed someone.
 
+---
+
 ### The twists and the escalation
 
 Back in the interview room, Rebe tells the Inspector that Samuel didn't actually kill anyone, though whether that holds up is anyone's guess at this point. Meanwhile Benjamín's grip on the school tightens fast: strict rules, phones locked away, and it comes out that he's tracking students' locations through the school app. When they push back, he threatens to tank their grades if they keep resisting. Patrick leads the pushback, throwing a party partly just to get a moment with Ivan, while Cayetana and Phillipe stay out of it entirely. Cayetana's also pushing Phillipe to see the school counselor, Greta, who bans him from drinking and calls him a predator.
@@ -62,6 +64,8 @@ Back at school, Rebe learns about the SIM card and convinces both Cayetana and M
 Phillipe, meanwhile, tells Isadora that no amount of glitter and money fills the emptiness underneath, refusing to date her while she's still spiraling. She responds by flying out to a party in Ibiza via helicopter. Worried, Phillipe follows her out there. During a dinner at Benjamín's house, Patrick shoves him in a moment of rage over everything with Ivan and Cruz, and later admits to Cruz just how conflicted falling for him has left him. They kiss ***again***. In the middle of it all, a drunk Ivan leaves a voicemail confessing his real feelings for Patrick, and by mistake, sends it straight to Ari's phone instead.
 
 In Ibiza, Isadora collapses at the party, unconscious. Phillipe, barely conscious himself, is slumped against a wall nearby when three men at the party notice she's out cold and decide to take advantage of the situation, locking the door behind them.
+
+---
 
 ### How it all wraps up
 
@@ -109,6 +113,8 @@ The Patrick, Ivan, and Cruz subplot. I can't believe this storyline made it thro
 Rebe and Mencía ended Season 4 in a good place, so naturally Season 5 spends its entire runtime dismantling that, pulled apart and pushed back together so many times across eight episodes that by the finale I was just exhausted.
 
 I wrote in my [Season 4](https://cineinks.vercel.app/posts/recap-elite-season-4) post that the writers have never figured out what to do with Cayetana. Updated assessment: it's now Season 5 and they still haven't. I hope I don't see her in Season 6.
+
+---
 
 ### Overall thoughts
 

@@ -21,6 +21,8 @@ The real question isn't just who did it, it's how everyone got pushed far enough
 
 Once again we're in flash-forward territory, and it's heavy, claustrophobic, and kind of all over the place. The writers clearly knew where this era of the show needed to end, but getting there meant juggling so many storylines at once that the whole thing kept buckling under its own weight. New characters, new love triangles, new traumas stacked on top of old ones that were never properly dealt with to begin with.
 
+---
+
 ### How it kicks off
 
 The season opens at a graduation party gone wrong, a body crashing down through the club's upper level onto the dance floor below while Carla stands nearby, stunned, next to shattered glass. Then it rewinds five months, and the real story starts.
@@ -38,6 +40,8 @@ At the college fair, the pressure keeps stacking. Polo's unraveling, calling And
 At the actual confrontation, Polo looks like he's finally about to break and admit everything, until Carla cuts in first and claims the whole accusation was a lie. Guzman turns on Samuel for it, convinced Carla just proved she was never trustworthy to begin with. Samuel doesn't back down. If anything, it hardens his resolve to get Polo caught no matter what it costs. He even tells his own mother to leave for Morocco and be with Nano, choosing to stay behind alone.
 
 Then the timeline snaps back to the future, to the body on the dance floor, and a detail nobody saw coming: someone stabbed him before he ever hit the ground. Carla tells the Inspector she ran straight down after the fall, but what actually happened is she followed a blood trail to the bathroom first and pocketed a broken, bloody bottle before anyone could find it. When the Inspector searches her bag, though, it's gone. Carla insists, shaken, that she could never have hurt him, she loved him. Because the body on the floor isn't a stranger. It's Polo.
+
+---
 
 ### The twists and the escalation
 
@@ -91,7 +95,7 @@ Time passes. Nadia and Omar are about to board a flight to New York when Omar re
 
 Two months later, most of them walk back into Las Encinas for one final year: Samuel, Guzman, Rebeka, Omar, Ander. Cayetana isn't among them as a student anymore. She's the school's new janitor, mopping the same halls she once faked her way through.
 
-* * *
+---
 
 ### What worked
 
@@ -108,6 +112,8 @@ Two months later, most of them walk back into Las Encinas for one final year: Sa
 **What they did to Carla was unforgivable.** Carla spent two full seasons being the most calculating, self-possessed person in any room she walked into. She managed an entire murder cover-up in real time in the Season 1 finale, ran circles around everyone including Samuel, and kept Polo from completely falling apart while doing it. She was dangerous and controlled and compelling to watch. Then Season 3 handed her a controlling father, a transaction dressed up as a boyfriend, and a pill bottle, and called it a character arc. Watching her get reduced to a business arrangement by her own father, essentially sold off to maintain a family alliance, was depressing. What makes it worse is her arc this season doesn't feel tragic in any meaningful way. It just feels like the writers ran out of ideas for her and stripped away everything that made her interesting. Carla deserved a much better send-off than a plane ticket and a vague sense of freedom.
 
 **Drama for the sake of drama.** I can't get over what the writers did to Omar and Ander this season. After everything these two survived in Seasons 1 and 2, watching them get dragged through a cheating storyline with no real payoff and no real point was just painful. Clearly the writers had no idea how to write a couple supporting each other through something hard, so they went for the cheapest conflict available instead. Treating them like a disposable plot point, manufacturing drama just to create tension in an already overcrowded season, felt like a betrayal of everything the first two seasons built. The show eventually walks it back and lets them find their way to each other, but the damage was already done.
+
+---
 
 ### Overall thoughts
 

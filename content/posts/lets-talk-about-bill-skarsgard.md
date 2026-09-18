@@ -15,7 +15,7 @@ There are actors who are good at their job, and then there's Bill Skarsgård, wh
 
 Son of Swedish acting legend Stellan Skarsgård and younger brother to Alexander (True Blood) and Gustaf (Vikings), Bill has been around the industry his whole life but he's not coasting on a famous last name. From his breakout in the Swedish film Simple Simon (2010) to his current status as one of Hollywood's most compelling leading men, Skarsgård has built a career defined by bold choices, full physical transformation, and a rare ability to be charming and terrifying, sometimes in the exact same scene. That combination is almost impossible to pull off. He makes it look easy.
 
-* * *
+---
 
 ### The Magnetism
 
@@ -46,6 +46,8 @@ The gap between his talent and his mainstream recognition is baffling. He's been
 The storm drain scene in IT (2017). No competition. Georgie crouches down at the edge of the gutter, and there's Pennywise crammed impossibly into the drain, offering back the paper boat with that wide, wrong smile. What Skarsgård does in those few minutes is so precise it still holds up to frame-by-frame analysis years later.
 
 He's playing something ancient and ravenous that's also working very hard to perform friendliness for its prey. The drooling, apparently unscripted, and the wandering eye he deliberately deployed combine to create an organism barely holding a mask in place. You can feel the thing straining underneath. It's the moment you realize this isn't just a scary movie clown. This is something that shouldn't exist. All of that, without ever raising his voice.
+
+---
 
 ### CineInks Recommends
 

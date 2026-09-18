@@ -44,6 +44,8 @@ Isadora's found passed out from an overdose, and Bilal, thinking fast, dunks her
 
 The episode closes with a video of Cruz and Patrick kissing at the club going viral, while a furious, newly fired Didac storms out into the night.
 
+---
+
 ### The twists and the escalation
 
 Nico's parents start worrying about him almost immediately, and a strange flash shows Ari driving near the club the night Ivan got hit, though whether that means anything yet is anyone's guess. In the present, Ari keeps chasing Nico and finally gets a real date with him. Meanwhile, the school splits over what happened to Isadora, the boys responsible corroborating each other's story well enough that Sara, of all people, sides with them over her. The Cruz and Patrick kiss video is still spreading too, and Patrick tries to protect Cruz by going live and taking the blame himself, claiming he was the one who pursued Cruz out of starstruck obsession. He tells Ivan afterward that he knows he's ruined things between them, but at least Cruz's name is safer for it. Cruz later tells Ivan the truth, that Patrick sacrificed his own reputation purely out of love for him. Ivan doesn't want to hear it, telling his father all he ever wanted was a real, present father instead.
@@ -65,6 +67,8 @@ Further along, a flash shows Ari pouring gasoline over the car involved in the a
 A flash-forward shows Ari at the hospital after the car's been burned, finding Patrick devastated and terrified he'll never see Ivan again. Back in the present, a masquerade party at the club brings everyone together, Patrick showing up despite warnings that Ivan needs space, and Ivan recognizing him instantly even behind a mask before walking away. Ari takes a pregnancy test in the club bathroom and finds out she's pregnant with Ivan's baby, and rather than deal with it, drowns the *news* in alcohol instead. Raul sneaks into the club in disguise hunting for Sara, drugs Mencia's drink to get her out of the way, and corners Sara alone, trying to guilt her one more time about Mencia's "manipulation." Sara finally stands her ground, telling him he has no power over her anymore and revealing she and Mencia have already kissed. Ivan and Patrick try to talk things out, but Ivan makes clear he only wants comfort, not commitment, and a heartbroken Patrick walks away wanting more than Ivan's willing to give.
 
 Blind drunk, Ari decides to drive herself home. Others notice and alert Mencia, still groggy from the drugged drink, while Isadora pushes Ivan to go find Patrick and finally be honest about his feelings. In the scramble of everyone trying to stop Ari, it's Mencia who ends up grabbing her own keys instead, and the episode cuts straight to the aftermath of the hit and run: Mencia behind the wheel, waking up dazed with the windshield shattered in front of her.
+
+---
 
 ### How it all wraps up
 
@@ -117,6 +121,8 @@ The season closes with Raul holding that secret over Sara like a leash, while Iv
 **The finale's twist works in the moment. It falls apart the second you think about it.** Isadora House is a professional venue with a staffed car park and visible security. Not one camera catches who got into which car. Raul supposedly bleaches an entire car interior, and nobody, including Mencia waking up inside it, notices the smell? The club's spent the whole season being trivially easy to drug people in with apparently zero surveillance, and that same convenient blind spot just happens to reappear right when the plot needs it most. Elite has always asked for some suspension of disbelief. The finale asks for a little too much.
 
 *PS: I still have no idea what Bilal's role was supposed to be this season. Genuinely useless.*
+
+---
 
 ### Overall thoughts
 

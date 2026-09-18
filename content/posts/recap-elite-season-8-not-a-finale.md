@@ -38,6 +38,8 @@ Guilt-ridden, Omar tries checking in on Joel, who brushes him off the moment Iva
 
 The episode ends back at the graduation party, cutting to a bloodied Ivan and Dalmar being arrested for Joel's murder.
 
+---
+
 ### The twists and the escalation
 
 Ivan and Joel wrestle in gym class, Emilia teasing her brother for being visibly jealous watching them, while a flash forward jumps straight to graduation night, Hector waking up next to Joel's body, throat already slit.
@@ -83,6 +85,8 @@ At school, Sara and Nico fight over her suspicion that Chloe manipulated Eric in
 Hector, furious with his sister, keeps his distance from her, and the two arrive separately to an Alumni party at Cruz9. Ivan, Sara, and Isa use the opportunity to steal Chloe's phone, Ivan distracting her with a selfie while Sara sends her off checking on Eric, giving Ivan the window to grab it and rush to Isa's suite. Upstairs, Omar tips off Luis and Luena, who confront Hector and Emilia together. Hector accuses his sister outright of killing Joel, and hurt, she admits everything, revealed in flashback cleaning up the crime scene, drugging Ivan and texting from Joel's phone to frame him, knocking out Dalmar when he unexpectedly tags along. Facing arrest, she insists she's only an accomplice, that the real killer is Hector, driven by jealousy over Joel and Ivan. Both siblings are taken into custody, Emilia reminding her brother coldly that he owes her now.
 
 Chloe, finding Eric safe, realizes her phone is missing and that Ivan tricked her, rushing with Eric to the suite only to find Ivan and Isa blocking their way. Behind them, Sara's already found the real footage from the night of the orgy, and together they finally see who actually killed Joel.
+
+---
 
 ### How it all wraps up
 
@@ -136,7 +140,7 @@ Speaking of which, Luis as Joel's killer just doesn't work for me. The reasoning
 
 Sara accusing Chloe of killing Raul also felt off, especially coming from the one person who knew exactly what kind of abuser he was. It's one thing to want answers, but going after Chloe with that accusation while sitting on her own history with him feels less like grief and more like deflection. Sara's all over the place this season, and that inconsistency is part of why. There's also the small matter of Sara hitting Ivan with her car back in Season 6 never getting addressed again, not once, not even in passing. I haven't forgotten and I'm not planning to.
 
-And can we talk about how many grown adults are chasing after teenagers this season? Luis pursuing Isa is deeply uncomfortable, and it's not the first time this show has leaned on that exact dynamic. It didn't work then and still doesn't now.
+And can we talk about how many grown adults are chasing after teenagers in this show? Luis pursuing Isa is deeply uncomfortable, and it's not the first time this show has leaned on that exact dynamic. It didn't work then and still doesn't now.
 
 The first half of the season is pretty scattered too, juggling too many threads without much sense of where it's actually headed. And once Luis gets exposed, Isa killing him in full view of arresting officers makes zero sense when you think about it for even a second. No autopsy, no follow-up questions, nothing. Dalmar's arc doesn't hold together either: the same guy who blackmailed Carmen to avoid deportation somehow turns down her payout later, meaning he had two real shots at securing his citizenship and managed to blow both of them.
 

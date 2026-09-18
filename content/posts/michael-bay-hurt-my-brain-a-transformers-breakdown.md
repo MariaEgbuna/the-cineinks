@@ -17,7 +17,7 @@ I realized that in all these years, I'd only ever watched the first movie from 2
 
 Verdict before I even start breaking it down: it didn't click the same way. But the marathon wasn't useless either. Let me get into it.
 
-* * *
+---
 
 ### Transformers (2007): The one that actually works.
 
@@ -102,6 +102,8 @@ This was also the point where the box office finally cracked. The film opened to
 Here's my real issue across all five films, and it's not really about plot. Michael Bay's editing style, his lighting choices, and the overcomplicated robot designs combine to make the action hard to follow. The robots have so many moving panels and overlapping metal pieces that during a fight, you can lose track of which limb belongs to which character. Add in Bay's fast cuts and his preference for tight, chaotic framing during big battles, and a lot of these sequences become a blur of metal and sparks rather than something you can actually track beat by beat. It's less about whether you can technically see the screen and more about whether your brain can process what's happening on it fast enough.
 
 The first film handles this slightly better just because the pacing gives you more room to register what's going on. The sequels speed everything up and throw more robots into frame at once, and that clarity gets harder to hold onto.
+
+---
 
 ### Overall: Did this finally make me a Transformers person.
 

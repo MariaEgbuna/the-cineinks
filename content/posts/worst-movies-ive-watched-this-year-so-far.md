@@ -17,7 +17,7 @@ These are the movies that either just didn't work for me, or were so bad they so
 
 I'm counting down from number 10, the least painful of the bunch, all the way to number 1, the one that hurt the most.
 
-* * *
+---
 
 ### 10\. Goat (2026) - My rating: 6.2
 
@@ -99,6 +99,6 @@ This movie was not needed. Everything about it sucked. The moral lesson felt rec
 
 They just shat all over a franchise that used to actually mean something, and I am still livid about it months later.
 
-* * *
+---
 
 That's the full list (at least for now)

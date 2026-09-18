@@ -23,7 +23,7 @@ Right??
 
 _This post contains spoilers for Season 4 of Netflix's Elite._
 
-* * *
+---
 
 ### How it kicks off
 
@@ -46,6 +46,8 @@ At the club, things between Ander and Patrick heat up fast, clothes coming off, 
 Exam day arrives, and Patrick slips Omar the answers anyway. Omar hesitates but uses them, scoring a 97, while Samuel passes on his own merit, both scholarships secured. Ari isn't fooled by any of it. She pulls Samuel and Guzman aside and makes it clear she sees exactly what they tried to do.
 
 Then it cuts back to New Year's Eve, and the girl in the lake finally has a name. It's Ari. Paramedics work frantically to revive her while everyone watches, frozen, until a voice crackles through on a radio: she's still alive.
+
+---
 
 ### The twists and the escalation
 
@@ -79,6 +81,8 @@ Later that night, alone with Cayetana in a limo, Phillipe pushes past her repeat
 
 The scene closes with Ari finally coming clean to both Samuel and Guzman at once, admitting through tears, that she loves them both and doesn't want to choose. Guzman is furious while Samuel is left stunned.
 
+---
+
 ### How it all wraps up
 
 Guzman doesn't take the news well. He calls Samuel an awful friend on the spot, and when Samuel tries to smooth things over right there, Guzman shuts him down and walks off. Not long after, he and Ander sit down for what looks like an early goodbye, Ander having decided to leave Las Encinas mid-year entirely.
@@ -105,34 +109,25 @@ Once she's conscious again, Guzman sits with her, tells her he already knows she
 
 Not long after, Guzman and Ander leave Las Encinas together to travel, saying tearful goodbyes to Omar, Cayetana, Rebeka, and Samuel before driving off. Mencía, wracked with guilt over ever bringing Armando into their lives, asks Ari to stand with her while she finally tells her father everything. Benjamín's reaction is pure rage, tearing his own house apart once he hears it. And in the last quiet reveal of the season, it comes out that Guzman, Rebeka, and Samuel are the ones who dumped Armando's body into the lake, one more secret this group is going to have to carry together.
 
-* * *
+---
 
 ### Where we left everyone:
 
-*   **Samuel:** Helps dump Armando's body in the lake and tries to move forward. Back to being the guy the plot punishes for existing.
-    
-*   **Guzman:** Killed Armando to save Ari, covered it up, and leaves Spain to go travelling with Ander. Carrying a secret that will follow him wherever he goes.
-    
-*   **Ander:** Learns Omar wants him to go see the world instead of staying behind out of guilt, and leaves for real this time, Omar promising to wait for him. It's framed as bittersweet. It mostly just feels sad.
-    
-*   **Omar:** Does the selfless thing, tells Ander to go live his life, and stays behind holding onto a promise with Patrick still hovering around.
-    
-*   **Rebeka and Mencia:** End the season together, which is the one sweet note this season manages. Rebe is now sitting on the secret of Armando's death without Mencia knowing.
-    
-*   **Ari:** Survives Armando's attack, ends up in hospital, and Guzman lies to her face about what actually happened.
-    
-*   **Patrick:** Got played by both Ander and Omar, ends the season alone. Hard to feel much about it either way.
-    
-*   **Cayetana:** Still here.
-    
+*   **Samuel:** Helps dump Armando's body in the lake and tries to move forward. Back to being the guy the plot punishes for existing.  
+*   **Guzman:** Killed Armando to save Ari, covered it up, and leaves Spain to go travelling with Ander. Carrying a secret that will follow him wherever he goes. 
+*   **Ander:** Learns Omar wants him to go see the world instead of staying behind out of guilt, and leaves for real this time, Omar promising to wait for him. It's framed as bittersweet. It mostly just feels sad.  
+*   **Omar:** Does the selfless thing, tells Ander to go live his life, and stays behind holding onto a promise with Patrick still hovering around.    
+*   **Rebeka and Mencia:** End the season together, which is the one sweet note this season manages. Rebe is now sitting on the secret of Armando's death without Mencia knowing.   
+*   **Ari:** Survives Armando's attack, ends up in hospital, and Guzman lies to her face about what actually happened.  
+*   **Patrick:** Got played by both Ander and Omar, ends the season alone. Hard to feel much about it either way.    
+*   **Cayetana:** Still here.    
 *   **Phillipe:** The SA allegations go mostly unresolved. Ends the season with his reputation intact enough. The show just kind of moves on.
     
-
-* * *
+---
 
 ### Where Season 4 lost me
 
-**They destroyed the best friendship on this show for a girl.** This one hurts the most, so let's start here. Samuel and Guzman started as actual enemies, then slowly, through shared grief and the total hellscape of what went down with Marina and Polo, these two built something real. A proper friendship. By the end of Season 3, their bond was one of the few things on this show I loved without reservation. Then Ari shows up and the writers throw it all in the bin. Both of them have feelings for her, and suddenly two guys who survived a murder cover-up together are giving each other death stares in the hallway like they've never met. It's so generic, so far removed from who these characters actually are at this point that it feels like the writers started fresh without reading their own previous scripts. Guzman especially gets done dirty. This is a guy who showed real, visible growth across three full seasons, and now he's just being petty and territorial over someone he met a few weeks ago. All that work, undone in about two episodes for a love triangle that doesn't even pay off in any interesting way. And here's the thing: Ari isn't even interesting enough to justify any of it. She's fine. She's pretty and she moves the plot around. But she's not the kind of character you burn a friendship over.
+**They destroyed the best friendship on this show for a girl!!** This one hurts the most, so let's start here. Samuel and Guzman started as actual enemies, then slowly, through shared grief and the total hellscape of what went down with Marina and Polo, these two built something real. A proper friendship. By the end of Season 3, their bond was one of the few things on this show I loved without reservation. Then Ari shows up and the writers throw it all in the bin. Both of them have feelings for her, and suddenly two guys who survived a murder cover-up together are giving each other death stares in the hallway like they've never met. It's so generic, so far removed from who these characters actually are at this point that it feels like the writers started fresh without reading their own previous scripts. Guzman especially gets done dirty. This is a guy who showed real, visible growth across three full seasons, and now he's just being petty and territorial over someone he met a few weeks ago. All that work, undone in about two episodes for a love triangle that doesn't even pay off in any interesting way. And here's the thing: Ari isn't even interesting enough to justify any of it. She's fine. She's pretty and she moves the plot around. But she's not the kind of character you burn a friendship over.
 
 **The new family is predictable, cliché, and kind of boring.** Bringing in new characters is fine, it makes sense when your original cast starts leaving. But there's a right way to do it, and Season 4 does it the wrong way, giving us characters so clearly telegraphed from their very first scenes. The show seems to think expensive clothes and dramatic family secrets count as personality. Compare any of them to Lu from the earlier seasons. Lu was annoying, scheming, snobbish, awful a lot of the time. But she was also funny and surprisingly insecure, and her whole dynamic was strange and uncomfortable enough that you couldn't look away. She surprised you. The Blanco Commerford kids never surprise you once.
 
@@ -145,6 +140,8 @@ Not long after, Guzman and Ander leave Las Encinas together to travel, saying te
 **The nudity issue: these are supposed to be teenagers.** Elite has never been a shy show. Sex and nudity have always been part of its DNA, and that's fine, nobody sat down to watch this expecting something wholesome. But Season 4 takes it to a point where it starts to feel like the show is using bodies as a substitute for actual storytelling. There's a moment where you stop watching a scene and start wondering if the writers ran out of ideas and just decided skin would fill the time. Nudity and sex scenes work on television when they actually tell you something and Elite used to do this reasonably well. The intimacy between Omar and Ander in earlier seasons meant something because you were invested in them as people. This season it just feels gratuitous, scene after scene of heat and bodies that connects to nothing emotionally meaningful. It starts to blur. I became numb to it, and when you're numb to the intimacy on a show that relies on intimacy to drive its drama, that's a real problem. The Patrick chaos, the whole spiral he drags Omar and Ander through, is shot with this glossy, almost celebratory energy that feels completely disconnected from the emotional damage being done to characters you've spent three seasons actually caring about. The camera is having a great time. I'm not.
 
 **The ending was a lot of setup for a very soft bang.** Eight episodes of buildup, all these threads supposedly converging, and the twist doesn't land the way it should, and the reason is the Ari reveal in episode one. The moment the show confirms she's alive, the urgency drains out and never comes back. You spend the remaining episodes just waiting for the show to confirm what you already figured out. And Guzman killing Armando should feel enormous. Instead it just kind of happens, because Armando was never a _real_ character, just the villain the plot needed. His death brings relief, not devastation. After everything Guzman survived across four seasons, he deserved so much better than a trauma and a one-way ticket out of the country.
+
+---
 
 ### Overall thoughts
 

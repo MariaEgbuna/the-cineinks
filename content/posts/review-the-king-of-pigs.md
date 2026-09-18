@@ -22,6 +22,8 @@ The King of Pigs is a 2022 Korean thriller, twelve episodes, that aired on TVING
 
 _This post contains minor spoilers for TVING's The King of Pigs._
 
+---
+
 ### The Plot
 
 The story is built around a specific hierarchy that existed in Korean schools: pigs and dogs. Students from poor families were labeled pigs. Students from wealthy families were dogs, and the dogs didn't just look down on the pigs, they brutalized them, with the tacit permission of teachers and administrators who either didn't notice or didn't care.
@@ -46,7 +48,9 @@ The bullying sequences are genuinely rough to get through, and the show does not
 
 The dogs, the actual people Kyung-min is hunting, never feel like more than targets. They show up, they get their scene, and then they're gone, with almost none of the interiority the three leads get. That imbalance started to bother me the more episodes I got through, because a couple of the kills ended up feeling like the plot checking a box instead of a confrontation that had been built up to.
 
-### Rating
+---
+
+### Final Verdict
 
 **9.0** out of 10.
 

@@ -17,6 +17,8 @@ This season picks up right where season 1 left the town, still trapped, still su
 
 _This post contains spoilers for season 2._
 
+---
+
 ### The Plot
 
 The season opens with Boyd missing, which throws Donna and Kenny straight into crisis mode as a busload of new arrivals shows up with no idea what they just drove into. At the same time, Victor and Tabitha go digging through the tunnels underneath the town, and that whole thread sets the tone for how disorienting this season gets early on. From there, the show spends its first couple of episodes just trying to survive one long night in the diner, with Jim and Tom stuck trying to keep a terrified bus passenger from getting everyone killed.
@@ -41,7 +43,9 @@ The story also drags in stretches this season. More questions keep piling up, bu
 
 The acting issues from season 1 are still around too. I have mostly made peace with it at this point, some performances just are not going to hit as hard as others, but it is worth noting that it has not really improved.
 
-### Rating
+---
+
+### Rating and Overall Thoughts
 
 **8.0** out of 10.
 

@@ -15,6 +15,8 @@ Six years we waited for this season, and I'm going to tell you straight up: drop
 
 The second season of Dorohedoro picks up right where the first season left off, no hand-holding, no recap episode. MAPPA and director Yuichiro Hayashi came back to this world and just kept moving like no time had passed at all. This season had eleven episodes, streamed from April 1 to May 27, 2026, and I made the right call waiting for the whole thing to drop before starting. One episode a week would have broken me.
 
+---
+
 ### More of Everything
 
 Everything that made the first season good got amplified here. The action is nastier, the drama actually has weight behind it, the twists come at you from angles you don't see coming, and the gore, if you thought Season 1 was graphic, this one does not hold back.
@@ -39,7 +41,9 @@ This season has earned every bit of the hype it's gotten: it balances the humor 
 
 And here's the best part: we're not waiting another six years for the next one. Season 3 was announced right after the finale, and from what I've heard, it's already in the works. No more agonizing multi-year gaps this time around.
 
-### Rating
+---
+
+### Final Verdict
 
 **9.2** out of 10.
 

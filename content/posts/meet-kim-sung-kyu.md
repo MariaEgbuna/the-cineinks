@@ -15,7 +15,7 @@ Kim Sung-kyu has a Best New Actor win, a lead role in one of the most talked-abo
 
 This is the part of the industry that quietly drives fans crazy. You watch someone deliver a performance that stops you mid-scene, makes you pause, rewind, and sit with it for a second, and then you go looking for their name and realise that most of the people around you have never heard of them. That's the Kim Sung-kyu experience in a nutshell. Born in 1986, he spent years building his foundation in Seoul's theater scene before crossing over to film and television and methodically putting together one of the most quietly impressive careers in Korean entertainment. The talent has always been there. The recognition has just been embarrassingly slow to catch up.
 
-* * *
+---
 
 ### The Magnetism
 
@@ -46,6 +46,8 @@ Part of it is the nature of supporting work. He's spent a lot of his career as t
 For many fans, including me, the moment it truly clicked was The King of Pigs (2022). This TVING original is a live-action remake of Yeon Sang-ho's acclaimed 2011 animated film of the same name, and it's not a comfortable watch. It's a psychological thriller built around school bullying, trauma, and the way violence from the past never really lets go of you.
 
 Kim Sung-kyu plays Detective Jung Jong-seok, a man trying to solve a string of mysterious murders that pulls him straight back into memories of violence from his own school days. It's the first major lead role of his career, and he carries it completely. The way he navigates the character's dual timeline, the haunted teenager and the hardened detective, without ever letting the seams show, is exactly the kind of performance that makes you sit back and think: _Why is this man not in every conversation about the best actors working in Korean television right now?_ The series even premiered at the Fantasia International Film Festival in 2022, becoming the first Korean drama series to be shown there. Kim Sung-kyu was the anchor of the whole thing.
+
+---
 
 ### CineInks Recommends
 

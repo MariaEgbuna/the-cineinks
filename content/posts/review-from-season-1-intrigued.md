@@ -17,6 +17,8 @@ From was created by John Griffin and produced by AGBO (the Russo brothers' compa
 
 _This post contains minor spoilers for season 1._
 
+---
+
 ### The Plot
 
 The setup is simple to explain and horrible to live through. Families and individuals from all over end up driving into a small town they never meant to visit, and once they arrive, they cannot leave. Every road out just loops them back in. The town, referred to as the Township by the people stuck there, looks like a normal slice of small town America in daylight. At night it turns into something else entirely, because creatures come out of the surrounding woods and hunt whoever is left outside.
@@ -41,7 +43,9 @@ My one real issue was the acting, and it was not consistent across the board. So
 
 It is a small complaint in the scheme of things, the writing and premise are strong enough to carry the season through it, but it is the one thing that kept season 1 from being flawless for me.
 
-### Rating
+---
+
+### Final Verdict
 
 **8.6** out of 10.
 

@@ -30,6 +30,8 @@ I won't lie, I was a little skeptical to watch it. The Twitter discourse around 
 *   **The soundtrack.** This is the biggest letdown, and it caught me off guard given how strong the music has been in Gunn's other DC and Marvel work. This one just doesn't have that same spark. Nothing in the score stuck with me walking out.
 *   **Lobo feels underused.** Jason Momoa's Lobo was a bigger miss than I expected going in. He's got the biker look down, the teaser they dropped before release looked great, but in the actual film he just kind of exists in scenes without doing much. For a character built on chaos and presence, that's a rough outcome.
 *   **The action and CGI.** Nothing embarrassing, they get the job done, but nothing here is making anyone's list of best superhero fight scenes. Decent is the word, not more than that.
+ 
+---
 
 ### Final Verdict
 

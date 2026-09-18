@@ -15,6 +15,8 @@ Gal Gadot runs across London for 84 minutes and somehow it still feels longer th
 
 If you've watched more than three action thrillers in the last decade, you already know this genre by heart: a person gets a phone call, someone they love is in danger, a mystery voice on the other end tells them to move, keep moving, and don't stop or else. You've seen Phone Booth and probably seen the Black Mirror episode "Shut Up and Dance" too, which did the blackmail-by-phone thing with a lot more dread. The Runner picks London as its scenery, straps a pair of running shoes on Wonder Woman, and calls it a day.
 
+---
+
 ## The setup
 
 ![Screenshot of Gal in a train](/images/posts/gal-gadot-1-.jpg)
@@ -56,6 +58,8 @@ Now here's where I have to be honest about something, because it's the elephant 
 To be fair to the people upset about Gadot, I get where that frustration comes from, that's a real and valid conversation to have, and I'm not going to pretend it exists in a vacuum. But calling The Runner the worst movie of the year because of who's starring in it is a massive stretch, and honestly it does a disservice to actual bad movies that deserve that title on merit alone. The Runner isn't a disaster. It's not even close to the worst thing Amazon put out this year. Yes it's predictable, a bit much, and it leans too hard into style over substance, but ***worst of the year*** is review-bombing energy dressed up as film criticism.
 
 And let's be real about something else too: I'm not pretending Gal Gadot is some acting powerhouse. Her range has never been the selling point, not in Wonder Woman, not in Fast and Furious, not here or anywhere else. What she brings is physicality and screen presence, and to her credit, the running itself looks convincing. She trained, it shows, and whatever else you think about the script, you can't say she phoned in the physical performance.
+
+---
 
 ## Final thoughts
 

@@ -17,6 +17,8 @@ _**The Watcher**_ was created by Ryan Murphy and Ian Brennan for Netflix, and i
 
 That true story angle is exactly what pulled me in. A family gets stalked by an anonymous letter writer who claims to have been watching the house for generations, and to this day nobody knows who sent those letters. It's a strong premise for a series. In practice, I finished all seven episodes disappointed.
 
+---
+
 ### The Plot
 
 The Brannocks move into their new house and the letters start almost immediately. From there the show throws suspect after suspect at you: the neighbors, a private investigator, a cult theory, a guy connected to a decades old murder case. Every episode adds another layer instead of building on the one before it.
@@ -37,13 +39,12 @@ The writing tries too hard to be clever. Every episode wants to be the one with 
 
 I almost dropped it after episode three but I pushed through since it was only seven episodes, but that shouldn't be the bar a show has to clear.
 
-### Rating
-
-**5.1** out of 10.
+### Final Thoughts
 
 If I had to sum this show up in two words: **frustratingly stupid.**
 
 I don't think this is a bad watch exactly. It's decent, the cast is doing real work, and the premise is solid. But for something riding on a genuinely unsettling true story, it ends up average at best, and average is a disappointing place to land after all the hype it got online. This is easily the weakest thing I've watched this month, because it wastes a good premise on a plot that never commits to a direction.
 
-_PS: if you've seen this one, I'd love to know if you figured out or have an idea about who The Watcher was supposed to be before the finale, because I couldn't tell you._
+Rating: **5.1** out of 10.
 
+_PS: if you've seen this one, I'd love to know if you figured out or have an idea about who The Watcher was supposed to be before the finale, because I couldn't tell you._

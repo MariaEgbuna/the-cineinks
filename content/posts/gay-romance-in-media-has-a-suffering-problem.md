@@ -17,7 +17,7 @@ At this point I actively avoid queer stories in media because I already know how
 
 _This post contains spoilers for some of the films and series mentioned._
 
-* * *
+---
 
 ### The Film That Broke Me (And Not In A Good Way)
 
@@ -54,6 +54,8 @@ And it's not just the main couples either. Even when queer characters are side c
 ![Gay Romance In Media Has A Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-7.jpg)
 
 I'll also mention **Heated Rivalry** briefly, even though I came into the show having already read the Game Changer book series. It follows Shane and Ilya, rival hockey players whose brutal on-ice competition hides a secret relationship spanning nearly a decade. The show takes seriously just how terrifying it is to be a gay man inside professional hockey culture, and the ending actually delivers. No tragedy required.
+
+---
 
 ### So Why Is Suffering Still The Default?
 

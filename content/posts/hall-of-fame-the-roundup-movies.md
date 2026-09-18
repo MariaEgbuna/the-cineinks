@@ -19,7 +19,7 @@ We are four films deep with a fifth already confirmed, and this franchise has ab
 
 _This post contains minor spoilers for the Roundup Korean movies._
 
-* * *
+---
 
 ### The Plot (In a Nutshell)
 
@@ -56,6 +56,8 @@ The stunt work is impeccable, the framing captures the full chaos of every brawl
 The Roundup series works for the same reason the best action franchises always work: it knows exactly what it is and never apologizes for it. These are not films trying to be prestige cinema in disguise. They are films that want you to feel the hits, root for the good guy, and walk out satisfied. That clarity of purpose, combined with the fact that the films are actually well-made rather than cynically assembled, is what separates this franchise from the pile.
 
 There is also something refreshing about Ma Seok-do as a protagonist in the current landscape. He is not morally conflicted. He is not broken. He is not hiding a secret that will be revealed in the third act. He is a cop who loves his job, is very good at it, and finds it physically efficient to solve problems with his hands. There is something deeply satisfying about a character who sees a problem and just deals with it.
+
+---
 
 ### Final Verdict
 

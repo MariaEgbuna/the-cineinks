@@ -17,7 +17,7 @@ Because this show is not great for a cartoon. It is not impressive given what it
 
 **Justice League** and its follow-up **Justice League Unlimited** are part of the DC Animated Universe, a shared animated continuity that Bruce Timm built across more than a decade starting with Batman: The Animated Series in 1992 and Superman: The Animated Series in 1996. Justice League premiered on Cartoon Network on November 17, 2001, ran for two seasons and 52 episodes, and was followed directly by Justice League Unlimited, which ran from July 2004 to May 2006 for an additional 39 episodes across three seasons. Taken together, these two shows represent the most complete and most ambitious superhero animated universe ever built, and nothing that has come since has fully matched what they pulled off.
 
-* * *
+---
 
 ### Plot In A Nutshell
 
@@ -60,6 +60,8 @@ This show trusts you. That is the thing. It does not talk down to you, does not 
 The writing team across both shows included Dwayne McDuffie, Paul Dini, and Stan Berkowitz, writers who understood that the best superhero stories are never really about the punching. They are about who these people are when the punching stops. What they believe, what they are afraid of, what they owe each other. Justice League understood that and built every arc around it.
 
 And then JLU takes that same foundation and proves it can scale massively without falling apart. Adding thirty-plus heroes should have been chaos. It should have been a mess of cameos and wasted potential. Instead it is one of the smartest expansions of a shared universe ever attempted in animation. The show makes you care about characters you have never heard of, in a single episode, without ever making you feel like you are watching filler.
+
+---
 
 ### Final Verdict
 

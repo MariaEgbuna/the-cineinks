@@ -19,9 +19,7 @@ When an eight-year-old girl mysteriously vanishes at the lake, a chain of past d
 
 If you've seen Netflix's Dark and loved how it made your brain work overtime, this one is going to feel very familiar in the best possible way. Same eerie, atmospheric energy. Same slow-building dread that wraps around you before you even realize it.
 
-### The Experience
-
-**The Highlights:**
+### The Highlights
 
 *   **The Atmosphere is Incredible.** The cinematography alone turns Caddo Lake into a full character. The murky bayou, the Spanish moss, the suffocating stillness of the water. It's one of the most hauntingly beautiful settings I've seen in a thriller in years.
 *   **Dylan O'Brien is a Gem.** He plays Paris, a man consumed by grief, and he carries this film with a quiet intensity that sneaks up on you. It's the kind of performance that reminds you this guy is seriously talented beyond his blockbuster resume.
@@ -29,10 +27,12 @@ If you've seen Netflix's Dark and loved how it made your brain work overtime, th
 *   **The Themes Hit Hard.** Time, memory, identity, the weight of family secrets. The film doesn't just use these as backdrop. It actually digs into them, and it adds real emotional depth to what could've easily been a straightforward mystery.
 *   **Go in Blind.** The less you know walking in, the better this hits. The slow reveal of what the story is actually about is the whole experience. Don't let anyone spoil it.
 
-**Fair Warning:**
+### Fair Warning
 
 *   **It Demands Your Full Attention.** This isn't a passive watch. Get distracted early and you'll lose the thread fast.
 *   **Spoiler-Proof by Design (Which is Also a Limitation).** The film is so tightly constructed around its central mystery that it's nearly impossible to recommend without telling people exactly why they need to see it. That makes the first act feel slower than it actually is, and word-of-mouth harder than it should be.
+
+---
 
 ### Final Verdict
 

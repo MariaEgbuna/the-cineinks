@@ -31,12 +31,12 @@ The film leans into that one-guy-against-impossible-odds formula Collet-Serra ha
 *   **Taron Egerton Felt Miscast.** This is not about his ability as an actor, it is about the _fit_. The character needed someone who reads as more grounded and weathered, and he never quite convinced me he belonged in that uniform.
 *   **The Stakes Never Fully Hit.** For a movie this loud and fast, it is surprising how little emotional weight it actually has. You end up watching things happen instead of feeling them.
 
+---
+
 ### Final Verdict
 
 **My Rating: 5.0**
 
 This movie is basically the definition of a perfectly average thriller. All the ingredients are there, but the execution fumbles just enough that it never turns into anything memorable. It did rack up huge numbers for Netflix in its opening week, so clearly the premise alone was enough to pull people in. Watch it if you need some background noise with a bit of adrenaline in it. Otherwise, just rewatch Die Hard instead.
-
-* * *
 
 **Am I being too harsh?**

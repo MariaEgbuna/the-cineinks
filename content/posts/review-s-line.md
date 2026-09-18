@@ -18,7 +18,7 @@ S Line had everything it needed to be one of the most interesting K-dramas of 20
 
 This is one of those rare shows where the disappointment hits harder precisely because the potential was so obvious from the very start. We are talking about a concept so bold and provocative that it earned a spot at the 8th Cannes International Series Festival before it even aired. A Best Music award, early buzz from international critics, a cast featuring Lee Soo-hyuk and Lee Da-hee, and a premise lifted from a popular webtoon by Little Bee. This was a guaranteed win, and then they went ahead and fumbled it.
 
-* * *
+---
 
 ### The Plot (In A Nutshell)
 
@@ -31,6 +31,8 @@ And then episode six arrived and simply threw all of that in the bin. The ground
 Here is what makes it sting even more: the show's structure actually made this kind of ending inexcusable. Six episodes. That is all they had to work with, which means there was genuinely no room for the kind of bloated filler that typically derails longer KDramas. Six tight episodes should have given the writers complete control over pacing, character resolution, and payoff. Instead, the tight runtime made the collapse in the final episode feel even more deliberate and indefensible. They had a short runway and still managed to crash before the landing. Every unresolved thread, every character arc that simply evaporates, every plot point that gets dropped without explanation, it all happened in a window where there was no excuse for it.
 
 The real tragedy of S Line is that it did not fail because it was a bad idea. It failed because the people behind it either ran out of courage or ran out of time, and they chose shock value over the storytelling their own premise deserved. The red lines were always a metaphor with cultural weight, especially in a society where a person's sexual history can be used to humiliate and destroy them. That conversation was worth having. The webtoon had already proven the concept could land. But the finale abandoned the thematic thread entirely in favor of a surreal ending that explained nothing, resolved nothing, and respected neither the characters nor the audience that had invested in them. When a show this ambitious collapses this hard at the final hurdle, it does not just waste your time. **It retroactively makes you question every hour you already gave it.**
+
+---
 
 ### Final Rating and Overall Thoughts
 

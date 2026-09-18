@@ -16,6 +16,8 @@ Call It Love, also released under the title Say It's Love in some regions, is a 
 
 A quick heads up before I go further: **this review has minor spoilers.** Nothing that ruins the ending, but I do talk about plot direction and pacing in enough detail that you might want to bookmark this and come back after you've started the show, if you're the type who likes going in completely blind and unspoiled.
 
+---
+
 ## The setup
 
 Woo-joo's life falls apart when her father dies. He had a mistress on the side, one who then has the audacity to kick Woo-joo and her family out of their own home. Understandably furious, Woo-joo decides she wants revenge, and she zeroes in on Han Dong-jin, the mistress's son, as her target. The problem is that Dong-jin turns out to be nothing like the smug, spoiled rich kid she expected. He's gentle, quietly lonely, and dealing with his own baggage, and the longer Woo-joo spends around him plotting her payback, the more she starts falling for him instead.
@@ -63,6 +65,8 @@ It's not just Kim Young-kwang and Lee Sung-kyung doing the heavy lifting here. S
 Melodrama as a genre asks a lot of its audience by design. It trades big, plot-driven momentum for lingering close-ups, quiet confessions, and scenes that let an emotional moment sit far longer than a Western drama typically would. When it works, that slowness becomes the whole appeal, you're not watching for what happens next, you're watching for how a character's face changes when they finally admit something to themselves. Call It Love clearly wants to live in that space, and for its first ten or so episodes, it mostly earns the slowness. Woo-joo's guardedness melting around Dong-jin, and his own loneliness cracking open around her, was so beautiful to watch.
 
 Where the show loses me is that it never seems to recognize the exact moment its slow-burn has finished burning. A good melodrama knows when to let quiet scenes breathe and when to actually move the story forward. Call It Love mistakes stillness for depth in its back half, repeating variations the leads already worked through, just dressed up in a new setting or a new minor conflict.
+
+---
 
 ## Critical reception versus how I actually felt
 

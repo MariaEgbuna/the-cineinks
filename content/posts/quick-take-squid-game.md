@@ -21,7 +21,7 @@ Hwang Dong-hyuk first wrote the idea for Squid Game in 2008. He was pulling from
 
 _This post contains minor spoilers for Netflix's Squid Game_
 
-* * *
+---
 
 ### What makes Season 1 untouchable
 
@@ -60,6 +60,8 @@ Season 1 dropped all nine episodes at once and the world binged it together. Tha
 That's a subscriber retention strategy and it worked commercially: Season 2 hit 68 million views in four days, breaking the premiere record that had been held by Wednesday. Season 3 hit 106 million views in ten days, the fastest any Netflix series in any language has ever reached that number. The numbers are great, Netflix wins.
 
 But the storytelling takes a real hit. Momentum matters in serialized narrative. When you split one story in half and force a six-month gap, you're asking the audience to carry emotional investment that the narrative wasn't built to support across that kind of distance. Viewers forget who characters are, subplots that were building slowly in Season 2 feel cold when Season 3 picks them up. The continuity breaks in ways that make the writing look weaker than it actually is.
+
+---
 
 ### So should you watch it?
 

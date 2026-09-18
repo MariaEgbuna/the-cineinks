@@ -37,6 +37,8 @@ Marina gets pulled into the center of things through her sixteenth birthday part
 
 By the end of the night, the show cuts to Marina being carried out in a body bag. Everything from here on out is building toward how she ends up there.
 
+---
+
 ### The twists and the escalation
 
 School rolls out a social media project that pairs everyone off: Marina gets stuck with Samuel, Polo with Carla, Christian with Ander, and Guzman ends up with Nadia, which is exactly what Lu wanted. She'd been pushing Guzman toward Nadia the whole time, and it comes out that the two of them made a bet: Guzman could get Nadia into bed. Nadia finds out and confronts him, humiliated, and for a while it looks like whatever was building between them is dead on arrival. Except Guzman keeps showing up anyway, gives her a custom hijab as an apology, and he even fumbles an attempt to grovel to her parents but accidentally exposes the fact that the school banned Nadia's hijab. He finds his own father doing lines of cocaine at a family event and decides to protect him instead of exposing him. Later, Nadia decides he's actually grown into someone worth forgiving.
@@ -54,6 +56,8 @@ Ander and Omar's relationship gets forced into the open the hard way. Guzman, an
 Marina's pregnancy becomes impossible to hide once she collapses and ends up in the hospital. Samuel assumes the baby isn't his and becomes obsessed with figuring out who the father is, not realizing it's Nano. Marina considers ending the pregnancy, but Nano talks her out of it, promising the stolen watch money will be enough to start over somewhere else, just the two of them. Samuel's hunt for answers goes badly wrong when he wrongly accuses a teacher and attacks him in front of the principal. Nadia ends up being the one to clear things up, exposing an actual blackmail arrangement between that teacher and Lu in the process, which gets the teacher fired and Lu suspended.
 
 It all blows up by the end of episode seven. Carla can't prove Marina and Nano are behind the blackmail, but she tells her father anyway, who tells Ventura, and the confrontation that follows forces Marina to admit she's pregnant with Nano's child. Guzman, blindsided and furious, pulls in Ander and Polo to help him go after Nano. But when they show up, it's Samuel who throws the first punch. The whole thing turns into a full brawl. Guzman runs and hides at Nadia's family shop, Polo slips away, and Ander is left beaten badly enough that Omar finds him bleeding in an alley.
+
+---
 
 ### How it all wraps up
 
@@ -96,6 +100,8 @@ Samuel just didn't do it for me as the lead. A few episodes in, I could already 
 The Lu and Guzman bet was one I went in already rolling my eyes at. A bet to take someone's virginity is such a tired, gross setup on paper, and normally I'd check out the second a show tries it. But credit where it's due, the show kinda pulled it off. It turned something that could've been lazy and mean spirited into an actual redemption arc, so I'll let this one slide.
 
 The major thing I couldn't get past was the whole Nano and Marina relationship, and I need to be blunt about it: Nano is a grown man in his twenties, Marina is sixteen, and the show frames this as a forbidden romance. That's a grown man sleeping with a high schooler, and the writing just glosses over it, no pushback from any other character, no acknowledgment that something is deeply wrong here. I understand the plot needs Nano in Marina's orbit for the blackmail storyline to work, but there were other ways to get there that didn't require romanticizing whatever *this* was. It soured a real chunk of the season for me, and it's the one storyline choice I can't give the show a pass on.
+
+---
 
 ### Overall thoughts
 

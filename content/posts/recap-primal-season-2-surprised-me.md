@@ -17,7 +17,7 @@ This was a wild ride from start to finish, full of surprises I did not see comin
 
 _This post contains spoilers for Primal Season 2._
 
-* * *
+---
 
 ### Lost at sea, and then lost from each other
 
@@ -75,7 +75,7 @@ Spear is brought home unconscious, and the village shaman makes it clear there i
 
 The season closes years later, with Fang and her now grown offspring still living in Mira's village, and a teenage girl, Spear and Mira's daughter, riding one of Fang's children and letting out a roar of her own as the screen cuts to black.
 
-* * *
+---
 
 ### Where we left everyone
 
@@ -85,7 +85,7 @@ The season closes years later, with Fang and her now grown offspring still livin
 *   **The Viking Chieftain:** Survived his final fight with Spear, dragged back into the fiery underworld by the demon that gave him his powers in the first place.
 *   **Kamau:** Freed himself and his daughter from the Egyptian Queen's enslavement, last seen sailing toward an unknown future after years of servitude.
     
-* * *
+---
 
 ### Final verdict and overall thoughts
 

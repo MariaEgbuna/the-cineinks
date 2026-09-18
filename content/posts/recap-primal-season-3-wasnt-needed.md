@@ -17,7 +17,7 @@ _This post contains spoilers for Primal Season 3._
 
 Spear died at the end of season 2. That should have been the end of it. Instead, season 3 opens with a Shaman digging up his corpse and stuffing an enchanted heart into it, and for the next ten episodes we watch a zombie with no memory, no voice, and half his face missing try to claw his way back to the only two people who ever made him feel human. That is the whole point of the season, and it is also where it starts to lose me a little.
 
-* * *
+---
 
 ### A Shaman brings him back wrong
 
@@ -37,8 +37,6 @@ Episode 3 is where this season really shows its teeth emotionally. Spear latches
 
 It is a strange choice to build an entire episode around, a zombie grieving a bug, but it works because it is really about what grief does to Spear specifically. He does not process loss quietly. He processes it by burning down everything around him. The show already told us that in season 1 with the T. rex pack. Season 3 just proves it still applies even when his brain barely functions.
 
-* * *
-
 ### Mira refuses to stop looking
 
 ![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-4.jpg)
@@ -51,8 +49,6 @@ What I loved here is that the reunion is not clean. Spear cannot talk. He cannot
 
 The actual rescue of the captives in Cavern of Horrors is one of the tensest sequences in the show. Mira sneaking Jabu and the other captives out on a vine rope while the Andrewsarchus sleep, the rope snapping and sending everyone crashing, Fang going toe to toe with the massive white furred matriarch while Spear claws his way out of a pit full of enemies. It is chaotic in the best way, and it is the point where Spear finally starts feeling useful to this group again instead of just a scary stranger who followed them home.
 
-* * *
-
 ### Driven out with torches and rocks
 
 ![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-5.jpg)
@@ -60,8 +56,6 @@ The actual rescue of the captives in Cavern of Horrors is one of the tensest seq
 The gratitude does not last. Mira gets seriously hurt during the rescue, and the second Spear carries the group back into her village, the villagers see a rotting corpse walking toward them and lose it. He gets pelted with rocks and driven out of town, twice, the second time by a mob with torches that chases him into the jungle until he sinks into a mud pit to escape. It is a hard scene to watch, mostly because Spear does not actually understand why everyone is so scared of him. He saved these people's kids. He does not have the capacity left to process rejection the way a person would.
 
 There is a quiet, devastating moment right after where Spear looks at his reflection in a waterfall and finally sees himself the way everyone else does. Not the man Mira fell for, a corpse with half a skull and no face left to speak of. That is the moment he actually understands the fear, and it breaks something in him. He falls off the waterfall not long after and washes up somewhere entirely new, while Mira and Fang, convinced he killed himself, go through actual grief over losing him a second time.
-
-* * *
 
 ### The Black River arena
 
@@ -73,8 +67,6 @@ Every drink of that fluid pulls him a little closer to being whole again. His mu
 
 Meanwhile, back in the village, Mira gives birth to their daughter, and the show cuts between that tender moment and Spear beating a man to death in an arena for a cup of black river water, which sounds like it should not work tonally but somehow does. He eventually steals the pterosaur, flies back to sneak a look at his new daughter, and gets an entire arc of him quietly crafting her a little wooden doll between fights, obsessing over a fallen opponent's carved polearm because it would make a good toy. For a zombie who cannot speak, it is one of the clearest ways the show has to show us he is still Spear underneath all the damage.
 
-* * *
-
 ### Coming home to almost lose everyone
 
 ![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-7.jpg)
@@ -85,7 +77,7 @@ Then the Black River tribe darts the entire group unconscious and drags them bac
 
 The season closes years later. Fang's kids are grown. Spear's daughter is a teenager riding one of them, roaring alongside her the way Spear and Fang used to. Spear, fully healed and human again, just stands there smiling at the family he nearly lost twice over. It is a quiet way to end something this violent, and it ties directly back into that final scene from the season 2 epilogue, which now makes a lot more sense knowing everything that happened in between.
 
-* * *
+---
 
 ### Where we left everyone
 
@@ -95,7 +87,7 @@ The season closes years later. Fang's kids are grown. Spear's daughter is a teen
 *   **Jabu:** Rescued from the Andrewsarchus pack thanks to Mira and Fang's kids, and survives the season without any lasting harm.
 *   **The Black River people:** Left behind, likely scattered or dead, after their volcano erupted mid ritual and swallowed most of the arena along with their leader.
 
-* * *
+---
 
 ### Final verdict and overall thoughts
 

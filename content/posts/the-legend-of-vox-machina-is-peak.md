@@ -15,7 +15,7 @@ The Legend of Vox Machina is one of the best things animation has given us this 
 
 Here's my confession though. I went in expecting a fun D&D adaptation, something silly to put on in the background. What I got instead was a story with characters I actually care about, animation that keeps getting more ambitious with every season, and a plot that somehow manages to top itself every single time it comes back. Shows usually peak and coast. This one just keeps climbing.
 
-* * *
+---
 
 ### The Plot (In a Nutshell)
 
@@ -68,6 +68,8 @@ Part of the magic here is where this show actually came from. This wasn't a stud
 That origin story matters because it shows up in the finished product. This is a show built by people who actually played these characters at a table for years before any of it hit a screen, voiced by the same cast who lived through every dice roll and improvised joke in the original campaign. You can feel that lived in quality in every performance. Nobody's reading lines cold, they're revisiting people they already know intimately. Laura Bailey isn't just voicing Vex, she's replaying years of choices she personally made as that character live on stream, and that history bleeds into every line delivery in a way you can't fake with a normal casting process.
 
 Critically, the show has backed up the hype too. All three completed seasons hold a perfect 100 percent score on Rotten Tomatoes, with critics consistently pointing to the animation, the humor, the voice work, and the fight choreography as reasons it stands apart from most adult animation. The show keeps figuring out how to get better instead of just coasting on goodwill.
+
+---
 
 ### Final Thoughts
 

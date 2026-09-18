@@ -13,8 +13,6 @@ coverImage: "/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.jpg"
 
 We all have a list of movies we love, but I think the list of movies we refuse to watch is just as revealing.
 
-I think of entertainment as an escape. When I sit down to watch something, I am choosing to step outside of the real world for a while. So the last thing I want is to spend hours inside a story that mirrors the worst and most exhausting parts of reality, just packaged with better cinematography and a soundtrack.
-
 There are themes and genres I avoid completely, no matter how many people tell me I am missing out. Awards, critical praise, word-of-mouth recommendations, none of that is enough to make me sit through something that I know will leave me feeling worse than before I pressed play. That applies to movies and TV shows equally.
 
 * * *
@@ -76,5 +74,7 @@ _**2\. 1917:**_ This is the other exception, and it belongs on this list for a s
 What both films share is that they lead with a cinematic idea, a specific, deliberate answer to the question: "_How should this story be told?_" Most war movies never ask that question. They just assemble the familiar pieces: the squad, the mission, the sacrifice, and point a camera at them. _**Dunkirk**_ and _**1917**_ are built differently.
 
 * * *
+
+I think of entertainment as an escape. When I sit down to watch something, I am choosing to step outside of the real world for a while. So the last thing I want is to spend hours inside a story that mirrors the worst and most exhausting parts of reality, just packaged with better cinematography and a soundtrack.
 
 I am curious whether other people have thought this through as deliberately as I have.

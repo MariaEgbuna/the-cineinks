@@ -19,7 +19,7 @@ No dialogue anywhere in it, not a single word, and somehow I understood everythi
 
 _This post contains spoilers for Primal Season 1._
 
-* * *
+---
 
 ### How A Massacre Turned Into A Friendship
 
@@ -65,7 +65,7 @@ The back half of the season keeps raising the stakes. There is a rotting, infect
 
 And then the season ends on a gut punch that has nothing to do with monsters at all. Spear and Fang come across an enslaved woman named Mira fighting off a sea creature in a lagoon. They free her from her shackles, travel with her, and slowly build something close to a found family. She teaches Spear how to make a bow. She prays to the moon every night. He starts to actually care what she is trying to say to him even though he cannot understand her language. Then a group of monkey-men ambush their camp and drag her away, and by the time Spear and Fang reach the coast, she is already being shipped off by the same people who enslaved her in the first place. The season ends with Spear saying his first word in the entire show, her name, while Fang roars in grief beside him.
 
-* * *
+---
 
 ### Where We Left Everyone
 
@@ -73,7 +73,7 @@ And then the season ends on a gut punch that has nothing to do with monsters at 
 *   **Fang:** Lost her own children the same day Spear lost his family, nearly died in the ape-men arena, and spends the finale roaring in helpless grief right alongside him.
 *   **Mira:** Escaped slavery only to get recaptured in the final minutes of the season, taken away on a ship before Spear and Fang can reach her.
     
-* * *
+---
 
 ### Final Verdict & Overall Thoughts
 

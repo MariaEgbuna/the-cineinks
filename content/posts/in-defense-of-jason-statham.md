@@ -17,7 +17,7 @@ Neither does he, probably.
 
 There was a version of this man who could have had a genuinely strange and interesting career. Early Guy Ritchie films, a real comedic breakout, solid franchise work. The range was there. And then something happened. A switch flipped. And now every new Jason Statham film comes with a checklist: mysterious past, small town or remote island, a government conspiracy, at least one scene where he stares at something for slightly too long. We keep showing up anyway. This Spotlight is for him, and also for us. Mostly for us. Consider this the case for the defense.
 
-* * *
+---
 
 ### The origin story nobody talks about
 
@@ -70,6 +70,8 @@ The joke only works because Statham doesn't blink. Rick Ford isn't in on the jok
 There's one thing that's actually keeping me hopeful. Guy Ritchie and Statham have reunited for **Viva La Madness**, their sixth film together, based on J.J. Connolly's novel and pitched as a standalone follow-up to the world of **Layer Cake**. Ritchie has said he and Statham had been trying to make this one for over ten years, and they finally wrapped filming in May 2026 with a cast that includes Vinnie Jones and Jason Isaacs. There's no release date yet, sometime in 2027 is the rumour, but the fact that it exists at all means something. This isn't another job-with-a-secret-past thriller. This is the same director who got real comic chaos out of him in the late nineties, coming back for round six.
 
 I'm not saying it'll be a return to form. I'm saying the man clearly still has the appetite for something different. Let me hope small. It's all I've got.
+
+---
 
 ### CineInks recommends
 

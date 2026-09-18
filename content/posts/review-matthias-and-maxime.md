@@ -31,6 +31,8 @@ I found this movie because of a gif on Twitter. Spent way too long scrolling thr
 *   **It's a slow burn.** At 119 minutes, the pace is deliberate. There are parts in the middle that drag, and a few scenes you could cut without losing much. You've gotta be in the right mood for this one.
 *   **The group scenes can feel pointless.** A lot of the movie happens within a wider friend group, and some of those scenes wander before going anywhere interesting. If the group doesn't grab you early, those parts will test your patience.
 *   **This is not a love story with a neat ending.** If you want a clear romance and a satisfying wrap-up, you'll leave disappointed. It's more about figuring yourself out than getting any kind of payoff. Go in knowing that.
+  
+---
 
 ### Final Verdict
 

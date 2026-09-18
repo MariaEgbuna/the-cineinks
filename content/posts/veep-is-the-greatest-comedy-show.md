@@ -20,13 +20,9 @@ The moment you stop expecting anyone on screen to do the right thing, you relax 
 
 Veep ran for seven seasons on HBO, from April 2012 to May 2019. It was created by Armando Iannucci, the Scottish writer behind The Thick of It and the film In the Loop, and it accumulated 59 Primetime Emmy nominations across its run, winning 17 of them. Julia Louis-Dreyfus won six consecutive Emmy Awards for Outstanding Lead Actress in a Comedy Series for this role. Six. In a row. That tells you something happened here that television does not usually get to do.
 
-_
+_This post contains spoilers for HBO's Veep_
 
-This post contains spoilers for HBO's Veep
-
-_
-
-* * *
+---
 
 ### The Plot (In a Nutshell)
 
@@ -75,6 +71,8 @@ And then there is **Richard Splett**, played by Sam Richardson, who first appear
 Veep did something that should not be possible: it turned profanity into poetry. The insults are constructed, layered, and have actual rhythm. The writers understood that a great insult needs specificity. Generic abuse is lazy. But when you target someone so precisely, so surgically aimed at their exact brand of failure, it stops being an insult and starts being craft.
 
 The show also has a thesis beneath all the chaos. Iannucci built Veep on the same foundation he used for The Thick of It: the idea that political power does not corrupt people so much as it selects for people who are already compromised, and then gives them a stage. These characters did not become awful because of Washington. Washington chose them because they were already like this.
+
+---
 
 ### Final Verdict
 

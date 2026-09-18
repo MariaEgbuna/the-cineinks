@@ -17,7 +17,7 @@ But once you actually sit down and watch it, there's this weird gap between what
 
 _This post contains spoilers for AMC's Breaking Bad_
 
-* * *
+---
 
 ### Let's look at the numbers
 
@@ -68,6 +68,8 @@ The thing is, the early seasons aren't actually _bad_. If you rewatch them once 
 The finale does something most shows never manage. It gives you what you want without cheating to get there. Walt doesn't get some clean escape or a redemption arc that wipes away what he did. He gets to wrap up his loose ends on his own terms, protecting his family, settling scores with the people who wronged him, setting Jesse free, and then he dies in the meth lab, surrounded by the equipment he ended up loving more than his own family. It just fits because it's what the story had built toward.
 
 By the time the finale hits, Ozymandias had already done most of the heavy lifting anyway, with the deaths, the confessions, everything Walt built coming apart. The finale just had to land the plane, and it does. Most shows this hyped up fumble the ending and make you regret the time you put in. Breaking Bad doesn't do that, so when you tell a friend to watch it, you don't have to give the "yeah but the ending kind of sucks" disclaimer.
+
+---
 
 ### So, is it actually the greatest show ever made?
 

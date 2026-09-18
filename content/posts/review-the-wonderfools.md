@@ -19,6 +19,8 @@ A superhero K-drama set during the Y2K scare sounded like exactly the kind of co
 
 _This post contains minor spoilers for Netflix's WONDERfools_
 
+---
+
 ### Setting the Scene
 
 Quick rundown for anyone who hasn't heard of it: it's an 8 episode Netflix show, all dropped at once on May 15, 2026. It's set in the fictional city of Haeseong right at the end of 1999, when everyone's losing their minds over the millennium bug. Eun Chae-ni finds out she has a serious congenital heart condition, panics, and convinces her two neighbors to help her fake her own kidnapping so she can squeeze ransom money out of her rich grandmother and finally go see the world before she dies. It goes wrong almost immediately. Chae-ni suffers a heart attack in the middle of the scheme, they end up dumping her near a toxic waste site trying to cover their tracks, and that exposure is how the whole gang ends up with unstable, glitchy superpowers. It's a ridiculous setup and somehow it works.
@@ -52,6 +54,8 @@ Now here's my one real complaint. The Chae-ni and Un-jeong romance just did not 
 What surprised me is how much is actually going on under the comedy. There's a whole conspiracy involving shady experiments connected to the chemical leak, a creepy doomsday cult, and a scientist with way darker motives than you'd expect from episode 1. That scientist, Ha Won-do, runs something called the **Wunderkinder Project**, and once his backstory starts unfolding it becomes clear he's not just a mad scientist stereotype, he's got a real personal reason for wanting what he wants, tied directly to Un-jeong's own traumatic childhood. The show takes its time getting there too, letting all the personal, character-level stuff breathe first before it drops the bigger conspiracy on you all at once. A few critics pointed out that the tonal whiplash between the slapstick comedy and the heavier trauma material can feel uneven, and I get where that criticism comes from, but for me the show earns the shift because it spends so much time on the small character beats first.
 
 It's also worth noting how well this thing has actually done since it dropped. It debuted at number 6 on Netflix's Global Non-English chart, then climbed to number 2 in its second week and stayed there into week three, eventually crossing 18 million views and over 170 million hours watched globally within its first five weeks. For a show that started as a shelved Stan Lee pitch from 2018, that's a wild turnaround.
+
+---
 
 ### Final rating and overall thoughts
 

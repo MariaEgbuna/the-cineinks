@@ -17,6 +17,8 @@ _This post contains minor spoilers for Frieren._
 
 Frieren: Beyond Journey's End Season 2 picks up right where the first one left off. Frieren, Fern, and Stark keep pushing north toward Ende, and around episode six the show pivots into the Divine Revolte arc. A village gets wiped out by a four armed demon named Revolte, and the party links back up with two old faces from the First Class Mage exam, Genau and Methode, to hunt him down.
 
+---
+
 ### What worked:
 
 *   **The animation is doing heavy lifting, and it's doing it well.** Madhouse didn't cut a single corner here. The northern landscapes, the way snow catches light, the framing on every single fight, it's some of the best looking anime you'll see this year, full stop. Whatever else went wrong with this season, nobody can say the studio slacked off on the visuals.
@@ -29,7 +31,7 @@ Frieren: Beyond Journey's End Season 2 picks up right where the first one left o
 *   **The arc wraps two episodes too soon.** All that build up around Revolte, the village massacre, Genau explaining exactly how dangerous the guy's swords are, and then the fight just ends in episode eight. Methode patches everyone up, and episodes nine and ten are left floating with nothing left to build toward. After spending so much time establishing Revolte as a threat unlike anything Frieren's faced, the actual payoff comes and goes fast, and the back half of the season never finds anything to replace that tension.
 *   **It drags even at ten episodes.** That's the part that actually worries me. A season this short should move fast by default, no excuse for dead air. But episodes nine and ten crawl by on barely any story movement. If this had gone the usual 20-plus episode route with this same pacing, I would've dropped it before the halfway mark.
 
-* * *
+---
 
 ### Final rating and overall thoughts
 

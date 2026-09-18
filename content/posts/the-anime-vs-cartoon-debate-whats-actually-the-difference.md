@@ -19,7 +19,7 @@ So this whole discourse has been living rent free in my head. Is anime only Japa
 
 Here's what set me off: the second you call a Japanese show a "cartoon" in front of a certain type of fan, you'd think you just insulted their whole bloodline. But the word anime literally comes from the word **animation**. So who's actually right here? Let's actually break this down, because the answer is way messier than either side of this argument wants to admit.
 
-* * *
+---
 
 ### What Anime Actually Means In Japan
 
@@ -54,6 +54,8 @@ And then you've got the shows that break the whole argument. Avatar: The Last Ai
 There was even a real attempt at this outside Japan entirely. A studio based in Abu Dhabi made a show called Torkaizer in 2013, marketed as "the Middle East's first anime," following a young Emirati hero fighting off an alien invasion, animated in a clearly Japanese inspired style and even partly set in Japan. It kicked off the exact same argument all over again: if it's not made in Japan, can it actually be called anime, or is it just anime flavored?
 
 Nobody's fully settled this. Some fans treat it like the pizza argument: pizza came from Italy, and you can make an amazing pizza anywhere in the world, but purists will still tell you it's not "real" Neapolitan pizza unless it followed the actual regional process. Anime works the same way for a lot of fans. Country of origin becomes part of the definition, not just the style.
+
+---
 
 ### Where I Actually Stand On This
 

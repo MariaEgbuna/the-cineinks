@@ -17,8 +17,6 @@ But it means when someone asks me what's actually been good this year, I don't h
 
 This isn't really a recommendation post. I'm not telling you what to watch or building a themed list around a mood. This is just me pulling up my own ratings and counting down the ten movies that scored highest for me so far this year.
 
-No spoilers, just my honest read on how much I enjoyed each one. Some of these are new, some are old, none of them are ranked by anything other than how much they got their hooks into me.
-
 * * *
 
 ### 10\. Dhurandhar (2025) - My rating: 7.7
@@ -100,3 +98,7 @@ Killer of Killers tells three separate stories across three different eras, a Vi
 I'm a little late getting to this one, but I'm glad I finally did. The Handmaiden is told from multiple perspectives, and without spoiling anything, it's a queer love story that actually gets to have a good ending. That alone makes it worth the watch.
 
 The way the story keeps recontextualizing itself as it unfolds is what makes it unforgettable. I love this movie so much. It's the kind of film that rewards a rewatch almost immediately because you start noticing what was hiding in plain sight the whole time.
+
+---
+
+No spoilers, just my honest read on how much I enjoyed each one. Some of these are new, some are old, none of them are ranked by anything other than how much they got their hooks into me.

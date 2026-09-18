@@ -15,7 +15,7 @@ Keanu Reeves is not, by any technical measure, a great actor. And somehow none o
 
 The man's been doing this since 1986 and he still delivers some lines like he's reading them off a cue card for the first time. And yet he's one of the most lovable people to ever exist on a movie screen. That contradiction is basically the whole point of today's post.
 
-* * *
+---
 
 ### So, Who Is Keanu?
 
@@ -42,6 +42,8 @@ People love Keanu the person way more than they respect Keanu the actor, and I t
 ### The Scene That Made Me A Believer
 
 The moment Keanu went from "guy from the Matrix" to "wait, this guy's actually special" for me was the lobby fight in the original John Wick. It's not the most technically impressive sequence in the franchise once you get to Chapter 4, but it's the one where you first feel the shift happen. A grieving man who just lost his dog grabs a gun and starts taking apart a room full of professional killers with brutal efficiency. No quips, no fanfare, just pure controlled fury. It set the tone for everything the franchise became, and it's the scene where you go "oh, this isn't just another action movie, he actually found his role."
+
+---
 
 ### CineInks Recommends
 

@@ -27,6 +27,8 @@ What starts as a road rage exchange spirals fast. Tom follows Rachel and her son
 
 *   **The Supporting Cast Struggles to Keep Up.** Whenever Crowe is off screen, the cracks start showing. Some of the supporting characters feel flat, and it becomes pretty obvious during the film's most intense moments.
 *   **There's No Depth Here.** This is a blunt instrument, plain and simple. If you need your thrillers to mean something deeper, you will walk away unsatisfied.
+   
+---
 
 ### Final Verdict
 

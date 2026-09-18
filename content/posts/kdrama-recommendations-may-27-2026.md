@@ -20,7 +20,7 @@ One show, then another, and suddenly you are eight episodes deep with absolutely
 
 These are not ranked. They are just the shows that earned a permanent spot in my memory, and here is why.
 
-* * *
+---
 
 ### Evilive (2023)
 
@@ -182,6 +182,6 @@ Song Hye-Kyo plays a woman who spent years methodically constructing a life desi
 *   **The planning is the payoff.** This show understands that watching a brilliant mind build something over years is far more satisfying than watching it detonate in one episode.
 *   **The villain ensemble is genuinely hateable.** You will not struggle to stay invested. The antagonists are written with just enough dimension to feel real, and just enough cruelty to make you desperate to watch them fall.
 
-* * *
+---
 
 That is my list. I have no doubt that I will be adding to it in the future, but these are the shows that have earned a permanent spot in my memory.

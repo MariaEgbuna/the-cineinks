@@ -30,6 +30,8 @@ If you've seen Get Out or Talk to Me, you know the type of horror this leans int
 
 *   **This is a heavy watch.** The film deals directly with consent, manipulation, and what it means to take away someone's ability to choose. There are a few scenes that are kind of hard to sit through. Just brace yourself.
 
+---
+
 ### Overall Thoughts
 
 Obsession earns its reputation as one of the best horror movies of 2026. It's a gripping, uncomfortable look at what happens when someone decides their feelings for you matter more than your right to choose them. Bear had so many chances to just tell Nikki the truth about how he feels for her. Instead he took a shortcut, and the film makes you watch every consequence of that decision play out.
@@ -38,6 +40,6 @@ Also worth noting, for a film made on a budget under a million dollars, it's now
 
 **My Rating: 9.1**
 
-* * *
+---
 
 _PS: I keep thinking about how differently this story would have gone if Bear had just told Nikki how he felt in the first place. Though I guess that's the whole point, the shortcut is always tempting but it's never actually free._

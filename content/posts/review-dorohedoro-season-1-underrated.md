@@ -17,6 +17,8 @@ _Dorohedoro_ is a 2020 dark fantasy anime from MAPPA, directed by Yuichiro Hayas
 
 Genre-wise it's a mashup: horror, action, comedy, with a heavy dose of body horror and gallows humor that shouldn't work together as well as it does.
 
+---
+
 ### The Setup
 
 The story follows Caiman, a man with a lizard head and no memory of his old face or his old life. A sorcerer did this to him, and now he's hunting them, hoping anyone can undo it or at least tell him what happened. His partner in this is Nikaido, a fry cook who fights like she was built for it. The two of them roam a grimy, decaying place called the Hole, a district where sorcerers use regular humans as target practice for their magic experiments.
@@ -37,7 +39,9 @@ The CGI takes some getting used to. MAPPA leaned into 3D animation for a lot of 
 
 That said, I wouldn't call this a real downside. Once the story pulls you in, the visual style stops being a distraction and starts feeling like part of the show's identity. By the midpoint, I wasn't thinking about it anymore, I was just watching the story.
 
-### Rating
+---
+
+### Final Verdict
 
 **8.7** out of 10.
 
