@@ -36,6 +36,6 @@ Small stuff I ran into and sorted out, keeping track mostly for myself:
 - Noticed Google wasn't indexing a chunk of pages. Turned out some of my multi-season recap/review posts (Elite, From, Primal, Dorohedoro) all had near-identical titles like "Recap: Elite Season 4," which probably read as repetitive, low-value content to Google. Rewrote all of them with actual opinions baked into the title instead, plus new slugs to match.
 - Related posts kept showing the exact same three every time. Apparently I only had 4 posts in that category, so there was nothing left to shuffle. Not a bug.
 - Featured post excerpt was invisible on some cover images. Was rendering fine, there was just no contrast between light images and the text sitting on top. Added a gradient overlay.
-- Hero looked great on desktop, broke on mobile, text was overflowing past the image. Fixed with a taller aspect ratio just for mobile, then had to fix that fix, mixed up the width/height order in Tailwind's aspect-ratio syntax and made it worse the first time around.
+- Hero looked great on desktop, broke on mobile, text was overflowing past the image. Tried fixing it with a taller aspect ratio just for mobile and made it worse the first time around, then had to fix that fix. I had mixed up the width/height order in Tailwind's aspect-ratio syntax.
 
 More to come as I keep working on this.
