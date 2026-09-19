@@ -32,7 +32,19 @@ export function getAllPosts(): Post[] {
   const posts = filenames.map((filename) => {
     const raw = readFileSync(path.join(POSTS_DIR, filename), "utf-8");
     const { data, content } = matter(raw);
-    return { ...data, content } as Post;
+
+    const score: number | null =
+      typeof data.score === "number" ? data.score : null;
+
+    const coverImage: string =
+      typeof data.coverImage === "string" ? data.coverImage : "";
+
+    return {
+      ...data,
+      content,
+      score,
+      coverImage,
+    } as Post;
   });
 
   return posts.sort(

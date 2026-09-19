@@ -6,15 +6,23 @@ This used to live on Blogger, under the name "The Watchlist Chronicles." I decid
 
 **Live at:** [cineinks.vercel.app](https://cineinks.vercel.app)
 
+---
+
 ## Why I rebuilt it
 
-Two reasons. The old Blogger setup had some serious indexing problems, pages just weren't getting crawled or found on Google. And I wanted something real to show for my front-end skills, not just a template.
+Two reasons. 
+* The old Blogger setup had some serious indexing problems, pages just weren't getting crawled or found on Google. 
+* And I wanted something real to show for my front-end skills, not just a template.
+
+---
 
 ## Built with
 
 - Next.js
 - TypeScript
 - Tailwind CSS
+
+---
 
 ## What's actually in here
 
@@ -28,6 +36,8 @@ Two reasons. The old Blogger setup had some serious indexing problems, pages jus
 - A CMS ([Decap](https://decapcms.org)) so I can actually write and publish posts without touching code
 - Vercel Web Analytics for basic visitor and page view tracking
 
+---
+
 ## Random fixes and tweaks along the way
 
 Small stuff I ran into and sorted out, keeping track mostly for myself:
@@ -37,5 +47,8 @@ Small stuff I ran into and sorted out, keeping track mostly for myself:
 - Related posts kept showing the exact same three every time. Apparently I only had 4 posts in that category, so there was nothing left to shuffle. Not a bug.
 - Featured post excerpt was invisible on some cover images. Was rendering fine, there was just no contrast between light images and the text sitting on top. Added a gradient overlay.
 - Hero looked great on desktop, broke on mobile, text was overflowing past the image. Tried fixing it with a taller aspect ratio just for mobile and made it worse the first time around, then had to fix that fix. I had mixed up the width/height order in Tailwind's aspect-ratio syntax.
+- Extra posts (no rating needed) were showing a bare "/10" badge with no number. Turned out Decap just skips writing the score field entirely when it's left blank instead of saving it as empty. My code was only checking for an explicit empty value, so a missing field slipped right past that check. Fixed it where posts get read in, so a missing score always gets treated as empty from that point on.
+
+---
 
 More to come as I keep working on this.
