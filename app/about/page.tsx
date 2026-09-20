@@ -1,7 +1,7 @@
 export default function AboutPage() {
   return (
     <main className="bg-cream py-16">
-      <div className="max-w-[900px] mx-auto px-5 prose prose-neutral">
+      <div className="max-w-225 mx-auto px-5 prose prose-neutral">
         <h1 className="font-serif">About</h1>
 
         <p>
