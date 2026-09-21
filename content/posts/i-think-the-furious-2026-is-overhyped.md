@@ -36,7 +36,7 @@ About twenty minutes in, I had to accept that these people are *functionally sup
 
 ## Paklung deserved more screen time
 
-![Yayan Ruhian  and Joey Iwanaga](/images/posts/park-and-tak-1-.jpg)
+![Joey Iwanaga as Paklung](/images/posts/paklung.jpg)
 
 Probably my biggest issue with the film. I found myself enjoying Paklung more than almost anyone else on screen. He doesn't get meaningful screen time until well over an hour in, barely gets any real setup before that point. Staying as a background threat for most of the runtime until the third act arrives and it's "here's the big boss now, look how unhinged he is."
 
