@@ -95,7 +95,7 @@ export default async function PostPage({ params }: PageProps) {
         />
       )}
       <section className="bg-ink">
-        <div className="max-w-[900px] mx-auto px-5 py-10">
+        <div className="max-w-225 mx-auto px-5 py-10">
           <div className="flex items-center gap-3 mb-4">
             <span className="bg-teal text-teal-light text-xs px-2.5 py-1 rounded">
               {post.category}
@@ -118,7 +118,7 @@ export default async function PostPage({ params }: PageProps) {
       </section>
 
       <section className="bg-cream">
-        <div className="max-w-[900px] mx-auto px-5 py-10 prose prose-neutral">
+        <div className="max-w-225 mx-auto px-5 py-10 prose prose-neutral">
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
             components={{ img: MarkdownImage as unknown as MarkdownImageComponent }}
