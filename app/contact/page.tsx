@@ -1,7 +1,7 @@
 export default function ContactPage() {
   return (
     <main className="bg-cream py-16">
-      <div className="max-w-[900px] mx-auto px-5">
+      <div className="max-w-225 mx-auto px-5">
         <div className="prose prose-neutral mb-8">
           <h1 className="font-serif">Contact</h1>
           <p>
@@ -42,7 +42,7 @@ export default function ContactPage() {
         <form
           action="https://api.web3forms.com/submit"
           method="POST"
-          className="max-w-[500px]"
+          className="max-w-125"
         >
           <input
             type="hidden"
