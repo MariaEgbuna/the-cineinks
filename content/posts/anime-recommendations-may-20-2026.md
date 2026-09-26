@@ -1,13 +1,11 @@
 ---
-title: "ANIME RECOMMENDATIONS: (May 20, 2026)"
+title: ANIME RECOMMENDATIONS: (May 20, 2026)
 slug: anime-recommendations-may-20-2026
 date: 2026-05-20T11:46:21.472Z
 category: Recommendations
-labels:
-  - Anime
+labels: Anime
 score: null
-excerpt: From psychological thrillers that will rot your brain to sports anime
-  that will make you want to run through a brick wall.
+excerpt: From psychological thrillers that will rot your brain to sports anime that will make you want to run through a brick wall.
 coverImage: /images/posts/anime-recommendations-may-20-2026/image-1.jpg
 ---
 

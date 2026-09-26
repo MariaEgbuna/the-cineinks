@@ -1,9 +1,9 @@
 ---
-title: "Best Movies I've Watched This Year (So Far)"
-slug: "best-movies-ive-watched-this-year-so-far"
-date: "2026-06-29T10:30:00Z"
-category: "List"
-labels: ["List"]
+title: Best Movies I've Watched This Year (So Far)
+slug: best-movies-ive-watched-this-year-so-far
+date: 2026-06-29T10:30:00Z
+category: List
+labels: List
 score: null
 excerpt: "I built a database to track every movie and show I've watched since 2025. I know how that sounds."
 coverImage: "/images/posts/best-movies-ive-watched-this-year-so-far/image-1.jpg"

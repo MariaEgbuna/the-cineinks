@@ -1,14 +1,11 @@
 ---
-title: "KDRAMA RECOMMENDATIONS: (May 27, 2026)"
+title: KDRAMA RECOMMENDATIONS: (May 27, 2026)
 slug: kdrama-recommendations-may-27-2026
 date: 2026-05-27T17:53:33.242Z
 category: Recommendations
-labels:
-  - KDrama
-  - List
+labels: KDrama
 score: null
-excerpt: I did not plan to become a K-drama person. It happened quietly, the way
-  most obsessions do.
+excerpt: I did not plan to become a K-drama person. It happened quietly, the way most obsessions do.
 coverImage: /images/posts/kdrama-recommendations-may-27-2026/image-1.jpg
 ---
 
