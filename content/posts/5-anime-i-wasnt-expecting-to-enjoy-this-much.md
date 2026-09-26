@@ -20,7 +20,7 @@ This list came together a little differently than my last one. A few of these I 
 
 **2017 · 1 Season · 12 Episodes (+ 1 OVA) · Completed**
 
-I saw a funny clip on Twitter and decided to give this one a shot, fully expecting nothing more than a quick, forgettable comedy. I love it. I really do. Interviews with Monster Girls follows Tetsuo Takahashi, a biology teacher fascinated by "demis" – demi-humans like vampires, dullahans, and succubi living quietly among regular humans – as he gets the chance to actually study a handful of demi students at his school.
+I saw a funny clip on Twitter and decided to give this one a shot, fully expecting nothing more than a quick, forgettable comedy. I ended up loving it. I really do. Interviews with Monster Girls follows Tetsuo Takahashi, a biology teacher fascinated by "demis" – demi-humans like vampires, dullahans, and succubi living quietly among regular humans – as he gets the chance to actually study a handful of demi students at his school.
 
 What makes this show work is the dynamic Takahashi has with his students. It's beautiful to watch  and explores what it's like to grow up different in a world that doesn't quite know how to accommodate you. And it's warm without ever tipping into anything uncomfortable. It's a short, twelve-episode slice-of-life with a supernatural coat of paint, and it earns every bit of its charm.
 
@@ -38,7 +38,7 @@ What makes this show work is the dynamic Takahashi has with his students. It's b
 
 **2024–2025 · 1 Season · 25 Episodes · Completed**
 
-Where do I even start? This show got so much hype online and if you ask me, it wasn't enough. The story follows a chain of people across generations in a fictional medieval Europe, all of them risking, and often losing, everything in pursuit of proving heliocentrism, the idea that the earth moves around the sun, at a time when the church considers that idea heresy.
+Where do I even start? This show got so much hype online when it was airing and if you ask me, it still wasn't enough. The story follows a chain of people across generations in a fictional medieval Europe, all of them risking, and often losing, everything in pursuit of proving heliocentrism, the idea that the earth moves around the sun, at a time when the church considers that idea heresy.
 
 It was great from start to finish. The characters, the risks they took, everything they sacrificed for an idea most of them never lived to see vindicated. It made me really appreciate the people who existed before us, named or unnamed, and just how much invisible work went into getting humanity to where it is now. It's a must watch for everyone – anime fan or not.
 
@@ -56,7 +56,7 @@ It was great from start to finish. The characters, the risks they took, everythi
 
 **2023–2025 (special coming Oct 2026) · 2 Seasons · 26 Episodes (+ 3-episode special) · Ongoing**
 
-This one was a decent watch too. Not my favorite on this list, since I'm not really a romance person, but I still gave it a fair chance. It's kind of a Cinderella story with a supernatural element woven in, following Miyo Saimori, raised by an abusive stepmother, who gets married off to a cold, feared military officer named Kiyoka Kudo, only for the marriage to slowly turn into something warm.
+This one was a decent watch too. Not my favorite on this list, since I'm not really a romance person, but I still gave it a fair chance. It's kind of a Cinderella story with a supernatural element woven in, following Miyo Saimori, raised by an abusive stepmother, who gets married off to a cold, feared military officer named Kiyoka Kudo, only for the marriage to slowly turn into something she didn't see coming.
 
 It's actually beautiful to watch once the story settles in, and I'm sure romance fans will love it more than I did.
 
@@ -78,7 +78,7 @@ I already mentioned I don't really watch romance but, I made an exception for th
 
 Watching them play mind games with each other is endlessly entertaining. Every scheme spirals more absurdly than the last, and somehow it never gets old. Ten out of ten, no notes.
 
-My only complaint is that there hasn't been a new season announced in a while, and I'm waiting.
+My only complaint is that there hasn't been a new season announced in a while.
 
 **What could have been better:** Absolutely nothing to point to here.
 
