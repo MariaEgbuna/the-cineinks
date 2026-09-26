@@ -3,8 +3,10 @@ title: 5 Anime I Wasn't Expecting to Enjoy This Much
 slug: animes-i-wasnt-expecting-to-enjoy
 date: 2026-09-25T11:25:00.000+01:00
 category: Recommendations
-labels: Anime
-excerpt: Some of these picks aren't the most popular shows out there, but they're worth your time regardless.
+labels:
+  - Anime
+excerpt: Some of these picks aren't the most popular shows out there, but
+  they're worth your time regardless.
 coverImage: /images/posts/cover-photo.jpg
 featured: false
 ---

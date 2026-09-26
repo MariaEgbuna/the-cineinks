@@ -1,12 +1,12 @@
 ---
-title: Bob's Burgers is Special
-slug: bobs-burgers-is-special
-date: 2026-07-06T10:30:00Z
-category: Extra
-labels: Extra
+title: "Bob's Burgers is Special"
+slug: "bobs-burgers-is-special"
+date: "2026-07-06T10:30:00Z"
+category: "Extra"
+labels: ["Extra"]
 score: null
-excerpt: Most long running shows lose steam the longer they go. You can just feel the writers running out of gas by a certain point. Bob's Burgers is not that show, it's gotten better with time.
-coverImage: /images/posts/bobs-burgers-is-special/image-1.jpg
+excerpt: "Most long running shows lose steam the longer they go. You can just feel the writers running out of gas by a certain point. Bob's Burgers is not that show, it's gotten better with time."
+coverImage: "/images/posts/bobs-burgers-is-special/image-1.jpg"
 ---
 
 ![Bob's Burgers is Special](/images/posts/bobs-burgers-is-special/image-1.jpg)

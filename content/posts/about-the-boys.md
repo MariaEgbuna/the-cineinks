@@ -3,9 +3,12 @@ title: About The Boys.
 slug: about-the-boys
 date: 2026-05-22T07:23:21.430Z
 category: Extra
-labels: Extra
+labels:
+  - Extra
+  - Series
 score: null
-excerpt: The actual finale episode was not that bad. I kind of liked it. My real issue is with the season as a whole.
+excerpt: The actual finale episode was not that bad. I kind of liked it. My real
+  issue is with the season as a whole.
 coverImage: /images/posts/about-the-boys/image-1.jpg
 ---
 ![About The Boys.](/images/posts/about-the-boys/image-1.jpg)
