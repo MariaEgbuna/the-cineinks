@@ -1,5 +1,5 @@
 ---
-title: "Best Movies I've Watched This Year (So Far)"
+title: "2026: The Jan–June Movie Highlights"
 slug: "best-movies-ive-watched-this-year-so-far"
 date: "2026-06-29T10:30:00Z"
 category: "List"
