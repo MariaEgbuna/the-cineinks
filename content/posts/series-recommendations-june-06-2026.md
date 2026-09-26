@@ -1,10 +1,10 @@
 ---
 title: "SERIES RECOMMENDATIONS: (June 06, 2026)"
 slug: series-recommendations-june-06-2026
-date: 2026-06-06T10:30:00Z
+date: 2026-06-06T10:30:00.000Z
 category: Recommendations
 labels:
-  - List
+  - Series
 score: null
 excerpt: Somehow this all started with Sam Reid and ended with four shows
   permanently lodged in my brain.
