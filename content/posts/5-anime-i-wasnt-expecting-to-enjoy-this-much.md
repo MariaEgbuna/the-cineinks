@@ -10,6 +10,8 @@ excerpt: Some of these picks aren't the most popular shows out there, but
 coverImage: /images/posts/cover-photo.jpg
 featured: false
 ---
+
+![post-cover-image](/images/posts/cover-photo.jpg)
 This list came together a little differently than my last one. A few of these I stumbled into through a random Twitter clip, one had so much hype behind it that I went in braced for disappointment and didn't get any, and a couple I only gave a chance because I was in the mood to step outside my usual genre lane. Give any of these a go in your spare time – you won't regret it.
 
 - - -
