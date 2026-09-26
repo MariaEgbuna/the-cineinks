@@ -11,11 +11,11 @@ excerpt: I say this as someone who genuinely loves the genre, and is not looking
 coverImage: /images/posts/cover-image-1-.jpg
 featured: false
 ---
-![City Hunter](/images/posts/city-hunter.jpg)
+![City Hunter](/images/posts/krama-1-.jpg)
 
 I got into Korean dramas in my first year of college, when a friend recommended City Hunter to me. Lee Min-ho playing a revenge-driven agent trained from childhood to bring down the people who wronged his father's old squad, mixed with a solid slow-burn romance with Park Min-young's character, gave me exactly the kind of hook a first-timer needed. I understand why people still rate it highly all these years later. But loving where you started doesn't mean you have to pretend the industry hasn't settled into some seriously exhausting habits since then, especially once you get deep into the romance side of things.
 
----
+- - -
 
 ## The romance tropes
 
@@ -51,7 +51,7 @@ Take what I'd call **the magic doctor coat trope**. A villain grabs a random whi
 
 Then there's **the suspicious IV drip tampering**, which might be even more ridiculous once you actually sit and think about it. Intruders just casually stroll into a hospital room, inject some unidentified clear liquid straight into a patient's IV line, and walk right back out, all without a single heart monitor alarm going off until they're safely gone. Where is the security in these buildings?? The Penthouse leaned on this one constantly, along with characters yanking vital plugs or tampering with medication while hospital staff are apparently on an extended coffee break somewhere off screen.
 
----
+- - -
 
 ## Where that leaves me
 
