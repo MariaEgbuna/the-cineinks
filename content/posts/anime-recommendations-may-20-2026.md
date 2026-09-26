@@ -4,7 +4,7 @@ slug: anime-recommendations-may-20-2026
 date: 2026-05-20T11:46:21.472Z
 category: Recommendations
 labels:
-  - List
+  - Anime
 score: null
 excerpt: From psychological thrillers that will rot your brain to sports anime
   that will make you want to run through a brick wall.
