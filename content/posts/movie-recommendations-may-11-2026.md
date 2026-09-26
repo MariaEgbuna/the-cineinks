@@ -1,5 +1,5 @@
 ---
-title: "MOVIE RECOMMENDATIONS: (May 11, 2026)"
+title: "Four Films, One Day, Zero Regrets"
 slug: movie-recommendations-may-11-2026
 date: 2026-05-11T10:48:00.002Z
 category: Recommendations
@@ -11,8 +11,6 @@ coverImage: /images/posts/movie-recommendations-may-11-2026/image-1.jpg
 ---
 
 ![MOVIE RECOMMENDATIONS: (May 11, 2026)](/images/posts/movie-recommendations-may-11-2026/image-1.jpg)
-
-Four films. One day. Zero regrets.
 
 This batch covers a lot of ground: a decade-old Korean thriller I somehow missed until now, two fresh 2026 releases that surprised me, and one survival story that goes completely off the rails in the best possible way. No ranking here. Just honest takes on everything I watched, in the order I watched it.
 
