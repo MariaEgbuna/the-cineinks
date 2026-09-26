@@ -11,6 +11,8 @@ excerpt: Gal Gadot runs across London for 84 minutes and somehow it still feels
 coverImage: /images/posts/the-runner-1-.jpg
 featured: false
 ---
+
+![cover-image](/images/posts/the-runner-1-.jpg)
 Gal Gadot runs across London for 84 minutes and somehow it still feels longer than the trial her character is supposed to be prosecuting. That's the whole vibe of The Runner in one sentence, but stick with me, because there's more to unpack here than just legs and spandex.
 
 If you've watched more than three action thrillers in the last decade, you already know this genre by heart: a person gets a phone call, someone they love is in danger, a mystery voice on the other end tells them to move, keep moving, and don't stop or else. You've seen Phone Booth and probably seen the Black Mirror episode "Shut Up and Dance" too, which did the blackmail-by-phone thing with a lot more dread. The Runner picks London as its scenery, straps a pair of running shoes on Wonder Woman, and calls it a day.

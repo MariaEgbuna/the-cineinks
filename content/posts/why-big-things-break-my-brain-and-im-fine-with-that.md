@@ -9,6 +9,7 @@ excerpt: "Big and Loud beats Deep and Boring every single time. If there's a cre
 coverImage: "/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.jpg"
 ---
 
+![Why Big Things Break My Brain (And I'm Fine With That)](/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.jpg)
 Big and Loud beats Deep and Boring every single time. If there's a creature on screen that could step on a skyscraper, I'm watching.
 
 I don't need a trailer or the reviews or for someone to tell me the CGI looks a bit rough in some places. You know why? It's because I don't care. And this is my attempt to explain why that is, and why I have absolutely zero plans to change.
@@ -18,8 +19,6 @@ This is not a review of any single film; it's a defense of an entire way of watc
 ---
 
 ### The Obsession Has an Origin Story
-
-![Why Big Things Break My Brain (And I'm Fine With That)](/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.jpg)
 
 This has been my whole personality since I was a kid. My brain saw something massive, impossible, and world-ending on a screen and just decided: **Yes. More of this, please**. It started with the 2005 King Kong. Peter Jackson's remake cost $207 million, ran for over three hours, and became the most expensive film ever made at the time. Universal signed off on every single overrun. Someone sat in a boardroom and kept saying yes to a movie about a giant gorilla, because they knew.
 

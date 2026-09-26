@@ -11,7 +11,7 @@ excerpt: I say this as someone who genuinely loves the genre, and is not looking
 coverImage: /images/posts/cover-image-1-.jpg
 featured: false
 ---
-![City Hunter](/images/posts/krama-1-.jpg)
+![cover-image](/images/posts/krama-1-.jpg)
 
 I got into Korean dramas in my first year of college, when a friend recommended City Hunter to me. Lee Min-ho playing a revenge-driven agent trained from childhood to bring down the people who wronged his father's old squad, mixed with a solid slow-burn romance with Park Min-young's character, gave me exactly the kind of hook a first-timer needed. I understand why people still rate it highly all these years later. But loving where you started doesn't mean you have to pretend the industry hasn't settled into some seriously exhausting habits since then, especially once you get deep into the romance side of things.
 

@@ -11,6 +11,8 @@ excerpt: I spoiled Widow's Bay for myself within the first four episodes and I
 coverImage: /images/posts/widow-bay-cover-image.jpg
 featured: false
 ---
+
+![Cover image](/images/posts/poster-image.jpg)
 I spoiled Widow's Bay for myself within the first four episodes and I still had a genuinely great time watching it. That should tell you everything you need to know about how good this show actually is.
 
 Let me explain that mess first, because it's kind of funny in hindsight. Twenty minutes into episode one, I was completely lost. Not in a bad way, more like the show throws you into the deep end and expects you to swim, no floaties. I pushed through anyway because something about the tone felt worth sticking around for. I watched three more episodes after that, fully invested, before I realized with horror that the "episode one" I'd started with was actually episode ten. I had accidentally spoiled the entire season finale for myself before I even understood who half these people were. And somehow, it didn't ruin the show at all. If anything, watching everyone slowly build toward a moment I already knew was coming turned into its own weird kind of fun, like doing a jigsaw puzzle when you've already seen the picture on the box.
@@ -18,8 +20,6 @@ Let me explain that mess first, because it's kind of funny in hindsight. Twenty 
 - - -
 
 ## What Widow's Bay actually is
-
-![Cover image](/images/posts/poster-image.jpg)
 
 If you haven't heard of it yet, Widow's Bay is 2026 Apple TV's comedy horror series about a small, fictional New England island that may or may not be cursed. The mayor wants to turn it into the next big tourist destination, cappuccino shops and all, and the locals (especially one) keep warning him that's a terrible idea because of the whole centuries-old curse situation. He doesn't listen. Fog rolls in. Church bells ring on their own. People start seeing things that shouldn't be there. It's basically what happens if the mayor from Jaws refused to close the beach, except instead of one shark, you get a whole island's worth of buried secrets clawing their way back to the surface.
 
