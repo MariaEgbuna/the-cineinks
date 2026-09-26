@@ -4,7 +4,7 @@ slug: movie-recommendations-may-11-2026
 date: 2026-05-11T10:48:00.002Z
 category: Recommendations
 labels:
-  - List
+  - Movies
 score: null
 excerpt: Four films. One day. Zero regrets.
 coverImage: /images/posts/movie-recommendations-may-11-2026/image-1.jpg
