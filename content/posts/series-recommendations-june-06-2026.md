@@ -1,5 +1,5 @@
 ---
-title: "SERIES RECOMMENDATIONS: (June 06, 2026)"
+title: "Addictive, Heavy, and Underrated: 4 Shows to Binge Next"
 slug: series-recommendations-june-06-2026
 date: 2026-06-06T10:30:00.000Z
 category: Recommendations
