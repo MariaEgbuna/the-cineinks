@@ -4,7 +4,7 @@ slug: bobs-burgers-is-special
 date: 2026-07-06T10:30:00.000Z
 category: Extra
 labels:
-  - Series
+  - Anime
 score: null
 excerpt: Most long running shows lose steam the longer they go. You can just
   feel the writers running out of gas by a certain point. Bob's Burgers is not
@@ -15,7 +15,7 @@ coverImage: /images/posts/bobs-burgers-is-special/image-1.jpg
 
 It's been on since January 2011, and it just wrapped up season 16 this year, which included the show's 300th episode. Fox already locked it in through season 19, so this thing is running until at least 2028. I started watching the 16th season, just one episode in, and I got hit with that same warm feeling you get revisiting an old favourite.
 
-- - -
+---
 
 ### Meet the Belchers
 
@@ -61,6 +61,6 @@ And it's FOX's fault! They split their Sunday animation lineup between a few sho
 
 Still, it's annoying as a viewer. You can't really settle into a weekly rhythm with it the way you can with other shows, and I think that hurts how casual fans keep up with it, even if the people who stick around, like me, don't mind waiting.
 
-- - -
+---
 
 At the end of the day I love this show because this family always has each other's back. Always. And sometimes that's really all I want from a TV show. If you haven't watched Bob's Burgers yet, you're seriously missing out on one of the most wholesome family shows on TV.

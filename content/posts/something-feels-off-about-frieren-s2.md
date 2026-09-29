@@ -3,12 +3,11 @@ title: "Something Feels Off About Frieren S2"
 slug: "something-feels-off-about-frieren-s2"
 date: "2026-05-29T22:17:48.417Z"
 category: "Extra"
-labels: ["Extra", "Anime"]
+labels: ["Anime"]
 score: null
 excerpt: "I finally started Frieren: Beyond Journey's End Season 2, and I really wanted to love it."
 coverImage: "/images/posts/something-feels-off-about-frieren-s2/image-1.jpg"
 ---
-
 ![Something Feels Off About Frieren S2](/images/posts/something-feels-off-about-frieren-s2/image-1.jpg)
 
 I finally started Frieren: Beyond Journey's End Season 2, and I really wanted to love it.
