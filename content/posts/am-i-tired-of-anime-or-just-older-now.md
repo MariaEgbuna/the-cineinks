@@ -3,14 +3,12 @@ title: Am I Tired of Anime, or Just Older Now?
 slug: am-i-tired-of-anime-or-just-older-now
 date: 2026-07-15T10:27:39.384Z
 category: Extra
-labels:
-  - Anime
+labels: Extra
 score: null
 excerpt: People keep asking me if I've fallen out of love with anime, and the
   answer is no. Also, this is not a "quitting anime" post.
 coverImage: /images/posts/am-i-tired-of-anime-or-just-older-now/image-1.jpg
 ---
-
 ![Am I Tired of Anime, or Just Older Now?](/images/posts/am-i-tired-of-anime-or-just-older-now/image-1.jpg)
 
 People keep asking me if I've fallen out of love with anime, and the answer is no. Also, this is not a "quitting anime" post.
@@ -19,7 +17,7 @@ I can throw on Attack on Titan right now and still lose my entire evening to it 
 
 It's not that I hate what's airing. It's that I sit down to start a new show, scroll through my list, and just... close the app. Nothing pulls me in anymore. And when I do force myself to commit to something and it turns out to be average, I don't just shrug it off like I used to. I feel drained, like I wasted something I can't get back. So let's actually dig into this, because I don't think it's as simple as "anime bad now."
 
-* * *
+---
 
 ### So what's actually going on then?
 
