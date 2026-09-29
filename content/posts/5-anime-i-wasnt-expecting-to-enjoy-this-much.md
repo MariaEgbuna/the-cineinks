@@ -5,16 +5,14 @@ date: 2026-09-25T11:25:00.000+01:00
 category: Recommendations
 labels:
   - Anime
-excerpt: Some of these picks aren't the most popular shows out there, but
-  they're worth your time regardless.
+excerpt: Some of these picks aren't the most popular shows out there, but they're worth your time regardless.
 coverImage: /images/posts/cover-photo.jpg
 featured: false
 ---
-
 ![post-cover-image](/images/posts/cover-photo.jpg)
 This list came together a little differently than my last one. A few of these I stumbled into through a random Twitter clip, one had so much hype behind it that I went in braced for disappointment and didn't get any, and a couple I only gave a chance because I was in the mood to step outside my usual genre lane. Give any of these a go in your spare time – you won't regret it.
 
-- - -
+---
 
 ### 1. Interviews with Monster Girls
 
@@ -107,6 +105,6 @@ The animation is gorgeous, easily one of the best-looking shows on this list, an
 * **Maomao.** A unconventional protagonist, driven by curiosity and a slightly unhealthy obsession with poisons rather than romance or ambition.
 * **The mystery format.** Each arc gives Maomao a real medical puzzle to untangle, keeping the show feeling fresh episode to episode.
 
-- - -
+---
 
 Each of these shows brought something different to the table for me, whether it was a dynamic I didn't expect to love, a romance I wasn't sure I'd care about, or a historical epic that left me thinking about the people history forgot. If you haven't seen any of these yet, give them a shot when you get the chance.
