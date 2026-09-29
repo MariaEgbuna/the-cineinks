@@ -4,7 +4,6 @@ slug: about-the-boys
 date: 2026-05-22T07:23:21.430Z
 category: Extra
 labels:
-  - Extra
   - Series
 score: null
 excerpt: The actual finale episode was not that bad. I kind of liked it. My real
@@ -23,7 +22,7 @@ That premise is extraordinary. And for two seasons it was executed with a precis
 
 *This post contains spoilers for The Boys on Amazon Prime.*
 
-- - -
+---
 
 ### What This Show Was at Its Best
 
@@ -77,7 +76,7 @@ She crossed over into Season 5 and brought a notebook and escorted some people t
 
 If you can skip an entire spinoff series, watch those characters appear on the main show, and still not miss a single thing that matters to the plot, then that spinoff should not have been positioned as essential viewing. The whole point of building out a connected universe is that the connections pay off. The Gen V crossover did not pay off. It was a waste of the audience's goodwill and a waste of a genuinely interesting character the spinoff had done real work to develop.
 
-- - -
+---
 
 ### Did The Boys Stick The Landing?
 
