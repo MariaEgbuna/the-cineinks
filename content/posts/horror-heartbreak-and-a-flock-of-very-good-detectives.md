@@ -3,12 +3,11 @@ title: "Horror, heartbreak, and a flock of very good detectives"
 slug: "horror-heartbreak-and-a-flock-of-very-good-detectives"
 date: "2026-08-24T11:00:00Z"
 category: "Extra"
-labels: ["Extra", "Movies"]
+labels: ["Movies"]
 score: null
 excerpt: "Five days, eight movies, and three of them didn't survive past the one-hour mark."
 coverImage: "/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.jpg"
 ---
-
 ![Horror, heartbreak, and a flock of very good detectives](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.jpg)
 
 Five days, eight movies, and three of them didn't survive past the one-hour mark.
@@ -17,7 +16,7 @@ It started with a John Wick rewatch, and somewhere around the credits I decided 
 
 Here's how the whole thing played out, in the order I watched it.
 
-* * *
+---
 
 ### John Wick: Chapter 3 - Parabellum (2019)
 
@@ -59,6 +58,6 @@ This is the one that just didn't work. Hokum wrapped up the week, and it's where
 
 This is a (sheep) whodunit mystery. After Backrooms and Hokum I just needed something to pass the time, so I put on The Sheep Detectives without expecting much, and it ended up being the best surprise of the whole week. Hugh Jackman plays a shepherd who reads murder mysteries to his flock every night, fully convinced they can't understand a word of it, right up until he turns up dead and the sheep decide they're the ones who have to solve it. Based on the novel Three Bags Full and directed by Kyle Balda in his first live action feature, it's a brilliant little movie with a solid twist and it gets a rating of 8.3 from me.
 
-* * *
+---
 
 That's the full ride: a John Wick comfort watch, an Evil Dead franchise that couldn't decide if it wanted to scare me or lose me, two horror movies I actively regret finishing, and a flock of sheep that somehow ended up being the best thing I watched all week. If nothing else, this week proved that horror won't always deliver, but the movie you expect the least from sometimes will.

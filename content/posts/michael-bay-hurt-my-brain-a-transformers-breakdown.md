@@ -3,12 +3,11 @@ title: "Michael Bay Hurt My Brain: A Transformers Breakdown"
 slug: "michael-bay-hurt-my-brain-a-transformers-breakdown"
 date: "2026-06-22T10:20:09.780Z"
 category: "Extra"
-labels: ["Extra", "Movies"]
+labels: ["Movies"]
 score: null
 excerpt: "I posted how big things break my brain on the blog. Then someone asked about Transformers."
 coverImage: "/images/posts/michael-bay-hurt-my-brain-a-transformers-breakdown/image-1.jpg"
 ---
-
 ![Michael Bay Hurt My Brain: A Transformers Breakdown](/images/posts/michael-bay-hurt-my-brain-a-transformers-breakdown/image-1.jpg)
 
 I posted [how big things break my brain](https://thewatchlistchronicles.blogspot.com/2026/05/why-big-things-break-my-brain-and-im.html) on the blog. Then someone asked about Transformers.

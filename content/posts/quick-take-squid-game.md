@@ -3,12 +3,11 @@ title: "Quick Take: Squid Game"
 slug: "quick-take-squid-game"
 date: "2026-05-11T17:08:00.005Z"
 category: "Extra"
-labels: ["Extra", "Series"]
+labels: ["KDrama"]
 score: null
 excerpt: "Squid Game is still worth it, even with everything that came after Season 1."
 coverImage: "/images/posts/quick-take-squid-game/image-1.jpg"
 ---
-
 ![Quick Take: Squid Game](/images/posts/quick-take-squid-game/image-1.jpg)
 
 Squid Game is still worth it, even with everything that came after Season 1.
