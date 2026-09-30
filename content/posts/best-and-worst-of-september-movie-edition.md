@@ -18,7 +18,7 @@ September was a big month for movies. I watched 10, dropped one, and found my mo
 
 ## September's Wins
 
-![Best Movies](/images/posts/top-movies.jpg)
+![Best Movies](/images/posts/top-movies-1.jpg)
 
 **1. Project Hail Mary (2026): 10.0**
 
