@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { Instrument_Serif, Public_Sans } from "next/font/google";
+import { Instrument_Serif } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -13,9 +14,11 @@ const instrumentSerif = Instrument_Serif({
   variable: "--font-instrument-serif",
 });
 
-const publicSans = Public_Sans({
-  subsets: ["latin"],
-  weight: ["400", "500"],
+const publicSans = localFont({
+  src: "./fonts/public-sans-latin-wght-normal.woff2",
+  weight: "100 900",
+  style: "normal",
+  display: "swap",
   variable: "--font-public-sans",
 });
 
