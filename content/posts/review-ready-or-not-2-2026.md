@@ -3,7 +3,7 @@ title: "Ready Or Not 2 (2026)"
 slug: "review-ready-or-not-2-2026"
 date: "2026-05-11T10:33:00.006Z"
 category: "Review"
-labels: ["Movies", "Review"]
+labels: ["Movies"]
 score: 7.7
 excerpt: "I walked out of Ready or Not 2 thinking one thing: Samara Weaving deserves a raise."
 coverImage: "/images/posts/review-ready-or-not-2-2026/image-1.jpg"

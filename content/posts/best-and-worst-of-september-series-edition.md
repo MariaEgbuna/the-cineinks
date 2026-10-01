@@ -1,8 +1,8 @@
 ---
-title: "Best and Worst of September: Series Edition"
+title: "September Watch: Series Edition"
 slug: best-and-worst-series-of-september-2026
 date: 2026-09-30T18:30:00.000+01:00
-category: List
+category: Best and Worst
 labels:
   - List
 excerpt: Another month done, and my watchlist did not come out of it unharmed.

@@ -2,7 +2,7 @@
 title: "My Unpopular Actor Opinions"
 slug: "my-unpopular-actor-opinions"
 date: "2026-08-05T10:30:00Z"
-category: "Extra"
+category: "Hot Takes"
 labels: ["Extra"]
 score: null
 excerpt: "Every fanbase has that group of celebrities everyone loves and you just cannot get the appeal of. This is mine."

@@ -5,7 +5,6 @@ date: 2026-05-23T06:49:02.198Z
 category: Review
 labels:
   - KDrama
-  - Review
 score: 9
 excerpt: I finished The King of Pigs at some unreasonable hour of the night and
   just sat there for a while after it ended.

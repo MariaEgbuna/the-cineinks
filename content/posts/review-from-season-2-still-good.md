@@ -3,7 +3,7 @@ title: "From Season 2 Is Getting Repetitive, But Still Good"
 slug: "review-from-season-2-still-good"
 date: "2026-07-24T10:30:00Z"
 category: "Review"
-labels: ["Review", "Series"]
+labels: ["Series"]
 score: 8
 excerpt: "The story itself still holds up, but this is where a few of the show's habits started to wear on me."
 coverImage: "/images/posts/review-from-season-2/image-1.jpg"

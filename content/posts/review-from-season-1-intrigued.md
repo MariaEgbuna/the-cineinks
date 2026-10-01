@@ -3,7 +3,7 @@ title: "I'm Intrigued By From Season 1"
 slug: "review-from-season-1-intrigued"
 date: "2026-07-22T10:30:00Z"
 category: "Review"
-labels: ["Review", "Series"]
+labels: ["Series"]
 score: 8.6
 excerpt: "I kept seeing this show pop up everywhere and I finally sat down to watch it."
 coverImage: "/images/posts/review-from-season-1/image-1.jpg"

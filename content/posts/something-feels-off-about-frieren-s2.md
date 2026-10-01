@@ -2,7 +2,7 @@
 title: "Something Feels Off About Frieren S2"
 slug: "something-feels-off-about-frieren-s2"
 date: "2026-05-29T22:17:48.417Z"
-category: "Extra"
+category: "Thoughts"
 labels: ["Anime"]
 score: null
 excerpt: "I finally started Frieren: Beyond Journey's End Season 2, and I really wanted to love it."

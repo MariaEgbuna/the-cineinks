@@ -5,7 +5,6 @@ date: 2026-09-20T17:00:00.000+01:00
 category: Extra
 labels:
   - Movies
-  - Review
 excerpt: A sad gay film that actually earns its sadness, instead of punishing
   you for hoping otherwise.
 coverImage: /images/posts/free-fall-1-.jpg

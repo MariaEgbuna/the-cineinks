@@ -5,7 +5,6 @@ date: 2026-06-24T10:30:00Z
 category: Review
 labels:
   - KDrama
-  - Series
 score: 8.3
 excerpt: A superhero K-drama set during the Y2K scare sounded like exactly the
   kind of concept that looks fun in a trailer and falls apart by episode 3. It

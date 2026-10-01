@@ -2,7 +2,7 @@
 title: "Is Breaking Bad Really The Best Show Ever Made?"
 slug: "is-breaking-bad-really-the-best-show-ever-made"
 date: "2026-04-28T22:04:00.018Z"
-category: "Extra"
+category: "Thoughts"
 labels: ["Series"]
 score: 9.5
 excerpt: "Breaking Bad is one of those shows the internet will not stop talking about. Everyone acts like it's basically a religion."

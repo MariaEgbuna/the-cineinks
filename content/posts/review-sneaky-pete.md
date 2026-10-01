@@ -3,7 +3,7 @@ title: "I Only Watched Two Seasons Of Sneaky Pete"
 slug: "review-sneaky-pete"
 date: "2026-06-10T10:30:00Z"
 category: "Review"
-labels: ["Series", "Review"]
+labels: ["Series"]
 score: 7.1
 excerpt: "Sneaky Pete is a 2017 crime comedy drama on Amazon Prime. A con man steals his cellmate's identity to escape a dangerous gangster."
 coverImage: "/images/posts/review-sneaky-pete/image-1.jpg"

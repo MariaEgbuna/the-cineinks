@@ -1,8 +1,8 @@
 ---
-title: "Best and Worst of September: Movie Edition"
+title: "September Watch: Movie Edition"
 slug: best-and-worst-movies-of-september-2026
 date: 2026-09-30T10:30:00.000+01:00
-category: List
+category: Best and Worst
 labels:
   - List
 excerpt: September was a big month for movies. I watched 10, dropped one, and

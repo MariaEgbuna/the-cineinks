@@ -3,7 +3,7 @@ title: "I Loved Obsession"
 slug: "review-obsession-2026"
 date: "2026-08-14T10:30:00Z"
 category: "Review"
-labels: ["Review", "Movies"]
+labels: ["Movies"]
 score: 9.1
 excerpt: "Obsession sits in that rare space where a horror movie somehow becomes the actual pop culture event of a season."
 coverImage: "/images/posts/review-obsession-2026/image-1.jpg"

@@ -3,7 +3,7 @@ title: "The Weakest Season Of From Yet"
 slug: "review-from-season-3-weakest-yet"
 date: "2026-07-27T10:00:00Z"
 category: "Review"
-labels: ["Review", "Series"]
+labels: ["Series"]
 score: 7.2
 excerpt: "After two seasons that had me fully hooked, this one was the weakest of the three so far."
 coverImage: "/images/posts/review-from-season-3/image-1.jpg"

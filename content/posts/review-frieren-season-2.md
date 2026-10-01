@@ -3,7 +3,7 @@ title: "Frieren Season 2"
 slug: "review-frieren-season-2"
 date: "2026-06-24T11:30:00Z"
 category: "Review"
-labels: ["Anime", "Review"]
+labels: ["Anime"]
 score: 7.1
 excerpt: "I finished Frieren Season 2 and my first honest reaction was: \"That's it?\""
 coverImage: "/images/posts/review-frieren-season-2/image-1.jpg"

@@ -3,7 +3,7 @@ title: "Takopi's Original Sin"
 slug: "review-takopis-original-sin"
 date: "2026-07-20T08:05:00Z"
 category: "Review"
-labels: ["Anime", "Review"]
+labels: ["Anime"]
 score: 8.6
 excerpt: "Takopi's Original Sin looks like a cheerful slice of life about a lonely kid, but it isn't."
 coverImage: "/images/posts/review-takopis-original-sin/image-1.jpg"

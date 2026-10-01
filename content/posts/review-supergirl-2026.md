@@ -3,7 +3,7 @@ title: "Supergirl (2026) is Overhated"
 slug: "review-supergirl-2026"
 date: "2026-07-29T10:30:00Z"
 category: "Review"
-labels: ["Movies", "Review"]
+labels: ["Movies"]
 score: 6.8
 excerpt: "It's not the disaster people online made it out to be, and it's not a masterpiece either."
 coverImage: "/images/posts/review-supergirl-2026/image-1.jpg"

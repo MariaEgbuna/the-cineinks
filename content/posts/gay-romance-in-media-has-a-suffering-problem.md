@@ -2,7 +2,7 @@
 title: "Gay Romance In Media Has A Suffering Problem"
 slug: "gay-romance-in-media-has-a-suffering-problem"
 date: "2026-06-12T07:07:00Z"
-category: "Extra"
+category: "Rants"
 labels: ["Extra"]
 score: null
 excerpt: "I am so tired. I am deeply, spiritually tired of watching gay people suffer on screen and being told that's a love story."

@@ -2,7 +2,7 @@
 title: "Stop Making Live Action Slop!"
 slug: "stop-making-live-action-slop"
 date: "2026-07-03T11:30:00Z"
-category: "Extra"
+category: "Rants"
 labels: ["Extra"]
 score: null
 excerpt: "Another year, another beloved animated thing dragged kicking and screaming into a live action remake nobody asked for."

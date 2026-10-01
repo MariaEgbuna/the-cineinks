@@ -2,7 +2,7 @@
 title: Am I Tired of Anime, or Just Older Now?
 slug: am-i-tired-of-anime-or-just-older-now
 date: 2026-07-15T10:27:39.384Z
-category: Extra
+category: Thoughts
 labels: 
 	- Extra
 score: null

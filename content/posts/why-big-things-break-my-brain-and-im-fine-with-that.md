@@ -2,7 +2,7 @@
 title: "Why Big Things Break My Brain (And I'm Fine With That)"
 slug: "why-big-things-break-my-brain-and-im-fine-with-that"
 date: "2026-05-12T09:58:00Z"
-category: "Extra"
+category: "Thoughts"
 labels: ["Extra"]
 score: null
 excerpt: "Big and Loud beats Deep and Boring every single time. If there's a creature on screen that could step on a skyscraper, I'm watching."

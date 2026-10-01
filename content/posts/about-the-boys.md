@@ -2,7 +2,7 @@
 title: About The Boys.
 slug: about-the-boys
 date: 2026-05-22T07:23:21.430Z
-category: Extra
+category: Thoughts
 labels:
   - Series
 score: null

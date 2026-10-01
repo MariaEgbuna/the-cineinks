@@ -3,7 +3,7 @@ title: "Dorohedoro's Second Season Was Worth The Wait"
 slug: "review-dorohedoro-season-2-worth-the-wait"
 date: "2026-08-03T10:30:00Z"
 category: "Review"
-labels: ["Anime", "Review"]
+labels: ["Anime"]
 score: 9.2
 excerpt: "Six years we waited for this season, and I'm going to tell you straight up: drop everything and go watch it because every bit of the wait was worth it."
 coverImage: "/images/posts/review-dorohedoro-season-2/image-1.jpg"

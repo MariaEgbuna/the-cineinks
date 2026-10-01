@@ -3,7 +3,7 @@ title: "Better Call Saul"
 slug: "review-better-call-saul"
 date: "2026-05-30T10:51:48.774Z"
 category: "Review"
-labels: ["Series", "Review"]
+labels: ["Series"]
 score: 8.4
 excerpt: "Quick Take on Better Call Saul: technically you could watch it without seeing Breaking Bad first. But I wouldn't recommend it."
 coverImage: "/images/posts/review-better-call-saul/image-1.jpg"

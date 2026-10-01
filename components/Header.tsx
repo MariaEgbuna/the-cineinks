@@ -27,10 +27,13 @@ export default function Header({ searchablePosts }: HeaderProps) {
         <div className="flex flex-wrap items-center justify-between gap-3 pb-4">
           <Link href="/" className="flex items-center gap-3">
             <div className="relative w-10 h-10 rounded-full overflow-hidden shrink-0">
+              {/* sizes="40px" matches the w-10 (40px) box above, so the browser
+                  downloads a small logo instead of a full-screen-width one. */}
               <Image
                 src="/logo.png"
                 alt="The CineInks logo"
                 fill
+                sizes="40px"
                 className="object-cover scale-125"
               />
             </div>

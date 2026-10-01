@@ -3,7 +3,7 @@ title: "The Planet of the Apes Trilogy is Underrated"
 slug: "the-planet-of-the-apes-trilogy-is-underrated"
 date: "2026-06-17T10:30:00Z"
 category: "Hall of Fame"
-labels: ["Hall of Fame", "Movies"]
+labels: ["Movies"]
 score: null
 excerpt: "The Planet of the Apes reboot trilogy does not get nearly enough credit, and I am tired of pretending otherwise."
 coverImage: "/images/posts/the-planet-of-the-apes-trilogy-is-underrated/image-1.jpg"

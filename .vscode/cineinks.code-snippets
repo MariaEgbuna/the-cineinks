@@ -1,0 +1,166 @@
+{
+  // Review: category Review, medium label plus Review, with a score
+  "CineInks Review": {
+    "prefix": "review",
+    "scope": "markdown",
+    "description": "Review post: frontmatter and cover image",
+    "body": [
+      "---",
+      "title: \"${1:Post title}\"",
+      "slug: ${2:review-title-year}",
+      "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:00.000+01:00",
+      "category: Review",
+      "labels:",
+      "  - ${3|Movies,Series,Anime,KDrama|}",
+      "  - Review",
+      "score: ${4:7.5}",
+      "excerpt: \"${5:One sentence with the core take.}\"",
+      "coverImage: /images/posts/${2}/image-1.jpg",
+      "featured: false",
+      "---",
+      "![REVIEW: ${6:Movie Title (Year)}](/images/posts/${2}/image-1.jpg)",
+      "",
+      "$0"
+    ]
+  },
+
+  // Recap: category Recap, medium label plus Recap, with a score
+  "CineInks Recap": {
+    "prefix": "recap",
+    "scope": "markdown",
+    "description": "Recap post: frontmatter and cover image",
+    "body": [
+      "---",
+      "title: \"${1:Post title}\"",
+      "slug: ${2:recap-show-season-n}",
+      "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:00.000+01:00",
+      "category: Recap",
+      "labels:",
+      "  - ${3|Series,Anime,KDrama|}",
+      "  - Recap",
+      "score: ${4:7.9}",
+      "excerpt: \"${5:Opening hook, word for word.}\"",
+      "coverImage: /images/posts/${2}/image-1.jpg",
+      "featured: false",
+      "---",
+      "![RECAP: ${6:Show Season N}](/images/posts/${2}/image-1.jpg)",
+      "",
+      "$0"
+    ]
+  },
+
+  // Hall of Fame: medium label only, no score line
+  "CineInks Hall of Fame": {
+    "prefix": "hof",
+    "scope": "markdown",
+    "description": "Hall of Fame post: frontmatter and cover image",
+    "body": [
+      "---",
+      "title: \"${1:Post title}\"",
+      "slug: ${2:post-slug}",
+      "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:00.000+01:00",
+      "category: Hall of Fame",
+      "labels:",
+      "  - ${3|Movies,Series,Anime,KDrama|}",
+      "excerpt: \"${4:Opening line, word for word.}\"",
+      "coverImage: /images/posts/${2}/image-1.jpg",
+      "featured: false",
+      "---",
+      "![${1}](/images/posts/${2}/image-1.jpg)",
+      "",
+      "$0"
+    ]
+  },
+
+  // Spotlight: label Spotlight, no score line
+  "CineInks Spotlight": {
+    "prefix": "spotlight",
+    "scope": "markdown",
+    "description": "Spotlight post: frontmatter and cover image",
+    "body": [
+      "---",
+      "title: \"${1:Post title}\"",
+      "slug: ${2:post-slug}",
+      "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:00.000+01:00",
+      "category: Spotlight",
+      "labels:",
+      "  - Spotlight",
+      "excerpt: \"${3:Opening line, word for word.}\"",
+      "coverImage: /images/posts/${2}/image-1.jpg",
+      "featured: false",
+      "---",
+      "![${1}](/images/posts/${2}/image-1.jpg)",
+      "",
+      "$0"
+    ]
+  },
+
+  // Extra: category dropdown (Thoughts, Rants or Hot Takes), label Extra
+  "CineInks Extra": {
+    "prefix": "extra",
+    "scope": "markdown",
+    "description": "Extra post: frontmatter and cover image",
+    "body": [
+      "---",
+      "title: \"${1:Post title}\"",
+      "slug: ${2:post-slug}",
+      "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:00.000+01:00",
+      "category: ${3|Thoughts,Rants,Hot Takes|}",
+      "labels:",
+      "  - Extra",
+      "excerpt: \"${4:Opening line, word for word.}\"",
+      "coverImage: /images/posts/${2}/image-1.jpg",
+      "featured: false",
+      "---",
+      "![${1}](/images/posts/${2}/image-1.jpg)",
+      "",
+      "$0"
+    ]
+  },
+
+  // List: category dropdown (Best and Worst or Rankings), label List
+  "CineInks List": {
+    "prefix": "list",
+    "scope": "markdown",
+    "description": "List post (best and worst): frontmatter and cover image",
+    "body": [
+      "---",
+      "title: \"${1:Post title}\"",
+      "slug: ${2:post-slug}",
+      "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:00.000+01:00",
+      "category: ${3|Best and Worst,Rankings|}",
+      "labels:",
+      "  - List",
+      "excerpt: \"${4:One sentence from the opening.}\"",
+      "coverImage: /images/posts/${2}/image-1.jpg",
+      "featured: false",
+      "---",
+      "![${1}](/images/posts/${2}/image-1.jpg)",
+      "",
+      "$0"
+    ]
+  },
+
+  // Recommendations: movies, series, anime or KDrama picks, medium label
+  "CineInks Recommendations": {
+    "prefix": "recs",
+    "scope": "markdown",
+    "description": "Recommendations post: frontmatter and cover image",
+    "body": [
+      "---",
+      "title: \"${1:Post title}\"",
+      "slug: ${2:post-slug}",
+      "date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:00.000+01:00",
+      "category: Recommendations",
+      "labels:",
+      "  - ${3|Movies,Series,Anime,KDrama|}",
+      "excerpt: \"${4:One sentence from the opening.}\"",
+      "coverImage: /images/posts/${2}/image-1.jpg",
+      "featured: false",
+      "---",
+      "![${1}](/images/posts/${2}/image-1.jpg)",
+      "",
+      "$0"
+    ]
+  }
+}

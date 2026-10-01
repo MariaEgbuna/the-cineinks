@@ -3,7 +3,7 @@ title: "Have You Seen Unhinged?"
 slug: "review-unhinged-2020"
 date: "2026-05-11T10:12:00.004Z"
 category: "Review"
-labels: ["Movies", "Review"]
+labels: ["Movies"]
 score: 7.3
 excerpt: "Unhinged is chasing the same nerve as Duel or The Hitcher: an ordinary drive turning into a nightmare you can't shake."
 coverImage: "/images/posts/review-unhinged-2020/image-1.jpg"

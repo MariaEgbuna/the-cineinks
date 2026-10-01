@@ -5,7 +5,6 @@ date: 2026-09-21T18:35:00.000+01:00
 category: Review
 labels:
   - Movies
-  - Review
 score: 7.2
 excerpt: The internet says The Furious reinvented martial arts cinema. I say the
   fights are incredible and everything else is just okay.

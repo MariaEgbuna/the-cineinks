@@ -3,7 +3,7 @@ title: "I Did Not Enjoy The Watcher"
 slug: "review-the-watcher-2022"
 date: "2026-08-26T10:30:00Z"
 category: "Review"
-labels: ["Review", "Series"]
+labels: ["Series"]
 score: 5.1
 excerpt: "A true crime mystery with a great premise, a stacked cast, and somehow still no idea where it's going."
 coverImage: "/images/posts/review-the-watcher-2022/image-1.jpg"

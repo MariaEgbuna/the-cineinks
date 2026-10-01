@@ -3,7 +3,7 @@ title: "The Justice League Animated Series is Underrated"
 slug: "the-justice-league-animated-series-is-underrated"
 date: "2026-06-15T10:00:19.629Z"
 category: "Hall of Fame"
-labels: ["Hall of Fame", "Anime"]
+labels: ["Anime"]
 score: null
 excerpt: "I came into this completely cold. No nostalgia, no childhood memories attached. By the time I finished it, I was annoyed at myself for waiting this long."
 coverImage: "/images/posts/the-justice-league-animated-series-is-underrated/image-1.jpg"

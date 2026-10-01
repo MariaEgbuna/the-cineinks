@@ -2,7 +2,7 @@
 title: "The Anime vs Cartoon Debate: What's Actually the Difference?"
 slug: the-anime-vs-cartoon-debate-whats-actually-the-difference
 date: 2026-06-15T12:00:00Z
-category: Extra
+category: Thoughts
 labels:
   - Anime
 score: null

@@ -2,7 +2,7 @@
 title: "The Tropes That Make Me Turn Off the TV."
 slug: "the-tropes-that-make-me-turn-off-the-tv"
 date: "2026-05-12T06:08:00.001Z"
-category: "Extra"
+category: "Hot Takes"
 labels: ["Extra"]
 score: null
 excerpt: "We all have a list of movies we love, but I think the list of movies we refuse to watch is just as revealing."

@@ -3,7 +3,7 @@ title: "HALL OF FAME: The Roundup Movies"
 slug: "hall-of-fame-the-roundup-movies"
 date: "2026-05-23T07:56:08.445Z"
 category: "Hall of Fame"
-labels: ["Hall of Fame", "Movies"]
+labels: ["KDrama"]
 score: null
 excerpt: "Let me tell you about the most criminally slept-on action franchise on the planet right now."
 coverImage: "/images/posts/hall-of-fame-the-roundup-movies/image-1.jpg"

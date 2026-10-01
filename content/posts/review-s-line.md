@@ -5,7 +5,6 @@ date: 2026-06-01T10:31:56.116Z
 category: Review
 labels:
   - KDrama
-  - Review
 score: 6.1
 excerpt: S Line had everything it needed to be one of the most interesting
   K-dramas of 2025, and somehow, it still managed to blow it completely.

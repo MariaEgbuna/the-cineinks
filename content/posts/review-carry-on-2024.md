@@ -3,7 +3,7 @@ title: "Carry On (2024)"
 slug: "review-carry-on-2024"
 date: "2026-05-11T10:18:00.007Z"
 category: "Review"
-labels: ["Movies", "Review"]
+labels: ["Movies"]
 score: 5
 excerpt: "The setup is basically Die Hard reworked for a TSA badge instead of a cop's. On paper, it should deliver wall-to-wall tension."
 coverImage: "/images/posts/review-carry-on-2024/image-1.jpg"

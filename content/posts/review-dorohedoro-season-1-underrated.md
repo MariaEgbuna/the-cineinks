@@ -3,7 +3,7 @@ title: "Underrated — That's Dorohedoro Season 1"
 slug: "review-dorohedoro-season-1-underrated"
 date: "2026-07-31T19:03:21.141Z"
 category: "Review"
-labels: ["Anime", "Review"]
+labels: ["Anime"]
 score: 8.7
 excerpt: "This is one of those shows that sneaks up on you because you don't expect something this strange to also be this good."
 coverImage: "/images/posts/review-dorohedoro-season-1/image-1.jpg"

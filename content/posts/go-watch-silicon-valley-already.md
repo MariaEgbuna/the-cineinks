@@ -4,7 +4,6 @@ slug: go-watch-silicon-valley-already
 date: 2026-04-29T10:30:00.000Z
 category: Hall of Fame
 labels:
-  - Hall of Fame
   - Series
 score: null
 excerpt: I finished Silicon Valley recently, and I honestly cannot believe it

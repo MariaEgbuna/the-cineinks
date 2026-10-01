@@ -2,7 +2,7 @@
 title: "A Little Rant About The Entertainment Industry"
 slug: "a-little-rant-about-the-entertainment-industry"
 date: "2026-07-27T11:00:00Z"
-category: "Extra"
+category: "Rants"
 labels: ["Extra"]
 score: null
 excerpt: "I have a few things sitting on my chest about the state of entertainment right now, and I figured instead of complaining into the void, I would just write it all down here."

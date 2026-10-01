@@ -5,7 +5,6 @@ date: 2026-09-09T11:37:00.000+01:00
 category: Review
 labels:
   - KDrama
-  - Review
 score: 6.8
 excerpt: I watched sixteen episodes of a melodrama mostly because a man who
   usually plays psychopaths decided to be soft for once.

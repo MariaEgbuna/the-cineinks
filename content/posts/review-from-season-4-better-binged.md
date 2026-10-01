@@ -3,7 +3,7 @@ title: "I Binged From Season 4"
 slug: "review-from-season-4-better-binged"
 date: "2026-07-31T12:30:00Z"
 category: "Review"
-labels: ["Review", "Series"]
+labels: ["Series"]
 score: 7.8
 excerpt: "Binging it is the best way to experience it because watching this show once a week would have driven me up the wall."
 coverImage: "/images/posts/review-from-season-4/image-1.jpg"
