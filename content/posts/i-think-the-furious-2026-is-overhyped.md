@@ -8,7 +8,7 @@ labels:
 score: 7.2
 excerpt: The internet says The Furious reinvented martial arts cinema. I say the
   fights are incredible and everything else is just okay.
-coverImage: /images/posts/cover-image.jpg
+coverImage: /images/posts/the-furious-cover.jpg
 featured: false
 ---
 ![The Furious Poster](/images/posts/cover-image.jpg)
