@@ -41,7 +41,7 @@ Shrek the Third is a tricky one because I watched and enjoyed it as a kid. A few
 
 ![Krrish 3](/images/posts/my-taste-vs-the-internet/krrish-3.jpg)
 
-This one is a different kind of sad. I only saw the trailers when I was young but never got around to watching it. Watched it a few month ago and boyyyyy. It sucks. It really does. And that hurts, because I love Hrithik Roshan. Krrish 3 failed on almost every level: the villain was terrible, the acting from some of the actors looked goofy, the plot was all over the place.  For my mental health, this movie doesn't exist anymore in 3, 2, 1.....
+This one is a different kind of sad. I remember thinking it was a decent flick when I watched it over a decade ago, so I decided to give it a shot a few months ago and boyyyyy. It sucks. It really does. And that hurts me, because I love Hrithik Roshan. This movie failed on almost every level: the villain was terrible, the acting from some of the actors looked goofy, the plot was all over the place.  For my mental health, this movie doesn't exist anymore in 3, 2, 1.....
 
 ---
 
