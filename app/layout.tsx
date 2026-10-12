@@ -22,9 +22,12 @@ const publicSans = localFont({
   variable: "--font-public-sans",
 });
 
+const SITE_DESCRIPTION =
+  "Honest reviews and takes on movies, series, anime, and K-dramas. No fancy film degrees here, just what I'm watching or have watched.";
+
 export const metadata: Metadata = {
   title: "The CineInks",
-  description: "No fancy film degrees here. Just honest takes on what I'm watching or have watched.",
+  description: SITE_DESCRIPTION,
   metadataBase: new URL(SITE_URL),
   other: {
     "p:domain_verify": "c8377afcc71ef5f213af8797e73ddc0f",
@@ -36,7 +39,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "The CineInks",
-    description: "No fancy film degrees here. Just honest takes on what I'm watching or have watched.",
+    description: SITE_DESCRIPTION,
     url: SITE_URL,
     siteName: "The CineInks",
     type: "website",
@@ -45,9 +48,17 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "The CineInks",
-    description: "No fancy film degrees here. Just honest takes on what I'm watching or have watched.",
+    description: SITE_DESCRIPTION,
     images: ["/logo.png"],
   },
+};
+
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "The CineInks",
+  alternateName: "CineInks",
+  url: SITE_URL,
 };
 
 export default function RootLayout({
@@ -60,6 +71,13 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${instrumentSerif.variable} ${publicSans.variable}`}>
       <body>
+        {/* Structured data script. The replace() stops "<" from breaking out of the script tag. */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(websiteJsonLd).replace(/</g, "\\u003c"),
+          }}
+        />
         <Header searchablePosts={searchablePosts} />
         {children}
         <Footer />
