@@ -1,5 +1,5 @@
 ---
-title: 5 Anime I Wasn't Expecting to Enjoy This Much
+title: "Anime Recommendations: 5 Shows I Wasn't Expecting to Enjoy This Much"
 slug: animes-i-wasnt-expecting-to-enjoy
 date: 2026-09-25T11:25:00.000+01:00
 category: Recommendations
@@ -9,14 +9,14 @@ excerpt: Some of these picks aren't the most popular shows out there, but they'r
 coverImage: /images/posts/cover-photo.jpg
 featured: false
 ---
-![post-cover-image](/images/posts/cover-photo.jpg)
+![post-cover-image](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover-photo.jpg)
 This list came together a little differently than my last one. A few of these I stumbled into through a random Twitter clip, one had so much hype behind it that I went in braced for disappointment and didn't get any, and a couple I only gave a chance because I was in the mood to step outside my usual genre lane. Give any of these a go in your spare time – you won't regret it.
 
 ---
 
 ### 1. Interviews with Monster Girls
 
-![Interview-With-Monster-Girls](/images/posts/interview-with-monster-girls.jpg)
+![Interview-With-Monster-Girls](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/interview-with-monster-girls.jpg)
 
 **2017 · 1 Season · 12 Episodes (+ 1 OVA) · Completed**
 
@@ -34,7 +34,7 @@ What makes this show work is the dynamic Takahashi has with his students. It's b
 
 ### 2. Orb: On the Movement of the Earth
 
-![Orb-On-the-Movement-of-the-Earth](/images/posts/orb-on-the-movement-of-earth.jpg)
+![Orb-On-the-Movement-of-the-Earth](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/orb-on-the-movement-of-earth.jpg)
 
 **2024–2025 · 1 Season · 25 Episodes · Completed**
 
@@ -52,7 +52,7 @@ It was great from start to finish. The characters, the risks they took, everythi
 
 ### 3. My Happy Marriage
 
-![My-Happy-Marriage](/images/posts/my-happy-marriage.jpg)
+![My-Happy-Marriage](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/my-happy-marriage.jpg)
 
 **2023–2025 (special coming Oct 2026) · 2 Seasons · 26 Episodes (+ 3-episode special) · Ongoing**
 
@@ -70,7 +70,7 @@ It's actually beautiful to watch once the story settles in, and I'm sure romance
 
 ### 4. Kaguya-sama: Love Is War
 
-![Kaguya-sama-Love-Is-War](/images/posts/kaguya-sama-love-is-war.jpg)
+![Kaguya-sama-Love-Is-War](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/kaguya-sama-love-is-war.jpg)
 
 **2019–2022 · 3 Seasons · 37 Episodes (+ film) · On Hiatus, No Season 4 Announced**
 
@@ -90,7 +90,7 @@ My only complaint is that there hasn't been a new season announced in a while.
 
 ### 5. The Apothecary Diaries
 
-![The-Apothecary-Diaries](/images/posts/the-apothecary-diaries.jpg)
+![The-Apothecary-Diaries](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/the-apothecary-diaries.jpg)
 
 **2023–Present (season 3 starting Oct 2026) · 2 Seasons · 48 Episodes · Ongoing**
 

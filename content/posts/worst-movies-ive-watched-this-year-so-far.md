@@ -1,5 +1,5 @@
 ---
-title: "2026: The Jan–June Movie Lowlights"
+title: "Worst Movies I’ve Watched in 2026 So Far (January to June)"
 slug: "worst-movies-ive-watched-this-year-so-far"
 date: "2026-06-29T11:00:00Z"
 category: "List"

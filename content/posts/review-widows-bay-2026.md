@@ -8,11 +8,11 @@ labels:
 score: 8.8
 excerpt: I spoiled Widow's Bay for myself within the first four episodes and I
   still had a great time watching it.
-coverImage: /images/posts/widow-bay-cover-image.jpg
+coverImage: /images/posts/review-widows-bay-2026/widow-bay-cover-image.jpg
 featured: false
 ---
 
-![Cover image](/images/posts/poster-image.jpg)
+![Cover image](/images/posts/review-widows-bay-2026/widow-bay-cover-image.jpg)
 I spoiled Widow's Bay for myself within the first four episodes and I still had a genuinely great time watching it. That should tell you everything you need to know about how good this show actually is.
 
 Let me explain that mess first, because it's kind of funny in hindsight. Twenty minutes into episode one, I was completely lost. Not in a bad way, more like the show throws you into the deep end and expects you to swim, no floaties. I pushed through anyway because something about the tone felt worth sticking around for. I watched three more episodes after that, fully invested, before I realized with horror that the "episode one" I'd started with was actually episode ten. I had accidentally spoiled the entire season finale for myself before I even understood who half these people were. And somehow, it didn't ruin the show at all. If anything, watching everyone slowly build toward a moment I already knew was coming turned into its own weird kind of fun, like doing a jigsaw puzzle when you've already seen the picture on the box.
@@ -31,19 +31,19 @@ Before I get into my actual thoughts, let me introduce a few of the people carry
 
 **Tom Loftis**, played by Matthew Rhys:
 
-![Mayor of Widow's bay](/images/posts/tom.jpg)
+![Mayor of Widow's bay](/images/posts/review-widows-bay-2026/tom.jpg)
 
 He is the mayor of Widow's Bay and the emotional center of the whole show. He's a widower, which the title is quietly playing on, and he came to the island wanting one simple thing: to put this sleepy little town on the map. He's not some scheming villain or overly ambitious politician. He's just a regular guy with a dream that keeps getting derailed by increasingly horrifying circumstances he never signed up for. Rhys plays him with this incredible balance of comic panic and real vulnerability, and his face alone does half the storytelling. There's a specific kind of exasperated, wide-eyed expression he pulls whenever something supernatural interrupts his very normal plans, and it's become something of a signature for the character.
 
 **Patricia Moyer**, played by Kate O'Flynn:
 
-![Patricia - Widow's Bay](/images/posts/patricia.jpg)
+![Patricia - Widow's Bay](/images/posts/review-widows-bay-2026/patricia.jpg)
 
 She is Tom's assistant and honestly the heart of the show for a lot of viewers, myself included. She's awkward in the most endearing way possible, a social outcast among her old classmates who never believed her story about a masked killer targeting her back in high school. She's lonely, a little strange, sharp-tongued when she needs to be, and desperate for real friendship in a town that's mostly written her off. Watching her navigate that loneliness while also getting pulled into increasingly bizarre island mysteries gives the show some of its most quietly touching moments.
 
 **Wyck Crawford**, played by Stephen Root:
 
-![Wyck - widow's bay](/images/posts/wyck.jpg)
+![Wyck - widow's bay](/images/posts/review-widows-bay-2026/wyck.jpg)
 
 The island's resident doomsayer, a grizzled local who's spent his whole life studying the town's strange history and believing every superstition Tom refuses to take seriously. He's the guy standing on the dock yelling that the ferry needs to stop bringing tourists, and everyone treats him like the annoying old man who cries wolf, right up until he's proven right. Root brings this gruff, weathered energy to the role that makes Wyck feel like he's been carrying the weight of the island's secrets for decades, because he pretty much has.
 
@@ -65,7 +65,7 @@ I'm not going to get into specifics about what happens, because even with my own
 
 ## Horror and comedy, actually balanced
 
-![Scene screenshot](/images/posts/widowbay.jpg)
+![Scene screenshot](/images/posts/review-widows-bay-2026/widowbay.jpg)
 
 A lot of shows attempt the horror-comedy mix and end up leaning too hard one way, either playing everything for laughs until the scares feel toothless, or going so dark that the jokes feel out of place. Widow's Bay threads that needle better than almost anything I've watched recently. One scene will have you laughing at Tom's increasingly desperate attempts to convince tourists the island is perfectly normal, and the very next scene will have church bells tolling on their own while something moves just out of frame. Neither mode undercuts the other. If anything, the comedy makes the horror land harder, because you're relaxed and unguarded right before the show pulls the rug out.
 

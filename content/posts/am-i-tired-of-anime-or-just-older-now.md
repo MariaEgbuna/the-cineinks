@@ -1,10 +1,10 @@
 ---
-title: Am I Tired of Anime, or Just Older Now?
+title: "Anime Fatigue: Am I Tired of Anime, or Just Older Now?"
 slug: am-i-tired-of-anime-or-just-older-now
 date: 2026-07-15T10:27:39.384Z
 category: Thoughts
 labels: 
-	- Extra
+	- Anime
 score: null
 excerpt: People keep asking me if I've fallen out of love with anime, and the
   answer is no. Also, this is not a "quitting anime" post.

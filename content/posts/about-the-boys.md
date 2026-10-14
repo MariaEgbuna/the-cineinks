@@ -1,5 +1,5 @@
 ---
-title: About The Boys.
+title: "The Boys Ending: The Finale Was Fine, The Season Wasn’t"
 slug: about-the-boys
 date: 2026-05-22T07:23:21.430Z
 category: Thoughts

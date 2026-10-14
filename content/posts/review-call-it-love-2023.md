@@ -8,11 +8,11 @@ labels:
 score: 6.8
 excerpt: I watched sixteen episodes of a melodrama mostly because a man who
   usually plays psychopaths decided to be soft for once.
-coverImage: /images/posts/call-it-love.jpg
+coverImage: /images/posts/review-call-it-love-2023/call-it-love.jpg
 featured: false
 ---
 
-![cover-image](/images/posts/call-it-love.jpg)
+![cover-image](/images/posts/review-call-it-love-2023/call-it-love.jpg)
 Call It Love, also released under the title Say It's Love in some regions, is a 2023 South Korean romantic melodrama that premiered on Disney+ on February 22 and wrapped up on April 12 that same year. It ran for sixteen hour-long episodes, directed by Lee Kwang-young and written by Kim Ga-eun. The cast is led by Lee Sung-kyung as Shim Woo-joo and Kim Young-kwang as Han Dong-jin, with Sung Joon playing Yoon Joon and Kim Ye-won as Woo-joo's older sister. It's a Studio Dragon and Drama House production, and it landed decently well with critics and audiences when it aired, praised mostly for its performances and its quieter, more grounded take on the revenge romance formula.
 
 A quick heads up before I go further: **this review has minor spoilers.** Nothing that ruins the ending, but I do talk about plot direction and pacing in enough detail that you might want to bookmark this and come back after you've started the show, if you're the type who likes going in completely blind and unspoiled.
@@ -27,7 +27,7 @@ It's a familiar setup if you've watched any amount of Korean melodrama. Revenge 
 
 ## Kim Young-kwang in a role I didn't know he had in him
 
-![Kim Young-kwang](/images/posts/kyk-1-.jpg)
+![Kim Young-kwang](/images/posts/review-call-it-love-2023/kyk-1-.jpg)
 
 I've seen Kim Young-kwang in a handful of things before this, and every single time, he's been cast as some flavor of villain. He played a terrifying psychopathic killer in **Somebody** back in 2022, and more recently he showed up as a menacing crime figure in **Trigger**. Even outside the shows I've personally watched, his reputation online leans heavily toward "the guy who plays unsettling bad guys really, really well". So watching him play Dong-jin, a soft-spoken, emotionally guarded but fundamentally kind man, was a lovely surprise.
 
@@ -37,7 +37,7 @@ Honestly, he's the entire reason I decided to watch this show in the first place
 
 ## Where the story starts dragging its feet
 
-![Screenshot from CIL](/images/posts/cil.jpg)
+![Screenshot from CIL](/images/posts/review-call-it-love-2023/cil.jpg)
 
 Now for the part where I have some real issues. The story, for lack of a better way to put it, feels stretched way past the point where it actually had anything left to say. Maybe that's on me for signing up for a melodrama and being surprised it moved slowly, that's kind of the genre's whole personality. But even accounting for that, sixteen episodes is a lot of runtime for a story this thin.
 
@@ -57,7 +57,7 @@ I want to specifically call out episodes fourteen and fifteen, because even acco
 
 ## The supporting cast carries more weight than you'd expect
 
-![Call it Love Cast](/images/posts/cil-cast.jpg)
+![Call it Love Cast](/images/posts/review-call-it-love-2023/cil-cast.jpg)
 
 It's not just Kim Young-kwang and Lee Sung-kyung doing the heavy lifting here. Sung Joon plays Yoon Joon, a friend caught in his own tangle of unspoken feelings, and while his arc mostly exists to add a layer of will-they-won't-they tension on the sidelines, he brings a warmth to the role that keeps those scenes from feeling like pure filler. Kim Ye-won, playing Woo-joo's older sister, gets pulled into a parallel storyline involving the decades-old rivalry between their mother and the woman who broke up their parents' marriage in the first place. That older generation's drama runs quietly underneath the main romance the whole time, and there were stretches where I found myself more curious about how that older feud would resolve than I was about the central couple, especially once the main romance started running out of new ground to cover.
 

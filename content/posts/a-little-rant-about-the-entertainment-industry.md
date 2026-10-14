@@ -1,5 +1,5 @@
 ---
-title: "A Little Rant About The Entertainment Industry"
+title: "Entertainment Industry Rant: Dark Lighting, Bad Dubbing, Three-Year Waits"
 slug: "a-little-rant-about-the-entertainment-industry"
 date: "2026-07-27T11:00:00Z"
 category: "Rants"

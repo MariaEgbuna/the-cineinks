@@ -10,7 +10,7 @@ excerpt: Eight seasons of secrets, sex scandals, murder, and filthy rich
   teenagers making the worst decisions imaginable, and this is how we go out.
 coverImage: /images/posts/recap-elite-season-8/image-1.jpg
 ---
-![RECAP: Elite Season 8](/images/posts/elite-s8.jpg)
+![RECAP: Elite Season 8](/images/posts/recap-elite-season-8/image-1.jpg)
 
 Eight seasons of secrets, sex scandals, murder, and filthy rich teenagers making the worst decisions imaginable, and this is how we go out.
 

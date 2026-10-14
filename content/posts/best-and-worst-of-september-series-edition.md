@@ -1,12 +1,12 @@
 ---
-title: "September Watch: Series Edition"
+title: "Series I Watched in September 2026: The Best, the Worst, and the Damage"
 slug: best-and-worst-series-of-september-2026
 date: 2026-09-30T18:30:00.000+01:00
 category: Best and Worst
 labels:
   - List
 excerpt: Another month done, and my watchlist did not come out of it unharmed.
-coverImage: /images/posts/image-cover.jpg
+coverImage: /images/posts/best-and-worst-of-september-series-edition/image-cover.jpg
 featured: false
 ---
 I watched 14 shows in September, dropped two, and kept a promise I made in an earlier post: watching Marvel series. I will tell you now, it did not go well.
@@ -15,7 +15,7 @@ Here's my list.
 
 - - -
 
-![Best series](/images/posts/top-series.jpg)
+![Best series](/images/posts/best-and-worst-of-september-series-edition/top-series.jpg)
 
 ## The Best of September
 
@@ -33,7 +33,7 @@ Here's my list.
 
 ## The Marvel Problem
 
-![Marvel tv shows](/images/posts/marvel-problem.jpg)
+![Marvel tv shows](/images/posts/best-and-worst-of-september-series-edition/marvel-problem.jpg)
 
 Remember when I said I'd start watching the Marvel series? Well, I did. Three of them. And they took the bottom three spots of the month.
 
@@ -47,20 +47,20 @@ I am not giving up on Marvel, but if this is the standard, the next batch has a 
 
 ## Not Bad, Not Great
 
-![deli-boys](/images/posts/deli-boys.jpg)
+![deli-boys](/images/posts/best-and-worst-of-september-series-edition/deli-boys.jpg)
 
 **Deli Boys (Seasons 1 and 2):** This one's a split decision. I already knew the show got canned but was also told it wrapped up quite nicely. It kind of did but season 2 was quite disappointing. The acting was overdone, and the story felt rushed in my opinion.
 
 ## Shows I Gave Up On
 
-![dropped shows](/images/posts/dropped-shows.jpg)
+![dropped shows](/images/posts/best-and-worst-of-september-series-edition/dropped-shows.jpg)
 
 Two shows did not survive my patience:
 
 * **Oblivion Battery:** I watched only 2 of 12 episodes, then dropped it. Maybe because I don't get baseball – seriously, I don't understand the sport – and the show didn't bother to ease me into it. My brother loves it though, so if you're a baseball fan, give it a go.
 * **If Wishes Could Kill:** I stopped after 5 of 8 episodes. It was trying so hard to be edgy, and the plot was all over the place.
 
-![honourable mentions](/images/posts/mentions.jpg)
+![honourable mentions](/images/posts/best-and-worst-of-september-series-edition/mentions.jpg)
 
 ## The Rest of the Pack
 

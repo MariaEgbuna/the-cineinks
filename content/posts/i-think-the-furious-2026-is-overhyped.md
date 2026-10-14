@@ -1,5 +1,5 @@
 ---
-title: I Think The Furious (2026) Is Overhyped
+title: "Is The Furious (2026) Overhyped? My Review"
 slug: the-furious-is-overhyped
 date: 2026-09-21T18:35:00.000+01:00
 category: Review
@@ -8,10 +8,10 @@ labels:
 score: 7.2
 excerpt: The internet says The Furious reinvented martial arts cinema. I say the
   fights are incredible and everything else is just okay.
-coverImage: /images/posts/the-furious-cover.jpg
+coverImage: /images/posts/i-think-the-furious-2026-is-overhyped/the-furious-cover.jpg
 featured: false
 ---
-![The Furious Poster](/images/posts/cover-image.jpg)
+![REVIEW: The Furious (2026)](/images/posts/i-think-the-furious-2026-is-overhyped/cover-image.jpg)
 
 The Furious is a Hong Kong action thriller directed by Kenji Tanigaki, a stunt coordinator turned filmmaker making his move to the director's chair. It premiered at the Toronto International Film Festival's Midnight Madness section back in September 2025, then built up hype through festival screenings before finally opening wide worldwide on June 12, 2026.
 
@@ -27,23 +27,23 @@ The setup itself moves fast, almost aggressively so. Rainy gets lured away from 
 
 ### The action, and the moment my brain kicked back in
 
-![The Furious First Fight Scene](/images/posts/action-scene-1-.jpg)
+![The Furious First Fight Scene](/images/posts/i-think-the-furious-2026-is-overhyped/action-scene-1-.jpg)
 
 Here's where the movie earns its reputation, at least partially. The fight choreography is excellent: every punch and throw and improvised weapon strike looks like it actually hurts, and you can tell real stunt performers spent serious time rehearsing these sequences. For the first chunk of the movie, I was fully locked in, buying every hit, every impossible recovery.
 
 About twenty minutes in, I had to accept that these people are *functionally superhuman*, because there is no version of reality where a normal person survives the number of hits these characters absorb and keep fighting through. Once I made peace with that, the actual question shifted from "is this realistic?" to "how crazy is this going to get?" And once you stop expecting realism and just let the movie be as over the top as it clearly wants to be, it becomes a lot more fun to watch.
 
-## Paklung deserved more screen time
+### Paklung deserved more screen time
 
-![Joey Iwanaga as Paklung](/images/posts/paklung.jpg)
+![Joey Iwanaga as Paklung](/images/posts/i-think-the-furious-2026-is-overhyped/paklung.jpg)
 
-Probably my biggest issue with the film. I found myself enjoying Paklung more than almost anyone else on screen. He doesn't get meaningful screen time until well over an hour in, barely gets any real setup before that point. Staying as a background threat for most of the runtime until the third act arrives and it's "here's the big boss now, look how unhinged he is."
+Paklung is the film's villain, played by Joey Iwanaga, and he's probably my biggest issue with the film. I found myself enjoying him more than almost anyone else on screen. He doesn't get meaningful screen time until well over an hour in, and barely gets any real setup before that point. He stays a background threat for most of the runtime, until the third act arrives and it's "here's the big boss now, look how unhinged he is."
 
 Joey Iwanaga is clearly having a blast playing against his usual type here, and you can feel how much he's enjoying getting to be this chaotic on screen, a real departure from the calmer roles he's better known for. But a villain this interesting, someone hiding an entire fake identity behind a respectable businessman persona, deserved to be introduced and developed way earlier.
 
-## The third act is where this movie either wins or loses you
+### The third act is where this movie either wins or loses you
 
-![5 Way Fight](/images/posts/5-way-de.jpg)
+![5 Way Fight](/images/posts/i-think-the-furious-2026-is-overhyped/5-way-de.jpg)
 
 The final fight sequence during the third act might be one of the best pure action sequences I've watched in a while. There is so much happening at once. If you've watched Jujutsu Kaisen and remember the three-way domain expansion sequence, this movie somehow pulls off a five-way version of that same chaotic, everyone-fighting-everyone energy – except with fists, blades, and improvised weapons instead of cursed techniques.
 
@@ -53,7 +53,7 @@ Not everything in the third act works though, and it's worth flagging before you
 
 - - -
 
-## Is it actually as good as the internet says
+### Is The Furious actually as good as the internet says?
 
 If you've watched a reasonable amount of Asian action cinema, you already know this movie is just okay by the genre's own standards, even with the high ratings it has. The fight choreography goes crazy, no argument there, but fight scenes alone don't automatically make a movie a masterpiece. 
 
@@ -61,7 +61,7 @@ A lot of the online reaction feels like it's coming from people encountering thi
 
 - - -
 
-## Final Verdict
+### Final Verdict
 
 **My Rating: 7.2**
 
@@ -69,4 +69,4 @@ The Furious is a fun, good time. It's not the genre-redefining masterpiece a chu
 
 Just go in knowing the story is thin, the villain needed more room to breathe, and you're going to need to switch your brain off at some point.
 
-\*PS: this movie had me asking just one question during every single fight scene: **how are they still alive?***
+*PS: this movie had me asking just one question during every single fight scene: **how are they still alive?***

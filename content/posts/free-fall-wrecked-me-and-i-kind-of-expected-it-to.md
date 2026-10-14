@@ -1,24 +1,27 @@
 ---
-title: Free Fall Wrecked Me, and I Kind of Expected It To
+title: "Free Fall (2013) Review: A Sad Gay Film That Doesn't Punish You for Hoping"
 slug: my-thoughts-on-free-fall
 date: 2026-09-20T17:00:00.000+01:00
 category: Extra
 labels:
   - Movies
-excerpt: A sad gay film that actually earns its sadness, instead of punishing
+score: null
+excerpt: A gay film that actually earns its sadness, instead of punishing
   you for hoping otherwise.
-coverImage: /images/posts/free-fall-1-.jpg
+coverImage: /images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/free-fall-cover.jpg
 featured: false
 ---
-![Marc and Kay](/images/posts/free-fall-marc-kay.jpg)
+![Marc and Kay](/images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/free-fall-marc-kay.jpg)
 
 I already wrote about how [gay romance in media has a suffering problem](https://cineinks.vercel.app/posts/gay-romance-in-media-has-a-suffering-problem) a few months back, and then I went and watched Free Fall anyway, fully aware I was walking straight into exactly the kind of story I was complaining about. If you haven't read that post, it's worth checking out first for context on where I'm coming from with this one.
 
 Free Fall, or Freier Fall in its original German title, is a 2013 drama directed by Stephan Lacant, who also co-wrote the script with Karsten Dahlem. It premiered at the Berlin Film Festival in February that year before a wider German release in May, and it picked up international attention fast enough that people started comparing it to Brokeback Mountain – a film I've never actually watched myself and doubt I ever will – based purely on what I've heard about it. But the comparison still tells you plenty about what kind of story you're in for here.
 
+*This post contains spoilers for Free Fall (2013).*
+
 - - -
 
-## The plot
+## What Free Fall (2013) is about
 
 Marc Borgmann, played by Hanno Koffler, is a young police officer training for a riot control unit, living with his pregnant girlfriend Bettina, played by Katharina Schüttler. During training, he meets Kay Engel, played by Max Riemelt, his new roommate at the academy. They don't get along at first, there's even a physical confrontation between them, but things settle once Marc apologizes and the two start actually becoming friends. That friendship shifts once they start running together outside of training, and it's Kay who makes the first move, kissing Marc during one of their jogs. Marc pulls away at first, but the distance doesn't last. He eventually admits his own feelings, and the two start sharing intimate moments in secret, all while Marc is renovating the house he and Bettina are moving into ahead of the baby's arrival.
 
@@ -26,17 +29,17 @@ From there, the story becomes less about the relationship itself and more about 
 
 ## The characters
 
-![Marc and Bettina](/images/posts/bett-and-marc.jpg)
+![Marc and Bettina](/images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/bett-and-marc.jpg)
 
-Marc is the one the film actually spends its time with, and I'll be honest, I found him pretty self-centered for most of the runtime. But I also get where that's coming from. He's a man terrified of his own feelings and even more terrified of what accepting them will cost him, his relationship, his career, his standing with people who already have some level of casual homophobia baked into their everyday conversations. That fear makes him selfish in a very specific, very human way. He doesn't communicate, or comes clean until he has no other choice, and he lets the people closest to him absorb the damage of decisions he's too scared to make out loud. It's not likable, but it's believable, and there's a difference between the two.
+Marc is the one the film actually spends its time with, and I'll be honest, I found him pretty self-centered for most of the runtime. But I also get where that's coming from. He's a man terrified of his own feelings and even more terrified of what accepting them will cost him, his relationship, his career, his standing with people who already have some level of casual homophobia baked into their everyday conversations. That fear makes him selfish in a very specific, very human way. He doesn't communicate or come clean until he has no other choice, and he lets the people closest to him absorb the damage of decisions he's too scared to make out loud. It's not likable, but it's believable, and there's a difference between the two.
 
 Then there's his wife, Bettina, who I'd argue is the real victim of this entire story. She's pregnant, building a life with a man who's actively deceiving her, and she finds out she's been cheated on while carrying his child. The film doesn't shy away from letting you sit with how unfair that actually is. She's not written as an obstacle standing between the "real" love story, she's a person wronged by someone she trusted, and every ounce of suspicion or frustration she shows makes complete sense given what's actually happening behind her back.
 
-![Free Fall - Kay](/images/posts/kay.jpg)
+![Free Fall - Kay](/images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/kay.jpg)
 
-Kay, unfortunately, never really gets the same depth. I went into this movie because I I liked Max Riemelt in Sense8 – a show that got cancelled way before it should have – and by the end, I still didn't feel like I actually knew Kay as a person. The film keeps him at arm's length the entire time, more of a catalyst for Marc's unraveling than a fully realized character in his own right. That's probably my biggest disappointment with the whole movie.
+Kay, unfortunately, never really gets the same depth. I went into this movie because I liked Max Riemelt in Sense8 – a show that got cancelled way before it should have – and by the end, I still didn't feel like I actually knew Kay as a person. The film keeps him at arm's length the entire time, more of a catalyst for Marc's unraveling than a fully realized character in his own right. That's probably my biggest disappointment with the whole movie.
 
-## Why the sadness didn't bother me the way it usually does
+## Why the sad ending didn't bother me the way it usually does
 
 What separates this movie's ending from a lot of the other depressing LGBT films that seemed to define the 2010s is the sadness itself. It felt like there was a trend during that decade to make queer stories synonymous with tragedy, like happiness for these characters was somehow off the table by default. Free Fall does end sadly, Marc loses basically everything, but unlike a lot of movies from that era, it didn't bother me, because the sadness was clearly the point from the beginning, not a twist thrown in at the last minute to punish the audience for getting invested.
 

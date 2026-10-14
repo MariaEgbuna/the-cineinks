@@ -9,9 +9,9 @@ score: 8.3
 excerpt: Elite is what happens when you throw three broke kids into a school
   built entirely on money and secrets. It's messy, it's soapy, and I could not
   stop watching.
-coverImage: /images/posts/elite-s1.jpg
+coverImage: /images/posts/recap-elite-season-1-still-the-best/elite-s1.jpg
 ---
-![RECAP: Elite Season 1](/images/posts/elite-s1.jpg)
+![RECAP: Elite Season 1](/images/posts/recap-elite-season-1-still-the-best/elite-s1.jpg)
 
 Elite is what happens when you throw three broke kids into a school built entirely on money and secrets. It's messy, it's soapy, and I could not stop watching.
 
@@ -21,7 +21,7 @@ Elite is what happens when you throw three broke kids into a school built entire
 
 ### How it kicks off
 
-![RECAP: Elite Season 1](/images/posts/trio.jpg)
+![RECAP: Elite Season 1](/images/posts/recap-elite-season-1-still-the-best/trio.jpg)
 
 Samuel, Nadia, and Christian walk into Las Encinas as outsiders on day one. Their old school, San Esteban, had its roof cave in, and the construction company behind the shoddy job, run by Teo and Ventura, both of whom have kids enrolled at Las Encinas, hands out scholarships as a PR move to make the whole thing look less bad.
 
@@ -61,7 +61,7 @@ It all blows up by the end of episode seven. Carla can't prove Marina and Nano a
 
 ### How it all wraps up
 
-![RECAP: Elite Season 1](/images/posts/s1-finale.jpg)
+![RECAP: Elite Season 1](/images/posts/recap-elite-season-1-still-the-best/s1-finale.jpg)
 
 Marina and Nano have a plan by the season finale. Her father intends to force an abortion the next morning, so the two decide to skip town before that happens, heading to Asilah in Morocco to start over and raise the baby there.
 

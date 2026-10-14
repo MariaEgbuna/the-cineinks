@@ -1,5 +1,5 @@
 ---
-title: "10 Anime That Live Rent-Free in My Head"
+title: "My Favorite Anime: 10 Shows That Live Rent-Free in My Head"
 slug: anime-recommendations-may-20-2026
 date: 2026-05-20T11:46:21.472Z
 category: Recommendations

@@ -1,5 +1,5 @@
 ---
-title: "September Watch: Movie Edition"
+title: "Movies I Watched in September 2026: The Best, the Worst, and My Movie of the Year"
 slug: best-and-worst-movies-of-september-2026
 date: 2026-09-30T10:30:00.000+01:00
 category: Best and Worst
@@ -7,10 +7,10 @@ labels:
   - List
 excerpt: September was a big month for movies. I watched 10, dropped one, and
   found my movie of the year along the way.
-coverImage: /images/posts/phm-3.jpg
+coverImage: /images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg
 featured: false
 ---
-![Project  Hail Mary - Rocky and Grace](/images/posts/phm-3.jpg)
+![Project  Hail Mary - Rocky and Grace](/images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg)
 
 September was a big month for movies. I watched 10, dropped one, and found my movie of the year along the way. I also found a few that didn't deserve the hype. Here's how it went.
 
@@ -18,7 +18,7 @@ September was a big month for movies. I watched 10, dropped one, and found my mo
 
 ## September's Wins
 
-![Best Movies](/images/posts/top-movies-1.jpg)
+![Best Movies](/images/posts/best-and-worst-of-september-movie-edition/top-movies-1.jpg)
 
 **1. Project Hail Mary (2026):** Best movie of the year for me. Go watch it. 10/10.
 
@@ -32,13 +32,13 @@ September was a big month for movies. I watched 10, dropped one, and found my mo
 
 ## The Overhyped One
 
-![The Furious](/images/posts/furious.jpg)
+![The Furious](/images/posts/best-and-worst-of-september-movie-edition/furious.jpg)
 
 **The Furious (2026):** A decent flick, but it didn't live up to the noise around it. [Here's why I think it's overhyped](https://cineinks.vercel.app/posts/the-furious-is-overhyped).
 
 ## The Lowlights of September
 
-![Worst movies I have watched](/images/posts/bottom-movies.jpg)
+![Worst movies I have watched](/images/posts/best-and-worst-of-september-movie-edition/bottom-movies.jpg)
 
 **1. The Runner (2026):** I already dropped my take on this one. [My full review of The Runner](https://cineinks.vercel.app/posts/review-the-runner-2026).
 
@@ -48,7 +48,7 @@ September was a big month for movies. I watched 10, dropped one, and found my mo
 
 ## Movies I Gave Up On
 
-![Unfrosted](/images/posts/unfrosted.jpg)
+![Unfrosted](/images/posts/best-and-worst-of-september-movie-edition/unfrosted.jpg)
 
 **Unfrosted (2024):** Took me two days, just to watch half of it. It was so stupid, that my love for Melissa couldn't save it.
 
