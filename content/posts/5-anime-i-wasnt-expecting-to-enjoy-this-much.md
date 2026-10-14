@@ -6,7 +6,7 @@ category: Recommendations
 labels:
   - Anime
 excerpt: Some of these picks aren't the most popular shows out there, but they're worth your time regardless.
-coverImage: /images/posts/cover-photo.jpg
+coverImage: /images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover-photo.jpg
 featured: false
 ---
 ![post-cover-image](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover-photo.jpg)
