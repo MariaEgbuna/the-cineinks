@@ -5,7 +5,7 @@ date: "2026-07-13T10:30:00Z"
 category: "Hall of Fame"
 labels: ["Anime"]
 score: null
-excerpt: "The Legend of Vox Machina is one of the best things animation has given us this decade, and I'm putting it in the Hall of Fame while the show is still running. This show has already given me enough to know exactly where it stands."
+excerpt: "The Legend of Vox Machina is one of the best things animation has given us this decade, and I'm putting it in the Hall of Fame while the show is still running."
 coverImage: "/images/posts/the-legend-of-vox-machina-is-peak/image-1.jpg"
 ---
 
