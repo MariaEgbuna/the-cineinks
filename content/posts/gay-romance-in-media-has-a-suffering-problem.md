@@ -5,60 +5,66 @@ date: "2026-06-12T07:07:00Z"
 category: "Rants"
 labels: ["Extra"]
 score: null
-excerpt: "I am so tired. I am deeply, spiritually tired of watching gay people suffer on screen and being told that's a love story."
+excerpt: "I am deeply, spiritually tired of watching queer joy treated as a temporary luxury before the inevitable tragedy hits."
 coverImage: "/images/posts/gay-romance-in-media-has-a-suffering-problem/image-1.jpg"
 ---
 
 ![Why Is Gay Romance Always Sad? Media Has a Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-1.jpg)
 
-I am so tired. I am deeply, spiritually tired of watching gay people suffer on screen and being told that's a love story.
+I am so tired. I am deeply, spiritually tired of watching queer people suffer on screen only to be told that the trauma is the "beauty" of the love story. 
 
-At this point I actively avoid queer stories in media because I already know how it's going to go. Someone's going to die, or cheat, or get sick, or lose everything, or all of the above. And what kills me is that it doesn't have to be this way. We have proof. So why is the default still misery?
+At this point, I find myself actively avoiding queer media altogether because I can already map the trajectory before the first act even ends. Someone is inevitably going to die, cheat, contract a terminal illness, lose their livelihood, or suffer an catastrophic combination of all four. What breaks my heart is that it doesn’t have to be this way. We have proof that it doesn't. 
 
-*This post contains spoilers for some of the films and series mentioned.*
+So why on earth is misery still the baseline default setting?
 
----
+*Warning: Major spoilers ahead for several films and series.*
 
-## The Paradise of Thorns broke me
+## The Despair of The Paradise of Thorns
 
 ![Why Is Gay Romance Always Sad? Media Has a Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-2.jpg)
 
-I recently watched **The Paradise of Thorns**, a 2024 Thai film about Thongkam and Sek, a gay couple who pour everything into building a life together on a durian orchard. They buy back the land, build a home, and plan a whole future. Then Sek dies in an accident before you've had a chance to breathe, and Thongkam spends the rest of the film fighting Sek's family for their shared home, because same-sex marriage had no legal recognition in Thailand at the time, so he has zero rights to any of it.
+I recently watched ***The Paradise of Thorns***, a 2024 Thai drama centering on Thongkam and Sek, a devoted gay couple who spend years pouring their blood, sweat, and savings into building a life together on a rural durian orchard. They buy the land, construct a home, and cultivate a real future. Then, before the narrative even gives you a chance to breathe, Sek dies in a sudden accident. Thongkam spends the remainder of the film fighting Sek's predatory family for the rights to his own home, solely because same-sex marriage lacked legal recognition in Thailand at the time.
 
-The premise is rooted in a real injustice and I get what the film is saying. But it buries Thongkam under suffering, humiliation, and grief for the entire runtime. By the time the credits rolled I felt like I needed to sit in a dark room and rethink my life choices. I shouldn't have to recover from finishing a film. The marriage inequality argument was strong enough without throwing everything else at this poor man.
+The core premise is rooted in real-world systemic injustice, and I completely understand the political point the film is making. But the narrative utterly buries Thongkam under a relentless avalanche of suffering, degradation, and grief for the entire runtime. By the time the credits rolled, I felt like I needed to sit in a dark room for three days and rethink my life choices. 
 
-Compare that to **Matthias and Maxime** (2019), a Canadian-French film about two childhood best friends forced to confront buried feelings after an on-screen kiss. It's not perfect – the pacing is slow and the open ending will frustrate some people – but it doesn't leave you feeling like you need therapy. Matthias showing up at the airport as Maxime is about to leave for Australia was a small, quiet moment, and it meant something.
+I shouldn't have to emotionally recover from finishing a film. The marriage inequality argument was structurally strong enough on its own without subjecting this poor man to endless, gratuitous torment. 
 
-## The side character problem
+Compare that to Xavier Dolan's [Matthias & Maxime](https://cineinks.vercel.app/posts/review-matthias-and-maxime), a Canadian film about two childhood best friends forced to confront decades of buried romantic tension after an on-screen kiss. It’s not a flawless movie, but it doesn't leave you feeling like you need a therapy appointment. The climax of Matthias quietly showing up at the airport just as Maxime is about to leave for Australia is small, unglamorous, and incredibly moving without relying on a tragedy.
+
+## The Disposable Side-Character Trajectory
 
 ![Why Is Gay Romance Always Sad? Media Has a Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-3.jpg)
 
-It's not just the main couples. Even as side characters, queer people get done dirty. It's like writers feel entitled to use gay relationships as a dramatic device without caring what happens to them. The relationship exists to create chaos and give the main story something to react to, and once it's served that purpose, it's disposable.
+This issue isn’t just contained to leading characters either. Even when relegated to the background, queer side characters are treated horribly. It feels like modern writers view gay relationships merely as cheap dramatic devices — a quick way to inject toxic chaos into a show to give the heterosexual main plot something to react to. Once that narrative utility is spent, the relationship is entirely disposable.
 
-**Elite** is the most infuriating example I can think of. Omar and Ander had one of the best build-ups in the show's early seasons: a young man (Omar) terrified to be himself, hiding his sexuality from his conservative Muslim family, falling for someone patient enough (Ander) to wait him out. By season three, Ander had cancer, Omar _cheats_ on him during treatment, and the writers seemed determined to dismantle every good thing they'd built between them. There was no narrative reason for it. It was chaos for the sake of chaos. They broke up not long after, and it felt inevitable given what the writers put them through. I will never forgive them for that.
+Netflix's ***Elite*** is the most infuriating execution of this trope for me. Omar and Ander had a beautiful, organic build-ups in the show's early seasons: a young closeted man (Omar) terrified of being rejected by his conservative Muslim family, falling for an incredibly patient partner (Ander) who was willing to wait for him. 
 
-## When they actually get it right
+By Season 3, the writers seemingly decided that stable love was boring. They handed Ander a cancer diagnosis, forced Omar to *cheat* on him during his chemotherapy treatments, and systematically dismantled every ounce of beautiful foundation they had built. There was zero narrative justification for it. It was toxic chaos for the sake of chaotic Twitter engagement. I will never forgive the writers for that character assassination.
+
+## Proof of Concept: When Media Actually Gets It Right
+
+We know that queer stories can thrive without relying on misery porn because a handful of masterpieces have already laid the blueprint:
 
 ![Why Is Gay Romance Always Sad? Media Has a Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-4.jpg)
 
-**Young Royals** is my go-to proof that it doesn't have to be this way, and the last BL series I watched and loved. A Swedish prince falls for a working-class student at his boarding school, and yes, there are _real_ obstacles: the monarchy, the class gap, the public nature of Wilhelm's life, a leaked private video used against them. But the show never uses their queerness as the reason things fall apart. When Wilhelm gives up the crown and runs to find Simon in the season three finale, it's the payoff for everything those two went through. I watched the whole show twice and I'd do it again.
+***Young Royals* (Netflix):** This is my definitive go-to proof that high-stakes drama doesn't require emotional cruelty. The story of a Swedish crown prince falling for a working-class student at his boarding school features massive, legitimate obstacles: institutional monarchy, immense class divides, and a devastating privacy leak. But the narrative never treats their queerness as the inherent flaw that breaks them. When Prince Wilhelm literally abandons the royal procession to run after Simon in the series finale, it is a glorious, hard-earned payoff for everything they endured. 
 
 ![Why Is Gay Romance Always Sad? Media Has a Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-5.jpg)
 
-**The Handmaiden** isn't a romance in the traditional sense, but it belongs here. Park Chan-wook's 2016 Korean thriller puts Sook-hee and Hideko through danger, betrayal, and manipulation, but they're never passive victims. They outsmart every person who tried to use them, claim the inheritance, and leave together on their own terms. Their love isn't a _source of tragedy_. It's the thing that gets them both out.
+***The Handmaiden* (2016):** While Park Chan-wook’s psychological thriller is far from a traditional, soft romance, it belongs in this conversation. Sook-hee and Hideko are subjected to psychological manipulation, betrayal, and institutional danger, but they are never passive victims of their circumstances. They actively outsmart every predatory man who tries to control them, reclaim their freedom, and escape together completely on their own terms. Their love isn't a source of tragedy; it is the literal engine that saves them both.
 
 ![Why Is Gay Romance Always Sad? Media Has a Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-6.jpg)
 
-**Red, White and Royal Blue** (2023) is the lightest thing on this list. Alex, the son of the US president, and Prince Henry of England go from enemies to secret lovers to publicly out and happy, ending on a balcony in front of crowds celebrating them. Kinda cute. It doesn't reinvent anything, but it's a queer romcom where nobody dies and nobody gets destroyed, and sometimes that's exactly what you need.
+***Red, White & Royal Blue* (2023):** On the complete opposite end of the spectrum, this is pure, unadulterated comfort food. The First Son of the United States and a British Prince go from bitter rivals to secret lovers to publicly out and adored, culminating in a triumphant balcony scene in front of cheering crowds. Is it cheesy? Absolutely. But it’s a queer romantic comedy where nobody gets diagnosed with a terminal illness, nobody cheats or gets destroyed. Sometimes, that is exactly what my mental health needs.
 
 ![Why Is Gay Romance Always Sad? Media Has a Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-7.jpg)
 
-I'll also mention **Heated Rivalry** briefly, even though I came in having already read the Game Changers book series. It follows Shane and Ilya, rival hockey players whose brutal on-ice competition hides a secret relationship spanning nearly a decade. The show takes seriously how terrifying it is to be a gay man inside professional hockey culture, and the ending delivers. No tragedy required.
+***Heated Rivalry* (Game Changers Series):** I also have to shout out this cute adaptation. Following Shane and Ilya, two rival professional hockey players whose brutal on-ice feud masks a decades-long secret relationship, the narrative takes the intense, terrifying reality of being a closeted gay man in professional sports culture completely seriously—but it still delivers a triumphant, earned happy ending. No tragic sacrifices required.
 
----
+## The Verdict: Why Is Suffering Still the Default?
 
-## So why is suffering still the default?
+Queer relationships in media are almost always written with an implicit expiration date on their happiness. The joy is allowed to be loudest during the forbidden, secret, stolen-moment phase—when being queer is still a source of structural tension in itself. 
 
-Queer relationships in media are almost always written with an expiry date on their happiness. The joy is loudest during the forbidden, secret, stolen-moment phase, when being gay is still a source of tension in itself. But the second the characters come out and settle into actually being together, writers lose the plot. They reach for an affair, a tragedy, an illness, a cheating arc, because apparently two people being gay and in love and doing fine isn't a compelling enough story. But it is, and we've seen it done. The excuses are running out.
+But the exact second characters come out, face their families, and settle into actually *being* a couple, writers completely lose the plot. They immediately reach for an affair, an illness, a tragic accident, or an unexpected death, because they apparently believe that two queer people simply loving each other and working through ordinary life isn't compelling television. 
 
-**I'm tired of bracing myself every time I sit down to watch something.** Queer love stories don't need suffering to feel real. They just need writers who believe queer love is worth something beyond the pain it causes.
+But it is. We have seen it work. The creative excuses are officially running out. 
