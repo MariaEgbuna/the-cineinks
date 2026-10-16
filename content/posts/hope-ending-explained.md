@@ -40,7 +40,7 @@ Because information only circulates through broken radio signals, rumors, and in
 
 The third act shifts from a grounded creature feature into high-concept, cosmic sci-fi. As chaos breaks out, a massive alien spaceship arrives and violently crashes into the terrain. 
 
-For the first time in the movie's hefty runtime (160mins), the film provides subtitles for the alien dialogue. We are formally introduced to **Empress J'aur** (Alicia Vikander) and her elite warrior/bodyguard **Ma'veyyo** (Michael Fassbender). Realizing that the situation has devolved into a complete tragedy and their child's time is running out, Ma'veyyo reveals a plan to physically alter the timeline or override their catastrophic circumstances, leaving the audience with the chilling final line of dialogue: **"Change fate."**
+For the first time in the movie's hefty runtime (160mins), the film provides subtitles for the alien dialogue. We are formally introduced to **Empress J'aur** (Alicia Vikander) and her elite warrior/bodyguard **Ma'veyyo** (Michael Fassbender). Realizing that the situation has devolved into a complete tragedy and their child's time is running out, Ma'veyyo **rips out his own heart** to use as an extra organ to revive the child once they find him. The film ends on a staggering cliffhanger with Empress J'aur staring out at the destruction, delivering the final line: **"Change fate."**
 
 The film cuts to black on a massive, unresolved cliffhanger. While director Na Hong-jin has confirmed that he deliberately left the mythology open to set up future sequels, the immediate ending serves as a bleak reminder of what happens when fear overrides communication.
 
