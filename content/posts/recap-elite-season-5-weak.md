@@ -1,12 +1,12 @@
 ---
-title: "Elite Season 5: Weak and Forgettable"
+title: "Elite Season 5 Recap: Weak and Forgettable"
 slug: "recap-elite-season-5-weak"
 date: 2026-05-21T09:29:40.516Z
 category: Recap
 labels:
   - Recap
 score: 6
-excerpt: This season was such a slog to get through.
+excerpt: Elite Season 5 was such a slog to get through..
 coverImage: /images/posts/recap-elite-season-5/elite-s5.jpg
 ---
 ![RECAP: Elite Season 5](/images/posts/recap-elite-season-5/elite-s5.jpg)

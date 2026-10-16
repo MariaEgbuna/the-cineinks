@@ -1,13 +1,12 @@
 ---
-title: "I Can't Even Call Elite Season 8 A Finale"
+title: "Elite Season 8 Recap: I Can’t Even Call It a Finale"
 slug: "recap-elite-season-8-not-a-finale"
 date: 2026-06-19T11:34:00.000Z
 category: Recap
 labels:
   - Recap
 score: 6.5
-excerpt: Eight seasons of secrets, sex scandals, murder, and filthy rich
-  teenagers making the worst decisions imaginable, and this is how we go out.
+excerpt: Eight seasons of Elite secrets, sex scandals, murder, and filthy rich teenagers making the worst decisions imaginable, and this is how we go out.
 coverImage: /images/posts/recap-elite-season-8/image-1.jpg
 ---
 ![RECAP: Elite Season 8](/images/posts/recap-elite-season-8/image-1.jpg)

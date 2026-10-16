@@ -1,5 +1,5 @@
 ---
-title: "The King of Pigs is Brutal"
+title: "The King of Pigs (2022) K-Drama Review: It's Brutal"
 slug: review-the-king-of-pigs
 date: 2026-05-23T06:49:02.198Z
 category: Review

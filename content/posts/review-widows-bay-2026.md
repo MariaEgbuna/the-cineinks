@@ -1,12 +1,12 @@
 ---
-title: "I Watched Widow's Bay"
+title: "Widow's Bay (2026) Review: I Spoiled the Finale Early and It Still Worked"
 slug: review-widow-bay-2026
 date: 2026-09-15T10:45:00.000+01:00
 category: Review
 labels:
   - Series
 score: 8.8
-excerpt: "I accidentally spoiled the entire season finale within the first four episodes, and it still didn't ruin the show."
+excerpt: "I accidentally spoiled the entire Widow's Bay season finale within the first four episodes, and it still didn't ruin the show."
 coverImage: /images/posts/review-widows-bay-2026/widow-bay-cover-image.jpg
 featured: false
 ---

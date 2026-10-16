@@ -1,5 +1,5 @@
 ---
-title: "The WonderFOOLS"
+title: "The WonderFools K-Drama Review: A Superhero Show That Doesn't Fall Apart"
 slug: review-the-wonderfools
 date: 2026-06-24T10:30:00Z
 category: Review
@@ -7,8 +7,8 @@ labels:
   - KDrama
 score: 8.3
 excerpt: A superhero K-drama set during the Y2K scare sounded like exactly the
-  kind of concept that looks fun in a trailer and falls apart by episode 3. It
-  didn't.
+  kind of concept that looks fun in a trailer and falls apart by episode 3. The
+  WonderFools didn't.
 coverImage: /images/posts/review-the-wonderfools/image-1.jpg
 ---
 

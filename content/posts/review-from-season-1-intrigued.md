@@ -1,54 +1,49 @@
 ---
-title: "I'm Intrigued By From Season 1"
+title: "From Season 1 Review: Why I’m Intrigued"
 slug: "review-from-season-1-intrigued"
 date: "2026-07-22T10:30:00Z"
 category: "Review"
 labels: ["Series"]
 score: 8.6
-excerpt: "I kept seeing this show pop up everywhere and I finally sat down to watch it."
+excerpt: I kept seeing From pop up everywhere and I finally sat down to watch it.
 coverImage: "/images/posts/review-from-season-1/image-1.jpg"
 ---
 
 ![REVIEW: FROM Season 1](/images/posts/review-from-season-1/image-1.jpg)
 
-I kept seeing this show pop up everywhere and I finally sat down to watch it.
+Alright, I finally gave in. I kept seeing this show pop up all over my feed, so I finally sat down, hit play, and completely lost myself in it. 
 
-From was created by John Griffin and produced by AGBO (the Russo brothers' company), and it premiered on Epix back in February 2022, ten episodes for season 1, and it wastes no time pulling you into a town that should not exist. From sits in that sci-fi horror space where the scares come at night and the questions pile up during the day, that combination is exactly the kind of thing that gets me.
+If you haven't heard of it, ***From* was created by John Griffin** and produced by the Russo brothers' company, AGBO. It originally dropped on Epix back in February 2022. It’s a tight, **10-episode first season** that wastes absolutely zero time dragging you into a town that straight-up shouldn't exist. It sits right in that sweet spot of sci-fi horror where the scares hunt you at night and the mysteries drive you crazy during the day. Honestly? That combo is my absolute kryptonite. 
 
-_This post contains minor spoilers for season 1._
+_Quick heads up: I’m keeping this mostly spoiler-free, but I will mention a few minor season 1 details!_
 
----
+## The Setup
 
-### The Plot
+The premise is simple but utterly terrifying: a bunch of random families and travelers take a wrong turn and drive into a small town. The catch? **They can never leave.** Every single road out just loops them right back to the start. 
 
-The setup is simple to explain and horrible to live through. Families and individuals from all over end up driving into a small town they never meant to visit, and once they arrive, they cannot leave. Every road out just loops them back in. The town, referred to as the Township by the people stuck there, looks like a normal slice of small town America in daylight. At night it turns into something else entirely, because creatures come out of the surrounding woods and hunt whoever is left outside.
+During the day, the Township looks like a totally normal, sleepy slice of Americana. But once the sun goes down, it turns into a literal hellscape. These creepy, smiling creatures crawl out of the woods to brutally hunt down anyone left outside. 
 
-The story follows Sheriff Boyd Stevens, played by Harold Perrineau, who has appointed himself the person responsible for keeping order and keeping people alive. He is not equipped for the job in any official sense, there is no manual for running a town that traps its residents, but he tries anyway, and season 1 spends a lot of time showing what that responsibility costs him personally, especially with his estranged son Ellis living apart from him at Colony House.
+The story mostly revolves around **Sheriff Boyd Stevens** (played by Harold Perrineau). He’s basically appointed himself the guy who has to keep everyone alive and sane. He has no manual for this, and the show does a brilliant job showing the massive personal toll it takes on him — especially with his estranged son, Ellis, choosing to live away from him at Colony House. 
 
-Beyond Boyd, the season builds out its cast through the newest arrivals, the Matthews family, who crash into the town in the opening episode and have to learn the rules the hard way. Their arrival gives the show a way to explain the town to the audience without it feeling like exposition, we learn as they learn, and that includes the town's stricter, more paranoid residents who have their own theories about how to survive and who is to blame when someone does not.
+To help us make sense of the madness, we experience the town through its newest arrivals, the **Matthews family**. They crash into town in episode one and have to learn the rules of survival the hard way. Through them, we get a front-row seat to the town's paranoia, the strict rules, and the weird theories everyone has about why they're trapped.
 
-What season 1 does well is resist giving you answers. It plants questions about the creatures, about the tree that seems to matter more than it should, about a voice on the radio that nobody can quite explain, and it lets those questions sit instead of rushing to wrap them up. By the finale you are not any closer to knowing what the town actually is, but you are fully invested in the people trying to survive it.
+What I love most about season 1 is that it stubbornly refuses to hand over answers. It just throws these massive questions at you—like, what's up with the monsters? Why does that specific tree matter so much? Who is that voice on the radio? — and just lets them simmer. By the finale, you aren't any closer to knowing the truth, but you are 100% invested in these people.
 
-### What worked:
+## What Worked
 
-The premise alone got me. I am a sucker for mystery and eerie stories, and the show leans all the way into that without over explaining itself. A town that traps people, creatures that only come out at night, a tree that seems to matter for reasons nobody can name, all of it works because the show trusts you to sit in the unease instead of handing you a neat explanation in episode 3. That's quite rare because a lot of horror shows panic and start explaining too early, but this one just does not, and the season works so well because of it.
+*   **The Atmosphere:** The sheer unease of the show hooked me immediately. I love a good mystery, and *From* trusts its audience enough to let us sit in the tension instead of over-explaining everything by episode three. It’s so rare for a horror show not to panic and ruin the mystery early on. 
+*   **Victor:** Hands down, my favorite character is **Victor Kavanaugh** (played perfectly by Scott McCord). He lives at Colony House and has been trapped in the town since he was a kid. That completely changed how I viewed him. He didn't just get stuck here as an adult; he *grew up* inside a literal nightmare. He has this arrested development and stunted vibe that is incredibly heartbreaking once you realize what he's been through. The show doesn't spell it out with some cheesy monologue, either. They just let his behavior speak for itself, and I ended up rooting for him more than anyone else.
+*   **The Emotional Core:** The drama between Boyd and his son gives the show a real, beating heart. It’s not just a bunch of cheap jump scares; it’s an actual family falling apart and trying to survive in the middle of a horror movie.
 
-The characters carried the season for me, and my favorite by far was Victor Kavanaugh, played by Scott McCord. Victor is a Colony House resident who has been trapped in the town since he was a child, and that detail changes everything about how you watch him. He is not just another adult surviving a nightmare, he **grew up** inside the nightmare, and it shows in how he behaves. There is a stunted quality to him, a kind of arrested development that makes sense once you understand what he has been through, and it is so harrowing to watch once it clicks. You are not just watching a strange character, you are watching what years of being trapped as a child does to a person. The show does not spell this out with a monologue either, it lets his behavior speak for itself, and that kind of trust in the audience is what made me root for him more than almost anyone else in the town.
+## What Didn't Hit the Mark
 
-The rest of the ensemble holds up around him too. Boyd's storyline with his son gives the show an emotional core that is separate from the horror elements, and it means the season is not just running on scares, there is an actual family falling apart and trying to piece itself back together in the middle of all this.
+*   **Inconsistent Acting:** If I have one real complaint, it's that the acting fluctuates. Harold Perrineau carries a massive amount of weight as Boyd, but a few of the supporting cast members completely pulled me out of the moment. Nobody was explicitly *bad*, but some of the dialogue delivery felt a bit stiff. In a show built entirely on dread, one flat line can instantly break the spell.
 
-### What didn't:
+## My Final Verdict
 
-My one real issue was the acting, and it was not consistent across the board. Some performances carried real weight, Perrineau in particular does a lot with Boyd, but a few of the supporting cast members pulled me out of scenes that should have hit harder. It is not that anyone was _bad_ exactly, it is more that some of the delivery felt a little stiff in moments that needed more from the actor, and when a show is built around dread and tension, one flat line reading can break the mood the scene worked so hard to build.
+**8.6 / 10**
 
-It is a small complaint in the scheme of things, the writing and premise are strong enough to carry the season through it, but it is the one thing that kept season 1 from being flawless for me.
+Season 1 easily earns an **8.6** for me. It builds a genuinely unsettling world and populates it with characters you actually care about—especially Victor, who is the absolute emotional gut-punch of the season. The acting hitches knocked it down a fraction, but not enough to ruin the ride. I went in expecting basic jump scares and walked away deeply moved by a kid who grew up trapped in a town with no escape. That is exactly the kind of horror I live for.
 
----
+_PS: If you haven't watched this yet and you like your horror mixed with a genuine mind-bending mystery, do yourself a favor and add it to your watchlist ASAP._
 
-### Final Verdict
-
-**8.6** out of 10.
-
-Season 1 of From earned that number by building a genuinely unsettling premise and backing it up with characters worth caring about, especially Victor, whose arc is the emotional gut punch of the whole season. The acting inconsistency knocked a little off, but not enough to change how much I enjoyed sitting with this show. I went in expecting jump scares and left thinking about a kid who grew up trapped in a town with no way out, and that is exactly the kind of horror I want more of.
-
-_PS: if you have not seen it yet and you like your horror mixed with a genuine mystery you have to think about, this is worth the watch._

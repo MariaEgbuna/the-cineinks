@@ -1,5 +1,5 @@
 ---
-title: "Common Side Effects"
+title: "Common Side Effects Review: Is This Mushroom Cure Show Worth Watching?"
 slug: "review-common-side-effects"
 date: "2026-06-03T10:30:00Z"
 category: "Review"
@@ -18,7 +18,7 @@ When word gets out, he and his old high school friend Frances find themselves ca
 
 ---
 
-### The Highlights
+## The Highlights
 
 * **Sharp, Witty Writing.** The dialogue is clever without trying too hard. It tackles corporate corruption and systemic healthcare issues without dumbing things down or beating you over the head with the message. Refreshing.
 * **Well-Developed Characters.** Marshall and Frances feel like real people with actual histories and motivations. The supporting cast, including a delightfully detached pharmaceutical CEO voiced by Mike Judge himself, adds texture and keeps things unpredictable.
@@ -26,7 +26,7 @@ When word gets out, he and his old high school friend Frances find themselves ca
 * **Tight Pacing.** Very little filler. Each episode ends leaving you ready to jump straight into the next one. Bingeable in the best possible way.
 * **The Timing is No Accident.** A show about big pharma suppressing a miracle cure landing in early 2025 feels sharp and urgent without ever getting preachy about it.
 
-### Fair Warning
+## Fair Warning
 
 * **The Animation Has Its Rough Patches.** There are a few moments where the frame rate drops and the motion feels choppy. If you're not used to limited animation styles, it can be a jarring distraction early on. Not a dealbreaker, but worth knowing going in.
 * **The Slow Burn Requires Patience.** The show builds deliberately. If you're expecting instant payoffs, you might check out before the story fully opens up. Stick with it.
@@ -34,7 +34,7 @@ When word gets out, he and his old high school friend Frances find themselves ca
 
 ---
 
-### Final Verdict
+## Final Verdict
 
 **My Rating: 8.5.**
 

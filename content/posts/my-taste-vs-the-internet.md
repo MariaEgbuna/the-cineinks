@@ -1,5 +1,5 @@
 ---
-title: "My Taste vs. The Internet"
+title: "Overrated and Underrated Movies: My Taste vs. The Internet"
 slug: "my-taste-vs-the-internet"
 date: "2026-10-07T10:30:00Z"
 category: "Extra"

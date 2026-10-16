@@ -1,11 +1,11 @@
 ---
-title: "Worst Movies I’ve Watched in 2026 So Far (January to June)"
+title: "Worst Movies I've Watched in 2026 So Far (January to June)"
 slug: "worst-movies-ive-watched-this-year-so-far"
 date: "2026-06-29T11:00:00Z"
 category: "List"
 labels: ["List"]
 score: null
-excerpt: "I already wrote about the best movies I've watched this year, so it only feels right to flip it and talk about the bad ones too."
+excerpt: "I already wrote about the best movies I've watched this year, so it only feels right to flip it and talk about the worst ones too."
 coverImage: "/images/posts/worst-movies-ive-watched-this-year-so-far/image-1.jpg"
 ---
 

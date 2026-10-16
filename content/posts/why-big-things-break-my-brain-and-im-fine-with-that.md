@@ -1,11 +1,11 @@
 ---
-title: "Why Big Things Break My Brain (And I'm Fine With That)"
+title: "Why I Love Big Spectacle Movies: Big Things Break My Brain"
 slug: "why-big-things-break-my-brain-and-im-fine-with-that"
 date: "2026-05-12T09:58:00Z"
 category: "Thoughts"
 labels: ["Extra"]
 score: null
-excerpt: "A manifesto on why massive, skyscraper-stepping spectacle will always triumph over boring, high-brow cinema."
+excerpt: "A manifesto on why massive, skyscraper-stepping spectacle movies will always triumph over boring, high-brow cinema."
 coverImage: "/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.jpg"
 ---
 

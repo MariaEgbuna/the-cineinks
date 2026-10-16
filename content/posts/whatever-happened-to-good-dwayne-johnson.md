@@ -1,5 +1,5 @@
 ---
-title: "Whatever Happened to Good Dwayne Johnson?"
+title: "Whatever Happened to Good Dwayne Johnson? My Breakup Letter to The Rock"
 slug: "whatever-happened-to-good-dwayne-johnson"
 date: "2026-07-19T09:48:19.207Z"
 category: "Spotlight"

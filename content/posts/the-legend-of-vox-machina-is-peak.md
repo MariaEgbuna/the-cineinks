@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Vox Machina Is Peak"
+title: "Is The Legend of Vox Machina Worth Watching? Yes, It's Peak"
 slug: "the-legend-of-vox-machina-is-peak"
 date: "2026-07-13T10:30:00Z"
 category: "Hall of Fame"

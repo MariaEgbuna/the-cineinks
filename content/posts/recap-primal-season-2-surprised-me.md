@@ -1,11 +1,11 @@
 ---
-title: "Primal Season 2 Surprised Me"
+title: "Primal Season 2 Recap: Grief Across Oceans and Centuries"
 slug: "recap-primal-season-2-surprised-me"
 date: "2026-07-01T10:30:00Z"
 category: "Recap"
 labels: ["Recap"]
 score: 8.7
-excerpt: "Season one was about two grieving creatures finding each other in the wreckage of everything they lost. Season two takes that and throws it across oceans and centuries."
+excerpt: "Primal’s first season was about two grieving creatures finding each other in the wreckage of everything they lost. Season two takes that and throws it across oceans and centuries."
 coverImage: "/images/posts/recap-primal-season-2/image-1.jpg"
 ---
 
@@ -19,7 +19,7 @@ _This post contains spoilers for Primal Season 2._
 
 ---
 
-### Lost at sea, and then lost from each other
+## Lost at sea, and then lost from each other
 
 ![RECAP: Primal Season 2](/images/posts/recap-primal-season-2/image-2.jpg)
 
@@ -31,7 +31,7 @@ The split sets up the next two episodes. Fang, stranded and searching, runs into
 
 The collision between these two storylines is brutal. Red and Fang, now bonded, end up raiding the same village that just took Spear in. Spear sees Fang with a body in her mouth and has no idea what to think. A three way standoff turns into a full battle between Spear, Red, and the entire village, and it ends with Fang killing Red to protect Spear, something she clearly does not want to do. She comforts Red as he dies, and that single moment says more about who Fang has become than anything else in the two episode arc. Spear watches all of it happen, wounded and shaken, and the two of them walk back into the forest together, both carrying something heavier than before.
 
-### New faces, old ghosts, and a war with the Vikings
+## New faces, old ghosts, and a war with the Vikings
 
 ![RECAP: Primal Season 2](/images/posts/recap-primal-season-2/image-3.jpg)
 
@@ -49,7 +49,7 @@ What he finds downstream is worse than death. Dragged into an actual underworld 
 
 Back with Spear, Fang, and Mira, life gets gentler for a moment. Fang lays a clutch of eggs, and Spear is clearly thrilled about it, fishing nonstop to keep her fed and giddily helping build her nest. The Chieftain, now a fire demon, attacks, and though Spear and Mira manage to fend him off, the bigger threat turns out to be the next group that finds them: a massive Egyptian war ship that takes the whole group prisoner, smashing one of Fang's unborn eggs in the process.
 
-### Slavery, empires, and a giant named Kamau
+## Slavery, empires, and a giant named Kamau
 
 ![RECAP: Primal Season 2](/images/posts/recap-primal-season-2/image-4.jpg)
 
@@ -61,7 +61,7 @@ Kamau's backstory finally gets told. He was a peaceful farmer before the Queen's
 
 That rebellion is huge. Spear, Mira, Fang, and Kamau finally turn on the Queen and her entire fleet, freeing the enslaved rowers below deck along the way. Kamau gets the most satisfying moment of payback in the whole season, throwing the Queen overboard to her death after she spends three episodes holding his daughter hostage. The group escapes with Fang's two surviving eggs intact, but the celebration does not stretch on for long. In the distance, the Viking Chieftain, now a literal demon of fire, has finally caught up to them.
 
-### Spear's ending
+## Spear's ending
 
 ![RECAP: Primal Season 2](/images/posts/recap-primal-season-2/image-5.jpg)
 
@@ -77,7 +77,7 @@ The season closes years later, with Fang and her now grown offspring still livin
 
 ---
 
-### Where we left everyone
+## Where we left everyone
 
 *   **Spear:** Died defending Mira's village from the Viking Chieftain, after finally finding the sense of family and belonging he had been chasing since losing his first family in season one.
 *   **Fang:** Survived the Chieftain's attack, raised her surviving offspring to adulthood, and remains in Mira's village years after Spear's death.
@@ -87,7 +87,7 @@ The season closes years later, with Fang and her now grown offspring still livin
     
 ---
 
-### Final verdict and overall thoughts
+## Final verdict and overall thoughts
 
 I went into this season already knowing Mira was Spear's love interest. That was never in question for me. What I did not expect was how big the show would go to get there: new tribes, new civilizations, an entire ancient world I had no idea was coming. That is the real strength of this season, it kept widening the map without ever losing the two characters at the center of it.
 

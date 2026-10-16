@@ -1,11 +1,11 @@
 ---
-title: "My Unpopular Actor Opinions"
+title: "Unpopular Actor Opinions: The Celebrities I Just Don’t Get"
 slug: "my-unpopular-actor-opinions"
 date: "2026-08-05T10:30:00Z"
 category: "Hot Takes"
 labels: ["Extra"]
 score: null
-excerpt: "Every fanbase has that group of celebrities everyone loves and you just cannot get the appeal of. This is mine."
+excerpt: "Every fanbase has that group of actors everyone loves and you just cannot get the appeal of. This is mine."
 coverImage: "/images/posts/my-unpopular-actor-opinions/image-1.jpg"
 ---
 

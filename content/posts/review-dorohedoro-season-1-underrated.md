@@ -1,50 +1,42 @@
 ---
-title: "Underrated — That's Dorohedoro Season 1"
+title: "Dorohedoro Season 1 Review: Underrated, Strange, and Really Good"
 slug: "review-dorohedoro-season-1-underrated"
 date: "2026-07-31T19:03:21.141Z"
 category: "Review"
 labels: ["Anime"]
 score: 8.7
-excerpt: "This is one of those shows that sneaks up on you because you don't expect something this strange to also be this good."
+excerpt: "Dorohedoro Season 1 is one of those shows that completely sneaks up on you. You don’t expect something this wildly bizarre to also be this incredibly good."
 coverImage: "/images/posts/review-dorohedoro-season-1/image-1.jpg"
 ---
 
 ![REVIEW: Dorohedoro Season 1](/images/posts/review-dorohedoro-season-1/image-1.jpg)
 
-This is one of those shows that sneaks up on you because you don't expect something this strange to also be this good.
+Alright, let's talk about ***Dorohedoro***. This 2020 dark fantasy anime from MAPPA (directed by Yuichiro Hayashi and based on Q Hayashida's incredible manga) is an absolute trip. It ran for **12 episodes** back in early 2020 before hitting Netflix globally, and honestly, it’s one of those hidden gems that completely sneaks up on you. 
 
-_Dorohedoro_ is a 2020 dark fantasy anime from MAPPA, directed by Yuichiro Hayashi, based on the manga by Q Hayashida. It ran for 12 episodes in Japan between January and March 2020, then landed on Netflix worldwide that May.
+Genre-wise, this thing is a total chaotic cocktail: we're talking horror, high-octane action, and a massive dose of pitch-black comedy and body horror. By all accounts, these ingredients should clash horribly, but somehow they blend together flawlessly. You just don’t expect something this wildly bizarre to also be this incredibly good.
 
-Genre-wise it's a mashup: horror, action, comedy, with a heavy dose of body horror and gallows humor that shouldn't work together as well as it does.
+## The Setup
 
----
+The story follows **Caiman**, a guy who wakes up with a giant lizard head and absolutely zero memory of his past life. A rogue sorcerer cursed him, so now he’s on a brutal hunt to track them down, hoping to get his real face back—or at least get some answers. Riding shotgun on this madness is his best friend **Nikaido**, a badass fry cook who fights like an absolute tank. Together, they roam **The Hole**, a grimy, decaying slum where sorcerers from another dimension drop in just to use regular humans as target practice for magic experiments.
 
-### The Setup
+On the flip side, we get a front-row seat to the sorcerers' world, which has its own twisted politics, gang rivalries, and a eccentric crime boss named **En**. En is obsessed with tracking down the mysterious lizard-headed guy who has been butchering his crew. He deploys his top enforcers, **Shin and Noi**, to hunt Caiman down, and their dynamic ends up being one of the most unexpectedly delightful parts of the whole show.
 
-The story follows Caiman, a man with a lizard head and no memory of his old face or his old life. A sorcerer did this to him, and now he's hunting them, hoping anyone can undo it or at least tell him what happened. His partner in this is Nikaido, a fry cook who fights like she was built for it. The two of them roam a grimy, decaying place called the Hole, a district where sorcerers use regular humans as target practice for their magic experiments.
+## What Worked
 
-On the other side of things is the world the sorcerers actually live in, a place with its own politics, gang rivalries, and a crime boss named En who's obsessed with tracking down the lizard-headed man who's been killing his people. His enforcers, Shin and Noi, also get pulled into the hunt, and their dynamic ends up being one of the most unexpectedly sweet parts of the whole show.
+*   **The Characters Are Everything:** Caiman and Nikaido have a ride-or-die friendship that feels totally earned from episode one. There’s no boring, forced exposition dump to explain why they trust each other; you just watch them kick ass as a unit and immediately get it. Nikaido is spectacular—she isn’t written as a generic "strong female character" to check a box; she is just a powerhouse, full stop. 
+*   **Shin and Noi’s Dynamic:** Noi could have easily been a mindless muscle archetype attached to Shin, but the show gives her so much personality. Her absolute devotion to En, her partnership with Shin, and the pure joy she gets from a bloody brawl make her an instant favorite. Her relationship with Shin is weirdly sweet and tender for a show this incredibly violent, and that contrast is pure gold.
+*   **Top-Tier World-Building:** The Hole and the sorcerer world feel completely distinct, both visually and tonally. The show respects your intelligence enough to let you piece together the smoke-based magic system and gang dynamics on your own without hitting you over the head with explanations. 
 
-### What worked:
+## Fair Warning
 
-The characters are the whole show for me. Caiman and Nikaido have a friendship that feels lived in from episode one. There's no forced backstory dump to explain why they trust each other, you just watch them operate as a unit and understand it. Nikaido in particular stood out. She's not written as "the strong female character" in that stiff, checkbox way a lot of shows do it. She's just strong, full stop, and the show never treats it as a novelty.
+*   **The CGI Takes Getting Used To:** MAPPA heavily relied on **3D animation** for the character models and action sequences, which is a massive departure from traditional 2D anime. The first couple of episodes might feel a little jarring or clunky if you're not used to it. 
 
-Then there's Noi. She could have been a throwaway muscle character attached to Shin, but the show gives her actual depth. Her devotion to En, her friendship with Shin, the way she handles herself in a fight, all of it makes her one of the most memorable people in the cast. Shin and Noi's relationship ends up being weirdly tender for a show this violent, and that contrast is part of what makes Dorohedoro click.
+Honestly, though? It’s barely a downside. Once the narrative hooks you, the unique art style stops being a distraction and completely becomes part of the show's gritty, punk-rock identity. By episode four, I wasn't even thinking about the animation style—I was just completely locked into the story.
 
-The world-building deserves credit too. The Hole and the sorcerer's world are visually and tonally distinct, and the show trusts you to piece together how the magic system and the gang politics work without over-explaining everything. It respects the viewer's intelligence, and I really appreciated that.
+## My Final Verdict
 
-### Fair Warning:
+**8.7 / 10**
 
-The CGI takes some getting used to. MAPPA leaned into 3D animation for a lot of the character models and movement, and the style is a real departure from traditional 2D anime. The first couple of episodes, might be a bit jarring for some viewers.
+The plot, the characters, the unhinged tone—everything clicked for me in a way I never saw coming. I loved almost every second of this season, and even the parts that required a little adjustment turned into absolute strengths by the end. If you haven't watched *Dorohedoro* yet, consider this your official sign to jump in. 
 
-That said, I wouldn't call this a real downside. Once the story pulls you in, the visual style stops being a distraction and starts feeling like part of the show's identity. By the midpoint, I wasn't thinking about it anymore, I was just watching the story.
-
----
-
-### Final Verdict
-
-**8.7** out of 10.
-
-The story, the characters, the tone, all of it worked together in a way I wasn't expecting going in. I loved almost everything about this season, and the parts that took adjusting turned into strengths by the end. If you haven't watched Dorohedoro yet, this is your sign.
-
-_PS: Noi and Nikaido are the reason I'll be thinking about this show for a while. More buff women in anime, please and thank you._
+_PS: Noi and Nikaido are going to be living rent-free in my head for a long time. Can we please get more buff women in anime? Thanks._

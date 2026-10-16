@@ -1,5 +1,5 @@
 ---
-title: "Takopi's Original Sin"
+title: "Takopi's Original Sin Review: Not the Cheerful Slice of Life It Looks Like"
 slug: "review-takopis-original-sin"
 date: "2026-07-20T08:05:00Z"
 category: "Review"

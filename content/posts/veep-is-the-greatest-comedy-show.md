@@ -1,5 +1,5 @@
 ---
-title: VEEP Is The Greatest Comedy Show
+title: "Veep Is the Greatest Comedy Show: Why It's Worth Watching"
 slug: veep-is-the-greatest-comedy-show
 date: 2026-05-11T18:07:00.004Z
 category: Hall of Fame

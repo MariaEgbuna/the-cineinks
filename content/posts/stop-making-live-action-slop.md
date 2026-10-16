@@ -1,5 +1,5 @@
 ---
-title: "Stop Making Live Action Slop!"
+title: "Stop Making Live Action Slop: Animation Isn't a Testing Ground for Remakes"
 slug: "stop-making-live-action-slop"
 date: "2026-07-03T11:30:00Z"
 category: "Rants"

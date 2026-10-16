@@ -1,18 +1,20 @@
 ---
-title: "Call it Love (2023)"
+title: "Call It Love (2023) Review: Kim Young-kwang Plays Soft for Once"
 slug: review-call-it-love
 date: 2026-09-09T11:37:00.000+01:00
 category: Review
 labels:
   - KDrama
 score: 6.8
-excerpt: I watched sixteen episodes of a melodrama mostly because a man who
-  usually plays psychopaths decided to be soft for once.
+excerpt: I watched sixteen episodes of Call It Love, a melodrama, mostly because Kim Young-kwang, a man who usually plays psychopaths, decided to be soft for once.
 coverImage: /images/posts/review-call-it-love-2023/call-it-love.jpg
 featured: false
 ---
 
 ![cover-image](/images/posts/review-call-it-love-2023/call-it-love.jpg)
+
+I watched sixteen episodes of Call It Love, a melodrama, mostly because Kim Young-kwang, a man who usually plays psychopaths, decided to be soft for once.
+
 Call It Love, also released under the title Say It's Love in some regions, is a 2023 South Korean romantic melodrama that premiered on Disney+ on February 22 and wrapped up on April 12 that same year. It ran for sixteen hour-long episodes, directed by Lee Kwang-young and written by Kim Ga-eun. The cast is led by Lee Sung-kyung as Shim Woo-joo and Kim Young-kwang as Han Dong-jin, with Sung Joon playing Yoon Joon and Kim Ye-won as Woo-joo's older sister. It's a Studio Dragon and Drama House production, and it landed decently well with critics and audiences when it aired, praised mostly for its performances and its quieter, more grounded take on the revenge romance formula.
 
 A quick heads up before I go further: **this review has minor spoilers.** Nothing that ruins the ending, but I do talk about plot direction and pacing in enough detail that you might want to bookmark this and come back after you've started the show, if you're the type who likes going in completely blind and unspoiled.

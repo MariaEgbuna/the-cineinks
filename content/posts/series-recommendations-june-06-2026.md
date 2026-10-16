@@ -1,13 +1,12 @@
 ---
-title: "Addictive, Heavy, and Underrated: 4 Shows to Binge Next"
+title: "Series Recommendations: Interview with the Vampire, The Newsreader, Hellbound and More"
 slug: series-recommendations-june-06-2026
 date: 2026-06-06T10:30:00.000Z
 category: Recommendations
 labels:
   - Series
 score: null
-excerpt: Somehow this all started with Sam Reid and ended with four shows
-  permanently lodged in my brain.
+excerpt: "It started with Sam Reid in Interview with the Vampire and ended with four shows permanently lodged in my brain."
 coverImage: /images/posts/series-recommendations-june-06-2026/image-1.jpg
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: "I Got Tired Of Watching Elite Season 6"
+title: "Elite Season 6 Recap: I Got Tired of Watching"
 slug: "recap-elite-season-6-got-tired"
 date: 2026-05-28T10:30:00.000Z
 category: Recap
 labels:
   - Recap
 score: 5.8
-excerpt: I have watched this show turn from a sharp, cold class thriller into a
-  full telenovela in a designer school uniform.
+excerpt: I have watched Elite turn from a sharp, cold class thriller into a full telenovela in a designer school uniform.
 coverImage: /images/posts/recap-elite-season-6/season-6.jpg
 ---
 ![RECAP: Elite Season 6](/images/posts/recap-elite-season-6/season-6.jpg)

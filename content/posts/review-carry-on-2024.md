@@ -1,11 +1,11 @@
 ---
-title: "Carry On (2024)"
+title: "Carry On (2024) Review: Die Hard With a TSA Badge, Minus the Tension"
 slug: "review-carry-on-2024"
 date: "2026-05-11T10:18:00.007Z"
 category: "Review"
 labels: ["Movies"]
 score: 5
-excerpt: "The setup is basically Die Hard reworked for a TSA badge instead of a cop's. On paper, it should deliver wall-to-wall tension."
+excerpt: "The setup of Carry On is basically Die Hard reworked for a TSA badge instead of a cop’s. On paper, it should deliver wall-to-wall tension."
 coverImage: "/images/posts/review-carry-on-2024/image-1.jpg"
 ---
 
@@ -19,13 +19,13 @@ What follows is Ethan racing to outsmart the Traveler in real time, all while st
 
 The film leans into that one-guy-against-impossible-odds formula Collet-Serra has built a career on. The problem is the film keeps tripping over itself to get there.
 
-### The Highlights:
+## The Highlights:
 
 *   **Jason Bateman.** This might be biased because I am a huge fan but he brings a coiled, controlled menace to a role that could have easily been one-dimensional.
 *   **The Premise.** An airport on Christmas Eve, a hidden threat, and a man trapped between two impossible choices. The first act sets it up well enough to keep you leaning in.
 *   **It Moves Fast.** The pacing is relentless and the film never lingers long enough for you to get bored. If you want something loud to fill an evening, it does that job.
 
-### Fair Warning:
+## Fair Warning:
 
 *   **The Script Leans Too Hard on Convenience.** Too many moments only work because the plot needs them to. Characters keep making choices no real person would ever make, and after the third or fourth time, it starts to eat away at the tension the film is working so hard to build.
 *   **Taron Egerton Felt Miscast.** This is not about his ability as an actor, it is about the _fit_. The character needed someone who reads as more grounded and weathered, and he never quite convinced me he belonged in that uniform.
@@ -33,7 +33,7 @@ The film leans into that one-guy-against-impossible-odds formula Collet-Serra ha
 
 ---
 
-### Final Verdict
+## Final Verdict
 
 **My Rating: 5.0**
 

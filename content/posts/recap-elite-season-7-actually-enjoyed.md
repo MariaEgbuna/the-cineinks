@@ -1,14 +1,12 @@
 ---
-title: "I Actually Enjoyed Elite Season 7"
+title: "Elite Season 7 Recap: I Actually Enjoyed It"
 slug: "recap-elite-season-7-actually-enjoyed"
 date: 2026-06-08T10:30:00.000Z
 category: Recap
 labels:
   - Recap
 score: 7.1
-excerpt: No cold open dropping you into a crime scene this time. The story just
-  starts and moves forward. That decision alone signals that the writers were
-  trying to do something different.
+excerpt: Elite Season 7 has no cold open dropping you into a crime scene this time. The story just starts and moves forward. That decision alone signals that the writers were trying to do something different.
 coverImage: /images/posts/recap-elite-season-7/elite.jpg
 ---
 ![RECAP: Elite Season 7](/images/posts/recap-elite-season-7/elite.jpg)

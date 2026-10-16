@@ -1,11 +1,11 @@
 ---
-title: "Michael Bay Hurt My Brain: A Transformers Breakdown"
+title: "Transformers Movies Reviewed: Michael Bay Hurt My Brain"
 slug: "michael-bay-hurt-my-brain-a-transformers-breakdown"
 date: "2026-06-22T10:20:09.780Z"
 category: "Extra"
 labels: ["Movies"]
 score: null
-excerpt: "I posted how big things break my brain on the blog. Then someone asked about Transformers."
+excerpt: "I posted about how big, loud movies break my brain. Then someone asked about the Transformers movies, so here are my thoughts."
 coverImage: "/images/posts/michael-bay-hurt-my-brain-a-transformers-breakdown/image-1.jpg"
 ---
 ![Michael Bay Hurt My Brain: A Transformers Breakdown](/images/posts/michael-bay-hurt-my-brain-a-transformers-breakdown/image-1.jpg)

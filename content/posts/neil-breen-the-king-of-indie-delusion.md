@@ -1,5 +1,5 @@
 ---
-title: "Neil Breen: The King of Indie Delusion"
+title: "Neil Breen Movies: The King of Indie Delusion"
 slug: "neil-breen-the-king-of-indie-delusion"
 date: "2026-06-07T07:14:46.907Z"
 category: "Spotlight"

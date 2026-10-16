@@ -1,13 +1,12 @@
 ---
-title: "No Words, All Action — Primal Season 1"
+title: "Primal Season 1 Recap: No Words, All Action"
 slug: "recap-primal-season-1-all-action"
 date: 2026-06-26T10:30:00Z
 category: Recap
 labels:
   - Recap
 score: 9.3
-excerpt: I randomly saw the trailer for Season 3 and decided to give the show a
-  shot. Ended up binging the first season in one day.
+excerpt: I randomly saw the trailer for Primal Season 3 and decided to give the show a shot. Ended up binging the first season in one day.
 coverImage: /images/posts/recap-primal-season-1/image-1.jpg
 ---
 
@@ -21,7 +20,7 @@ _This post contains spoilers for Primal Season 1._
 
 ---
 
-### How A Massacre Turned Into A Friendship
+## How A Massacre Turned Into A Friendship
 
 ![RECAP: Primal Season 1](/images/posts/recap-primal-season-1/image-2.jpg)
 
@@ -35,7 +34,7 @@ Then the alpha arrives and eats the babies in one bite.
 
 Spear and the mother dinosaur, now Fang, take the alpha down together. Spear gets the killing blow, driving his spear through its brain. It is revenge for his family and hers, but revenge does not bring anyone back. Fang is left with nothing. Later, on a beach, she finds Spear again. Neither of them has anyone left. They decide to stay together, and that is the whole show in one image: two creatures who should be enemies, walking off into the unknown because they have nothing left to lose and somehow that is the thing that saves them.
 
-### Earning Trust One Fight At A Time
+## Earning Trust One Fight At A Time
 
 ![RECAP: Primal Season 1](/images/posts/recap-primal-season-1/image-3.jpg)
 
@@ -47,7 +46,7 @@ From there the show starts widening its world fast. There is the mammoth episode
 
 Then things go fully feral. A blood moon turns the sky red and a pack of raptors chases Spear and Fang across an open field. They stumble onto another group of humans being hunted by giant red bat creatures that share a den with a massive prehistoric spider. Spear gets captured and cocooned in spider silk. Fang plays dead to get smuggled into the den, fights the spider, frees Spear, and the two of them escape by luring the bats into the raptor pack and letting the two predators wipe each other out. It is chaos from start to finish, and it does not pretend to be anything else.
 
-### Every episode Trying To Break Them, And Failing
+## Every episode Trying To Break Them, And Failing
 
 ![RECAP: Primal Season 1](/images/posts/recap-primal-season-1/image-4.jpg)
 
@@ -59,7 +58,7 @@ She is not dead, just badly hurt, and the next episode is the long, quiet proces
 
 The back half of the season keeps raising the stakes. There is a rotting, infected Argentinosaurus that wipes out its entire herd and chases Spear and Fang through a volcanic lava field, finally burning apart after it cannot escape the molten rock. There is a coven of witches who capture and mind-control Fang, complete with a side story about a witch named Lula mourning her own dead daughter, which gives the show a strange, sad humanity in the middle of all the monster stuff. There is an unseen, screeching predator that picks off a Smilodon and an entire Triceratops herd before Spear and Fang figure out fire is the only thing that scares it, and burn it alive in a forest clearing.
 
-### And Then Mira Happened
+## And Then Mira Happened
 
 ![RECAP: Primal Season 1](/images/posts/recap-primal-season-1/image-5.jpg)
 
@@ -67,7 +66,7 @@ And then the season ends on a gut punch that has nothing to do with monsters at 
 
 ---
 
-### Where We Left Everyone
+## Where We Left Everyone
 
 *   **Spear:** Lost his entire first family in episode one, found something with Fang and almost lost her too, and ends the season screaming Mira's name as she disappears over the horizon.  
 *   **Fang:** Lost her own children the same day Spear lost his family, nearly died in the ape-men arena, and spends the finale roaring in helpless grief right alongside him.
@@ -75,7 +74,7 @@ And then the season ends on a gut punch that has nothing to do with monsters at 
     
 ---
 
-### Final Verdict & Overall Thoughts
+## Final Verdict & Overall Thoughts
 
 This is a must watch. If you love drama that is pure, intense, and a little unhinged, this is exactly that, stripped down to its rawest form. No dialogue to hide behind, no exposition to lean on, just pure visual storytelling that hits you right in the chest every single episode. I went in expecting a cool concept and came out completely wrecked by a show that never says a single word.
 

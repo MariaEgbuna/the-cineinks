@@ -1,5 +1,5 @@
 ---
-title: "The Gentlemen Season 2 Plays It Too Safe"
+title: "The Gentlemen Season 2 Review: It Plays It Too Safe"
 slug: "the-gentlemen-season-2-review"
 date: "2026-10-11T10:30:00Z"
 category: "Review"

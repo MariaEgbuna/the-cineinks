@@ -1,13 +1,12 @@
 ---
-title: "Elite Season 2 Was Solid"
+title: "Elite Season 2 Recap: A Solid Follow-Up to Season 1"
 slug: "recap-elite-season-2-solid-followup"
 date: 2026-05-12T10:30:00Z
 category: Recap
 labels:
   - Recap
 score: 8.5
-excerpt: Season 2 picks up directly from season 1 and doesn't let you forget for
-  one second how completely rigged the whole thing was.
+excerpt: Elite Season 2 picks up directly from season 1 and doesn’t let you forget for one second how completely rigged the whole thing was.
 coverImage: /images/posts/recap-elite-season-2/image-1.jpg
 ---
 

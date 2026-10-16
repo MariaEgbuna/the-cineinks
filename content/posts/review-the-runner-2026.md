@@ -1,13 +1,14 @@
 ---
-title: "My Thoughts on The Runner (2026)"
+title: "The Runner (2026) Review: Gal Gadot Runs Across London for 84 Minutes"
 slug: review-the-runner-2026
 date: 2026-09-05T11:30:00.000+01:00
 category: Review
 labels:
   - Movies
 score: 4.8
-excerpt: Gal Gadot runs across London for 84 minutes and somehow it still feels
-  longer than the trial her character is supposed to be prosecuting.
+excerpt: In The Runner, Gal Gadot runs across London for 84 minutes and somehow
+  it still feels longer than the trial her character is supposed to be
+  prosecuting.
 coverImage: /images/posts/review-the-runner-2026/the-runner-cover.jpg
 featured: false
 ---

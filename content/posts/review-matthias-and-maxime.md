@@ -1,11 +1,11 @@
 ---
-title: "Matthias & Maxime"
+title: "Matthias & Maxime (2019) Review: One Kiss and Everything Gets Weird"
 slug: "review-matthias-and-maxime"
 date: "2026-06-10T08:30:00Z"
 category: "Review"
 labels: ["Movies"]
 score: 7.5
-excerpt: "Matthias &amp; Maxime is a 2019 Canadian drama by Xavier Dolan. One kiss for a student film, and everything gets weird."
+excerpt: "Matthias & Maxime is a 2019 Canadian drama by Xavier Dolan. One kiss for a student film, and everything gets weird."
 coverImage: "/images/posts/review-matthias-and-maxime/image-1.jpg"
 ---
 

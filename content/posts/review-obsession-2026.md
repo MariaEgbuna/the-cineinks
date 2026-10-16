@@ -1,5 +1,5 @@
 ---
-title: "I Loved Obsession"
+title: "Obsession (2026) Review: I Loved It"
 slug: "review-obsession-2026"
 date: "2026-08-14T10:30:00Z"
 category: "Review"

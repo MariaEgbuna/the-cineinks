@@ -1,5 +1,5 @@
 ---
-title: "Nothing Beats Elite's First Season"
+title: "Elite Season 1 Recap: Nothing Beats the First Season"
 slug: "recap-elite-season-1-still-the-best"
 date: 2026-05-08T10:30:00.000Z
 category: Recap

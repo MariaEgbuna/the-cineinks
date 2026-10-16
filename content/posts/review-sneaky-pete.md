@@ -1,5 +1,5 @@
 ---
-title: "I Only Watched Two Seasons Of Sneaky Pete"
+title: "Sneaky Pete Review: I Only Watched Two Seasons"
 slug: "review-sneaky-pete"
 date: "2026-06-10T10:30:00Z"
 category: "Review"
