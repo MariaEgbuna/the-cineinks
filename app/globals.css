@@ -21,6 +21,6 @@ html {
   --color-score-yellow: #ef9f27;
   --color-score-red: #f09595;
 
-  --font-serif: var(--font-instrument-serif);
-  --font-sans: var(--font-public-sans);
+  --font-serif: var(--font-pt-serif);
+  --font-sans: var(--font-raleway);
 }

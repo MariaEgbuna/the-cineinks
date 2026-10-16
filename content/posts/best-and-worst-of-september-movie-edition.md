@@ -10,11 +10,11 @@ excerpt: September was a big month for movies. I watched 10, dropped one, and
 coverImage: /images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg
 featured: false
 ---
-![Project  Hail Mary - Rocky and Grace](/images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg)
+![Project Hail Mary - Rocky and Grace](/images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg)
 
-September was a big month for movies. I watched 10, dropped one, and found my movie of the year along the way. I also found a few that didn't deserve the hype. Here's how it went.
+September was a big month for movies. I watched 10, dropped one, and found my movie of the year along the way. I also found a few that didn't deserve the hype.
 
-- - -
+---
 
 ## September's Wins
 
@@ -30,11 +30,15 @@ September was a big month for movies. I watched 10, dropped one, and found my mo
 
 **5. Free Fall (2013):** Well-acted and quietly devastating. I never regretted watching it. [Read my full thoughts on Free Fall](https://cineinks.vercel.app/posts/my-thoughts-on-free-fall).
 
+---
+
 ## The Overhyped One
 
 ![The Furious](/images/posts/best-and-worst-of-september-movie-edition/furious.jpg)
 
 **The Furious (2026):** A decent flick, but it didn't live up to the noise around it. [Here's why I think it's overhyped](https://cineinks.vercel.app/posts/the-furious-is-overhyped).
+
+---
 
 ## The Lowlights of September
 
@@ -42,16 +46,18 @@ September was a big month for movies. I watched 10, dropped one, and found my mo
 
 **1. The Runner (2026):** I already dropped my take on this one. [My full review of The Runner](https://cineinks.vercel.app/posts/review-the-runner-2026).
 
-**2. Green Lantern (2011):** I decided to watch this after enjoying HBO's Lanterns and wanting more Green Lantern in my life. I'd never seen the Ryan Reynolds one, so I gave it a shot. It's just an average film overall, but the CGI was actually awful.
+**2. Green Lantern (2011):** I watched this after enjoying HBO's Lanterns and wanting more Green Lantern in my life. I'd never seen the Ryan Reynolds one, so I gave it a shot. It's average overall, but the CGI was awful.
 
-**3. The Kitchen (2019):** A decent film, nothing exceptional. I watched it because Melissa McCarthy was in it. 
+**3. The Kitchen (2019):** A decent film, nothing exceptional. I watched it because Melissa McCarthy was in it.
+
+---
 
 ## Movies I Gave Up On
 
 ![Unfrosted](/images/posts/best-and-worst-of-september-movie-edition/unfrosted.jpg)
 
-**Unfrosted (2024):** Took me two days, just to watch half of it. It was so stupid, that my love for Melissa couldn't save it.
+**Unfrosted (2024):** It took me two days just to get through half of it. It was so stupid that my love for Melissa couldn't save it.
 
-- - -
+---
 
-And that's the end of my list. Thank you for reading.
+That's my list. Thanks for reading.

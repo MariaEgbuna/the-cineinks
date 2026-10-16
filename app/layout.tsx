@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import { Instrument_Serif } from "next/font/google";
-import localFont from "next/font/local";
+import { Raleway, PT_Serif  } from "next/font/google";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -8,18 +7,18 @@ import { SITE_URL } from "../utils/site";
 import { getSearchablePosts } from "../utils/posts";
 import { Analytics } from "@vercel/analytics/next";
 
-const instrumentSerif = Instrument_Serif({
+const raleway = Raleway({
   subsets: ["latin"],
-  weight: ["400"],
-  variable: "--font-instrument-serif",
+  weight: ["100", "400", "700", "900"],
+  variable: "--font-raleway",
+  display: "swap",
 });
 
-const publicSans = localFont({
-  src: "./fonts/public-sans-latin-wght-normal.woff2",
-  weight: "100 900",
-  style: "normal",
+const ptSerif = PT_Serif({
+  subsets: ["latin"],
+  weight: ["400", "700"],
+  variable: "--font-pt-serif",
   display: "swap",
-  variable: "--font-public-sans",
 });
 
 const SITE_DESCRIPTION =
@@ -69,7 +68,7 @@ export default function RootLayout({
   const searchablePosts = getSearchablePosts();
 
   return (
-    <html lang="en" className={`${instrumentSerif.variable} ${publicSans.variable}`}>
+    <html lang="en" className={`${ptSerif.variable} ${raleway.variable}`}>
       <body>
         {/* Structured data script. The replace() stops "<" from breaking out of the script tag. */}
         <script

@@ -15,46 +15,48 @@ featured: false
 
 These are the K-drama tropes I can't stand, and I say that as someone who loves the genre.
 
-I got into Korean dramas in my first year of college, when a friend recommended City Hunter to me. Lee Min-ho playing a revenge-driven agent trained from childhood to bring down the people who wronged his father's old squad, mixed with a solid slow-burn romance with Park Min-young's character, gave me exactly the kind of hook a first-timer needed. I understand why people still rate it highly all these years later. But loving where you started doesn't mean you have to pretend the industry hasn't settled into some seriously exhausting habits since then, especially once you get deep into the romance side of things.
+I got into Korean dramas in my first year of college, when a friend recommended City Hunter. Lee Min-ho as a revenge-driven agent trained from childhood to bring down the people who wronged his father's old squad, plus a slow-burn romance with Park Min-young's character, gave me exactly the hook a first-timer needed. But loving where you started doesn't mean you have to pretend the industry hasn't settled into some exhausting habits since, especially on the romance side.
 
-- - -
+---
 
 ## K-drama romance tropes
 
 ![destined to meet?](/images/posts/kdrama-tropes-i-dont-like/childhood-pics.jpg)
 
-K-drama romance, especially the mainstream melodrama strain of it, follows a recipe so consistent you could set your watch to it. Take **the childhood connection trope**, for instance, where we're shown partway through that the two leads have actually met once before, years ago, usually during some tragic or fateful moment neither of them fully remembers. It shows up constantly, and I want someone from the industry to explain why. Is it supposed to make the romance feel like fate? Because at this point it just makes every love story feel pre-written before the characters even get a real chance to fall for each other on their own terms, in the present, based on who they actually are now.
+K-drama romance follows a recipe so consistent you could set your watch to it. Take **the childhood connection trope**, where we find out partway through that the leads met once years ago, usually during some tragic moment neither fully remembers. It shows up constantly, and I want someone from the industry to explain why. Is it supposed to make the romance feel like fate? At this point it just makes every love story feel pre-written before the characters get a chance to fall for each other as who they are now.
 
-Then there's **noble idiocy**, which might be the trope that annoys me the most out of all of them. One lead decides, entirely on their own, without so much as a conversation, that breaking up with the other person is somehow *protecting them*. Goblin is a great example of this, and I say that as someone who otherwise really enjoyed that show. The Grim Reaper breaks up with Sunny specifically to shield her from the heavy, tragic baggage tied to their past lives, and it's just such bullshit. It flattens a character you were supposed to respect because real relationships survive on communication, not on one person unilaterally deciding what the other can and can't handle.
+**Noble idiocy** might annoy me the most. One lead decides, without so much as a conversation, that breaking up with the other person is *protecting them*. Goblin is a great example, and I say that as someone who otherwise enjoyed that show. The Grim Reaper breaks up with Sunny to shield her from the tragic baggage of their past lives, and it's such bullshit. Real relationships survive on communication, not on one person deciding what the other can handle.
 
-**The third act breakup** deserves its own callout too, mostly because of how obvious it feels every single time. Around episode thirteen or fourteen, right when the story should be settling into its resolution, a random conflict or sudden separation gets dropped in purely to manufacture last-minute stress before the finale. It's stupid, honestly. We already know the leads end up together, that's not a surprise to anyone watching, so creating unnecessary drama at that stage just wastes runtime that could have gone toward actually deepening the relationship instead of artificially threatening it.
+**The third act breakup** is obvious every single time. Around episode thirteen or fourteen, right when the story should be settling into its resolution, a random conflict gets dropped in just to manufacture last-minute stress. We already know the leads end up together, so it wastes runtime that could have gone toward deepening the relationship.
 
 ![male lead catches female lead](/images/posts/kdrama-tropes-i-dont-like/kdrama-guy-catch-girl-tripping-cliche-trope.jpg)
 
-And then there's the physical comedy of it all, because K-drama romance loves its choreography almost as much as it loves its heartbreak. The **accidental fall** happens in nearly every single show, where a woman trips on completely flat, obstacle-free ground and gets caught by a man whose hand lands perfectly on her waist like he rehearsed it. Please, just stop. It's become such a shorthand for "forced proximity moment" that it's lost any actual charm it might have once had.
+Then there's the physical comedy. The **accidental fall** happens in nearly every show: a woman trips on completely flat ground and gets caught by a man whose hand lands perfectly on her waist like he rehearsed it. Please, just stop. It's lost any charm it once had.
 
 ![kdrama aggressive wrist grab](/images/posts/kdrama-tropes-i-dont-like/kdrama-wrist-grab.jpg)
 
-Right alongside it is the **aggressive wrist grab**, usually from the male lead, who apparently cannot communicate using words and instead just grabs the female lead's wrist and physically drags her wherever he needs her to go. This one genuinely rubs me the wrong way every time I see it, and it shows up in practically every show regardless of genre, tone, or how modern the setting is supposed to be.
+Right alongside it is the **aggressive wrist grab**, usually from the male lead, who apparently can't use words and just drags the female lead wherever he needs her to go. This one really rubs me the wrong way, and it shows up in practically every show, no matter how modern the setting is supposed to be.
 
 ![second-male-lead](/images/posts/kdrama-tropes-i-dont-like/second-male-lead.jpg)
 
-I also have to mention **the second male lead problem**, because this one gets me every single time despite knowing exactly what's happening. You can always tell, almost immediately, that the second lead is objectively the better choice for the female lead. He's more attentive, more emotionally available, usually kinder, and yet the story strings you along anyway, dangling the possibility that maybe this time the female leads will actually pick him. They don't, they never do. And somehow, I fall for it, every time, like I haven't watched this exact bait and switch play out a hundred times before.
+**The second male lead problem** gets me every time, despite knowing exactly what's happening. The second lead is obviously the better choice: more attentive, more emotionally available, usually kinder. The story strings you along anyway, dangling the possibility that this time she'll pick him. They never do, and somehow I fall for it, like I haven't watched this bait and switch a hundred times.
 
 **Don't even get me started on the slow motion kisses....**
 
 ## Medical and thriller K-drama tropes
 
-Romance isn't the only genre with a recipe problem. Medical and thriller K-dramas have their own set of tropes that stretch believability past the point of no return, and these ones are almost funnier to me than they are annoying.
+Romance isn't the only genre with a recipe problem. Medical and thriller K-dramas stretch believability past the point of no return, and these are almost funnier to me than they are annoying.
 
-Take what I'd call **the magic doctor coat trope**. A villain grabs a random white coat off a laundry cart, throws on a flimsy surgical mask, and suddenly becomes completely invisible to an entire high-security hospital full of staff and cameras. Vincenzo did this too, and I had to laugh at how easily that disguise worked. Honestly, this particular issue could probably be found in almost every single K-drama that's ever set a scene inside a hospital. It's less a specific show's flaw and more a genre-wide shortcut nobody's bothered to fix.
+**The magic doctor coat trope:** a villain grabs a white coat off a laundry cart, throws on a flimsy surgical mask, and becomes invisible to an entire high-security hospital full of staff and cameras. Vincenzo did this, and I had to laugh at how easily it worked. It's less one show's flaw than a genre-wide shortcut nobody's bothered to fix.
 
-Then there's **the suspicious IV drip tampering**, which might be even more ridiculous once you actually sit and think about it. Intruders just casually stroll into a hospital room, inject some unidentified clear liquid straight into a patient's IV line, and walk right back out, all without a single heart monitor alarm going off until they're safely gone. Where is the security in these buildings?? The Penthouse leaned on this one constantly, along with characters yanking vital plugs or tampering with medication while hospital staff are apparently on an extended coffee break somewhere off screen.
+**The suspicious IV drip tampering** is even more ridiculous once you think about it. Intruders stroll into a hospital room, inject some unidentified clear liquid into a patient's IV line, and walk out, with no heart monitor alarm going off until they're safely gone. Where is the security in these buildings?? The Penthouse leaned on this constantly, along with characters yanking vital plugs while hospital staff are apparently on an extended coffee break off screen.
 
-- - -
+---
 
 ## Where that leaves me
 
-There are probably more tropes I've forgotten about, ones I've just started accepting automatically that they don't even register as annoying anymore. But these are the ones sitting closest to the surface for me right now. I hold out hope that someday, especially in the romance genre specifically, writers will trust their characters enough to let a relationship develop without leaning on the same seven moves every single time. Until then, I'll keep watching anyway, complaining the whole way through, because apparently that's just part of the deal now.
+There are probably more tropes I've forgotten, ones I've accepted so automatically they don't register as annoying anymore. I hope someday, especially in romance, writers will trust their characters enough to let a relationship develop without the same seven moves every time.
+
+**Until then, I'll keep watching anyway, complaining the whole way through.**
 
 *PS: I've only seen clips of Boys Over Flowers on Youtube, and boy am I glad I never watched the show.*

@@ -25,6 +25,8 @@ Once again we're in flash-forward territory, and it's heavy, claustrophobic, and
 
 ### How it kicks off
 
+![RECAP: Elite Season 3](/images/posts/recap-elite-season-3/elite-s3.jpg)
+
 The season opens at a graduation party gone wrong, a body crashing down through the club's upper level onto the dance floor below while Carla stands nearby, stunned, next to shattered glass. Then it rewinds five months, and the real story starts.
 
 Polo's out on bail, but the case isn't closed. A judge orders a formal confrontation between him and Carla to compare their accounts, and Carla tells him that she's done covering for him, though she'll give him a chance to confess first. Her father, on the other side, has other plans. He blackmails her into staying silent, warning that the truth coming out risks exposing his own dealings and taking her mother's business down with it.
@@ -44,6 +46,8 @@ Then the timeline snaps back to the future, to the body on the dance floor, and 
 ---
 
 ### The twists and the escalation
+
+![RECAP: Elite Season 3](/images/posts/recap-elite-season-3/lu-and-nadia.jpg)
 
 Nadia's got real motivation to land the scholarship this time, especially once it comes out that the funding's coming from Polo's mothers, basically a bribe dressed up as opportunity for anyone connected to the case. Lu's chasing the same scholarship for real reasons now too, cut off financially by her father. Nadia tries to pressure her out of the running by threatening to expose her and Valerio, but Lu calls the bluff, and it's Nadia who backs off once she learns just how broke Lu actually is.
 
@@ -70,6 +74,8 @@ At the graduation ceremony itself, everything that's been simmering boils over f
 The graduation party that follows brings a strange peace to a few corners of the group, Guzman and Nadia finding their way back to each other for whatever time they have left, Ander and Omar sharing one last real goodbye before Omar leaves for New York with Nadia and Malick. It's the last calm moment before the body hits the dance floor.
 
 ### How it all wraps up
+
+![RECAP: Elite Season 3](/images/posts/recap-elite-season-3/polo.jpg)
 
 Polo shows up to graduation for one reason: he wants the trophy from Cayetana so he can turn himself in. She refuses, and when he demands to know if she's the one who sabotaged his chance to transfer abroad, she admits it, telling him it was because she loves him and couldn't let him go. Before he can process that, Lu storms up drunk and throws a drink in his face, blaming him for wrecking her life. He tries to tell her the scholarship's being reinstated but she's past listening.
 

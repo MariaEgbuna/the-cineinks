@@ -12,68 +12,64 @@ coverImage: "/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-
 
 Breaking Bad is one of those shows the internet will not stop talking about. Everyone acts like it's basically a religion.
 
-But once you actually sit down and watch it, there's this weird gap between what people promised you and what you're actually getting, at least at first. Let me explain what I mean.
+But once you actually sit down and watch it, there's a weird gap between what people promised you and what you're getting, at least at first. Let me explain what I mean.
 
-_This post contains spoilers for AMC's Breaking Bad_
+*This post contains spoilers for AMC's Breaking Bad.*
 
 ---
 
-### Breaking Bad's ratings: let's look at the numbers
+## Breaking Bad's ratings: let's look at the numbers
 
-Breaking Bad sits at a 9.5 out of 10 on IMDb, which is one of the highest scores any TV show has ever gotten. Rotten Tomatoes has it at 96%, and regular viewers rated it even higher at 97%. The Irish Times even said it holds a Guinness World Record for being the most critically loved show of its time. That's a lot of praise.
+Breaking Bad sits at 9.5 out of 10 on IMDb, one of the highest scores any TV show has ever gotten. Rotten Tomatoes has it at 96%, and regular viewers rated it even higher at 97%. The Irish Times even said it holds a Guinness World Record for being the most critically loved show of its time.
 
-And then there's Season 5 Episode 14 (Ozymandias). For 13 years this was the only episode of TV ever to get a flat-out perfect 10/10 on IMDb. Rolling Stone put it at the top of their "greatest TV episodes ever" list back in 2024. That perfect score finally slipped to a 9.9 in early 2026, but only because a fandom war with a newer show led to a bunch of coordinated low ratings. Even that whole drama tells you something about how intense this fanbase is.
+Season 5 Episode 14 (Ozymandias) was the only episode of TV with a flat-out perfect 10/10 on IMDb for 13 years, and Rolling Stone put it at the top of its 2024 list of the greatest TV episodes. The score slipped to 9.9 in early 2026, but only because a fandom war with a newer show led to a bunch of coordinated low ratings. On paper, this show is untouchable. The real question is whether it feels that way while you're watching.
 
-So yeah, on paper, this show is basically untouchable. The real question is whether it actually feels that way when you're watching it.
+## So what's the show actually about
 
-### So what's the show actually about
+Breaking Bad ran on AMC from January 2008 to September 2013, five seasons total. Walter White is a high school chemistry teacher in Albuquerque who finds out he has terminal lung cancer and starts cooking meth so his family isn't left broke. He brings in his old student Jesse Pinkman, and what starts as a desperate move slowly turns darker, because Walt is really, really good at being bad.
 
-Breaking Bad ran on AMC from January 2008 to September 2013, five seasons total. Walter White is a high school chemistry teacher in Albuquerque who finds out he has terminal lung cancer, and decides to start cooking meth so his family isn't left broke after he's gone. He brings in his old student Jesse Pinkman to help, and what starts as a desperate move to protect his family slowly turns into something way darker, because it turns out Walt is really, really good at being bad.
+Vince Gilligan's pitch was famously simple: turn Mr. Chips into Scarface. He wanted to show a full moral collapse, step by step, without skipping anything. That's the best and most frustrating thing about the show, depending on where you are in it.
 
-Vince Gilligan created it, and his pitch was famously simple: turn Mr. Chips into Scarface. That one line sounds simple, but the show takes its time with it in a way most shows just don't. Gilligan wasn't trying to make a typical crime drama. He was trying to show a full moral collapse, step by step, without skipping anything. That's the best and most frustrating thing about the show, depending on where you are in it.
-
-### Walter White's slow fall is really the whole point
+## Walter White's slow fall is the whole point
 
 ![Is Breaking Bad Worth Watching? Yes, But Give It Until Season 3](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-2.jpg)
 
-The reason people can't stop talking about this show is Walt. Cranston plays him in a way that makes it hard to pin the guy down. At the start you actually feel for him. He's underpaid, disrespected, working two jobs just to get by, and clearly smarter than the life he's stuck in. Then he gets a cancer diagnosis and finds out his family will be financially wrecked because of it. You get why he makes that first bad call. You might even be on his side for it.
+The reason people can't stop talking about this show is Walt. At the start you actually feel for him. He's underpaid, disrespected, working two jobs just to get by, and clearly smarter than the life he's stuck in. Then he gets a cancer diagnosis and finds out his family will be financially wrecked. You get why he makes that first bad call. You might even be on his side.
 
-But the real question the show is asking isn't "_why did he start doing this?_" It is "_when did he stop being the victim?_" There's that line in Season 4, "**I am the one who knocks**" where he basically flips the script on Skyler and uses fear to control her instead of protecting her. And then the finale gives you the real answer when he finally admits, "**I did it for me. I liked it. I was good at it. And I was really... I was alive.**" That's the show quietly confirming what it's been building toward the whole time. He wasn't doing any of this for his family. He was doing it because it made him feel powerful, after years of feeling small. The cancer was just the excuse he needed to finally become who he always thought he should've been. Watching a guy justify every terrible thing he does, one step at a time, is weirdly gripping television. And the show's answer, given slowly over five seasons, is yeah. He was always like this underneath it all.
+But the show isn't asking "*why did he start doing this?*" It's asking "*when did he stop being the victim?*" In Season 4, "**I am the one who knocks**" is Walt flipping the script on Skyler and using fear to control her instead of protecting her. Then the finale gives you the real answer: "**I did it for me. I liked it. I was good at it. And I was really... I was alive.**" He wasn't doing any of this for his family. He did it because it made him feel powerful after years of feeling small, and the cancer was just the excuse. Watching a guy justify every terrible thing he does, one step at a time, is weirdly gripping television.
 
-### Jesse Pinkman is why you keep watching
+## Jesse Pinkman is why you keep watching
 
 ![Is Breaking Bad Worth Watching? Yes, But Give It Until Season 3](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-3.jpg)
 
-The thing about Walt is that he's fascinating, but he's not really likeable. And the show knows that, which is exactly why Jesse exists. Jesse is basically the heart of the whole thing. He's the one who still has a conscience after Walt's has completely checked out. He actually feels the weight of what they're doing, while Walt just buries it under excuses and ego.
+Walt is fascinating, but he's not really likeable, and the show knows that, which is why Jesse exists. Jesse is the heart of the whole thing, the one who still has a conscience after Walt's has checked out. Walt buries everything under excuses and ego. Jesse feels every bit of it and falls apart. As Walt becomes less and less someone you can root for, Jesse becomes the guy you actually want to see make it out okay.
 
-Their whole dynamic works because they're two totally different reactions to the same mess. Walt shuts down and rationalizes everything. Jesse feels every bit of it and falls apart. And as Walt becomes less and less someone you can root for, Jesse becomes the guy you actually want to see make it out okay. Some of the hardest moments in the whole show come from watching Jesse slowly figure out exactly who Walt really is.
-
-### The Gus Fring effect
+## The Gus Fring effect
 
 ![Is Breaking Bad Worth Watching? Yes, But Give It Until Season 3](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-4.jpg)
 
-Ask any Breaking Bad fan when the show really clicked for them, and most people will say the same thing: when Gus Fring showed up. Played by Giancarlo Esposito, Gus runs a chicken restaurant chain called Los Pollos Hermanos as a front for his meth operation, all while staying so squeaky clean publicly that he's friendly with the local DEA. He's not loud or threatening in the usual villain way. He's polite, professional, smiles at his customers, his employees love him, and all that good stuff.
+Ask any Breaking Bad fan when the show really clicked for them, and most will say when Gus Fring showed up. Played by Giancarlo Esposito, Gus runs a chicken restaurant chain called Los Pollos Hermanos as a front for his meth operation, while staying so squeaky clean publicly that he's friendly with the local DEA. He's polite, professional, and smiles at his customers.
 
-Then in the Season 4 premiere, without saying a word, he slits a guy's throat with a box cutter right in front of Walt and Jesse, just to prove a point. Then he calmly takes off his hazmat suit, cleans up, and asks if anyone needs medical help. That scene is scarier than any typical loud villain moment because of how cold it was. The message is clear: **I am more disciplined than you, I am more patient than you, and I can ruin you whenever I decide to.** Esposito has said he made a point of not playing Gus as a stereotype, leaning into the fact that real people have light and dark in them instead of playing a cartoon bad guy. That choice is exactly why it works so well. His arrival in Season 3 is the moment the show goes from "really good" to "that show everyone won't shut up about."
+Then in the Season 4 premiere, without saying a word, he slits a guy's throat with a box cutter right in front of Walt and Jesse, just to prove a point. He calmly takes off his hazmat suit, cleans up, and asks if anyone needs medical help. It's scarier than any loud villain moment because of how cold it is. The message is clear: **I am more disciplined than you, I am more patient than you, and I can ruin you whenever I decide to.** Esposito has said he made a point of not playing Gus as a stereotype, leaning into the fact that real people have light and dark in them. That choice is why it works. His arrival in Season 3 is when the show goes from "really good" to "that show everyone won't shut up about."
 
-### Does Breaking Bad have a slow start? Yes, let's be honest about it
+## Does Breaking Bad have a slow start? Yes
 
-None of the high praise changes the fact that the first two seasons ask a lot of you. Even critics agree Season 1 is the weakest part of the show. It has an 86% rating on Rotten Tomatoes, which sounds great until you compare it to the near perfect scores the later seasons get. Early on it feels more like a suburban family drama than a crime thriller. Walt and Jesse fumbling through their first cook in a janky RV. There are long stretches of tension between Walt and Skyler at home. The pace is slow and can feel like a slog if you're used to faster shows. Season 1 also got cut short by the writers' strike, so it only has seven episodes and never really builds to a proper climax.
+The first two seasons ask a lot of you. Even critics agree Season 1 is the weakest part. It sits at 86% on Rotten Tomatoes, which sounds great until you compare it to the near perfect scores of the later seasons. Early on it feels more like a suburban family drama than a crime thriller: Walt and Jesse fumbling through their first cook in a janky RV, long stretches of tension between Walt and Skyler at home. Season 1 also got cut short by the writers' strike, so it only has seven episodes and never builds to a proper climax.
 
-The thing is, the early seasons aren't actually _bad_. If you rewatch them once you know the whole story, they're kind of chilling. Every small selfish choice Walt makes, every smooth lie, hits completely differently once you know who he becomes. But you don't know any of that on your first watch, especially when the internet is telling you this is the best show ever made before you've even hit play. That hype creates a weird kind of pressure. You're sitting there in Season 1 watching Walt deal with a school bully and argue with his son about a car, wondering if everyone online lied to you. The show does eventually become everything people promised. But that gap between the hype and the early episodes is real, and it trips a lot of people up.
+The early seasons aren't *bad*. On a rewatch they're kind of chilling, because every small selfish choice Walt makes hits differently once you know who he becomes. But on a first watch, with the internet telling you this is the best show ever made, you're sitting in Season 1 watching Walt deal with a school bully, wondering if everyone online lied to you. The show does become everything people promised. But the gap between the hype and the early episodes is real, and it trips a lot of people up.
 
-### The ending actually works
+## The ending works
 
-The finale does something most shows never manage. It gives you what you want without cheating to get there. Walt doesn't get some clean escape or a redemption arc that wipes away what he did. He gets to wrap up his loose ends on his own terms, protecting his family, settling scores with the people who wronged him, setting Jesse free, and then he dies in the meth lab, surrounded by the equipment he ended up loving more than his own family. It just fits because it's what the story had built toward.
-
-By the time the finale hits, Ozymandias had already done most of the heavy lifting anyway, with the deaths, the confessions, everything Walt built coming apart. The finale just had to land the plane, and it does. Most shows this hyped up fumble the ending and make you regret the time you put in. Breaking Bad doesn't do that, so when you tell a friend to watch it, you don't have to give the "yeah but the ending kind of sucks" disclaimer.
+The finale gives you what you want without cheating to get there. Walt doesn't get a clean escape or a redemption arc that wipes away what he did. He wraps up his loose ends on his own terms, protecting his family, settling scores, setting Jesse free, and then he dies in the meth lab, surrounded by the equipment he ended up loving more than his own family. Ozymandias had already done most of the heavy lifting, with the deaths, the confessions, and everything Walt built coming apart. The finale just had to bring it in, and it does. Most hyped shows fumble the ending and make you regret the time you put in. This one doesn't, so you don't have to give the "yeah but the ending kind of sucks" disclaimer when you tell a friend to watch it.
 
 ---
 
-### So, is it actually the greatest show ever made?
+## So, is it actually the greatest show ever made?
 
-Breaking Bad is genuinely well made, with a clear vision, great performances, and a great ending. Watching one man completely fall apart morally, with no shortcuts taken, is one of the best things TV has ever pulled off. It even gave us Gus Fring, one of the best villains.
+Breaking Bad is well made, with a clear vision, great performances, and a great ending. Watching one man fall apart morally, with no shortcuts, is one of the best things TV has ever pulled off, and it gave us Gus Fring, one of the best villains.
 
-But _greatest show ever made?_ That's where things get complicated. Going in with the reputation the internet has built up around this show almost makes the rough early episodes harder to get through, because you're comparing them to a legend they haven't earned yet on screen. 
+But *greatest show ever made?* That's where it gets complicated. The reputation the internet has built almost makes the rough early episodes harder to get through, because you're comparing them to a legend they haven't proved yet on screen. I think **the greatest show ever probably shouldn't require you to push through a patience test before it becomes the greatest show ever.**
 
-I think **the greatest show ever probably shouldn't require you to push through a patience test before it becomes the greatest show ever.** That said, still watch it. Just go in with normal expectations instead of the impossible ones everyone online hands you. Give it until Season 3. Let Gus show up. You'll get it by then. Just don't be surprised if you spend the first couple seasons wondering what the fuss is about. That's completely normal.
+Still watch it, just with normal expectations instead of the impossible ones everyone online hands you. It's normal to spend the first couple seasons wondering what the fuss is about.
+
+**Give it until Season 3. Let Gus show up, and you'll get it.**
