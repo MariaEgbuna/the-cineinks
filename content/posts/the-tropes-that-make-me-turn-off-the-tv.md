@@ -6,7 +6,7 @@ category: "Hot Takes"
 labels: ["Extra"]
 score: null
 excerpt: "We love talking about our favorite films, but the list of tropes we completely refuse to watch is far more revealing."
-coverImage: "/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-2.jpg"
+coverImage: "/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.jpg"
 ---
 
 ![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.jpg)
