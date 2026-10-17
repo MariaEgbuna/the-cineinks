@@ -5,16 +5,15 @@ date: 2026-09-30T10:30:00.000+01:00
 category: Best and Worst
 labels:
   - List
-excerpt: September was a big month for movies. I watched 10, dropped one, and
-  found my movie of the year along the way.
+excerpt: September was a big month for movies. I watched 10, dropped one, and found my movie of the year along the way.
 coverImage: /images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg
 featured: false
 ---
 ![Project Hail Mary - Rocky and Grace](/images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg)
 
-September was a big month for movies. I watched 10, dropped one, and found my movie of the year along the way. I also found a few that didn't deserve the hype.
+September was a big month for movies. I watched 10, dropped one, and found my movie of the year along the way.
 
----
+I also found a few that didn't deserve the hype.
 
 ## September's Wins
 
@@ -22,23 +21,19 @@ September was a big month for movies. I watched 10, dropped one, and found my mo
 
 **1. Project Hail Mary (2026):** Best movie of the year for me. Go watch it. 10/10.
 
-**2. Fantastic Mr. Fox (2009):** It's the oldest movie in my top five, and it beat almost every new release I watched this month. 'Twas a fun ride from start to finish.
+**2. Fantastic Mr. Fox (2009):** The oldest movie in my top five, and it beat almost every new release I watched this month. 'Twas a fun ride from start to finish.
 
 **3. The Invite (2026):** Sometimes a movie is fine and you still don't connect with it. That's The Invite. It's just not for me.
 
-**4. The Naked Gun (2025):** It's a goofy movie and it doesn't try to be anything more.
+**4. The Naked Gun (2025):** A goofy movie that doesn't try to be anything more.
 
-**5. Free Fall (2013):** Well-acted and quietly devastating. I never regretted watching it. [Read my full thoughts on Free Fall](https://cineinks.vercel.app/posts/my-thoughts-on-free-fall).
-
----
+**5. Free Fall (2013):** Well-acted and quietly devastating, and I never regretted watching it. [Read my full thoughts on Free Fall](https://cineinks.vercel.app/posts/my-thoughts-on-free-fall).
 
 ## The Overhyped One
 
 ![The Furious](/images/posts/best-and-worst-of-september-movie-edition/furious.jpg)
 
 **The Furious (2026):** A decent flick, but it didn't live up to the noise around it. [Here's why I think it's overhyped](https://cineinks.vercel.app/posts/the-furious-is-overhyped).
-
----
 
 ## The Lowlights of September
 
@@ -50,14 +45,10 @@ September was a big month for movies. I watched 10, dropped one, and found my mo
 
 **3. The Kitchen (2019):** A decent film, nothing exceptional. I watched it because Melissa McCarthy was in it.
 
----
-
 ## Movies I Gave Up On
 
 ![Unfrosted](/images/posts/best-and-worst-of-september-movie-edition/unfrosted.jpg)
 
 **Unfrosted (2024):** It took me two days just to get through half of it. It was so stupid that my love for Melissa couldn't save it.
 
----
-
-That's my list. Thanks for reading.
+That's September: one movie of the year, one I gave up on, and a few that didn't deserve the hype.

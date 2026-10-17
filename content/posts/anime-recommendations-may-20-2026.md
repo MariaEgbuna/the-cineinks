@@ -6,8 +6,7 @@ category: Recommendations
 labels:
   - Anime
 score: null
-excerpt: From psychological thrillers that will rot your brain to sports anime
-  that will make you want to run through a brick wall.
+excerpt: From psychological thrillers that will rot your brain to sports anime that will make you want to run through a brick wall.
 coverImage: /images/posts/anime-recommendations-may-20-2026/image-1.jpg
 ---
 
