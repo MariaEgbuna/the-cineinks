@@ -25,7 +25,7 @@ export default function Header({ searchablePosts }: HeaderProps) {
   return (
     <header className="bg-bar">
       <div className="max-w-[1600px] mx-auto px-5 pt-4">
-        <div className="flex flex-wrap items-center justify-between gap-3 pb-4">
+        <div className="relative flex flex-wrap items-center justify-between gap-3 pb-4">
           {/* Changed: smaller gap on phones */}
           <Link href="/" className="flex items-center gap-2 md:gap-3">
             <div className="relative w-10 h-10 rounded-full overflow-hidden shrink-0">

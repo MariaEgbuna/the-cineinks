@@ -54,7 +54,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
     : [];
 
   return (
-    <div ref={containerRef} className="relative flex items-center">
+    <div ref={containerRef} className="md:relative flex items-center">
       {/* Changed in the search box: every cream color is now a main color,
           because the header can be light now. */}
       {isOpen ? (
@@ -93,7 +93,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
 
       {/* Results dropdown, unchanged from before */}
       {isOpen && trimmedQuery && (
-        <div className="absolute right-0 mt-2 w-72 md:w-80 bg-card border border-line rounded shadow-lg z-50 max-h-96 overflow-y-auto">
+        <div className="absolute left-0 right-0 top-full -mt-2 md:left-auto md:mt-2 md:w-80 bg-card border border-line rounded shadow-lg z-50 max-h-96 overflow-y-auto">
           {results.length === 0 ? (
             <p className="text-sm text-main/60 px-4 py-3">No results found.</p>
           ) : (
