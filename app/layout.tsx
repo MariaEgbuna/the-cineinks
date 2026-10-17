@@ -1,25 +1,10 @@
 import type { Metadata } from "next";
-import { Raleway, PT_Serif  } from "next/font/google";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { SITE_URL } from "../utils/site";
 import { getSearchablePosts } from "../utils/posts";
 import { Analytics } from "@vercel/analytics/next";
-
-const raleway = Raleway({
-  subsets: ["latin"],
-  weight: ["100", "400", "700", "900"],
-  variable: "--font-raleway",
-  display: "swap",
-});
-
-const ptSerif = PT_Serif({
-  subsets: ["latin"],
-  weight: ["400", "700"],
-  variable: "--font-pt-serif",
-  display: "swap",
-});
 
 const SITE_DESCRIPTION =
   "Honest reviews and takes on movies, series, anime, and K-dramas. No fancy film degrees here, just what I'm watching or have watched.";
@@ -80,7 +65,6 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${raleway.variable} ${ptSerif.variable}`}
       suppressHydrationWarning
     >
       <head>

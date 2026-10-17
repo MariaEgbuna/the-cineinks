@@ -29,9 +29,17 @@ html {
   --page-line: #262626;
   --page-accent: #5dcaa5;  /* light teal reads better on dark */
 }
+
+/* --- Base Layout Typography Settings --- */
 body {
   background-color: var(--page-bg);
   color: var(--page-text);
+  font-family: var(--font-sans); /* Globally activates the flat number system stack */
+}
+
+/* Keep headings structured using your primary system stack */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
 }
 
 .prose {
@@ -89,9 +97,9 @@ body {
   --color-score-yellow: #ef9f27;
   --color-score-red: #f09595;
 
-  --font-serif: var(--font-pt-serif);
-  --font-sans: var(--font-raleway);
-
+  /* Native system stacks prioritizing Segoe UI */
+  --font-serif: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-sans: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 @theme inline {
