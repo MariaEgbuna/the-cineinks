@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Poppins, PT_Serif } from "next/font/google";
+import { Raleway, PT_Serif  } from "next/font/google";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -7,10 +7,10 @@ import { SITE_URL } from "../utils/site";
 import { getSearchablePosts } from "../utils/posts";
 import { Analytics } from "@vercel/analytics/next";
 
-const poppins = Poppins({
+const raleway = Raleway({
   subsets: ["latin"],
-  weight: ["400", "500", "700"],
-  variable: "--font-poppins",
+  weight: ["100", "400", "700", "900"],
+  variable: "--font-raleway",
   display: "swap",
 });
 
@@ -80,8 +80,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      // Changed: inter.variable is now poppins.variable
-      className={`${ptSerif.variable} ${poppins.variable}`}
+      className={`${raleway.variable} ${ptSerif.variable}`}
       suppressHydrationWarning
     >
       <head>

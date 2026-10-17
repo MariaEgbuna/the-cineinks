@@ -1,8 +1,6 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
-/* Makes the dark: prefix follow the .dark class on <html>,
-   instead of the visitor's device setting. */
 @custom-variant dark (&:where(.dark, .dark *));
 
 html {
@@ -36,7 +34,6 @@ body {
   color: var(--page-text);
 }
 
-/* Point the typography plugin at the job colors above. */
 .prose {
   --tw-prose-body: var(--page-text);
   --tw-prose-headings: var(--page-text);
@@ -73,7 +70,8 @@ body {
   --color-score-red: #f09595;
 
   --font-serif: var(--font-pt-serif);
-  --font-sans: var(--font-poppins);;
+  --font-sans: var(--font-raleway);
+
 }
 
 @theme inline {
