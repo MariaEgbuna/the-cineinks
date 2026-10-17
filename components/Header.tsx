@@ -26,7 +26,8 @@ export default function Header({ searchablePosts }: HeaderProps) {
     <header className="bg-bar">
       <div className="max-w-[1600px] mx-auto px-5 pt-4">
         <div className="flex flex-wrap items-center justify-between gap-3 pb-4">
-          <Link href="/" className="flex items-center gap-3">
+          {/* Changed: smaller gap on phones */}
+          <Link href="/" className="flex items-center gap-2 md:gap-3">
             <div className="relative w-10 h-10 rounded-full overflow-hidden shrink-0">
               {/* sizes="40px" matches the w-10 (40px) box above, so the browser
                   downloads a small logo instead of a full-screen-width one. */}
@@ -38,22 +39,25 @@ export default function Header({ searchablePosts }: HeaderProps) {
                 className="object-cover scale-125"
               />
             </div>
-            {/* Changed: text-cream is now text-main */}
-            <p className="font-serif text-2xl text-main">The CineInks</p>
+            {/* Changed: smaller on phones, and never wraps onto two lines */}
+            <p className="font-serif text-xl md:text-2xl text-main whitespace-nowrap">
+              The CineInks
+            </p>
           </Link>
 
-          <div className="flex items-center gap-4">
+          {/* Changed: tighter gap on phones, and shrink-0 so the icons
+              keep their size and stay on the same row as the name */}
+          <div className="flex items-center gap-3 md:gap-4 shrink-0">
             <SearchBar posts={searchablePosts} />
 
             {/* Light and dark mode toggle */}
             <ThemeToggle />
 
-            {/* Hamburger toggle, only visible below the md breakpoint.
-                Changed: text-cream is now text-main */}
+            {/* Hamburger toggle, only visible below the md breakpoint */}
             <button
               aria-label={isMenuOpen ? "Close menu" : "Open menu"}
               onClick={() => setIsMenuOpen((open) => !open)}
-              className="text-main md:hidden"
+              className="flex items-center text-main md:hidden"
             >
               {isMenuOpen ? (
                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -73,8 +77,7 @@ export default function Header({ searchablePosts }: HeaderProps) {
 
         {/* On mobile, this only renders when isMenuOpen is true and
             stacks vertically. On md screens and up, it always shows
-            and lays out horizontally, ignoring the toggle entirely.
-            Changed: border-cream/10 is now border-main/10 */}
+            and lays out horizontally, ignoring the toggle entirely. */}
         <nav
           className={`${
             isMenuOpen ? "flex" : "hidden"
@@ -87,7 +90,6 @@ export default function Header({ searchablePosts }: HeaderProps) {
                 key={item.href}
                 href={item.href}
                 onClick={() => setIsMenuOpen(false)}
-                // Changed: text-cream is now text-main, border-teal-light is now border-accent
                 className={`text-sm font-medium pb-1 ${
                   isActive
                     ? "text-main border-b-2 border-accent w-fit"

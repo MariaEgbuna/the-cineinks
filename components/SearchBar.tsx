@@ -54,7 +54,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
     : [];
 
   return (
-    <div ref={containerRef} className="relative">
+    <div ref={containerRef} className="relative flex items-center">
       {/* Changed in the search box: every cream color is now a main color,
           because the header can be light now. */}
       {isOpen ? (
@@ -83,7 +83,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
           </button>
         </div>
       ) : (
-        <button aria-label="Search" onClick={openSearch} className="text-main">
+        <button aria-label="Search" onClick={openSearch} className="flex items-center text-main">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
             <circle cx="11" cy="11" r="8" />
             <line x1="21" y1="21" x2="16.65" y2="16.65" />

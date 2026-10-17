@@ -10,13 +10,12 @@ type HeroProps = {
 
 export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
   return (
-    // Changed: bg-ink is now bg-bar
     <section className="bg-bar">
       <div className="max-w-[1600px] mx-auto px-5 py-6 grid grid-cols-1 md:grid-cols-[1.7fr_1fr] gap-5">
-        {/* Changed: bg-white/5 is now bg-main/5 (the empty space behind the cover image) */}
+        {/* Changed: less padding on phones (p-4 instead of p-5) */}
         <Link
           href={`/posts/${featuredPost.slug}`}
-          className="relative block bg-main/5 rounded-xl aspect-[4/3] md:aspect-[16/9] p-5 flex flex-col justify-end overflow-hidden"
+          className="relative block bg-main/5 rounded-xl aspect-[4/3] md:aspect-[16/9] p-4 md:p-5 flex flex-col justify-end overflow-hidden"
         >
           {featuredPost.coverImage && (
             <Image
@@ -28,9 +27,9 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
               className="object-cover"
             />
           )}
-          {/* Dark gradient so the title stays readable regardless
-              of how light or busy the underlying cover image is. */}
-          <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/20 to-transparent" />
+          {/* Changed: darker at the bottom, so the title stays readable
+              over bright parts of the cover image. */}
+          <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
 
           {/* Everything on top of the image keeps its fixed colors on purpose:
               the score badge, the category badge, and the cream title. */}
@@ -45,17 +44,19 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
           )}
 
           <div className="relative z-10">
-            <span className="inline-block bg-teal text-teal-light text-xs px-2.5 py-1 mb-3">
+            {/* Changed: smaller gap under the badge on phones */}
+            <span className="inline-block bg-teal text-teal-light text-xs px-2.5 py-1 mb-2 md:mb-3">
               {featuredPost.category}
             </span>
-            <h1 className="font-serif text-2xl md:text-3xl text-cream leading-snug">
+            {/* Changed: text-lg on phones, and long titles stop at 3 lines
+                on phones. Desktop keeps the full title and the old size. */}
+            <h1 className="font-serif text-lg md:text-3xl text-cream leading-snug line-clamp-3 md:line-clamp-none">
               {featuredPost.title}
             </h1>
           </div>
         </Link>
 
         <div className="p-5 flex flex-col">
-          {/* Changed: text-teal-light is now text-accent */}
           <p className="text-xs text-accent font-medium mb-3">
             Latest Posts
           </p>
@@ -66,7 +67,6 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
                 href={`/posts/${post.slug}`}
                 className="flex gap-2.5 items-center"
               >
-                {/* Changed: bg-white/10 is now bg-main/10 */}
                 <div className="relative w-9 h-9 bg-main/10 rounded-md shrink-0 overflow-hidden">
                     {post.coverImage && (
                       <Image
@@ -79,7 +79,6 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
                     )}
                   </div>
                 <div>
-                  {/* Changed: text-cream/80 is now text-main/80, text-cream/40 is now text-main/50 */}
                   <p className="text-sm text-main/80 font-normal leading-snug">
                     {post.title}
                   </p>

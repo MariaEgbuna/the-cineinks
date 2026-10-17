@@ -19,7 +19,7 @@ export default function ThemeToggle() {
       onClick={toggleTheme}
       aria-label="Toggle light and dark mode"
       // Changed: text-cream is now text-main, so the icon shows on the light header too
-      className="text-main"
+      className="flex items-center text-main"
     >
       {/* Sun icon: shown in dark mode (click to go light) */}
       <svg
