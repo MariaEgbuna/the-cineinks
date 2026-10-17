@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Raleway, PT_Serif  } from "next/font/google";
+import { Poppins, PT_Serif } from "next/font/google";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -7,10 +7,10 @@ import { SITE_URL } from "../utils/site";
 import { getSearchablePosts } from "../utils/posts";
 import { Analytics } from "@vercel/analytics/next";
 
-const raleway = Raleway({
+const poppins = Poppins({
   subsets: ["latin"],
-  weight: ["100", "400", "700", "900"],
-  variable: "--font-raleway",
+  weight: ["400", "500", "700"],
+  variable: "--font-poppins",
   display: "swap",
 });
 
@@ -60,6 +60,16 @@ const websiteJsonLd = {
   url: SITE_URL,
 };
 
+const themeScript = `
+try {
+  var saved = localStorage.getItem("theme");
+  var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  if (saved === "dark" || (!saved && prefersDark)) {
+    document.documentElement.classList.add("dark");
+  }
+} catch (e) {}
+`;
+
 export default function RootLayout({
   children,
 }: {
@@ -68,7 +78,15 @@ export default function RootLayout({
   const searchablePosts = getSearchablePosts();
 
   return (
-    <html lang="en" className={`${ptSerif.variable} ${raleway.variable}`}>
+    <html
+      lang="en"
+      // Changed: inter.variable is now poppins.variable
+      className={`${ptSerif.variable} ${poppins.variable}`}
+      suppressHydrationWarning
+    >
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+      </head>
       <body>
         {/* Structured data script. The replace() stops "<" from breaking out of the script tag. */}
         <script

@@ -23,8 +23,6 @@ Season 2 picks up a year after Eddie and Susie joined forces to run Bobby Glass'
 
 **A quick heads up: this review has spoilers** for Season 2, including Bella's storyline and the finale.
 
----
-
 ## What I didn't like
 
 ### The Freddy situation
@@ -57,13 +55,9 @@ The twist wasn't good enough, if you ask me. And then the fight between Eddie an
 
 **Eddie never took revenge.** Not for himself, not for his wife, not for the fact that they came for his nephew Tarquin (terrible name). Nothing. Everything just got.... resolved.
 
----
-
 ## What I liked
 
 The acting is just amazing to watch, especially Kaya Scodelario as Susie Glass. The soundtrack is cool, and everything down to the visuals works very well.
-
----
 
 ## Final Verdict
 

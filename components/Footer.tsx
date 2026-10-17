@@ -13,27 +13,29 @@ const categories = [
 
 export default function Footer() {
   return (
-    <footer className="bg-ink">
+    <footer className="bg-bar">
       <div className="max-w-[1600px] mx-auto px-5 py-10">
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pb-8 border-b border-cream/10">
+        {/* Changed: border-cream/10 is now border-main/10 */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pb-8 border-b border-main/10">
           <div>
-            <p className="text-xs text-teal-light font-medium mb-3">Information</p>
+            {/* Changed: text-teal-light is now text-accent, text-cream/60 is now text-main/60 */}
+            <p className="text-xs text-accent font-medium mb-3">Information</p>
             <div className="flex flex-col gap-2">
-              <Link href="/about" className="text-sm text-cream/60">
+              <Link href="/about" className="text-sm text-main/60">
                 About
               </Link>
-              <Link href="/contact" className="text-sm text-cream/60">
+              <Link href="/contact" className="text-sm text-main/60">
                 Contact
               </Link>
-              <Link href="/privacy-policy" className="text-sm text-cream/60">
+              <Link href="/privacy-policy" className="text-sm text-main/60">
                 Privacy Policy
               </Link>
             </div>
           </div>
 
           <div>
-            <p className="text-xs text-teal-light font-medium mb-3">Come Say Hi</p>
-            <p className="text-sm text-cream/60 mb-4">
+            <p className="text-xs text-accent font-medium mb-3">Come Say Hi</p>
+            <p className="text-sm text-main/60 mb-4">
               No fancy film degrees here, just honest takes. Follow along.
             </p>
             <div className="flex gap-4">
@@ -42,7 +44,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener"
                 aria-label="Instagram"
-                className="text-cream/60"
+                className="text-main/60"
               >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                   <rect x="3" y="3" width="18" height="18" rx="5" />
@@ -55,7 +57,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener"
                 aria-label="Twitter"
-                className="text-cream/60"
+                className="text-main/60"
               >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
@@ -66,8 +68,10 @@ export default function Footer() {
         </div>
 
         <div className="text-center pt-8">
-          <p className="font-serif text-xl text-cream">The CineInks</p>
-          <p className="text-xs text-cream/30 mt-6">
+          {/* Changed: text-cream is now text-main, text-cream/30 is now text-main/40
+              (a little stronger, so it stays readable on the light footer) */}
+          <p className="font-serif text-xl text-main">The CineInks</p>
+          <p className="text-xs text-main/40 mt-6">
             © {new Date().getFullYear()} The CineInks. All rights reserved.
           </p>
         </div>

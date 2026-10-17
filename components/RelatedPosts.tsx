@@ -32,9 +32,10 @@ export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProp
   if (!selected || selected.length === 0) return null;
 
   return (
-    <section className="bg-cream border-t border-black/5">
-      <div className="max-w-[900px] mx-auto px-5 py-10">
-        <h2 className="font-serif text-2xl text-ink mb-5">Related Posts</h2>
+    <section className="bg-page border-t border-line">
+      <div className="max-w-225 mx-auto px-5 py-10">
+        {/* Changed: text-ink is now text-main */}
+        <h2 className="font-serif text-2xl text-main mb-5">Related Posts</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
           {selected.map((related) => (
             <ArticleCard

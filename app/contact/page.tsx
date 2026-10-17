@@ -1,8 +1,10 @@
 export default function ContactPage() {
   return (
-    <main className="bg-cream py-16">
+    // Changed: bg-cream is now bg-page
+    <main className="bg-page py-16">
       <div className="max-w-225 mx-auto px-5">
-        <div className="prose prose-neutral mb-8">
+        {/* Changed: prose-neutral removed so the theme colors apply */}
+        <div className="prose mb-8">
           <h1 className="font-serif">Contact</h1>
           <p>
             Got a recommendation? Want to discuss a show, drop a hot take, or
@@ -12,11 +14,12 @@ export default function ContactPage() {
         </div>
 
         <div className="flex gap-5 mb-10">
+          {/* Changed: text-ink/70 is now text-main/70 on both links */}
           <a
             href="https://www.instagram.com/eagercricket/"
             target="_blank"
             rel="noopener"
-            className="flex items-center gap-2 text-sm text-ink/70"
+            className="flex items-center gap-2 text-sm text-main/70"
           >
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <rect x="3" y="3" width="18" height="18" rx="5" />
@@ -30,7 +33,7 @@ export default function ContactPage() {
             href="https://x.com/eagercricket"
             target="_blank"
             rel="noopener"
-            className="flex items-center gap-2 text-sm text-ink/70"
+            className="flex items-center gap-2 text-sm text-main/70"
           >
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
               <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
@@ -51,13 +54,16 @@ export default function ContactPage() {
           />
           <input type="hidden" name="subject" value="New message from The CineInks Contact Page" />
 
+          {/* Changed on all three fields: border-black/15 is now border-main/20,
+              text-ink is now text-main, and bg-card gives the field its own
+              background so it stands out in dark mode. */}
           <div className="mb-5">
             <label className="block text-sm mb-1.5">Name</label>
             <input
               name="name"
               type="text"
               required
-              className="w-full rounded border border-black/15 px-3 py-2.5 text-sm text-ink"
+              className="w-full rounded border border-main/20 bg-card px-3 py-2.5 text-sm text-main"
             />
           </div>
 
@@ -67,7 +73,7 @@ export default function ContactPage() {
               name="email"
               type="email"
               required
-              className="w-full rounded border border-black/15 px-3 py-2.5 text-sm text-ink"
+              className="w-full rounded border border-main/20 bg-card px-3 py-2.5 text-sm text-main"
             />
           </div>
 
@@ -77,7 +83,7 @@ export default function ContactPage() {
               name="message"
               rows={6}
               required
-              className="w-full rounded border border-black/15 px-3 py-2.5 text-sm text-ink resize-y"
+              className="w-full rounded border border-main/20 bg-card px-3 py-2.5 text-sm text-main resize-y"
             />
           </div>
 

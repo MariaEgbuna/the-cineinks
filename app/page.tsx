@@ -17,7 +17,8 @@ export default function Home() {
       <main>
         <div data-nosnippet>
           <Hero featuredPost={featuredPost} recentlyWatched={recentlyWatched} />
-          <section className="bg-cream py-10">
+          {/* Changed: bg-cream is now bg-page so it follows the theme */}
+          <section className="bg-page py-10">
             <div className="max-w-[1600px] mx-auto px-5">
               <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
                 {gridPosts.map((post) => (
@@ -34,9 +35,10 @@ export default function Home() {
                 ))}
               </div>
               <div className="text-center mt-8">
+                {/* Changed: text-ink and border-ink are now text-main and border-main */}
                 <Link
                   href="/archive"
-                  className="text-sm text-ink/60 border-b border-ink/20 pb-0.5"
+                  className="text-sm text-main/60 border-b border-main/20 pb-0.5"
                 >
                   View all posts
                 </Link>

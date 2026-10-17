@@ -24,9 +24,10 @@ export default function ArticleCard({
   return (
     <Link
       href={`/posts/${slug}`}
-      className="block bg-cream overflow-hidden border border-black/5"
+      className="block bg-card overflow-hidden border border-line"
     >
-      <div className="relative bg-black/10 aspect-[4/3]">
+      {/* Changed: bg-black/10 is now bg-line (the empty space behind the image) */}
+      <div className="relative bg-line aspect-4/3">
         {coverImage && (
           <Image
             src={coverImage}
@@ -36,6 +37,7 @@ export default function ArticleCard({
             className="object-cover"
           />
         )}
+        {/* The category and score badges sit on top of the image, so they keep their fixed colors */}
         <span className="absolute bottom-2.5 left-2.5 bg-teal text-teal-light text-xs px-2 py-1 rounded">
           {category}
         </span>
@@ -50,13 +52,14 @@ export default function ArticleCard({
         )}
       </div>
       <div className="p-4">
-        <h3 className="font-serif text-lg text-ink leading-snug mb-1.5">
+        {/* Changed: all text-ink classes below are now text-main */}
+        <h3 className="font-serif text-lg text-main leading-snug mb-1.5">
           {title}
         </h3>
-        <p className="text-sm text-ink/60 leading-relaxed mb-2.5">
+        <p className="text-sm text-main/60 leading-relaxed mb-2.5">
           {excerpt}
         </p>
-        <p className="text-xs text-ink/40">{date}</p>
+        <p className="text-xs text-main/40">{date}</p>
       </div>
     </Link>
   );

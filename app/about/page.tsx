@@ -1,7 +1,8 @@
 export default function AboutPage() {
   return (
-    <main className="bg-cream py-16">
-      <div className="max-w-225 mx-auto px-5 prose prose-neutral">
+    <main className="bg-page py-16">
+      {/* Changed: prose-neutral removed so the theme colors apply */}
+      <div className="max-w-225 mx-auto px-5 prose">
         <h1 className="font-serif">About</h1>
 
         <p>
@@ -34,34 +35,35 @@ export default function AboutPage() {
 
         <h3>What You Will Find Here</h3>
 
-        <div className="border-l-[3px] border-teal pl-4 mb-4">
+        {/* Changed: border-teal is now border-accent (dark teal in light mode, light teal in dark mode) */}
+        <div className="border-l-[3px] border-accent pl-4 mb-4">
           <p className="m-0">
             <strong>Reviews:</strong> My actual thoughts on movies and
             series I have watched, old or new.
           </p>
         </div>
 
-        <div className="border-l-[3px] border-teal pl-4 mb-4">
+        <div className="border-l-[3px] border-accent pl-4 mb-4">
           <p className="m-0">
             <strong>Recaps:</strong> Episode and season breakdowns for
             things worth talking through in detail.
           </p>
         </div>
 
-        <div className="border-l-[3px] border-teal pl-4 mb-4">
+        <div className="border-l-[3px] border-accent pl-4 mb-4">
           <p className="m-0">
             <strong>Spotlight:</strong> When a specific actor, director, or
             detail deserves its own conversation.
           </p>
         </div>
 
-        <div className="border-l-[3px] border-teal pl-4 mb-4">
+        <div className="border-l-[3px] border-accent pl-4 mb-4">
           <p className="m-0">
             <strong>Hall of Fame:</strong> Movies/Shows that have left a lasting impression.
           </p>
         </div>
 
-        <div className="border-l-[3px] border-teal pl-4">
+        <div className="border-l-[3px] border-accent pl-4">
           <p className="m-0">
             <strong>Extras:</strong> Everything else. Recommendations,
             lists, random thoughts.

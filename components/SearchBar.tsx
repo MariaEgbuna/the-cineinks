@@ -16,7 +16,6 @@ export default function SearchBar({ posts }: SearchBarProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  // Close the dropdown when clicking anywhere outside this component.
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
       if (
@@ -56,9 +55,11 @@ export default function SearchBar({ posts }: SearchBarProps) {
 
   return (
     <div ref={containerRef} className="relative">
+      {/* Changed in the search box: every cream color is now a main color,
+          because the header can be light now. */}
       {isOpen ? (
-        <div className="flex items-center gap-2 bg-cream/10 rounded px-3 py-1.5">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-cream/60 shrink-0">
+        <div className="flex items-center gap-2 bg-main/10 rounded px-3 py-1.5">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-main/60 shrink-0">
             <circle cx="11" cy="11" r="8" />
             <line x1="21" y1="21" x2="16.65" y2="16.65" />
           </svg>
@@ -68,12 +69,12 @@ export default function SearchBar({ posts }: SearchBarProps) {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search posts..."
-            className="bg-transparent text-cream text-sm placeholder:text-cream/40 outline-none w-40 md:w-56"
+            className="bg-transparent text-main text-sm placeholder:text-main/40 outline-none w-40 md:w-56"
           />
           <button
             aria-label="Close search"
             onClick={closeSearch}
-            className="text-cream/60 shrink-0"
+            className="text-main/60 shrink-0"
           >
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <line x1="18" y1="6" x2="6" y2="18" />
@@ -82,7 +83,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
           </button>
         </div>
       ) : (
-        <button aria-label="Search" onClick={openSearch} className="text-cream">
+        <button aria-label="Search" onClick={openSearch} className="text-main">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
             <circle cx="11" cy="11" r="8" />
             <line x1="21" y1="21" x2="16.65" y2="16.65" />
@@ -90,22 +91,23 @@ export default function SearchBar({ posts }: SearchBarProps) {
         </button>
       )}
 
+      {/* Results dropdown, unchanged from before */}
       {isOpen && trimmedQuery && (
-        <div className="absolute right-0 mt-2 w-72 md:w-80 bg-cream border border-black/10 rounded shadow-lg z-50 max-h-96 overflow-y-auto">
+        <div className="absolute right-0 mt-2 w-72 md:w-80 bg-card border border-line rounded shadow-lg z-50 max-h-96 overflow-y-auto">
           {results.length === 0 ? (
-            <p className="text-sm text-ink/60 px-4 py-3">No results found.</p>
+            <p className="text-sm text-main/60 px-4 py-3">No results found.</p>
           ) : (
             results.map((post) => (
               <Link
                 key={post.slug}
                 href={`/posts/${post.slug}`}
                 onClick={closeSearch}
-                className="block px-4 py-3 border-b border-black/5 last:border-b-0 hover:bg-black/5"
+                className="block px-4 py-3 border-b border-line last:border-b-0 hover:bg-main/5"
               >
-                <p className="text-sm font-medium text-ink leading-snug">
+                <p className="text-sm font-medium text-main leading-snug">
                   {post.title}
                 </p>
-                <p className="text-xs text-ink/50 mt-0.5">{post.category}</p>
+                <p className="text-xs text-main/50 mt-0.5">{post.category}</p>
               </Link>
             ))
           )}

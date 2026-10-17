@@ -1,8 +1,59 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* Makes the dark: prefix follow the .dark class on <html>,
+   instead of the visitor's device setting. */
+@custom-variant dark (&:where(.dark, .dark *));
+
 html {
   font-size: 112.5%;
+}
+
+/* Light mode: soft off-white, header and page are the same color */
+:root {
+  --page-bg: #f5f5f3;      /* page */
+  --page-bar: #f5f5f3;     /* header, footer, hero, banners (same as page) */
+  --page-text: #1a1a1a;    /* slightly softer than pure black */
+  --page-muted: #666666;
+  --page-card: #fbfbfa;    /* a touch lighter than the page, so cards still lift off it */
+  --page-line: #e2e1dd;
+  --page-accent: #0f6e56;  /* dark teal */
+}
+
+/* Dark mode: true black, with neutral grays instead of blue-tinted ones */
+.dark {
+  color-scheme: dark;
+  --page-bg: #000000;      /* page */
+  --page-bar: #000000;     /* header, footer, hero, banners (same as page) */
+  --page-text: #f5f5f5;
+  --page-muted: #a3a3a3;
+  --page-card: #121212;    /* slightly lighter than the page, so cards stand out */
+  --page-line: #262626;
+  --page-accent: #5dcaa5;  /* light teal reads better on dark */
+}
+body {
+  background-color: var(--page-bg);
+  color: var(--page-text);
+}
+
+/* Point the typography plugin at the job colors above. */
+.prose {
+  --tw-prose-body: var(--page-text);
+  --tw-prose-headings: var(--page-text);
+  --tw-prose-lead: var(--page-muted);
+  --tw-prose-links: var(--page-accent);
+  --tw-prose-bold: var(--page-text);
+  --tw-prose-counters: var(--page-muted);
+  --tw-prose-bullets: var(--page-muted);
+  --tw-prose-hr: var(--page-line);
+  --tw-prose-quotes: var(--page-text);
+  --tw-prose-quote-borders: var(--page-line);
+  --tw-prose-captions: var(--page-muted);
+  --tw-prose-code: var(--page-text);
+  --tw-prose-pre-code: var(--page-text);
+  --tw-prose-pre-bg: var(--page-card);
+  --tw-prose-th-borders: var(--page-line);
+  --tw-prose-td-borders: var(--page-line);
 }
 
 .prose img {
@@ -11,8 +62,8 @@ html {
 }
 
 @theme {
-  --color-ink: #110f17; 
-  --color-cream: #f7f5f1; 
+  --color-ink: #110f17;
+  --color-cream: #f7f5f1;
 
   --color-teal: #0f6e56;
   --color-teal-light: #5dcaa5;
@@ -22,5 +73,15 @@ html {
   --color-score-red: #f09595;
 
   --font-serif: var(--font-pt-serif);
-  --font-sans: var(--font-raleway);
+  --font-sans: var(--font-poppins);;
+}
+
+@theme inline {
+  --color-page: var(--page-bg);
+  --color-bar: var(--page-bar);
+  --color-main: var(--page-text);
+  --color-muted: var(--page-muted);
+  --color-card: var(--page-card);
+  --color-line: var(--page-line);
+  --color-accent: var(--page-accent);
 }

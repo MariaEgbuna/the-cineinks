@@ -1,7 +1,9 @@
 export default function PrivacyPolicyPage() {
   return (
-    <main className="bg-cream py-16">
-      <div className="max-w-[900px] mx-auto px-5 prose prose-neutral">
+    // Changed: bg-cream is now bg-page
+    <main className="bg-page py-16">
+      {/* Changed: prose-neutral removed so the theme colors apply */}
+      <div className="max-w-225 mx-auto px-5 prose">
         <h1 className="font-serif">Privacy Policy</h1>
         <p>Last updated: September 2026</p>
         <p>

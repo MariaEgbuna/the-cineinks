@@ -94,15 +94,18 @@ export default async function PostPage({ params }: PageProps) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
         />
       )}
-      <section className="bg-ink">
+      {/* Changed: bg-ink is now bg-bar */}
+      <section className="bg-bar">
         <div className="max-w-225 mx-auto px-5 py-10">
           <div className="flex items-center gap-3 mb-4">
             <span className="bg-teal text-teal-light text-xs px-2.5 py-1 rounded">
               {post.category}
             </span>
+            {/* Changed: bg-white/10 is now bg-ink, so the light score colors
+                stay readable even when the header is light */}
             {post.score !== null && (
               <span
-                className={`bg-white/10 text-sm font-medium px-3 py-1 rounded ${scoreColor(
+                className={`bg-ink text-sm font-medium px-3 py-1 rounded ${scoreColor(
                   post.score
                 )}`}
               >
@@ -110,15 +113,16 @@ export default async function PostPage({ params }: PageProps) {
               </span>
             )}
           </div>
-          <h1 className="font-serif text-3xl md:text-4xl text-cream leading-tight mb-3">
+          {/* Changed: text-cream is now text-main, text-cream/60 is now text-main/60 */}
+          <h1 className="font-serif text-3xl md:text-4xl text-main leading-tight mb-3">
             {post.title}
           </h1>
-          <p className="text-sm text-cream/60">{formattedDate}</p>
+          <p className="text-sm text-main/60">{formattedDate}</p>
         </div>
       </section>
 
-      <section className="bg-cream">
-        <div className="max-w-225 mx-auto px-5 py-10 prose prose-neutral">
+      <section className="bg-page">
+        <div className="max-w-225 mx-auto px-5 py-10 prose">
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
             components={{ img: MarkdownImage as unknown as MarkdownImageComponent }}

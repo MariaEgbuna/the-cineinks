@@ -6,6 +6,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import SearchBar from "./SearchBar";
+import ThemeToggle from "./ThemeToggle";
 import type { SearchablePost } from "../utils/posts";
 
 const navItems = [
@@ -22,7 +23,7 @@ export default function Header({ searchablePosts }: HeaderProps) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <header className="bg-ink">
+    <header className="bg-bar">
       <div className="max-w-[1600px] mx-auto px-5 pt-4">
         <div className="flex flex-wrap items-center justify-between gap-3 pb-4">
           <Link href="/" className="flex items-center gap-3">
@@ -37,17 +38,22 @@ export default function Header({ searchablePosts }: HeaderProps) {
                 className="object-cover scale-125"
               />
             </div>
-            <p className="font-serif text-2xl text-cream">The CineInks</p>
+            {/* Changed: text-cream is now text-main */}
+            <p className="font-serif text-2xl text-main">The CineInks</p>
           </Link>
 
           <div className="flex items-center gap-4">
             <SearchBar posts={searchablePosts} />
 
-            {/* Hamburger toggle, only visible below the md breakpoint */}
+            {/* Light and dark mode toggle */}
+            <ThemeToggle />
+
+            {/* Hamburger toggle, only visible below the md breakpoint.
+                Changed: text-cream is now text-main */}
             <button
               aria-label={isMenuOpen ? "Close menu" : "Open menu"}
               onClick={() => setIsMenuOpen((open) => !open)}
-              className="text-cream md:hidden"
+              className="text-main md:hidden"
             >
               {isMenuOpen ? (
                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -67,11 +73,12 @@ export default function Header({ searchablePosts }: HeaderProps) {
 
         {/* On mobile, this only renders when isMenuOpen is true and
             stacks vertically. On md screens and up, it always shows
-            and lays out horizontally, ignoring the toggle entirely. */}
+            and lays out horizontally, ignoring the toggle entirely.
+            Changed: border-cream/10 is now border-main/10 */}
         <nav
           className={`${
             isMenuOpen ? "flex" : "hidden"
-          } md:flex border-t border-cream/10 flex-col md:flex-row md:flex-wrap gap-3 md:gap-5 py-3`}
+          } md:flex border-t border-main/10 flex-col md:flex-row md:flex-wrap gap-3 md:gap-5 py-3`}
         >
           {navItems.map((item) => {
             const isActive = pathname === item.href;
@@ -80,10 +87,11 @@ export default function Header({ searchablePosts }: HeaderProps) {
                 key={item.href}
                 href={item.href}
                 onClick={() => setIsMenuOpen(false)}
-                className={`text-sm pb-1 ${
+                // Changed: text-cream is now text-main, border-teal-light is now border-accent
+                className={`text-sm font-medium pb-1 ${
                   isActive
-                    ? "text-cream border-b-2 border-teal-light w-fit"
-                    : "text-cream/60"
+                    ? "text-main border-b-2 border-accent w-fit"
+                    : "text-main/60"
                 }`}
               >
                 {item.label}
