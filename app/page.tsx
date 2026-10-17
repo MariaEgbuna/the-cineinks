@@ -18,7 +18,7 @@ export default function Home() {
         <div data-nosnippet>
           <Hero featuredPost={featuredPost} recentlyWatched={recentlyWatched} />
           {/* Changed: bg-cream is now bg-page so it follows the theme */}
-          <section className="bg-page py-10">
+          <section className="bg-page py-6 md:py-10">
             <div className="max-w-[1600px] mx-auto px-5">
               <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
                 {gridPosts.map((post) => (

@@ -1,7 +1,7 @@
 export default function ContactPage() {
   return (
     // Changed: bg-cream is now bg-page
-    <main className="bg-page py-16">
+    <main className="bg-page py-8 md:py-16">
       <div className="max-w-225 mx-auto px-5">
         {/* Changed: prose-neutral removed so the theme colors apply */}
         <div className="prose mb-8">

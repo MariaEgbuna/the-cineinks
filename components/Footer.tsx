@@ -14,7 +14,7 @@ const categories = [
 export default function Footer() {
   return (
     <footer className="bg-bar">
-      <div className="max-w-[1600px] mx-auto px-5 py-10">
+      <div className="max-w-[1600px] mx-auto px-5 py-6 md:py-10">
         {/* Changed: border-cream/10 is now border-main/10 */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pb-8 border-b border-main/10">
           <div>

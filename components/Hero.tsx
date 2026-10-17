@@ -11,7 +11,7 @@ type HeroProps = {
 export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
   return (
     <section className="bg-bar">
-      <div className="max-w-[1600px] mx-auto px-5 py-6 grid grid-cols-1 md:grid-cols-[1.7fr_1fr] gap-5">
+      <div className="max-w-[1600px] mx-auto px-5 py-4 md:py-6 grid grid-cols-1 md:grid-cols-[1.7fr_1fr] gap-3 md:gap-5">
         {/* Changed: less padding on phones (p-4 instead of p-5) */}
         <Link
           href={`/posts/${featuredPost.slug}`}
@@ -56,7 +56,7 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
           </div>
         </Link>
 
-        <div className="p-5 flex flex-col">
+        <div className="p-2 md:p-5 flex flex-col">
           <p className="text-xs text-accent font-medium mb-3">
             Latest Posts
           </p>

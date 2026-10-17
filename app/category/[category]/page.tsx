@@ -39,12 +39,12 @@ export default async function CategoryPage({ params }: PageProps) {
   return (
     <main>
       {/* Changed: bg-ink is now bg-bar, text-cream is now text-main */}
-      <section className="bg-bar py-8">
+      <section className="bg-bar py-5 md:py-8">
         <div className="max-w-[1600px] mx-auto px-5">
           <h1 className="font-serif text-3xl text-main">{category.label}</h1>
         </div>
       </section>
-      <section className="bg-page py-10">
+      <section className="bg-page py-6 md:py-10">
         <div className="max-w-[1600px] mx-auto px-5">
           {posts.length === 0 ? (
             <p className="text-main/60">No posts in this category yet.</p>

@@ -1,6 +1,6 @@
 export default function AboutPage() {
   return (
-    <main className="bg-page py-16">
+    <main className="bg-page py-8 md:py-16">
       {/* Changed: prose-neutral removed so the theme colors apply */}
       <div className="max-w-225 mx-auto px-5 prose">
         <h1 className="font-serif">About</h1>

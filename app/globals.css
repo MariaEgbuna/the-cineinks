@@ -58,6 +58,26 @@ body {
   height: auto;
 }
 
+.prose :where(hr) {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.prose :where(h2) {
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
+.prose :where(h3) {
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
+}
+
+.prose :where(p) {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 @theme {
   --color-ink: #110f17;
   --color-cream: #f7f5f1;
