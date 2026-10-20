@@ -1,11 +1,11 @@
 ---
-title: "Free Fall (2013) Review: A Sad Gay Film That Doesn't Punish You for Hoping"
+title: "Free Fall (2013) Review: Another Sad Gay Movie"
 slug: my-thoughts-on-free-fall
 date: 2026-09-20T17:00:00.000+01:00
 category: Extra
 labels:
   - Movies
-score: null
+score: 7.1
 excerpt: A gay film that actually earns its sadness, instead of punishing
   you for hoping otherwise.
 coverImage: /images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/free-fall-cover.jpg
@@ -45,7 +45,7 @@ You know the type. The couple is happy, then out of nowhere the movie pulls a de
 
 ## Final thoughts
 
-It was a decent flick: well-acted, quietly devastating, and I don't regret watching it. I don't think it deserves to be lumped in with the cynical, punishment-driven tragedies that plagued this genre that decade.
+It was a decent flick: well-acted, a little devastating, but I don't regret watching it. I don't think it deserves to be lumped in with the cynical, punishment-driven tragedies that plagued this genre that decade.
 
 I've heard rumors of a sequel for years. A crowdfunding campaign for Free Fall 2 started in 2017 with the same core cast attached, but it's still stuck in "in development" with no plot details public. I'm curious where they'd take Marc, but I'm not holding my breath.
 
