@@ -2,7 +2,7 @@
 title: "Free Fall (2013) Review: Another Sad Gay Movie"
 slug: my-thoughts-on-free-fall
 date: 2026-09-20T17:00:00.000+01:00
-category: Extra
+category: Review
 labels:
   - Movies
 score: 7.1
