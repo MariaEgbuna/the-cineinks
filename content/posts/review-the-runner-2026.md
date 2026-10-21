@@ -1,5 +1,5 @@
 ---
-title: "The Runner (2026) Review: Gal Gadot Runs Across London for 84 Minutes"
+title: "The Runner (2026) Review: The Gal Gadot Movie"
 slug: review-the-runner-2026
 date: 2026-09-05T11:30:00.000+01:00
 category: Review

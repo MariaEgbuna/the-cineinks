@@ -1,5 +1,5 @@
 ---
-title: "Let's Talk About Bill Skarsgård: From Pennywise to Nosferatu"
+title: "Bill Skarsgård: From Pennywise to Nosferatu"
 slug: "lets-talk-about-bill-skarsgard"
 date: "2026-05-31T15:40:19.173Z"
 category: "Spotlight"

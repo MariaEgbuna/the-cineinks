@@ -1,5 +1,5 @@
 ---
-title: "Go Watch Silicon Valley Already: HBO's Tech Comedy Is Hall of Fame Material"
+title: "Silicon Valley Is Worth Watching"
 slug: go-watch-silicon-valley-already
 date: 2026-04-29T10:30:00.000Z
 category: Hall of Fame

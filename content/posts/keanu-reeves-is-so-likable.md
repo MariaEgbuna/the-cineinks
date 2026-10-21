@@ -1,5 +1,5 @@
 ---
-title: "Why Is Keanu Reeves So Likable? Not a Great Actor, And Yet It Doesn't Matter"
+title: "Why Is Keanu Reeves So Likable?"
 slug: "keanu-reeves-is-so-likable"
 date: "2026-06-28T10:30:00Z"
 category: "Spotlight"

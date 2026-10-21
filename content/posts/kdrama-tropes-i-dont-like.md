@@ -1,5 +1,5 @@
 ---
-title: "Annoying K-Drama Tropes I'm Tired of Seeing (From a Fan Who Loves the Genre)"
+title: "Annoying K-Drama Tropes I'm Tired of Seeing"
 slug: annoying-kdrama-tropes
 date: 2026-09-17T15:30:00.000+01:00
 category: Extra

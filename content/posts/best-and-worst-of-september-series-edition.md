@@ -1,5 +1,5 @@
 ---
-title: "Series I Watched in September 2026: The Best, the Worst, and the Damage"
+title: "Series I Watched in September 2026"
 slug: best-and-worst-series-of-september-2026
 date: 2026-09-30T18:30:00.000+01:00
 category: Best and Worst
