@@ -1,5 +1,5 @@
 ---
-title: "Hope (2026) Ending & Twist Explained: The Alien Invasion That Wasn’t"
+title: "Hope (2026) Ending & Twist Explained"
 slug: hope-ending-explained
 date: 2026-10-16T14:12:00.000+01:00
 category: Thoughts

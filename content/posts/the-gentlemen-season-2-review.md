@@ -23,9 +23,13 @@ Season 2 picks up a year after Eddie and Susie joined forces to run Bobby Glass'
 
 **A quick heads up: this review has spoilers** for Season 2, including Bella's storyline and the finale.
 
+## What I liked
+
+The acting is just amazing to watch, especially Kaya Scodelario as Susie Glass. The soundtrack is cool, and everything down to the visuals works very well.
+
 ## What I didn't like
 
-### The Freddy situation
+**The Freddy situation**
 
 ![REVIEW: The Gentlemen Season 2 (2026)](/images/posts/the-gentlemen-season-2-review/daniel-ings.jpg)
 
@@ -33,31 +37,25 @@ Daniel Ings was not used very well this season. They started off saying Freddy w
 
 I later found out it was because Daniel Ings had scheduling issues. I understand the situation, but it sucked not having more of him this season.
 
-### The characters I didn't care for
+**The characters I didn't care for**
 
 ![REVIEW: The Gentlemen Season 2 (2026)](/images/posts/the-gentlemen-season-2-review/nanny-and-charly.jpg)
 
-**Nanny and Charly.** Why were they here? Nanny (Benjamin Clementine) was introduced this season, and I thought he was going to be important, but no. He barely did anything. Charly (Jasmine Blackborow) didn't add much to the plot either.
+- Nanny and Charly: Why were they here? Nanny (Benjamin Clementine) was introduced this season, and I thought he was going to be important, but no. He barely did anything. Charly (Jasmine Blackborow) didn't add much to the plot either.
 
 ![REVIEW: The Gentlemen Season 2 (2026)](/images/posts/the-gentlemen-season-2-review/bella.jpg)
 
-**Bella (Benedetta Porcaroli).** First off, the romance subplot caught me off guard. I actually thought Bella was a secret villain, or that Eddie was using her, because the whole relationship felt so sudden. But no. They spent the whole of episode 6 on their wedding, then they got married, then she blew up in a plane. Probably the weakest part of the entire show for me.
+- Bella (Benedetta Porcaroli): First off, the romance subplot caught me off guard. I actually thought Bella was a secret villain, or that Eddie was using her, because the whole relationship felt so sudden. But no. They spent the whole of episode 6 on their wedding, then they got married, then she blew up in a plane. Probably the weakest part of the entire show for me.
 
 ![REVIEW: The Gentlemen Season 2 (2026)](/images/posts/the-gentlemen-season-2-review/geoff.jpg)
 
-**Geoff (Vinnie Jones).** I don't care.
+- Geoff (Vinnie Jones): I know people will disagree with but I don't care for Geoff.
 
-### The ending is where it lost me
+**The Ending**
 
 ![REVIEW: The Gentlemen Season 2 (2026)](/images/posts/the-gentlemen-season-2-review/finale.jpg)
 
-The twist wasn't good enough, if you ask me. And then the fight between Eddie and Freddy kind of cheapened everything. All the deaths, all that scheming, just to end up with that as a finale?
-
-**Eddie never took revenge.** Not for himself, not for his wife, not for the fact that they came for his nephew Tarquin (terrible name). Nothing. Everything just got.... resolved.
-
-## What I liked
-
-The acting is just amazing to watch, especially Kaya Scodelario as Susie Glass. The soundtrack is cool, and everything down to the visuals works very well.
+The twist wasn't good enough, if you ask me. And then the fight between Eddie and Freddy kind of cheapened everything. All the deaths, all that scheming, just to end up with that as a finale? **Eddie never took revenge.** Not for himself, not for his wife, not for the fact that they came for his nephew Tarquin (terrible name). Nothing. Everything just got.... resolved.
 
 ## Final Verdict
 

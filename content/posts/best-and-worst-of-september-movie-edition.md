@@ -5,13 +5,13 @@ date: 2026-09-30T10:30:00.000+01:00
 category: Best and Worst
 labels:
   - List
-excerpt: September was a big month for movies. I watched 10, dropped one, and found my movie of the year along the way.
+excerpt: September was a big month for movies. I watched 10; finished 9, dropped one, and found my movie of the year along the way.
 coverImage: /images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg
 featured: false
 ---
 ![Project Hail Mary - Rocky and Grace](/images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg)
 
-September was a big month for movies. I watched 10, dropped one, and found my movie of the year along the way.
+September was a big month for movies. I watched 10; finished 9, dropped one, and found my movie of the year along the way.
 
 I also found a few that didn't deserve the hype.
 
