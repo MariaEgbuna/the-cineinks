@@ -9,11 +9,13 @@ excerpt: "The Affair Was Just The Beginning is one of the best written Korean sh
 coverImage: "/images/posts/review-the-affair-was-just-the-beginning/cover-image.jpg"
 ---
 
-![REVIEW: The Affair Was Just The Beginning (2026)](/images/posts/review-the-affair-was-just-the-beginning/image-1.jpg)
+![REVIEW: The Affair Was Just The Beginning (2026)](/images/posts/review-the-affair-was-just-the-beginning/cover-image.jpg)
 
 The Affair Was Just The Beginning is one of the best written Korean shows of 2026, and I loved every unhinged minute of it.
 
 It's an eight-episode black comedy crime thriller that premiered on Coupang Play on July 31, 2026. Lee Chang-hee directed it, and Jung Eun-kyung and Park Soo-rin wrote it. Kim Hye-soo and Kim Ji-hoon lead, with Cho Yeo-jeong and Kim Jae-chul in the cast. I watched it for Kim Ji-hoon.
+
+![REVIEW: The Affair Was Just The Beginning (2026)](/images/posts/review-the-affair-was-just-the-beginning/image-1.jpg)
 
 Kyung-hee (Kim Hye-soo) is a successful interior design CEO and social media influencer. Her husband Jae-hong (Kim Ji-hoon) is an actor living in her shadow. It opens like a standard cheating spouse drama, with Kyung-hee suspecting her husband, and then it spirals into a hit-and-run accident, a hidden body, and an anonymous blackmailer.
 
