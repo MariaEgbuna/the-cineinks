@@ -33,7 +33,7 @@ Some had stories I couldn't stand. Some weren't what I expected. A couple are bi
 
 ## Big hits that couldn't keep me
 
-![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/image-5.jpg)
+![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/overhyped-shows.jpg)
 
 **Reply 1988** (2015) is a show about five families and their teenage kids in a Seoul neighborhood in the late 1980s. I only watched two episodes. A shame, because this show is very popular and I really tried to like it. But, the goat sounds? No. Just no. Also, I could already tell there would probably be a love triangle, and I hate those, so I dropped it. 
 
