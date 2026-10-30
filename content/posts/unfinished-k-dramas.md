@@ -6,10 +6,10 @@ category: "Extra"
 labels: ["Extra"]
 score: null
 excerpt: "These are seven K-dramas I started and never finished, and each one lost me for a different reason."
-coverImage: "/images/posts/unfinished-k-dramas/image-1.jpg"
+coverImage: "/images/posts/unfinished-k-dramas/cover-image.jpg"
 ---
 
-![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/image-2.jpg)
+![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/post-grid.jpg)
 
 These are seven K-dramas I started and never finished, and each one lost me for a different reason.
 
@@ -17,7 +17,7 @@ Some had stories I couldn't stand. Some weren't what I expected. A couple are bi
 
 ## When the story stopped working
 
-![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/image-3.jpg)
+![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/not-interesting.jpg)
 
 **Marry My Husband** (2024) is a revenge fantasy based on a web novel, with Park Min-young and Na In-woo in the lead roles. Kang Ji-won wakes up ten years in the past after her husband and best friend betray her, and she sets out to change her fate. That is a strong setup on paper, but the story felt so messy and predictable that I couldn't stand it any longer. I quit around episode 8 and never looked back.
 
@@ -25,7 +25,7 @@ Some had stories I couldn't stand. Some weren't what I expected. A couple are bi
 
 ## Not what I signed up for
 
-![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/image-4.jpg)
+![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/dropped-shows.jpg)
 
 **Study Group** (2025) is a series based on a webtoon, with Hwang Min-hyun as Yoon Ga-min, a student with a talent for fighting who starts a study group at a school known as the worst around. It was a hit on Tving and made Viki's top five in 147 countries. I never knew the show would so... goofy and over the top. These students could punch through walls, someone else jumped off the third floor and landing on their feet. It's billed as an action comedy, so that part is by design, but it wasn't the show I went in expecting, so I never bothered to finish it.
 
@@ -41,7 +41,7 @@ Some had stories I couldn't stand. Some weren't what I expected. A couple are bi
 
 ## The one I still owe a finish
 
-![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/image-6.jpg)
+![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/navillera.jpg)
 
 **Navillera** (2021) is a 12-episode tvN drama based on a webtoon. Park In-hwan plays Shim Deok-chul, a 70-year-old retired mailman chasing his lifelong dream of learning ballet, and Song Kang plays Lee Chae-rok, the 23-year-old dancer who ends up teaching him. It's different from the rest of this list because it's still on my watchlist. I must finish it. I just don't know why I keep falling asleep.
 
