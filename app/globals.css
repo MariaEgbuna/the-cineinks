@@ -37,7 +37,7 @@ body {
   font-family: var(--font-sans); /* Globally activates the flat number system stack */
 }
 
-/* Keep headings structured using your primary system stack */
+/* Keep headings structured using the primary system stack */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-serif);
 }
@@ -64,6 +64,31 @@ h1, h2, h3, h4, h5, h6 {
 .prose img {
   max-width: 100%;
   height: auto;
+}
+
+/* --- Tables in posts (character grids) --- */
+
+/* Equal-width columns, no matter how much text each cell holds */
+.prose table {
+  table-layout: fixed; /* columns share the width equally */
+  width: 100%;         /* table fills the post column */
+}
+
+/* Same width for every cell, content starts at the top */
+.prose th,
+.prose td {
+  vertical-align: top;
+  width: 50%;
+}
+
+/* Images fill their cell and all share one shape */
+.prose td img {
+  display: block;
+  width: 100%;         /* fill the cell instead of using the image's own size */
+  height: auto;        /* fallback if aspect-ratio is not supported */
+  aspect-ratio: 4 / 3; /* same shape for every image (the four are all 4:3) */
+  object-fit: cover;   /* trims a few pixels if one is slightly off, never stretches */
+  margin: 0;           /* removes the extra space the typography plugin adds around images */
 }
 
 .prose :where(hr) {
