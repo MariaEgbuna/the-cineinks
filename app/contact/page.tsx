@@ -16,7 +16,7 @@ export default function ContactPage() {
         <div className="flex gap-5 mb-10">
           {/* Changed: text-ink/70 is now text-main/70 on both links */}
           <a
-            href="https://www.instagram.com/eagercricket/"
+            href="https://www.instagram.com/thecineinks/"
             target="_blank"
             rel="noopener"
             className="flex items-center gap-2 text-sm text-main/70"
