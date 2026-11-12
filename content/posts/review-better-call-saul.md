@@ -5,6 +5,7 @@ date: "2026-05-30T10:51:48.774Z"
 category: "Review"
 labels: ["Series"]
 score: 8.4
+verdict: "Just watch BB, then come straight here."
 excerpt: "Quick Take on Better Call Saul: technically you could watch it without seeing Breaking Bad first. But I wouldn't recommend it."
 coverImage: "/images/posts/review-better-call-saul/image-1.jpg"
 ---
@@ -14,8 +15,6 @@ coverImage: "/images/posts/review-better-call-saul/image-1.jpg"
 Quick Take on Better Call Saul: technically you could watch it without seeing Breaking Bad first. But I wouldn't recommend it.
 
 _Better Call Saul_ is a 2015 crime drama and prequel spin-off that tracks the origin story of Jimmy McGill, the small-time public defender we eventually come to know as the sleazy criminal lawyer Saul Goodman.
-
-Just watch BB, then come straight here.
 
 ---
 
@@ -31,9 +30,5 @@ Just watch BB, then come straight here.
 *   **The show loves a long, drawn-out scene.** Montages, artistic b-roll, stretches of near silence. Some of it is brilliant. Some of it will test your patience. Usually both at the same time.
 
 ---
-
-## Final Verdict
-
-**My Rating: 8.4**
 
 I think I actually liked this more than Breaking Bad. There, I said it. Watch it if you love deep character work and storytelling that takes its time and means every second of it. Just don't go in expecting a quick ride.

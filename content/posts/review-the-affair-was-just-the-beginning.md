@@ -5,6 +5,7 @@ date: "2026-10-24T10:30:00Z"
 category: "Review"
 labels: ["K-Drama"]
 score: 8.4
+verdict: "The affair really was just the beginning."
 excerpt: "It pretends to be a cheating-spouse drama, then turns into pure chaos, and I loved every minute of it."
 coverImage: "/images/posts/review-the-affair-was-just-the-beginning/poster-image.jpg"
 ---
@@ -36,8 +37,6 @@ I'm a fan of chaotic comedy, the kind where everything keeps piling up until the
 The ending felt a little predictable. The final episodes also move heavily away from the original setup into frantic chaos, and I missed the tension the early episodes had.
 The other thing I didn't like was the set. Some scenes look like they were filmed in one room, and the green screen background was so obvious in a few moments.
 
-## Final Verdict
+---
 
-**My Rating: 8.4**
-
-It's eight episodes, so start it without reading too much about it and let it get out of hand. The affair *really* was just the beginning.
+It's eight episodes, so start it without reading too much about it and let it get out of hand.

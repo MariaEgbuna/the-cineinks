@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect, type FormEvent } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import type { SearchablePost } from "../utils/posts";
 
 type SearchBarProps = {
@@ -11,6 +12,7 @@ type SearchBarProps = {
 const MAX_RESULTS = 6;
 
 export default function SearchBar({ posts }: SearchBarProps) {
+  const router = useRouter();
   const [isOpen, setIsOpen] = useState(false);
   const [query, setQuery] = useState("");
   const containerRef = useRef<HTMLDivElement>(null);
@@ -40,6 +42,15 @@ export default function SearchBar({ posts }: SearchBarProps) {
     setQuery("");
   }
 
+  // Enter or the magnifier button: go to the full results page
+  function handleSubmit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const q = query.trim();
+    if (!q) return;
+    router.push(`/search?q=${encodeURIComponent(q)}`);
+    closeSearch();
+  }
+
   const trimmedQuery = query.trim().toLowerCase();
 
   const results = trimmedQuery
@@ -55,23 +66,36 @@ export default function SearchBar({ posts }: SearchBarProps) {
 
   return (
     <div ref={containerRef} className="md:relative flex items-center">
-      {/* Changed in the search box: every cream color is now a main color,
-          because the header can be light now. */}
       {isOpen ? (
-        <div className="flex items-center gap-2 bg-main/10 rounded px-3 py-1.5">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-main/60 shrink-0">
-            <circle cx="11" cy="11" r="8" />
-            <line x1="21" y1="21" x2="16.65" y2="16.65" />
-          </svg>
+        <form
+          onSubmit={handleSubmit}
+          role="search"
+          className="flex items-center gap-2 bg-main/10 rounded px-3 py-1.5"
+        >
+          {/* The magnifier is now a submit button */}
+          <button
+            type="submit"
+            aria-label="Search"
+            className="text-main/60 shrink-0 hover:text-main"
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <circle cx="11" cy="11" r="8" />
+              <line x1="21" y1="21" x2="16.65" y2="16.65" />
+            </svg>
+          </button>
           <input
             ref={inputRef}
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === "Escape") closeSearch();
+            }}
             placeholder="Search posts..."
             className="bg-transparent text-main text-sm placeholder:text-main/40 outline-none w-40 md:w-56"
           />
           <button
+            type="button"
             aria-label="Close search"
             onClick={closeSearch}
             className="text-main/60 shrink-0"
@@ -81,7 +105,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
               <line x1="6" y1="6" x2="18" y2="18" />
             </svg>
           </button>
-        </div>
+        </form>
       ) : (
         <button aria-label="Search" onClick={openSearch} className="flex items-center text-main">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -91,18 +115,18 @@ export default function SearchBar({ posts }: SearchBarProps) {
         </button>
       )}
 
-      {/* Results dropdown, unchanged from before */}
+      {/* Quick results dropdown */}
       {isOpen && trimmedQuery && (
         <div className="absolute left-0 right-0 top-full -mt-2 md:left-auto md:mt-2 md:w-80 bg-card border border-line rounded shadow-lg z-50 max-h-96 overflow-y-auto">
           {results.length === 0 ? (
-            <p className="text-sm text-main/60 px-4 py-3">No results found.</p>
+            <p className="text-sm text-main/60 px-4 py-3">No quick matches.</p>
           ) : (
             results.map((post) => (
               <Link
                 key={post.slug}
                 href={`/posts/${post.slug}`}
                 onClick={closeSearch}
-                className="block px-4 py-3 border-b border-line last:border-b-0 hover:bg-main/5"
+                className="block px-4 py-3 border-b border-line hover:bg-main/5"
               >
                 <p className="text-sm font-medium text-main leading-snug">
                   {post.title}
@@ -111,6 +135,15 @@ export default function SearchBar({ posts }: SearchBarProps) {
               </Link>
             ))
           )}
+
+          {/* Always offered, since the full page also searches the post text */}
+          <Link
+            href={`/search?q=${encodeURIComponent(query.trim())}`}
+            onClick={closeSearch}
+            className="sticky bottom-0 block border-t border-line bg-card px-4 py-3 text-sm font-medium text-accent hover:bg-main/5"
+          >
+            See all results for &ldquo;{query.trim()}&rdquo; →
+          </Link>
         </div>
       )}
     </div>

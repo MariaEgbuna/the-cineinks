@@ -5,6 +5,7 @@ date: "2026-07-31T12:30:00Z"
 category: "Review"
 labels: ["Series"]
 score: 7.8
+verdict: "Season 4 successfully pulled the show out of its season 3 slump."
 excerpt: "Binging From Season 4 is hands down the best way to experience it. Watching this show once a week would have driven me completely up the wall."
 coverImage: "/images/posts/review-from-season-4/image-1.jpg"
 ---
@@ -37,8 +38,6 @@ In the back half, a dangerous escape plan finally starts taking shape. The show 
 
 *   **The Boy in White Can Straight-Up Piss Off:** I have officially found my least favorite character. He never gives a straight answer! He just materializes out of thin air whenever the residents are making a solid plan and goes, "Don't do this," or "Don't do that," without offering a single syllable of explanation. *Tell us why, you creepy kid!* It’s maddening to watch characters I love get undermined by a figure who refuses to communicate, especially in a season that was otherwise doing so much better with that exact issue.
 
-## My Final Verdict
+---
 
-**7.8 / 10**
-
-Season 4 successfully pulled the show out of its season 3 slump. It brought back genuine threats, kept the plot moving at a great clip, and finally forced the characters to talk to one another. The Boy in White definitely knocked some points off for me personally, purely because his vague routine is the exact opposite of everything the writing finally started getting right. Word on the street is that **Season 5 will be the final season**. If that holds true, they need to wrap this up flawlessly—there is a ton riding on how they land this plane.
+Season 4 brought back genuine threats, kept the plot moving at a great clip, and finally forced the characters to talk to one another. The Boy in White definitely knocked some points off for me personally, purely because his vague routine is the exact opposite of everything the writing finally started getting right. Word on the street is that **Season 5 will be the final season**. If that holds true, they need to wrap this up flawlessly—there is a ton riding on how they land this plane.

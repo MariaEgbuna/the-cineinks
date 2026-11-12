@@ -123,11 +123,7 @@ The season closes with Raul holding that secret over Sara like a leash, while Iv
 
 ---
 
-### Overall thoughts
-
 Season 6 is soapy enough to stay watchable, stretched too thin in the right places to frustrate anyone paying close attention, but with enough moments of quality scattered through it to confirm the show still has a pulse.
-
-**My Rating: 5.8**
 
 **Will I be watching Season 7?**
 

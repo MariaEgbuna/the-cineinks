@@ -145,6 +145,4 @@ The first half of the season is pretty scattered too, juggling too many threads 
 
 *PS: Nico was completely wasted this season.*
 
-**My Rating: 6.5**
-
 [← Prev: Season 7](https://cineinks.vercel.app/posts/recap-elite-season-7)

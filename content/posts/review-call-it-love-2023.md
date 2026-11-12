@@ -6,6 +6,7 @@ category: Review
 labels:
   - KDrama
 score: 6.8
+verdict: "So long, unnecessarily long. That's the short version of my entire experience."
 excerpt: I watched sixteen episodes of Call It Love, a melodrama, mostly because Kim Young-kwang, a man who usually plays psychopaths, decided to be soft for once.
 coverImage: /images/posts/review-call-it-love-2023/call-it-love.jpg
 featured: false
@@ -75,6 +76,6 @@ Where the show loses me is that it never seems to recognize the exact moment its
 
 For what it's worth, Call It Love was fairly well received when it aired, with plenty of praise going toward its performances and its more grounded, less theatrical approach to the genre compared to flashier revenge dramas. A lot of viewers specifically praised how it prioritized quiet character work over plot mechanics, treating the show less as a plot-driven revenge story and more as a character study wrapped in a romance. I understand that appeal on paper, and I even felt it myself for a good chunk of the run.
 
-So long, unnecessarily long, that's really the short version of my entire experience with Call It Love. The performances are the reason to watch this, particularly Kim Young-kwang doing something completely outside his usual range and doing it well, and Lee Sung-kyung holding her own as a woman whose anger keeps getting complicated by her feelings. The romance itself, once it actually gets going, has real chemistry behind it. But the pacing works against almost everything the show does well, stretching a story that could have wrapped up cleanly in twelve episodes into sixteen, and largely abandoning its own revenge premise somewhere along the way.
+The performances are the reason to watch this, particularly Kim Young-kwang doing something completely outside his usual range and doing it well, and Lee Sung-kyung holding her own as a woman whose anger keeps getting complicated by her feelings. The romance itself, once it actually gets going, has real chemistry behind it. But the pacing works against almost everything the show does well, stretching a story that could have wrapped up cleanly in twelve episodes into sixteen, and largely abandoning its own revenge premise somewhere along the way.
 
-**My rating: 6.8/10**, and that's almost entirely carried by the romance and the acting. If either of those had been weaker, this would have been a much rougher watch given how much patience the show demands. I'd still recommend to someone specifically chasing a quiet, character-driven melodrama, or anyone curious about Kim Young-kwang outside of his usual villain roles, but go in with a trimmed set of expectations for the revenge angle and a decent amount of patience banked for the final stretch.
+This show is almost entirely carried by the romance and the acting. If either of those had been weaker, this would have been a much rougher watch given how much patience the show demands. I'd still recommend to someone specifically chasing a quiet, character-driven melodrama, or anyone curious about Kim Young-kwang outside of his usual villain roles, but go in with a trimmed set of expectations for the revenge angle and a decent amount of patience banked for the final stretch.

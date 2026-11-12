@@ -6,11 +6,11 @@ category: Review
 labels:
   - Movies
 score: 4.8
+verdict: "Another entry in Amazon's pile of forgettable original films."
 excerpt: In The Runner, Gal Gadot runs across London for 84 minutes and somehow
   it still feels longer than the trial her character is supposed to be
   prosecuting.
 coverImage: /images/posts/review-the-runner-2026/the-runner-cover.jpg
-featured: false
 ---
 
 ![cover-image](/images/posts/review-the-runner-2026/the-runner.jpg)
@@ -64,10 +64,6 @@ And let's be real about something else too: I'm not pretending Gal Gadot is some
 
 ---
 
-## Final thoughts
-
-With a tighter script and a little more restraint, The Runner could have been solid late-summer popcorn entertainment. The pieces were there: a capable director, a cinematographer who knows how to shoot a city, a lead who trained hard and looks the part, and a premise with real potential for tension. Instead it plays like a very expensive showreel, gorgeous to look at, thin the moment you start asking it basic questions. It's not the worst movie of the year, not even in the conversation honestly, but it's also hard to call it anything more than a paycheck for everyone involved and another entry in Amazon's pile of forgettable original films.
-
-**My rating: 4.8/10**
+With a tighter script and a little more restraint, The Runner could have been solid late-summer popcorn entertainment. The pieces were there: a capable director, a cinematographer who knows how to shoot a city, a lead who trained hard and looks the part, and a premise with real potential for tension. Instead it plays like a very expensive showreel, gorgeous to look at, thin the moment you start asking it basic questions. It's not the worst movie of the year, not even in the conversation honestly, but it's also hard to call it anything more than a paycheck for everyone involved.
 
 *PS: A grown woman with pentathlon training tries to outrun a moving train on foot in this movie. I need Amazon to sit down and rethink some of these scripts before they green-light the next one.*

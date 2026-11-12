@@ -6,6 +6,7 @@ category: Recap
 labels:
   - Recap
 score: 9.3
+verdict: "A must watch for anyone who loves pure, intense drama."
 excerpt: I randomly saw the trailer for Primal Season 3 and decided to give the show a shot. Ended up binging the first season in one day.
 coverImage: /images/posts/recap-primal-season-1/image-1.jpg
 ---
@@ -74,10 +75,6 @@ And then the season ends on a gut punch that has nothing to do with monsters at 
     
 ---
 
-## Final Verdict & Overall Thoughts
-
-This is a must watch. If you love drama that is pure, intense, and a little unhinged, this is exactly that, stripped down to its rawest form. No dialogue to hide behind, no exposition to lean on, just pure visual storytelling that hits you right in the chest every single episode. I went in expecting a cool concept and came out completely wrecked by a show that never says a single word.
-
-My Rating: **9.3**
+This is a must watch. If you love drama that is pure, intense, and a little unhinged, this is exactly that, stripped down to its rawest form. No dialogue to hide behind, no exposition to lean on, just pure visual storytelling that hits you right in the chest every single episode.
 
 [Next: Season 2 →](https://cineinks.vercel.app/posts/recap-primal-season-2)

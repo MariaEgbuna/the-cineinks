@@ -120,12 +120,8 @@ Two months later, most of them walk back into Las Encinas for one final year: Sa
 
 ---
 
-## Overall thoughts
-
 Looking back, the Season 3 finale really did feel like the natural conclusion to the story Elite started with. Marina's death finally got real closure. Most of the main cast actually grew as people. The last scene at the school played like a goodbye to an era, and the collective cover-up in the finale, the first time these people ever truly chose each other over themselves, paid off three seasons of watching people betray each other in one coordinated act of loyalty.
 
-I'm currently watching Season 4, and a big part of me thinks the show should've stopped at Season 3. When you have a cast with this much chemistry and a central mystery that kept you hooked for three seasons, it's almost impossible to recreate that energy once you start swapping people out. Elite was always a three-season story. The original mystery begins with a murder Polo committed and ends with his death. Everything in Season 4 so far doesn't look so good.
-
-**My Rating: 7.4**
+I'm currently watching Season 4, and a big part of me thinks the show should've stopped at Season 3. When you have a cast with this much chemistry and a central mystery that kept you hooked for three seasons, it's almost impossible to recreate that energy once you start swapping people out.
 
 [← Prev: Season 2](https://cineinks.vercel.app/posts/recap-elite-season-2) [Next: Season 4 →](https://cineinks.vercel.app/posts/recap-elite-season-4)

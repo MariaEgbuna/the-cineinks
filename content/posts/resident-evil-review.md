@@ -5,6 +5,7 @@ date: "2026-11-03T10:30:00Z"
 category: "Review"
 labels: ["Movies"]
 score: 8.5
+verdict: "I'll happily take another trip to Raccoon City."
 excerpt: "A rollercoaster of jump scares, unexpected comedy and human reactions. Resident Evil proves that sometimes an ordinary guy trying to get home makes for the best horror protagonist."
 coverImage: "/images/posts/resident-evil-review/image-1.jpg"
 ---
@@ -67,8 +68,4 @@ I'm not particularly a Resident Evil fan, but I walked away wanting a sequel. Th
 
 ---
 
-## Final Verdict
-
-**My Rating: 8.5**
-
-Resident Evil is a thoroughly enjoyable horror experience that understands the value of an ordinary protagonist, well-timed humour and unpredictable threats. It might have ended sooner than I would have liked, but if this is the direction the franchise is taking, I'd happily take another trip to Raccoon City.
+Resident Evil is a thoroughly enjoyable horror experience that understands the value of an ordinary protagonist, well-timed humour and unpredictable threats.

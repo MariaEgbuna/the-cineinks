@@ -26,7 +26,6 @@ export default function Header({ searchablePosts }: HeaderProps) {
     <header className="bg-bar">
       <div className="max-w-[1600px] mx-auto px-5 pt-4">
         <div className="relative flex flex-wrap items-center justify-between gap-3 pb-4">
-          {/* Changed: smaller gap on phones */}
           <Link href="/" className="flex items-center gap-2 md:gap-3">
             <div className="relative w-10 h-10 rounded-full overflow-hidden shrink-0">
               {/* sizes="40px" matches the w-10 (40px) box above, so the browser
@@ -39,14 +38,12 @@ export default function Header({ searchablePosts }: HeaderProps) {
                 className="object-cover scale-125"
               />
             </div>
-            {/* Changed: smaller on phones, and never wraps onto two lines */}
-            <p className="font-serif text-xl md:text-2xl text-main whitespace-nowrap">
+            {/* Changed: semibold with slightly tighter letter spacing */}
+            <p className="font-serif text-xl md:text-2xl font-semibold tracking-tight text-main whitespace-nowrap">
               The CineInks
             </p>
           </Link>
 
-          {/* Changed: tighter gap on phones, and shrink-0 so the icons
-              keep their size and stay on the same row as the name */}
           <div className="flex items-center gap-3 md:gap-4 shrink-0">
             <SearchBar posts={searchablePosts} />
 
@@ -81,7 +78,7 @@ export default function Header({ searchablePosts }: HeaderProps) {
         <nav
           className={`${
             isMenuOpen ? "flex" : "hidden"
-          } md:flex border-t border-main/10 flex-col md:flex-row md:flex-wrap gap-3 md:gap-5 py-3`}
+          } md:flex border-t border-main/10 flex-col md:flex-row md:flex-wrap gap-3 md:gap-6 py-3`}
         >
           {navItems.map((item) => {
             const isActive = pathname === item.href;
@@ -90,10 +87,10 @@ export default function Header({ searchablePosts }: HeaderProps) {
                 key={item.href}
                 href={item.href}
                 onClick={() => setIsMenuOpen(false)}
-                className={`text-sm font-medium pb-1 ${
+                className={`text-base font-semibold pb-1 transition-colors ${
                   isActive
                     ? "text-main border-b-2 border-accent w-fit"
-                    : "text-main/60"
+                    : "text-main/75 hover:text-main"
                 }`}
               >
                 {item.label}

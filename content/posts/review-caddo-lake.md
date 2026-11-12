@@ -5,6 +5,7 @@ date: "2026-06-04T15:42:02.745Z"
 category: "Review"
 labels: ["Movies"]
 score: 9.4
+verdict: "A masterpiece."
 excerpt: "Caddo Lake is a 2024 sci-fi thriller by Celine Held and Logan George and it was an absolute gem."
 coverImage: "/images/posts/review-caddo-lake/image-1.jpg"
 ---
@@ -33,9 +34,5 @@ If you've seen Netflix's Dark and loved how it made your brain work overtime, th
 *   **Spoiler-Proof by Design (Which is Also a Limitation).** The film is so tightly constructed around its central mystery that it's nearly impossible to recommend without telling people exactly why they need to see it. That makes the first act feel slower than it actually is, and word-of-mouth harder than it should be.
 
 ---
-
-## Final Verdict
-
-**My Rating: 9.4**
 
 Caddo Lake is a must-watch. It's beautifully crafted, it respects your intelligence, and it sticks the landing in a way that a lot of mystery thrillers simply don't. Clear your evening, go in knowing as little as possible, and just let it do its thing.

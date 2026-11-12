@@ -5,6 +5,7 @@ date: "2026-05-11T10:12:00.004Z"
 category: "Review"
 labels: ["Movies"]
 score: 7.3
+verdict: "Watch it for Crowe. Stay for the chaos."
 excerpt: "Unhinged is chasing the same nerve as Duel or The Hitcher: an ordinary drive turning into a nightmare you can't shake."
 coverImage: "/images/posts/review-unhinged-2020/image-1.jpg"
 ---
@@ -29,8 +30,4 @@ What starts as a road rage exchange spirals fast. Tom follows Rachel and her son
    
 ---
 
-### Final Verdict
-
-**My Rating: 7.3**
-
-Unhinged isn't trying to be a prestige thriller and it knows it. What it does do is make you tense, make you squirm, and make you check your mirrors on the drive home. Watch it for Crowe. Stay for the chaos.
+Unhinged isn't trying to be a prestige thriller and it knows it. What it does do is make you tense, make you squirm, and make you check your mirrors on the drive home.

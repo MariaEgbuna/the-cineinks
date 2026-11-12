@@ -26,6 +26,7 @@ collections:
         name: "labels"
         widget: "list"
       - { label: "Score", name: "score", widget: "number", required: false, value_type: "float" }
+      - { label: "Verdict Line", name: "verdict", widget: "string", required: false, hint: "One short line shown on the Rating card. Optional." }
       - { label: "Excerpt", name: "excerpt", widget: "text" }
       - { label: "Cover Image", name: "coverImage", widget: "image", required: false }
       - { label: "Featured", name: "featured", widget: "boolean", required: false, default: false }

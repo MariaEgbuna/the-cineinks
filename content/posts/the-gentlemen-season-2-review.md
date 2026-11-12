@@ -5,6 +5,7 @@ date: "2026-10-11T10:30:00Z"
 category: "Review"
 labels: ["Series"]
 score: 7.0
+verdict: "Watch the first season if you haven't already, but don't expect too much from the second."
 excerpt: "The Gentlemen Season 2 started off so strong, and then somewhere around episode 6, I stopped caring."
 coverImage: "/images/posts/the-gentlemen-season-2-review/the-gentlemen-cover.jpg"
 ---
@@ -57,8 +58,6 @@ I later found out it was because Daniel Ings had scheduling issues. I understand
 
 The twist wasn't good enough, if you ask me. And then the fight between Eddie and Freddy kind of cheapened everything. All the deaths, all that scheming, just to end up with that as a finale? **Eddie never took revenge.** Not for himself, not for his wife, not for the fact that they came for his nephew Tarquin (terrible name). Nothing. Everything just got.... resolved.
 
-## Final Verdict
+---
 
-**My Rating: 7.0**
-
-It felt like the writers played it too safe this season. Great acting and a strong start, but I stopped caring long before the credits rolled. Take a look at the first season if you haven't already, but don't expect too much from the second.
+It felt like the writers played it too safe this season.

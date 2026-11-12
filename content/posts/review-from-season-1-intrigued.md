@@ -5,6 +5,7 @@ date: "2026-07-22T10:30:00Z"
 category: "Review"
 labels: ["Series"]
 score: 8.6
+verdict: "Add it to your watchlist ASAP."
 excerpt: I kept seeing From pop up everywhere and I finally sat down to watch it.
 coverImage: "/images/posts/review-from-season-1/image-1.jpg"
 ---
@@ -39,11 +40,6 @@ What I love most about season 1 is that it stubbornly refuses to hand over answe
 
 *   **Inconsistent Acting:** If I have one real complaint, it's that the acting fluctuates. Harold Perrineau carries a massive amount of weight as Boyd, but a few of the supporting cast members completely pulled me out of the moment. Nobody was explicitly *bad*, but some of the dialogue delivery felt a bit stiff. In a show built entirely on dread, one flat line can instantly break the spell.
 
-## My Final Verdict
+---
 
-**8.6 / 10**
-
-Season 1 easily earns an **8.6** for me. It builds a genuinely unsettling world and populates it with characters you actually care about—especially Victor, who is the absolute emotional gut-punch of the season. The acting hitches knocked it down a fraction, but not enough to ruin the ride. I went in expecting basic jump scares and walked away deeply moved by a kid who grew up trapped in a town with no escape. That is exactly the kind of horror I live for.
-
-_PS: If you haven't watched this yet and you like your horror mixed with a genuine mind-bending mystery, do yourself a favor and add it to your watchlist ASAP._
-
+It builds a genuinely unsettling world and populates it with characters you actually care about—especially Victor, who is the absolute emotional gut-punch of the season. The acting hitches knocked it down a fraction, but not enough to ruin the ride. I went in expecting basic jump scares and walked away deeply moved by a kid who grew up trapped in a town with no escape. That is exactly the kind of horror I live for.

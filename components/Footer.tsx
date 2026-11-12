@@ -1,16 +1,5 @@
 import Link from "next/link";
 
-const categories = [
-  { label: "Movies", href: "/category/movies" },
-  { label: "Series", href: "/category/series" },
-  { label: "Anime", href: "/category/anime" },
-  { label: "KDrama", href: "/category/kdrama" },
-  { label: "Recap", href: "/category/recap" },
-  { label: "List", href: "/category/list" },
-  { label: "Spotlight", href: "/category/spotlight" },
-  { label: "Extra", href: "/category/extra" },
-];
-
 export default function Footer() {
   return (
     <footer className="bg-bar">
@@ -40,7 +29,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://www.instagram.com/eagercricket/"
+                href="https://www.instagram.com/thecineinks/"
                 target="_blank"
                 rel="noopener"
                 aria-label="Instagram"
@@ -68,8 +57,6 @@ export default function Footer() {
         </div>
 
         <div className="text-center pt-8">
-          {/* Changed: text-cream is now text-main, text-cream/30 is now text-main/40
-              (a little stronger, so it stays readable on the light footer) */}
           <p className="font-serif text-xl text-main">The CineInks</p>
           <p className="text-xs text-main/40 mt-6">
             © {new Date().getFullYear()} The CineInks. All rights reserved.

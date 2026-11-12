@@ -5,6 +5,7 @@ date: "2026-07-01T10:30:00Z"
 category: "Recap"
 labels: ["Recap"]
 score: 8.7
+verdict: "Primal Season 2 is a wild ride with a bittersweet ending."
 excerpt: "Primal’s first season was about two grieving creatures finding each other in the wreckage of everything they lost. Season two takes that and throws it across oceans and centuries."
 coverImage: "/images/posts/recap-primal-season-2/image-1.jpg"
 ---
@@ -87,13 +88,9 @@ The season closes years later, with Fang and her now grown offspring still livin
     
 ---
 
-## Final verdict and overall thoughts
-
 I went into this season already knowing Mira was Spear's love interest. That was never in question for me. What I did not expect was how big the show would go to get there: new tribes, new civilizations, an entire ancient world I had no idea was coming. That is the real strength of this season, it kept widening the map without ever losing the two characters at the center of it.
 
 Where it lost me a little was the ending. It felt rushed, and from what I have heard, that comes down to the show not knowing if it would even get a third season while this one was being made. You can feel that uncertainty in how fast everything wraps up. Still, even with that stumble, the story this season told was a great one, and it lands as bittersweet in the best and worst ways.
-
-**My Rating: 8.7**
 
 Season 3 is already out, so I am watching that next and dropping my recap with my thoughts as usual once I am done.
 

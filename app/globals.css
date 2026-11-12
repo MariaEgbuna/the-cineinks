@@ -5,6 +5,7 @@
 
 html {
   font-size: 112.5%;
+  scroll-behavior: smooth;
 }
 
 /* Light mode: soft off-white, header and page are the same color */
@@ -35,6 +36,20 @@ body {
   background-color: var(--page-bg);
   color: var(--page-text);
   font-family: var(--font-sans); /* Globally activates the flat number system stack */
+}
+
+/* Thin brand-colored line across the very top of every page */
+body::before {
+  content: "";
+  display: block;
+  height: 3px;
+  background: linear-gradient(90deg, #0f6e56, #5dcaa5);
+}
+
+/* Branded text selection */
+::selection {
+  background: #5dcaa5;
+  color: #110f17;
 }
 
 /* Keep headings structured using the primary system stack */
@@ -125,6 +140,20 @@ h1, h2, h3, h4, h5, h6 {
   /* Native system stacks prioritizing Segoe UI */
   --font-serif: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
   --font-sans: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+  /* Fade-up entrance, used as the animate-fade-up class */
+  --animate-fade-up: fade-up 0.6s ease-out both;
+
+  @keyframes fade-up {
+    from {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
 }
 
 @theme inline {
@@ -135,4 +164,16 @@ h1, h2, h3, h4, h5, h6 {
   --color-card: var(--page-card);
   --color-line: var(--page-line);
   --color-accent: var(--page-accent);
+}
+
+/* Respect visitors who turn animations off in their system settings */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

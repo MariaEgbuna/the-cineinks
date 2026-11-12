@@ -5,6 +5,7 @@ date: "2026-06-03T10:30:00Z"
 category: "Review"
 labels: ["Anime"]
 score: 8.5
+verdict: "Watch it now so you're caught up when Season 2 finally drops."
 excerpt: "Have you seen Common Side Effects? A mycologist discovers a mushroom that cures anything and naturally, everything goes wrong."
 coverImage: "/images/posts/review-common-side-effects/image-1.jpg"
 ---
@@ -34,8 +35,4 @@ When word gets out, he and his old high school friend Frances find themselves ca
 
 ---
 
-## Final Verdict
-
-**My Rating: 8.5.**
-
-Common Side Effects is sharp, weird, and surprisingly moving. If you're into conspiracy thrillers, dark comedy, or animation that actually has something to say, don't sleep on this one. Watch it now so you're caught up when Season 2 finally drops.
+Common Side Effects is sharp, weird, and surprisingly moving. If you're into conspiracy thrillers, dark comedy, or animation that actually has something to say, don't sleep on this one.

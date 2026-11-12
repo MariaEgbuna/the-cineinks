@@ -1,5 +1,5 @@
 {
-  // Review: category Review, medium label plus Review, with a score
+  // Review: category Review, medium label plus Review, with a score and optional verdict
   "CineInks Review": {
     "prefix": "review",
     "scope": "markdown",
@@ -14,17 +14,18 @@
       "  - ${3|Movies,Series,Anime,KDrama|}",
       "  - Review",
       "score: ${4:7.5}",
-      "excerpt: \"${5:One sentence with the core take.}\"",
+      "verdict: \"${5}\"",
+      "excerpt: \"${6:One sentence with the core take.}\"",
       "coverImage: /images/posts/${2}/image-1.jpg",
       "featured: false",
       "---",
-      "![REVIEW: ${6:Movie Title (Year)}](/images/posts/${2}/image-1.jpg)",
+      "![REVIEW: ${7:Movie Title (Year)}](/images/posts/${2}/image-1.jpg)",
       "",
       "$0"
     ]
   },
 
-  // Recap: category Recap, medium label plus Recap, with a score
+  // Recap: category Recap, medium label plus Recap, with a score and optional verdict
   "CineInks Recap": {
     "prefix": "recap",
     "scope": "markdown",
@@ -39,11 +40,12 @@
       "  - ${3|Series,Anime,KDrama|}",
       "  - Recap",
       "score: ${4:7.9}",
-      "excerpt: \"${5:Opening hook, word for word.}\"",
+      "verdict: \"${5}\"",
+      "excerpt: \"${6:Opening hook, word for word.}\"",
       "coverImage: /images/posts/${2}/image-1.jpg",
       "featured: false",
       "---",
-      "![RECAP: ${6:Show Season N}](/images/posts/${2}/image-1.jpg)",
+      "![RECAP: ${7:Show Season N}](/images/posts/${2}/image-1.jpg)",
       "",
       "$0"
     ]

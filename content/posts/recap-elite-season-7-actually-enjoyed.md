@@ -130,15 +130,11 @@ Eric stole the show this season. His mental health arc gets more room to breathe
 
 ---
 
-### Overall thoughts
-
 Season 7 is not bad. Actually, better than not bad, and I didn't think I'd be saying that after the last few seasons.
 
 This is the best this show has been since Season 3. It's not a full return to form, but a real, visible step back toward what made the early seasons work. The drama hits harder because it's grounded in who these people actually are rather than just what scandalous thing happens next. The abuse storyline, Eric's mental health arc, Omar's grief, the toxic family loyalty threading through the corruption plot: all of it works because the writing gives it room to breathe.
 
 The weak spots are still there. The dialogue is kind of cheesy, Isa and Didac go in circles for too long, and the organized crime subplot never ignites the way it clearly wants to. Rocio gets sidelined despite one of the more compelling setups this season. And the show completely drops Omar's role running the student app after using it to build the Eric storyline in the first place, a frustrating loose end for a character who didn't need to come back just to be forgotten again.
-
-**My Rating: 7.1**
 
 One season left. The show set up the right questions to answer. Here's hoping Season 8 actually crosses the finish line properly, because after seven seasons of watching these people hurt each other in increasingly creative ways, they all deserve a clean exit.
 

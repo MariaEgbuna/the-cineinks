@@ -5,7 +5,8 @@ date: "2026-07-27T10:00:00Z"
 category: "Review"
 labels: ["Series"]
 score: 7.2
-excerpt: "After two seasons that had me completely hooked, From Season 3 definitely feels like the weakest of the trio. Here is my breakdown."
+verdict: "This season was such a drag."
+excerpt: "After two seasons that had me completely hooked, From Season 3 definitely feels like the weakest of the trio."
 coverImage: "/images/posts/review-from-season-3/image-1.jpg"
 ---
 
@@ -41,8 +42,6 @@ By the time the final episodes roll around, the tension spikes hard. Someone goe
 *   **Ellis Is a Total Waste of Screen Time:** I will absolutely die on this hill. Ellis barely exists as an independent character this season; his entire identity is just being attached to Fatima. It’s wild watching him do absolutely nothing of substance while other side characters do so much more with less. Honestly? **Kenny is way more of a son to Boyd than Ellis will ever be**, and the show isn't even trying to hide it anymore.
 *   **The Mid-Season Stagnation:** The pacing in the middle stretch slowed to an absolute crawl. The questions keep piling up, but the answers aren't matching the pace. There's a rumor flying around the internet that a lot of these pacing issues stem from the **2023 writers' strike** disrupting the writers' room right before filming. I can’t officially confirm that, but if it’s true, it would totally explain why this season feels so messy compared to the first two.
 
-## My Final Verdict
-
-**7.2 / 10**
+---
 
 Season 3 is still totally watchable, Victor is still carrying the emotional core of the series on his back, and that final cliffhanger will immediately make you scream for Season 4. But the frustrating drag in the middle and the characters' stubborn refusal to just *talk to each other* is starting to weigh the show down. I’m really hoping they course-correct next season, because the bones of this mystery are still incredibly strong.

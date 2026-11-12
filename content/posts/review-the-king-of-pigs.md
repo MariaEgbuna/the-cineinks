@@ -5,7 +5,8 @@ date: 2026-05-23T06:49:02.198Z
 category: Review
 labels:
   - KDrama
-score: 9
+score: 9.1
+verdict: "Brilliantly acted, unflinching, and emotionally devastating."
 excerpt: I finished The King of Pigs at some unreasonable hour of the night and
   just sat there for a while after it ended.
 coverImage: /images/posts/review-the-king-of-pigs/image-1.jpg
@@ -23,7 +24,7 @@ _This post contains minor spoilers for TVING's The King of Pigs._
 
 ---
 
-### The Plot
+## The Plot
 
 The story is built around a specific hierarchy that existed in Korean schools: pigs and dogs. Students from poor families were labeled pigs. Students from wealthy families were dogs, and the dogs didn't just look down on the pigs, they brutalized them, with the tacit permission of teachers and administrators who either didn't notice or didn't care.
 
@@ -31,7 +32,7 @@ Twenty years later, Hwang Kyung-min (Kim Dong-wook), one of the former pigs, has
 
 Holding the whole thing together is Kim Cheol, the King of Pigs the title refers to, seen mostly through flashbacks. He was the lowest of the low in school and became something unexpected in that environment: a protector, a kid with nothing to lose who decided to fight back. He's the character the show loves most and treats most cruelly, and his arc is the emotional spine of the whole series.
 
-### What worked:
+## What worked:
 
 Kim Dong-wook plays Kyung-min without letting him become a simple villain. You watch him polished and controlled in the present, then watch the flashbacks showing what was done to him as a child, and the show keeps asking you to hold both of those realities at once. It doesn't ask you to sympathize with the murders, it asks you to understand them, and that's a much harder thing to pull off convincingly.
 
@@ -41,7 +42,7 @@ What separates this from most bullying dramas is that it refuses to treat the tr
 
 The ending doesn't hand you a clean way to feel about any of it either. Kyung-min is committing murders, and some of the people he's hunting destroyed lives without ever facing consequences. Jong-suk is doing his job while carrying his own unanswered compromises from that school. The show holds all of it at once and refuses to resolve the tension by declaring one of them right. What it's really asking is whether justice that arrives twenty years late, through illegal violence, still counts as justice, and it leaves that question sitting there instead of answering it for you.
 
-### What didn't:
+## What didn't:
 
 The bullying sequences are genuinely rough to get through, and the show does not ease up once. I get why it's shot the way it is, softening it would undercut the whole point, but there were stretches where I had to pause and step away, and I don't think every viewer is going to want to push through that.
 
@@ -49,8 +50,4 @@ The dogs, the actual people Kyung-min is hunting, never feel like more than targ
 
 ---
 
-### Final Verdict
-
-**9.0** out of 10.
-
-The imbalance in how much depth the leads get versus everyone else keeps this from a perfect score, but everything the show is actually trying to do, it does with total conviction. Twelve episodes, pacing that never lets up, and an ending that refuses to let you feel settled about any of it. That's rare, and it's why this one's stuck with me longer than most.
+The imbalance in how much depth the leads get versus everyone else keeps this from a perfect score, but everything the show is actually trying to do, it does with total conviction.

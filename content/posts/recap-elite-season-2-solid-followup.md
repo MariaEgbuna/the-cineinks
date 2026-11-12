@@ -92,13 +92,11 @@ The show does show how guilt with nowhere to go starts rotting everything around
 
 Cayetana spent the season desperately performing like she belonged at Las Encinas, and she finally becomes one of them by covering up a murder. That's either brilliant writing or a coincidence that worked out perfectly.
 
-## Overall thoughts
+---
 
 Season 2 was decent. It's faster and a little messier than Season 1, but it works more often than it has any right to. You have to accept upfront that none of these people behave like actual teenagers. Make your peace with that and it's a gripping watch.
 
 The question heading into Season 3 is whether the show can hold this tension now that Polo is the known quantity instead of the hidden one. **A secret's only dangerous while it's still a secret.** Now everyone knows. What does the show do with that?
-
-**My Rating: 8.5**
 
 *PS: Cayetana destroying the evidence made me so furious.*
 

@@ -12,6 +12,7 @@ export type Post = {
   category: string;
   labels: string[];
   score: number | null;
+  verdict: string;
   excerpt: string;
   coverImage: string;
   featured?: boolean;
@@ -39,11 +40,17 @@ export function getAllPosts(): Post[] {
     const coverImage: string =
       typeof data.coverImage === "string" ? data.coverImage : "";
 
+    // Decap skips optional fields left blank, so a missing verdict is
+    // treated as empty here, in one place, the same way score is.
+    const verdict: string =
+      typeof data.verdict === "string" ? data.verdict.trim() : "";
+
     return {
       ...data,
       content,
       score,
       coverImage,
+      verdict,
     } as Post;
   });
 

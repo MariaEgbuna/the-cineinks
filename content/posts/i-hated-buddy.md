@@ -5,6 +5,7 @@ date: "2026-10-21T10:30:00Z"
 category: "Review"
 labels: ["Movies"]
 score: 3.5
+verdict: "Not worth the time."
 excerpt: "I hated Buddy. And the more I think about it, the more I hate it."
 coverImage: "/images/posts/i-hated-buddy/image-1.jpg"
 ---
@@ -29,8 +30,6 @@ Once it leaves the TV set, it turns into a generic survival horror movie. It's r
 
 The pacing doesn't help either. Grace's storyline in the real world slows everything down, because we already know what's happening to the kids and we're just waiting for her to catch up. She's supposed to be the heart of the film, and she has almost nothing to do until the last act. Clint Howard's George is fun, yet the movie does nothing with him. Characters just show up and disappear like the filmmakers were throwing ideas at a wall, and nobody has a real relationship with anybody. This movie just doesn't work.
 
-## Final Verdict
-
-**My Rating: 3.5**
+---
 
 Buddy is more of a comedy than a horror movie, and I think that's where it goes wrong. If you go in wanting scares like I did, you'll be disappointed. If you're fine with weird, dark comedy, you might get more out of it than I did.

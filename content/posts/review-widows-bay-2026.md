@@ -6,6 +6,7 @@ category: Review
 labels:
   - Series
 score: 8.8
+verdict: "I am completely ready to board the ferry back to the bay."
 excerpt: "I accidentally spoiled the entire Widow's Bay season finale within the first four episodes, and it still didn't ruin the show."
 coverImage: /images/posts/review-widows-bay-2026/widow-bay-cover-image.jpg
 featured: false
@@ -51,9 +52,7 @@ It draws frequent, justified comparisons to *Twin Peaks* — not because it copi
 
 This brilliant execution culminated in a historic, record-breaking **14-Emmy award sweep**, including the coveted trophy for Outstanding Comedy Series. Matthew Rhys made television history by walking away with two lead actor wins in the same ceremony, while Stephen Root rightfully secured a supporting actor win against incredibly stiff competition. Despite cynical internet contrarians claiming the show is now "overrated" post-awards buzz, *Widow's Bay* earned every ounce of its flowers.
 
-## The Final Verdict
-
-**My Rating: 8.8/10**
+---
 
 If a television series can completely survive a viewer accidentally watching its ending before its beginning and still leave them thoroughly satisfied, it is a certified masterpiece. 
 

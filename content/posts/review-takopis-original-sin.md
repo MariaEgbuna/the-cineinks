@@ -5,6 +5,7 @@ date: "2026-07-20T08:05:00Z"
 category: "Review"
 labels: ["Anime"]
 score: 8.6
+verdict: "PS: the parents in this show are awful. I've never seen anything like it"
 excerpt: "Takopi's Original Sin looks like a cheerful slice of life about a lonely kid, but it isn't."
 coverImage: "/images/posts/review-takopis-original-sin/image-1.jpg"
 ---
@@ -17,7 +18,7 @@ It is a six episode anime that premiered in Japan on June 28, 2025, adapted from
 
 _This post contains minor spoilers._
 
-### The Plot
+## The Plot
 
 Takopi's Original Sin follows a small, cheerful alien named Takopi who lands on Earth with one job, spread happiness, and ends up attaching himself to Shizuka, a quiet fourth grader. She's dealing with relentless bullying at school, led by a classmate named Marina, and a home life that offers her almost nothing. The only real comfort in her world is her dog, Chappy.
 
@@ -27,13 +28,13 @@ As the story unfolds, it pulls back the curtain on everyone involved, including 
 
 It's a short watch, but it doesn't waste a single episode.
 
-### What worked:
+## What worked:
 
 Most anime that touch on bullying keep some distance from the real weight of it, but this one goes all the way there, and a few moments, like Takopi finding Shizuka's body, are hard to sit through. The show also plays a clever trick early on, using that intro to make you think the story is headed toward a simple, happy resolution before pulling the rug out completely.
 
 The back half does a lot of work to humanize characters who could have stayed one-note. Azuma ends up being one of the most relatable people in the whole show, not because his situation is normal, but because the pressure he feels from his mother and the shadow of his brother is the kind of pain a lot of people recognize. Watching him break down in a quiet, believable way instead of some dramatic spiral says a lot about how grounded his arc is. Takopi's own guilt does similar work for Marina, letting the show reveal her as someone shaped by her own suffering rather than a flat villain.
 
-### What didn't:
+## What didn't:
 
 A few things did not land as well for me. There is a stretch where nearly every character, including the adults who should be paying attention, treats Shizuka badly with no real pushback, and it starts to feel like the story is piling on just to prove a point it already made.
 
@@ -45,10 +46,4 @@ The reconciliation between Marina and Shizuka in the finale also could have used
 
 ---
 
-### Final Verdict
-
-**8.6** out of 10.
-
 Even with those gaps, the ending pulls everything together. Takopi's sacrifice, backed by his narration over those final scenes, is the moment that stays with me the most, and choosing empathy over another shock for the final note was the right call.
-
-_PS: the parents in this show are awful. I've never seen anything like it._

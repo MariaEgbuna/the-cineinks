@@ -5,6 +5,7 @@ date: "2026-07-24T10:30:00Z"
 category: "Review"
 labels: ["Series"]
 score: 8.0
+verdict: "It’s still great TV, just not tight as the first ride."
 excerpt: "From Season 2’s story still holds up, but this is where a few of the show’s habits started to wear on me. Here is my honest breakdown."
 coverImage: "/images/posts/review-from-season-2/image-1.jpg"
 ---
@@ -43,8 +44,5 @@ By the back half, everything starts cracking. Colony House is facing a massive f
 *   **The Mid-Season Drag:** The questions keep piling up, but the answers are trickling out way too slowly. At some point, it stops feeling like an intentional mystery and starts feeling like the writers are just stalling for time. 
 *   **Inconsistent Acting, again:** The performance issues from season 1 are still lingering. I’ve mostly made peace with it by now, but some flat dialogue delivery definitely broke the tension during moments that should have been terrifying.
 
-## My Final Verdict
-
-**8.0 / 10**
-
-Season 2 still has everything that made me fall for this universe—the dread, the lore, and characters like Victor who give the show its heartbeat. But the massive communication breakdown between the characters is deeply frustrating, and the middle episodes drag in a way season 1 never did. It’s still great TV, it's just not quite as tight as the first ride.
+---
+Season 2 still has everything that made me fall for this universe — the dread, the lore, and characters like Victor who give the show its heartbeat. But the massive communication breakdown between the characters is deeply frustrating, and the middle episodes drag in a way season 1 never did.

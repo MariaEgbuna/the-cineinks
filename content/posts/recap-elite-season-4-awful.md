@@ -142,14 +142,10 @@ Not long after, Guzman and Ander leave Las Encinas together to travel, saying te
 
 ---
 
-### Overall thoughts
-
 Not much worked this season, if I'm being real. The show's still visually stunning, and the actors are still good at what they do, but the writing was so messy that it's hard to find much to praise beyond the Mencia and Rebeka relationship, which is sweet, well-acted, and does a decent job of showing how complicated it can be to navigate love and trauma together. That's about it. The rest of the season feels like a series of missteps and missed opportunities.
 
 Will I quit watching this show? No. Why? I don't fully know, and that's the most honest thing I can say about Elite Season 4. It frustrated me constantly. It wasted characters I've loved since Season 1. It brought in new ones I couldn't bring myself to care about. It took one of the show's most important relationships and put it through a shredder for drama that didn't even pay off properly. It handled really dark subject matter carelessly. And it wrapped up its central mystery with all the energy of someone quietly closing a browser tab they forgot they had open.
 
 And yet here I am, still watching, still annoyed enough to write all of this, still holding onto the memory of what this show was at its best: the chaos of Season 1, the gut punch of Marina's death, the slow unraveling of Polo's guilt, the way Omar and Ander made you actually believe in something. Elite at its best was great television, messy and addictive and surprisingly emotional underneath all the drama and the glamour. Season 4 is a big step away from that. Whether it can step back is the only question I have left going into Season 5.
-
-**My Rating: 5.3**
 
 [← Prev: Season 3](https://cineinks.vercel.app/posts/recap-elite-season-3) [Next: Season 5 →](https://cineinks.vercel.app/posts/recap-elite-season-5)

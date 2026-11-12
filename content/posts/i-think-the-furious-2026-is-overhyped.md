@@ -6,6 +6,7 @@ category: Review
 labels:
   - Movies
 score: 7.2
+verdict: "Fun, but overhyped."
 excerpt: The internet says The Furious reinvented martial arts cinema. I say the fights are great and everything else is just okay.
 coverImage: /images/posts/i-think-the-furious-2026-is-overhyped/the-furious-cover.jpg
 featured: false
@@ -51,10 +52,6 @@ Not everything in the third act works, though. The villain's death scene felt un
 If you've watched a reasonable amount of Asian action cinema, this movie is just okay by the genre's own standards, even with the high ratings. The choreography is excellent, no argument, but fight scenes alone don't make a masterpiece. A lot of the online reaction seems to come from people seeing this level of stunt work for the first time, which is fair, but it has led to inflated claims about where the movie ranks.
 
 ---
-
-## Final Verdict
-
-**My Rating: 7.2**
 
 The Furious is a fun, good time. It's not the genre-redefining masterpiece a chunk of the internet is treating it as, but it's not a movie you'll regret spending two hours on. Just go in knowing the story is thin, the villain needed more room to breathe, and you'll need to switch your brain off at some point.
 

@@ -87,10 +87,8 @@ I went into the Lu and Guzman bet rolling my eyes. A bet to get someone into bed
 
 The thing I couldn't get past was Nano and Marina. Nano is a grown man in his twenties, Marina is sixteen, and the show frames it as a forbidden romance. The writing glosses over it, with no pushback from any other character and no acknowledgment that something is deeply wrong. I get that the plot needs Nano in Marina's orbit for the blackmail storyline, but there were other ways to get there that didn't romanticize this. It soured a real chunk of the season for me, and it's the one choice I can't give the show a pass on.
 
-## Overall thoughts
+---
 
 As a whole, Season 1 held up well. The pacing and the mystery structure worked, and I was locked in from start to finish. The class divide is the whole engine: rich people get away with things because the system is built to believe them, and poor kids become the easy scapegoat.
-
-**My Rating: 8.3**
 
 Check out the next season's recap here: [Elite Season 2](https://cineinks.vercel.app/posts/recap-elite-season-2)

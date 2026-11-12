@@ -5,6 +5,7 @@ date: "2026-05-11T10:18:00.007Z"
 category: "Review"
 labels: ["Movies"]
 score: 5
+verdict: "This movie is basically the definition of a perfectly average thriller."
 excerpt: "The setup of Carry On is basically Die Hard reworked for a TSA badge instead of a cop’s. On paper, it should deliver wall-to-wall tension."
 coverImage: "/images/posts/review-carry-on-2024/image-1.jpg"
 ---
@@ -33,10 +34,6 @@ The film leans into that one-guy-against-impossible-odds formula Collet-Serra ha
 
 ---
 
-## Final Verdict
-
-**My Rating: 5.0**
-
-This movie is basically the definition of a perfectly average thriller. All the ingredients are there, but the execution fumbles just enough that it never turns into anything memorable. It did rack up huge numbers for Netflix in its opening week, so clearly the premise alone was enough to pull people in. Watch it if you need some background noise with a bit of adrenaline in it. Otherwise, just rewatch Die Hard instead.
+All the ingredients are there, but the execution fumbles just enough that it never turns into anything memorable. It did rack up huge numbers for Netflix in its opening week, so clearly the premise alone was enough to pull people in. Watch it if you need some background noise with a bit of adrenaline in it. Otherwise, just rewatch Die Hard instead.
 
 **Am I being too harsh?**

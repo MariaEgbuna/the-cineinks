@@ -116,8 +116,6 @@ I wrote in my [Season 4](https://cineinks.vercel.app/posts/recap-elite-season-4)
 
 ---
 
-### Overall thoughts
-
 This season was a mess, and not in the fun, chaotic way earlier seasons managed to pull off. Isadora spending part of the season defending Phillipe against assault allegations, only for the show to turn around and put her through an assault of her own, felt less like irony and more like the writers not thinking through what they were doing. Ivan flip-flopping between Ari and Patrick for eight straight episodes, Ari, doing the same thing on her end, bouncing between feelings for Samuel and Ivan with no real throughline connecting any of it.
 
 And then there's Cruz. A grown man pursuing his own son's teenage classmate all season, and the show wraps it up by having him step aside like it's a gracious, mature decision instead of the bare minimum. That's a man stopping something he never should have started, and the show treats it like *growth*. Sick work by the writers, honestly.
@@ -125,7 +123,5 @@ And then there's Cruz. A grown man pursuing his own son's teenage classmate all 
 Season 5 isn't the disaster Season 4 was, but it's forgettable. This season made me tired.
 
 The pieces are there for Season 6 to do something interesting. Benjamin is in handcuffs. The Blanco Commerford era is officially over. In theory that clears the stage for a proper reset. Whether the show has the discipline to actually use that space is the only question I have going into the next season. And yes, before you ask: I'll be watching. Against all available evidence and better judgment. Because apparently this is just who I am now.
-
-**My Rating: 6.0**
 
 [← Prev: Season 4](https://cineinks.vercel.app/posts/recap-elite-season-4) [Next: Season 6 →](https://cineinks.vercel.app/posts/recap-elite-season-6)

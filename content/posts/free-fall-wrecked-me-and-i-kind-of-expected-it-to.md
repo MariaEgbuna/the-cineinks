@@ -6,6 +6,7 @@ category: Review
 labels:
   - Movies
 score: 7.1
+verdict: "I need a serious pick-me-up after this one. I'm tired of sad gay movies."
 excerpt: A gay film that actually earns its sadness, instead of punishing
   you for hoping otherwise.
 coverImage: /images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/free-fall-cover.jpg
@@ -48,5 +49,3 @@ You know the type. The couple is happy, then out of nowhere the movie pulls a de
 It was a decent flick: well-acted, a little devastating, but I don't regret watching it. I don't think it deserves to be lumped in with the cynical, punishment-driven tragedies that plagued this genre that decade.
 
 I've heard rumors of a sequel for years. A crowdfunding campaign for Free Fall 2 started in 2017 with the same core cast attached, but it's still stuck in "in development" with no plot details public. I'm curious where they'd take Marc, but I'm not holding my breath.
-
-I need a serious pick-me-up after this one. I'm tired of sad gay movies, and I think I deserve a break before I go looking for the next one.

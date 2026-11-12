@@ -5,6 +5,7 @@ date: "2026-07-31T19:03:21.141Z"
 category: "Review"
 labels: ["Anime"]
 score: 8.7
+verdict: "Can we please get more buff women in anime?"
 excerpt: "Dorohedoro Season 1 is one of those shows that completely sneaks up on you. You don’t expect something this wildly bizarre to also be this incredibly good."
 coverImage: "/images/posts/review-dorohedoro-season-1/image-1.jpg"
 ---
@@ -33,10 +34,6 @@ On the flip side, we get a front-row seat to the sorcerers' world, which has its
 
 Honestly, though? It’s barely a downside. Once the narrative hooks you, the unique art style stops being a distraction and completely becomes part of the show's gritty, punk-rock identity. By episode four, I wasn't even thinking about the animation style—I was just completely locked into the story.
 
-## My Final Verdict
+---
 
-**8.7 / 10**
-
-The plot, the characters, the unhinged tone—everything clicked for me in a way I never saw coming. I loved almost every second of this season, and even the parts that required a little adjustment turned into absolute strengths by the end. If you haven't watched *Dorohedoro* yet, consider this your official sign to jump in. 
-
-_PS: Noi and Nikaido are going to be living rent-free in my head for a long time. Can we please get more buff women in anime? Thanks._
+The plot, the characters, the unhinged tone — everything clicked for me in a way I never saw coming. I loved almost every second of this season, and even the parts that required a little adjustment turned into absolute strengths by the end. If you haven't watched *Dorohedoro* yet, consider this your official sign to jump in.

@@ -5,6 +5,7 @@ date: "2026-10-15T10:37:00Z"
 category: "Review"
 labels: ["Movies"]
 score: 7.3
+verdict: "Wild and fun."
 excerpt: "Hope is completely insane, and I didn't mind one bit."
 coverImage: "/images/posts/hope-2026-review/cover-image.jpg"
 ---
@@ -25,9 +26,7 @@ I did leave with questions, though. The townspeople have guns, and I couldn't wo
 
 That's partly because the movie doesn't explain much. Na has said the original script was too long and too dense for a single movie, so he cut it down. I figured that meant no sequel, which is why he ended up explaining so much himself in interviews. He's actually said a sequel script is already written, but nothing's confirmed, so we'll see.
 
-## Final Verdict
-
-**My Rating: 7.3**
+---
 
 If you like your movies big and a little unhinged, watch this one. Bring someone to react with, because you'll want to talk about it right after.
 
