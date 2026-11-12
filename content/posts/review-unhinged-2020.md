@@ -9,7 +9,6 @@ verdict: "Watch it for Crowe. Stay for the chaos."
 excerpt: "Unhinged is chasing the same nerve as Duel or The Hitcher: an ordinary drive turning into a nightmare you can't shake."
 coverImage: "/images/posts/review-unhinged-2020/image-1.jpg"
 ---
-![REVIEW: Unhinged (2020)](/images/posts/review-unhinged-2020/image-1.jpg)
 
 Unhinged is chasing the same nerve as Duel or The Hitcher: an ordinary drive turning into a nightmare you can't shake.
 

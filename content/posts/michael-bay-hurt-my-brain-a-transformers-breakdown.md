@@ -8,7 +8,6 @@ score: null
 excerpt: "I posted about how big, loud movies break my brain. Then someone asked about the Transformers movies, so here are my thoughts."
 coverImage: "/images/posts/michael-bay-hurt-my-brain-a-transformers-breakdown/image-1.jpg"
 ---
-![Michael Bay Hurt My Brain: A Transformers Breakdown](/images/posts/michael-bay-hurt-my-brain-a-transformers-breakdown/image-1.jpg)
 
 I posted [how big things break my brain](https://thewatchlistchronicles.blogspot.com/2026/05/why-big-things-break-my-brain-and-im.html) on the blog, then someone asked; "What about Transformers?"
 

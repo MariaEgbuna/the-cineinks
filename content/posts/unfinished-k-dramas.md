@@ -9,8 +9,6 @@ excerpt: "These are seven K-dramas I started and never finished, and each one lo
 coverImage: "/images/posts/unfinished-k-dramas/cover-image.jpg"
 ---
 
-![I Keep Dropping Kdramas Halfway Through](/images/posts/unfinished-k-dramas/post-grid.jpg)
-
 These are seven K-dramas I started and never finished, and each one lost me for a different reason.
 
 Some had stories I couldn't stand. Some weren't what I expected. A couple are big hits that I couldn't get into. And one is still on my watchlist.

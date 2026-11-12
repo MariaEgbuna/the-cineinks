@@ -9,8 +9,6 @@ excerpt: "I am deeply, spiritually tired of watching queer joy treated as a temp
 coverImage: "/images/posts/gay-romance-in-media-has-a-suffering-problem/image-1.jpg"
 ---
 
-![Why Is Gay Romance Always Sad? Media Has a Suffering Problem](/images/posts/gay-romance-in-media-has-a-suffering-problem/image-1.jpg)
-
 I am so tired. I am deeply, spiritually tired of watching queer people suffer on screen and being told the trauma is the "beauty" of the love story.
 
 I now avoid queer media altogether, because I can map the whole story before the first act ends. Someone is going to die, cheat, get a terminal illness, lose their livelihood, or all four. It doesn't have to be this way, and we have proof. So why is misery still the default?

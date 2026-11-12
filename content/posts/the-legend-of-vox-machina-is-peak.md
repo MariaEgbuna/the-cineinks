@@ -9,8 +9,6 @@ excerpt: "The Legend of Vox Machina is one of the best things animation has give
 coverImage: "/images/posts/the-legend-of-vox-machina-is-peak/image-1.jpg"
 ---
 
-![The Legend of Vox Machina Is Peak](/images/posts/the-legend-of-vox-machina-is-peak/image-1.jpg)
-
 The Legend of Vox Machina is one of the best things animation has given us this decade, and I'm putting it in the Hall of Fame while the show is still running. This show has already given me enough to know exactly where it stands.
 
 Here's my confession though. I went in expecting a fun D&D adaptation, something silly to put on in the background. What I got instead was a story with characters I actually care about, animation that keeps getting more ambitious with every season, and a plot that somehow manages to top itself every single time it comes back. Shows usually peak and coast. This one just keeps climbing.

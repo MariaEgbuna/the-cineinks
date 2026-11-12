@@ -10,8 +10,6 @@ excerpt: "Takopi's Original Sin looks like a cheerful slice of life about a lone
 coverImage: "/images/posts/review-takopis-original-sin/image-1.jpg"
 ---
 
-![REVIEW: Takopi's Original Sin](/images/posts/review-takopis-original-sin/image-1.jpg)
-
 Takopi's Original Sin looks like a cheerful slice of life about a lonely kid, but it isn't.
 
 It is a six episode anime that premiered in Japan on June 28, 2025, adapted from Taizan5's web manga of the same name, produced by Studio Enishiya, and directed by Shinya Iino, known for Dr. Stone. Genre wise, it's in psychological drama territory.

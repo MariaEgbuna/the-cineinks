@@ -9,7 +9,6 @@ score: null
 excerpt: "The crowbar met the skull, but the road to get there was a mess. Unpacking the corporate decay of Amazon’s flagship show."
 coverImage: /images/posts/about-the-boys/image-1.jpg
 ---
-![The Boys Ending: The Finale Was Fine, The Season Wasn’t](/images/posts/about-the-boys/image-1.jpg)
 
 The series finale of *The Boys* was fine. I kind of liked it. My issue isn't with the final credits. It's with the unpolished final season we had to sit through to get there.
 

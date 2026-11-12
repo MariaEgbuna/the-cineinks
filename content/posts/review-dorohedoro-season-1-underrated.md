@@ -10,8 +10,6 @@ excerpt: "Dorohedoro Season 1 is one of those shows that completely sneaks up on
 coverImage: "/images/posts/review-dorohedoro-season-1/image-1.jpg"
 ---
 
-![REVIEW: Dorohedoro Season 1](/images/posts/review-dorohedoro-season-1/image-1.jpg)
-
 Alright, let's talk about ***Dorohedoro***. This 2020 dark fantasy anime from MAPPA (directed by Yuichiro Hayashi and based on Q Hayashida's incredible manga) is an absolute trip. It ran for **12 episodes** back in early 2020 before hitting Netflix globally, and honestly, it’s one of those hidden gems that completely sneaks up on you. 
 
 Genre-wise, this thing is a total chaotic cocktail: we're talking horror, high-octane action, and a massive dose of pitch-black comedy and body horror. By all accounts, these ingredients should clash horribly, but somehow they blend together flawlessly. You just don’t expect something this wildly bizarre to also be this incredibly good.

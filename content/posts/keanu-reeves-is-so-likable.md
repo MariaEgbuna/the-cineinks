@@ -9,8 +9,6 @@ excerpt: "Keanu Reeves is not, by any technical measure, a great actor. Yet some
 coverImage: "/images/posts/keanu-reeves-is-so-likable/image-1.jpg"
 ---
 
-![Keanu Reeves](/images/posts/keanu-reeves-is-so-likable/image-1.jpg)
-
 Keanu Reeves is not, by any technical measure, a great actor. Yet somehow none of that matters.
 
 The man's been doing this since 1986 and he still delivers some lines like he's reading them off a cue card for the first time. And yet he's one of the most lovable people to ever exist on a movie screen. That contradiction is the whole point of today's post.

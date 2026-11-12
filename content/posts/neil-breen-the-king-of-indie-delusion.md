@@ -9,8 +9,6 @@ excerpt: "There are filmmakers who are ahead of their time, and then there's Nei
 coverImage: "/images/posts/neil-breen-the-king-of-indie-delusion/image-1.jpg"
 ---
 
-![Neil Breen: The King of Indie Delusion](/images/posts/neil-breen-the-king-of-indie-delusion/image-1.jpg)
-
 There are filmmakers who are ahead of their time, and then there's Neil Breen, who exists outside of time, logic, and cinema itself.
 
 Neil Breen is a former Las Vegas architect and real-estate agent who decided the world needed to see the movies living inside his head. With zero formal film training and zero hesitation, he started making them. He writes, directs, produces, edits, scores, handles catering, and stars in every single one. His website calls him "The most independent filmmaker in the world." Since 2005, he's put out a string of low-budget, deeply surreal sci-fi thrillers that have built one of the most passionate cult followings in modern cinema. Today, the Spotlight belongs to him.

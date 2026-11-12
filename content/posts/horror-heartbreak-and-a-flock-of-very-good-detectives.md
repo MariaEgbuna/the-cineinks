@@ -8,7 +8,6 @@ score: null
 excerpt: "Five days, nine movies, and three of them didn't survive past the one-hour mark."
 coverImage: "/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.jpg"
 ---
-![Leviticus, Backrooms, Hokum and The Sheep Detectives: My Movie Week Reviewed](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.jpg)
 
 Five days, nine movies, and three of them didn't survive past the one-hour mark.
 

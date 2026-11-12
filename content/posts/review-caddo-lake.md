@@ -10,8 +10,6 @@ excerpt: "Caddo Lake is a 2024 sci-fi thriller by Celine Held and Logan George a
 coverImage: "/images/posts/review-caddo-lake/image-1.jpg"
 ---
 
-![REVIEW: Caddo Lake](/images/posts/review-caddo-lake/image-1.jpg)
-
 Caddo Lake is a 2024 sci-fi thriller by Celine Held and Logan George and it was an absolute gem.
 
 Produced by M. Night Shyamalan, the story follows two seemingly unrelated protagonists, Paris and Ellie, both haunted by loss and desperate for answers.

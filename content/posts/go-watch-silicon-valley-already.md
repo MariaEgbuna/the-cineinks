@@ -10,8 +10,6 @@ excerpt: I finished Silicon Valley recently, and I cannot believe it took me thi
 coverImage: /images/posts/go-watch-silicon-valley-already/image-1.jpg
 ---
 
-![Go Watch Silicon Valley Already: HBO's Tech Comedy Is Hall of Fame Material](/images/posts/go-watch-silicon-valley-already/image-1.jpg)
-
 I finished Silicon Valley recently, and I cannot believe it took me this long to watch it.
 
 Six seasons, 53 episodes, and it held up almost the whole way through. It looks like a niche comedy on the surface, but it is doing something much sharper underneath, and it deserves a proper Hall of Fame spot.

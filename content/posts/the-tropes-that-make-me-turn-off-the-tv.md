@@ -9,8 +9,6 @@ excerpt: "We love talking about our favorite films, but the list of movie tropes
 coverImage: "/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.jpg"
 ---
 
-![The Tropes That Make Me Turn Off the TV.](/images/posts/the-tropes-that-make-me-turn-off-the-tv/image-1.jpg)
-
 We love talking about our favorite movies and television shows, but I think the list of things we completely refuse to watch is far more revealing. 
 
 There are certain themes, genres, and structural tropes that I avoid entirely, no matter how many people enthusiastically tell me that I am missing out. Elite awards, universal critical praise, or passionate word-of-mouth recommendations are never enough to make me sit through a production that I *know* will leave me feeling worse off than before I pressed play. 

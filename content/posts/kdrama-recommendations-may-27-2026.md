@@ -11,8 +11,6 @@ excerpt: I did not plan to become a K-drama person. It happened quietly, the way
 coverImage: /images/posts/kdrama-recommendations-may-27-2026/moving.jpg
 ---
 
-![K-Drama Recommendations: 9 Shows That Stuck With Me](/images/posts/kdrama-recommendations-may-27-2026/moving.jpg)
-
 I did not plan to become a K-drama person. It happened quietly, the way most obsessions do.
 
 One show, then another, and suddenly you're eight episodes deep with no intention of stopping. The K-dramas that stick with me are rarely the ones making the most noise. The massive titles get recommended endlessly, and some of them deserve it, but there's a tier of shows just below the mainstream conversation doing things just as interesting. This list is mostly those, with one deliberate exception I'll get to. They're not ranked. They're just the shows that took a permanent spot in my memory.

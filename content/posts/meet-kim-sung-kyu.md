@@ -9,8 +9,6 @@ excerpt: "Kim Sung-kyu has a Best New Actor win, a lead role in one of the most 
 coverImage: "/images/posts/meet-kim-sung-kyu/image-1.jpg"
 ---
 
-![Meet Kim Sung-kyu: The Actor Behind Kingdom and The King of Pigs](/images/posts/meet-kim-sung-kyu/image-1.jpg)
-
 Kim Sung-kyu has a Best New Actor win, a lead role in one of the most talked-about Korean thrillers, and he's still not a household name. Make that make sense.
 
 You watch someone deliver a performance that makes you pause and rewind, then you go looking for their name and realise most of the people around you have never heard of them. That's the Kim Sung-kyu experience in a nutshell. Born in 1986, he built his foundation in Seoul's theater scene before crossing over to film and television. The talent has always been there. The recognition has just been embarrassingly slow to catch up.

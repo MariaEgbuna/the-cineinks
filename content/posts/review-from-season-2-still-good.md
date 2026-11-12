@@ -10,8 +10,6 @@ excerpt: "From Season 2’s story still holds up, but this is where a few of the
 coverImage: "/images/posts/review-from-season-2/image-1.jpg"
 ---
 
-![REVIEW: FROM Season 2](/images/posts/review-from-season-2/image-1.jpg)
-
 We are back in the Township, and honestly, things are getting messy. Season 2 picks up right where that brutal first season left us: everyone is still trapped, the woods are still terrifying, and the show absolutely refuses to give us a straight answer. 
 
 This time around, the writers drop a literal **busload of new arrivals** into the chaos. It’s a bit of a mixed bag—some of them earn their keep immediately, while others feel like they're just killing time until the monsters get them. The story definitely holds up, but this is where a few of the show's bad habits really started to wear on my nerves.

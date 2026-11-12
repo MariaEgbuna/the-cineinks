@@ -9,8 +9,6 @@ excerpt: "Jason Statham has made the same movie at least twelve times, and I hav
 coverImage: "/images/posts/in-defense-of-jason-statham/image-1.jpg"
 ---
 
-![Jason Statham Movies: The Best, the Same, and Why I Keep Watching](/images/posts/in-defense-of-jason-statham/image-1.jpg)
-
 Jason Statham has made the same movie at least twelve times, and I have watched every single one. I don't have a good explanation for this.
 
 Neither does he, probably.

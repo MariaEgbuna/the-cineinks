@@ -9,7 +9,6 @@ excerpt: Another month done, and my watchlist did not come out of it unharmed.
 coverImage: /images/posts/best-and-worst-of-september-series-edition/image-cover.jpg
 featured: false
 ---
-![Series I Watched in September 2026: The Best, the Worst, and the Damage](/images/posts/best-and-worst-of-september-series-edition/image-cover.jpg)
 
 Another month done, and my watchlist did not come out of it unharmed.
 

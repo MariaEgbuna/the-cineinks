@@ -10,8 +10,6 @@ excerpt: "It pretends to be a cheating-spouse drama, then turns into pure chaos,
 coverImage: "/images/posts/review-the-affair-was-just-the-beginning/poster-image.jpg"
 ---
 
-![REVIEW: The Affair Was Just The Beginning (2026)](/images/posts/review-the-affair-was-just-the-beginning/poster-image.jpg)
-
 It pretends to be a cheating-spouse drama, then turns into pure chaos, and I loved every minute of it.
 
 **The Affair Was Just the Beginning** is a black comedy thriller that premiered on Coupang Play on July, 2026. Kim Hye-soo plays Kyung-hee, an interior design CEO and social media influencer, and Kim Ji-hoon plays her husband, Jae-hong. Cho Yeo-jeong and Kim Jae-chul are in the main cast too. I watched it for Kim Ji-hoon.

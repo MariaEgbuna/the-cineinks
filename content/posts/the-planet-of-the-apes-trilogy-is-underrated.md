@@ -9,8 +9,6 @@ excerpt: "The Planet of the Apes reboot trilogy does not get nearly enough credi
 coverImage: "/images/posts/the-planet-of-the-apes-trilogy-is-underrated/image-1.jpg"
 ---
 
-![The Planet of the Apes Trilogy is Underrated](/images/posts/the-planet-of-the-apes-trilogy-is-underrated/image-1.jpg)
-
 The Planet of the Apes reboot trilogy does not get nearly enough credit, and I am tired of pretending otherwise.
 
 These are not just good blockbusters, they are great. And if you have actually sat through all three, you already know I am not being dramatic.

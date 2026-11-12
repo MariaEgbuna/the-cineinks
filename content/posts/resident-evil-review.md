@@ -1,18 +1,16 @@
 ---
-title: "Resident Evil (2026): Just Another Guy Trying to Survive"
+title: "Resident Evil (2026): Just A Regular Guy Trying to Survive"
 slug: "resident-evil-review"
 date: "2026-11-03T10:30:00Z"
 category: "Review"
 labels: ["Movies"]
 score: 8.5
 verdict: "I'll happily take another trip to Raccoon City."
-excerpt: "A rollercoaster of jump scares, unexpected comedy and human reactions. Resident Evil proves that sometimes an ordinary guy trying to get home makes for the best horror protagonist."
+excerpt: "Resident Evil proves that sometimes an ordinary guy trying to get home makes for the best horror protagonist."
 coverImage: "/images/posts/resident-evil-review/image-1.jpg"
 ---
 
-![REVIEW: Resident Evil (2026)](/images/posts/resident-evil-review/image-1.jpg)
-
-A rollercoaster of jump scares, unexpected comedy and human reactions. Resident Evil proves that sometimes an ordinary guy trying to get home makes for the best horror protagonist.
+Resident Evil proves that sometimes an ordinary guy trying to get home makes for the best horror protagonist.
 
 Directed by Zach Cregger and written alongside Shay Hatten, Resident Evil (2026) is a new entry in the long-running horror franchise. Starring Austin Abrams as Bryan, alongside Paul Walter Hauser, Kali Reis and Zach Cherry, the movie takes us back to the infamous Raccoon City.
 

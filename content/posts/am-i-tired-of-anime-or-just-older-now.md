@@ -9,7 +9,6 @@ score: null
 excerpt: "When standing in front of an endless wall of identical, sentence-long titles feels more exhausting than entertaining."
 coverImage: /images/posts/am-i-tired-of-anime-or-just-older-now/image-1.jpg
 ---
-![Anime Fatigue: Am I Tired of Anime, or Just Older Now?](/images/posts/am-i-tired-of-anime-or-just-older-now/image-1.jpg)
 
 People keep asking if I've fallen out of love with anime, and the answer is no. This is not a "quitting anime" post. I can throw on *Attack on Titan* and lose my whole evening to it like it's the first time, and I'm counting down the days for *Haikyuu* and *Vinland Saga* updates like a kid waiting for Christmas.
 

@@ -8,11 +8,8 @@ score: null
 excerpt: "I finally started Frieren: Beyond Journey's End Season 2, and I really wanted to love it."
 coverImage: "/images/posts/something-feels-off-about-frieren-s2/image-1.jpg"
 ---
-![Something Feels Off About Frieren S2](/images/posts/something-feels-off-about-frieren-s2/image-1.jpg)
 
-I finally started Frieren: Beyond Journey's End Season 2, and I really wanted to love it.
-
-I did not. Well, not yet anyway.
+I finally started Frieren: Beyond Journey's End Season 2, and I really wanted to love it. I did not. Well, not yet anyway.
 
 I am only three episodes in so I am giving it time. But something feels different this season and I cannot fully explain it.
 

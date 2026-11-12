@@ -9,8 +9,6 @@ excerpt: "I already wrote about the best movies I've watched this year, so it on
 coverImage: "/images/posts/worst-movies-ive-watched-this-year-so-far/image-1.jpg"
 ---
 
-![Worst Movies I've Watched This Year (So Far)](/images/posts/worst-movies-ive-watched-this-year-so-far/image-1.jpg)
-
 I already wrote about the best movies I've watched this year, so it only feels right to flip it and talk about the bad ones too.
 
 These are the movies that either just didn't work for me, or were so bad they somehow became good again. My apologies in advance if you loved anything on this list.

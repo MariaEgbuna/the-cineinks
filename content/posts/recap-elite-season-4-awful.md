@@ -10,8 +10,6 @@ excerpt: Half of Elite’s original cast was gone, the internet was already in m
 coverImage: /images/posts/recap-elite-season-4/image-1.jpg
 ---
 
-![RECAP: Elite Season 4](/images/posts/recap-elite-season-4/image-1.jpg)
-
 Half the original cast was gone, the internet was already in meltdown mode, and I went in bracing myself. Turns out I wasn't bracing hard enough.
 
 As you know several of the original cast had left the show. People who had been there from the very beginning, characters who were the backbone of what made Elite worth watching in the first place. That kind of shakeup is never not worrying. I had already seen the noise online: Reddit threads, Twitter arguments, TikTok videos of people completely losing it over this season. But internet reactions are always dialed up to eleven. You can never fully trust the doomsday energy of a fandom mid-crisis. So I told myself: surely it can't be that bad. This is Elite. The show knows what it's doing.

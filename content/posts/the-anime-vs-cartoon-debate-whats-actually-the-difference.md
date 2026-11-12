@@ -9,8 +9,6 @@ excerpt: "The internet loves to fight over whether anime is a geographic locatio
 coverImage: "/images/posts/the-anime-vs-cartoon-debate-whats-actually-the-difference/image-1.jpg"
 ---
 
-![The Anime vs Cartoon Debate: What's Actually the Difference?](/images/posts/the-anime-vs-cartoon-debate-whats-actually-the-difference/image-1.jpg)
-
 The internet's endless discourse surrounding the "Anime vs. Cartoon" debate has been living entirely rent-free in my head lately. 
 
 Is anime strictly defined by its Japanese origin, or is it simply a broad stylistic label? Here is what originally set me off: the exact millisecond you casually refer to a Japanese animated series as a "cartoon" in front of a certain sub-section of the fandom, you would think you just deeply insulted their entire ancestral bloodline. 

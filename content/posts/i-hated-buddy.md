@@ -10,8 +10,6 @@ excerpt: "I hated Buddy. And the more I think about it, the more I hate it."
 coverImage: "/images/posts/i-hated-buddy/image-1.jpg"
 ---
 
-![REVIEW: Buddy (2026)](/images/posts/i-hated-buddy/image-1.jpg)
-
 I hated Buddy. And the more I think about it, the more I hate it.
 
 It's a comedy horror film from Casper Kelly, the guy behind the viral Adult Swim short Too Many Cooks. I went in without watching the trailer, which is an unspoken rule of mine, because I wanted something scary for Halloween. It's only 95 minutes long, and it still took me four days to finish. I just kept zoning out.

@@ -8,7 +8,6 @@ score: null
 excerpt: "Breaking Bad is one of those shows the internet will not stop talking about. Everyone acts like it's basically a religion."
 coverImage: "/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-1.jpg"
 ---
-![Is Breaking Bad Worth Watching? Yes, But Give It Until Season 3](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-1.jpg)
 
 Breaking Bad is one of those shows the internet will not stop talking about. Everyone acts like it's basically a religion.
 

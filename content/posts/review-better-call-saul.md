@@ -10,8 +10,6 @@ excerpt: "Quick Take on Better Call Saul: technically you could watch it without
 coverImage: "/images/posts/review-better-call-saul/image-1.jpg"
 ---
 
-![REVIEW: Better Call Saul](/images/posts/review-better-call-saul/image-1.jpg)
-
 Quick Take on Better Call Saul: technically you could watch it without seeing Breaking Bad first. But I wouldn't recommend it.
 
 _Better Call Saul_ is a 2015 crime drama and prequel spin-off that tracks the origin story of Jimmy McGill, the small-time public defender we eventually come to know as the sleazy criminal lawyer Saul Goodman.

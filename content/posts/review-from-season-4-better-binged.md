@@ -10,8 +10,6 @@ excerpt: "Binging From Season 4 is hands down the best way to experience it. Wat
 coverImage: "/images/posts/review-from-season-4/image-1.jpg"
 ---
 
-![REVIEW: FROM Season 4](/images/posts/review-from-season-4/image-1.jpg)
-
 Binging it is hands down the absolute best way to experience it. Seriously, watching this show week-to-week would have driven me completely up the wall.
 
 Season 4 of ***From* premiered back in April 2026**, and thank heavens, it was a massive step up from season 3. These poor townspeople have been through absolute hell at this point, and I made the executive decision early on to wait for the whole season to finish dropping before touching a single episode. Best decision I made all year. 

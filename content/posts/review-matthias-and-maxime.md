@@ -10,8 +10,6 @@ excerpt: "Matthias & Maxime is a 2019 Canadian drama by Xavier Dolan. One kiss f
 coverImage: "/images/posts/review-matthias-and-maxime/image-1.jpg"
 ---
 
-![REVIEW: Matthias & Maxime](/images/posts/review-matthias-and-maxime/image-1.jpg)
-
 Matthias & Maxime is a 2019 Canadian drama by Xavier Dolan. One kiss for a student film, and everything gets weird.
 
 It's about two childhood best friends in their late twenties, Matthias (Gabriel Freitas) and Maxime (Dolan), whose whole friendship gets weird after they're asked to kiss for a student short film.

@@ -9,7 +9,6 @@ score: null
 excerpt: "While other long-running animated shows rot into mean-spirited cynicism, the Belchers managed the impossible: staying warm."
 coverImage: "/images/posts/bobs-burgers-is-special/image-1.jpg"
 ---
-![Is Bob's Burgers Worth Watching? Yes, It Got Better With Time](/images/posts/bobs-burgers-is-special/image-1.jpg)
 
 Most long-running shows lose steam. By a certain point you can hear the engine sputtering as the writers run out of ideas. ***Bob's Burgers*** is the exception. Instead of turning into a lazy version of itself, it has gotten sharper, warmer, and better with age.
 

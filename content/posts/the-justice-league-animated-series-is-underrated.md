@@ -9,8 +9,6 @@ excerpt: "I came into the Justice League animated series completely cold. No nos
 coverImage: "/images/posts/the-justice-league-animated-series-is-underrated/image-1.jpg"
 ---
 
-![The Justice League Animated Series is Underrated](/images/posts/the-justice-league-animated-series-is-underrated/image-1.jpg)
-
 I came into this completely cold. No nostalgia, no childhood memories attached. By the time I finished it, I was annoyed at myself for waiting this long.
 
 Because this show is not great for a cartoon. It is not impressive given what it is. **It is just great**, full stop, by any standard you want to apply to it.

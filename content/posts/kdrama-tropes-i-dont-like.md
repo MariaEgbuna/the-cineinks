@@ -11,7 +11,6 @@ excerpt: These are the K-drama tropes I can't stand, and I say that as someone
 coverImage: /images/posts/kdrama-tropes-i-dont-like/jackie-chan-meme.jpg
 featured: false
 ---
-![Annoying K-Drama Tropes I'm Tired of Seeing (From a Fan Who Loves the Genre)](/images/posts/kdrama-tropes-i-dont-like/kdrama-cover.jpg)
 
 These are the K-drama tropes I can't stand, and I say that as someone who loves the genre.
 

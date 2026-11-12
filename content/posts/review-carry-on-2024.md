@@ -10,8 +10,6 @@ excerpt: "The setup of Carry On is basically Die Hard reworked for a TSA badge i
 coverImage: "/images/posts/review-carry-on-2024/image-1.jpg"
 ---
 
-![REVIEW: Carry On (2024)](/images/posts/review-carry-on-2024/image-1.jpg)
-
 The setup is basically Die Hard reworked for a TSA badge instead of a cop's. On paper, it should deliver wall-to-wall tension.
 
 Carry-On is a Netflix thriller directed by Jaume Collet-Serra, the guy behind The Shallows and a string of Liam Neeson vs. a ticking clock movies like Non-Stop and The Commuter. Ethan Kopek (Taron Egerton) is a junior TSA officer at LAX on Christmas Eve when a stranger, credited only as the Traveler (Jason Bateman), drops an earpiece on his station and starts giving orders: let one specific carry-on through the scanner, or Ethan's girlfriend Nora pays for it.

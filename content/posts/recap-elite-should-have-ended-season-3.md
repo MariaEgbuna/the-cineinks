@@ -10,8 +10,6 @@ excerpt: Elite Season 3 is basically a season-long autopsy of a tragedy that was
 coverImage: /images/posts/recap-elite-season-3/image-1.jpg
 ---
 
-![RECAP: Elite Season 3](/images/posts/recap-elite-season-3/image-1.jpg)
-
 Season 3 is basically a season-long autopsy of a tragedy that was set in motion the moment Marina died back in Season 1.
 
 _This post contains spoilers for Season 3 of Netflix's Elite._

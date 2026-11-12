@@ -9,8 +9,6 @@ excerpt: "Dwayne Johnson has been a fixture in Hollywood for over two decades no
 coverImage: "/images/posts/whatever-happened-to-good-dwayne-johnson/image-1.jpg"
 ---
 
-![Whatever Happened to Good Dwayne Johnson?](/images/posts/whatever-happened-to-good-dwayne-johnson/image-1.jpg)
-
 Dwayne Johnson has been a fixture in Hollywood for over two decades now, and somewhere along the way he turned into a completely different actor than the one I actually liked. This Spotlight is basically a breakup letter.
 
 Johnson made his way into movies off the back of a massive wrestling career as **The Rock**, first showing up on screen in The Mummy Returns in 2001 before headlining The Scorpion King a year later. For a solid stretch after that, he was actually fun to watch. Then something shifted, and here we are.

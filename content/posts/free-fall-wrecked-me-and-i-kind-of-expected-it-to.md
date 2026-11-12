@@ -12,7 +12,6 @@ excerpt: A gay film that actually earns its sadness, instead of punishing
 coverImage: /images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/free-fall-cover.jpg
 featured: false
 ---
-![REVIEW: Free Fall (2013)](/images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/free-fall-marc-kay.jpg)
 
 I already wrote about how [gay romance in media has a suffering problem](https://cineinks.vercel.app/posts/gay-romance-in-media-has-a-suffering-problem), and then I went and watched Free Fall anyway, fully aware I was walking into exactly the kind of story I was complaining about.
 

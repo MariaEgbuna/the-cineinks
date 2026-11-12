@@ -10,8 +10,6 @@ excerpt: "Obsession sits in that rare space where a horror movie somehow becomes
 coverImage: "/images/posts/review-obsession-2026/image-1.jpg"
 ---
 
-![REVIEW: Obsession (2026)](/images/posts/review-obsession-2026/image-1.jpg)
-
 Obsession sits in that rare space where a horror movie somehow becomes the actual pop culture event of a season.
 
 Curry Barker wrote and directed it after building an audience on YouTube, and this was his first feature. The movie stars Michael Johnston as Bear, a music store employee too nervous to tell his coworker Nikki how he feels and Inde Navarrette who plays Nikki, a girl whose autonomy is stripped away. It's a supernatural psychological horror movie, and it deserved every bit of the buzz around it this year.

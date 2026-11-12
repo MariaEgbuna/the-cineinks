@@ -9,8 +9,6 @@ excerpt: "Three-year hiatuses, pitch-black cinematography, and celebrity voice-a
 coverImage: "/images/posts/a-little-rant-about-the-entertainment-industry/image-1.jpg"
 ---
 
-![Entertainment Industry Rant: Dark Lighting, Bad Dubbing, Three-Year Waits](/images/posts/a-little-rant-about-the-entertainment-industry/image-1.jpg)
-
 I have a few things sitting on my chest about television and film right now, and I'd rather dump them here than scream into the void on social media. This isn't a blind rage post. These are trends that have been quietly eating at me for years.
 
 ---

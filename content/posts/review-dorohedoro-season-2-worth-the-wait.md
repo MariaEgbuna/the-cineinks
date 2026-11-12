@@ -10,8 +10,6 @@ excerpt: "Dorohedoro Season 2 took six long years to arrive, and I’m going to 
 coverImage: "/images/posts/review-dorohedoro-season-2/image-1.jpg"
 ---
 
-![REVIEW: Dorohedoro Season 2](/images/posts/review-dorohedoro-season-2/image-1.jpg)
-
 We finally got it. The second season of *Dorohedoro* picks up exactly where the first one left us—no hand-holding, no boring recap episode, just straight back into the madness. MAPPA and director Yuichiro Hayashi stepped right back into this unhinged world and kept moving like absolutely no time had passed at all. 
 
 This season gave us **11 glorious episodes that ran from April 1 to May 27, 2026**. I made the executive decision to wait for the whole thing to drop before hitting play, and honestly, it was the best call I could have made. Watching this masterpiece week-to-week would have genuinely broken me. 

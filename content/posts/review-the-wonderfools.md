@@ -13,8 +13,6 @@ excerpt: A superhero K-drama set during the Y2K scare sounded like exactly the
 coverImage: /images/posts/review-the-wonderfools/image-1.jpg
 ---
 
-![REVIEW: The WonderFOOLS](/images/posts/review-the-wonderfools/image-1.jpg)
-
 A superhero K-drama set during the Y2K scare sounded like exactly the kind of concept that looks fun in a trailer and falls apart by episode 3. It didn't.
 
 _This post contains minor spoilers for Netflix's WONDERfools_

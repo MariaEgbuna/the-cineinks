@@ -10,8 +10,6 @@ excerpt: "Hope is completely insane, and I didn't mind one bit."
 coverImage: "/images/posts/hope-2026-review/cover-image.jpg"
 ---
 
-![REVIEW: Hope (2026)](/images/posts/hope-2026-review/cover-image.jpg)
-
 Hope is completely insane, and I didn't mind one bit.
 
 It's the latest film from Na Hong-jin, the director of The Wailing, and it competed for the Palme d'Or at Cannes in May. It runs around 160 minutes and stars Hwang Jung-min, Zo In-sung, and Hoyeon, with Michael Fassbender and Alicia Vikander in the cast too. I liked it enough to watch it twice. I rewatched it with my brother, and we still had a blast.

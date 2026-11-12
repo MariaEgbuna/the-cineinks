@@ -8,7 +8,6 @@ score: null
 excerpt: "Ramin Djawadi is incredibly talented, and criminally underrated. I needed to write about him."
 coverImage: "/images/posts/ramin-djawadi-is-underrated/image-1.jpg"
 ---
-![Ramin Djawadi Is Underrated](/images/posts/ramin-djawadi-is-underrated/image-1.jpg)
 
 Ramin Djawadi is incredibly talented, and criminally underrated. I needed to write about him.
 

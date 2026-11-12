@@ -10,8 +10,6 @@ excerpt: "The Gentlemen Season 2 started off so strong, and then somewhere aroun
 coverImage: "/images/posts/the-gentlemen-season-2-review/the-gentlemen-cover.jpg"
 ---
 
-![REVIEW: The Gentlemen Season 2 (2026)](/images/posts/the-gentlemen-season-2-review/the-gentlemen-cover.jpg)
-
 The Gentlemen Season 2 started off so strong, and then somewhere around episode 6, I stopped caring.
 
 I enjoyed the first season so much that I rushed to start the second. By the end I felt underwhelmed, which felt strange. Let me break it down a bit.

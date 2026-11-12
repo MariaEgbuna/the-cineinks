@@ -10,8 +10,6 @@ excerpt: I kept seeing From pop up everywhere and I finally sat down to watch it
 coverImage: "/images/posts/review-from-season-1/image-1.jpg"
 ---
 
-![REVIEW: FROM Season 1](/images/posts/review-from-season-1/image-1.jpg)
-
 Alright, I finally gave in. I kept seeing this show pop up all over my feed, so I finally sat down, hit play, and completely lost myself in it. 
 
 If you haven't heard of it, ***From* was created by John Griffin** and produced by the Russo brothers' company, AGBO. It originally dropped on Epix back in February 2022. It’s a tight, **10-episode first season** that wastes absolutely zero time dragging you into a town that straight-up shouldn't exist. It sits right in that sweet spot of sci-fi horror where the scares hunt you at night and the mysteries drive you crazy during the day. Honestly? That combo is my absolute kryptonite. 

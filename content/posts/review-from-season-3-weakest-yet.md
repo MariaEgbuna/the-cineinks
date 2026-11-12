@@ -10,8 +10,6 @@ excerpt: "After two seasons that had me completely hooked, From Season 3 definit
 coverImage: "/images/posts/review-from-season-3/image-1.jpg"
 ---
 
-![REVIEW: FROM Season 3](/images/posts/review-from-season-3/image-1.jpg)
-
 Man, it hurts to say this. After two seasons that had me completely obsessed, **Season 3 ended up being the weakest of the three so far**. 
 
 Don't get me wrong, it’s not *bad* television, but compared to the high bar the show set early on, this season felt like it spent a good chunk of its runtime just running in place. The Township is getting colder, the food is running out, and the residents are growing more desperate by the second. Yet somehow, after everything they’ve survived, they still haven't figured out how to have a normal conversation. 

@@ -10,8 +10,6 @@ excerpt: "The premise is interesting, but the execution frustrated me, and I kep
 coverImage: "/images/posts/avatar-seven-havens-review/poster-image.jpg"
 ---
 
-![REVIEW: Avatar: Seven Havens (2026)](/images/posts/avatar-seven-havens-review/poster-image.jpg)
-
 Seven Havens is Nickelodeon and Avatar Studios' new 2D-animated series, created by Michael Dante DiMartino and Bryan Konietzko, the same duo behind The Last Airbender and The Legend of Korra. It premiered on Paramount+ on October 9, 2026, and Book 1 ran for 13 episodes. Critics have been kind to it – it was sitting at 100% on Rotten Tomatoes from 21 reviews as of October 14 – and I'm not as sold.
 
 The story follows Pavi (Saheli Khan), a young Earthbender who survives by scavenging and keeping a low profile in a world where benders face conscription and the Avatar is known as the Destroyer. At a festival marking the death of the Avatar, she reunites with her twin sister, Nisha (Aishu Devan).

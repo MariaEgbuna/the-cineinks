@@ -11,8 +11,6 @@ excerpt: I randomly saw the trailer for Primal Season 3 and decided to give the 
 coverImage: /images/posts/recap-primal-season-1/image-1.jpg
 ---
 
-![RECAP: Primal Season 1](/images/posts/recap-primal-season-1/image-1.jpg)
-
 I randomly saw the trailer for Season 3 and decided to give the show a shot. Ended up binging the first season in one day.
 
 No dialogue anywhere in it, not a single word, and somehow I understood everything. I felt every single thing these characters felt. That is how you know a show is doing something right.

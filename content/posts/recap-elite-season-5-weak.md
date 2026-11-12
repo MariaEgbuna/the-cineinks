@@ -9,7 +9,6 @@ score: 6
 excerpt: Elite Season 5 was such a slog to get through..
 coverImage: /images/posts/recap-elite-season-5/elite-s5.jpg
 ---
-![RECAP: Elite Season 5](/images/posts/recap-elite-season-5/elite-s5.jpg)
 
 This season was such a slog to get through.
 

@@ -9,7 +9,6 @@ score: 7.1
 excerpt: Elite Season 7 has no cold open dropping you into a crime scene this time. The story just starts and moves forward. That decision alone signals that the writers were trying to do something different.
 coverImage: /images/posts/recap-elite-season-7/elite.jpg
 ---
-![RECAP: Elite Season 7](/images/posts/recap-elite-season-7/elite.jpg)
 
 No cold open dropping you into a crime scene this time. The story just starts and moves forward. That decision alone signals that the writers were trying to do something different.
 

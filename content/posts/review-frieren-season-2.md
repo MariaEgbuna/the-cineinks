@@ -10,8 +10,6 @@ excerpt: "I finally finished Frieren Season 2 and my first honest reaction was j
 coverImage: "/images/posts/review-frieren-season-2/image-1.jpg"
 ---
 
-![REVIEW: Frieren Season 2](/images/posts/review-frieren-season-2/image-1.jpg)
-
 I finally finished Frieren Season 2 and my first honest reaction was just: "Wait, that's it?" 
 
 _Quick heads up: I’m keeping this mostly spoiler-free, but I will touch on some minor plot points from the new episodes!_

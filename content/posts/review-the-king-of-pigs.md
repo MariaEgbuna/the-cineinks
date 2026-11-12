@@ -12,8 +12,6 @@ excerpt: I finished The King of Pigs at some unreasonable hour of the night and
 coverImage: /images/posts/review-the-king-of-pigs/image-1.jpg
 ---
 
-![REVIEW: The King of Pigs.](/images/posts/review-the-king-of-pigs/image-1.jpg)
-
 I finished The King of Pigs at some unreasonable hour of the night and just sat there for a while after it ended.
 
 Not because I was processing some big twist. Because I needed a minute before I could go back to being a normal person.

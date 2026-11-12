@@ -10,8 +10,6 @@ excerpt: "Supergirl is not the disaster people online made it out to be, and it'
 coverImage: "/images/posts/review-supergirl-2026/image-1.jpg"
 ---
 
-![REVIEW: Supergirl (2026)](/images/posts/review-supergirl-2026/image-1.jpg)
-
 It's not the disaster people online made it out to be, and it's not a masterpiece either.
 
 Supergirl hit theaters on June 26, 2026, directed by Craig Gillespie and written by Ana Nogueira, with James Gunn and Peter Safran producing under DC Studios. It's the second film in the new DC Universe, landing about a year after Superman, and it's based on the Supergirl: Woman of Tomorrow comic by Tom King and Bilquis Evely. Milly Alcock takes over as Kara Zor-El here, after her brief cameo at the end of last year's Superman, and this is her first real outing as the character.

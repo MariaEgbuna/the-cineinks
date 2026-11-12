@@ -9,7 +9,6 @@ excerpt: September was a big month for movies. I watched 10; finished 9, dropped
 coverImage: /images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg
 featured: false
 ---
-![Project Hail Mary - Rocky and Grace](/images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg)
 
 September was a big month for movies. I watched 10; finished 9, dropped one, and found my movie of the year along the way.
 

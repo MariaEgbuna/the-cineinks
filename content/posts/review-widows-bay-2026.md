@@ -12,8 +12,6 @@ coverImage: /images/posts/review-widows-bay-2026/widow-bay-cover-image.jpg
 featured: false
 ---
 
-![Cover image](/images/posts/review-widows-bay-2026/widow-bay-cover-image.jpg)
-
 I managed to completely spoil the *Widow's Bay* finale for myself within the first four episodes of watching it, and I still had a genuinely fantastic time. That alone should tell you everything you need to know about how brilliant this series actually is. 
 
 Let me explain that absolute mess first, because it is hilarious in hindsight. Twenty minutes into what I thought was the pilot, I was completely lost. The narrative throws you right into the deep end with zero floaties. I pushed through anyway because the tone was immaculate. I binged three more episodes before realizing with absolute horror that the "episode one" I had clicked on was actually episode ten. I had accidentally spoiled the entire season finale before I even understood who half the characters were. 

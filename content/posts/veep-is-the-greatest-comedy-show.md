@@ -11,8 +11,6 @@ excerpt: Veep is not a show about politics. It is a show about people, deeply
 coverImage: /images/posts/veep-is-the-greatest-comedy-show/image-1.jpg
 ---
 
-![VEEP Is The Greatest Comedy Show](/images/posts/veep-is-the-greatest-comedy-show/image-1.jpg)
-
 Veep is not a show about politics. It is a show about people, deeply catastrophically flawed people, who just happen to work in politics.
 
 The moment you stop expecting anyone on screen to do the right thing, you relax into what this show actually is: the most ruthlessly funny, brilliantly written, endlessly rewatchable comedy in the history of television.

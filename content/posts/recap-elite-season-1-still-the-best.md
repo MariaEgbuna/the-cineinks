@@ -11,7 +11,6 @@ excerpt: Elite is what happens when you throw three broke kids into a school
   stop watching.
 coverImage: /images/posts/recap-elite-season-1-still-the-best/elite-s1.jpg
 ---
-![RECAP: Elite Season 1](/images/posts/recap-elite-season-1-still-the-best/elite-s1.jpg)
 
 Elite is what happens when you throw three broke kids into a school built entirely on money and secrets. It's messy, it's soapy, and I could not stop watching.
 

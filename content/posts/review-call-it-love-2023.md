@@ -12,8 +12,6 @@ coverImage: /images/posts/review-call-it-love-2023/call-it-love.jpg
 featured: false
 ---
 
-![cover-image](/images/posts/review-call-it-love-2023/call-it-love.jpg)
-
 I watched sixteen episodes of Call It Love, a melodrama, mostly because Kim Young-kwang, a man who usually plays psychopaths, decided to be soft for once.
 
 Call It Love, also released under the title Say It's Love in some regions, is a 2023 South Korean romantic melodrama that premiered on Disney+ on February 22 and wrapped up on April 12 that same year. It ran for sixteen hour-long episodes, directed by Lee Kwang-young and written by Kim Ga-eun. The cast is led by Lee Sung-kyung as Shim Woo-joo and Kim Young-kwang as Han Dong-jin, with Sung Joon playing Yoon Joon and Kim Ye-won as Woo-joo's older sister. It's a Studio Dragon and Drama House production, and it landed decently well with critics and audiences when it aired, praised mostly for its performances and its quieter, more grounded take on the revenge romance formula.

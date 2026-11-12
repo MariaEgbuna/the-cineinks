@@ -9,8 +9,6 @@ excerpt: "Loving a movie the internet hates is a weird feeling. So is sitting th
 coverImage: "/images/posts/my-taste-vs-the-internet/cover-image.jpg"
 ---
 
-![My Taste vs. The Internet](/images/posts/my-taste-vs-the-internet/cover-image.jpg)
-
 Loving a movie the internet hates is a weird feeling. So is sitting through one everyone calls the greatest thing since sliced bread and feeling nothing. Then there are the box office bombs, the childhood favorites that fell apart on rewatch, and the ones I gave a chance and regretted.
 
 I watched or rewatched a bunch of movies recently, and I have thoughts on all of them. This was kinda fun to write.

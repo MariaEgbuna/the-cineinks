@@ -11,7 +11,6 @@ excerpt: The internet says The Furious reinvented martial arts cinema. I say the
 coverImage: /images/posts/i-think-the-furious-2026-is-overhyped/the-furious-cover.jpg
 featured: false
 ---
-![REVIEW: The Furious (2026)](/images/posts/i-think-the-furious-2026-is-overhyped/cover-image.jpg)
 
 The internet says The Furious reinvented martial arts cinema. I say the fights are great and everything else is just okay.
 

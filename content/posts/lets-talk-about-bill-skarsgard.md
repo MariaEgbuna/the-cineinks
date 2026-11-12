@@ -9,8 +9,6 @@ excerpt: "There are actors who are good at their job, and then there's Bill Skar
 coverImage: "/images/posts/lets-talk-about-bill-skarsgard/image-1.jpg"
 ---
 
-![Let's Talk About Bill Skarsgård: From Pennywise to Nosferatu](/images/posts/lets-talk-about-bill-skarsgard/image-1.jpg)
-
 There are actors who are good at their job, and then there's Bill Skarsgård, who seems to operate on a completely different frequency.
 
 Son of Swedish acting legend Stellan Skarsgård and younger brother to Alexander (True Blood) and Gustaf (Vikings), Bill has been around the industry his whole life, but he's not coasting on a famous last name. From his breakout in the Swedish film Simple Simon (2010) to one of Hollywood's most compelling leading men, he's built a career on bold choices, full physical transformation, and a rare ability to be charming and terrifying in the same scene. He makes it look easy.

@@ -10,8 +10,6 @@ excerpt: "Primal Season 3 apparently picks up before the epilogue that closed ou
 coverImage: "/images/posts/recap-primal-season-3/image-1.jpg"
 ---
 
-![RECAP: Primal Season 3](/images/posts/recap-primal-season-3/image-1.jpg)
-
 Season 3 apparently picks up before the epilogue that closed out season 2. Knowing that going in changes how you watch it. You already know Spear survives in some form. What you do not know is how brutal that road back is going to be.
 
 _This post contains spoilers for Primal Season 3._

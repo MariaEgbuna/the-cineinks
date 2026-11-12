@@ -9,8 +9,6 @@ excerpt: "A manifesto on why massive, skyscraper-stepping spectacle movies will 
 coverImage: "/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.jpg"
 ---
 
-![Why Big Things Break My Brain (And I'm Fine With That)](/images/posts/why-big-things-break-my-brain-and-im-fine-with-that/image-1.jpg)
-
 Big, loud, and world-shattering spectacle beats deep, boring, high-brow cinema every single day of the week. If there is a massive creature on screen capable of casually stepping on a skyscraper, I am unconditionally seated in the front row. 
 
 I don't need to see a trailer, or check the Rotten Tomatoes score, or listen to a random film bro on the internet saying "the CGI looks a bit unpolished" in the third act. Do you know why? It's because I simply do not care. Consider this essay my formal attempt to explain exactly why that is — and why I have absolutely zero plans to change. 

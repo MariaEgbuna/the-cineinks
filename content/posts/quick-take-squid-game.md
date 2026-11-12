@@ -8,7 +8,6 @@ score: null
 excerpt: "Squid Game is still worth watching, even with everything that came after Season 1"
 coverImage: "/images/posts/quick-take-squid-game/image-1.jpg"
 ---
-![Quick Take: Squid Game](/images/posts/quick-take-squid-game/image-1.jpg)
 
 I could tell you it's a masterpiece. I could also say Season 1 was lightning in a bottle and everything after was Netflix squeezing money from a finished story. Both takes exist somewhere on the internet, and neither is quite right. Here's the version I believe: Squid Game is a great show that made some bad strategic decisions, and a lot of my frustration with Seasons 2 and 3 has less to do with the writing than with how Netflix released it.
 

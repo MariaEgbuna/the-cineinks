@@ -9,8 +9,6 @@ excerpt: "I built a database to track every movie and show I've watched since 20
 coverImage: "/images/posts/best-movies-ive-watched-this-year-so-far/image-1.jpg"
 ---
 
-![Best Movies I've Watched in 2026 So Far (January to June)](/images/posts/best-movies-ive-watched-this-year-so-far/image-1.jpg)
-
 I built a database to track every movie and show I've watched since 2025. I know how that sounds.
 
 But it means when someone asks me what's been good this year, I don't have to scroll through my brain trying to remember. I just check the database. This isn't a recommendation post. This is me pulling up my own ratings and counting down the ten movies that scored highest for me so far this year.

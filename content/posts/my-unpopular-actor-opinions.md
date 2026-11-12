@@ -9,8 +9,6 @@ excerpt: "Every fanbase has that group of actors everyone loves and you just can
 coverImage: "/images/posts/my-unpopular-actor-opinions/image-1.jpg"
 ---
 
-![My Unpopular Actor Opinions](/images/posts/my-unpopular-actor-opinions/image-1.jpg)
-
 Every fanbase has that group of celebrities everyone loves and you just cannot get the appeal of. This is mine.
 
 ---

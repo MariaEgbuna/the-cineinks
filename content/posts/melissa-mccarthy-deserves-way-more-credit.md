@@ -9,8 +9,6 @@ excerpt: "Melissa McCarthy is one of the few comedic actors alive who can turn a
 coverImage: "/images/posts/melissa-mccarthy-deserves-way-more-credit/image-1.jpg"
 ---
 
-![Melissa McCarthy Movies: Why She Deserves Way More Credit](/images/posts/melissa-mccarthy-deserves-way-more-credit/image-1.jpg)
-
 Melissa McCarthy is one of the few comedic actors alive who can turn around and gut you in a dramatic role without it feeling fake.
 
 Today's Spotlight is about why that mix is so rare, and why nobody's giving her enough credit for it these days.

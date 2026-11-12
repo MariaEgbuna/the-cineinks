@@ -9,7 +9,6 @@ excerpt: "From Twitter-clip accidents to massive hype traps, these 5 anime compl
 coverImage: /images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover-photo.jpg
 featured: false
 ---
-![Anime Recommendations: 5 Shows I Wasn't Expecting to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover-photo.jpg)
 
 This list came together differently than my last one. I stumbled backward into these picks: a few found me through random Twitter clips, one had so much hype that I went in ready to hate-watch it (and failed), and a couple pushed me out of my usual genres.
 

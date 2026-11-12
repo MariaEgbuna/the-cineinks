@@ -10,8 +10,6 @@ excerpt: "Primal’s first season was about two grieving creatures finding each 
 coverImage: "/images/posts/recap-primal-season-2/image-1.jpg"
 ---
 
-![RECAP: Primal Season 2](/images/posts/recap-primal-season-2/image-1.jpg)
-
 Season one was about two grieving creatures finding each other in the wreckage of everything they lost. Season two takes that and throws it across oceans and centuries.
 
 This was a wild ride from start to finish, full of surprises I did not see coming.

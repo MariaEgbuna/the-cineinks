@@ -10,8 +10,6 @@ excerpt: Elite Season 2 picks up directly from season 1 and doesn’t let you fo
 coverImage: /images/posts/recap-elite-season-2/image-1.jpg
 ---
 
-![RECAP: Elite Season 2](/images/posts/recap-elite-season-2/image-1.jpg)
-
 Season 2 picks up directly from season 1 and doesn't let you forget for one second how completely rigged the whole thing was.
 
 Season 1 ended with the truth sitting right there in plain sight, and the wrong person still went to prison for it. Nano's behind bars for a murder Polo committed, Carla's holding the cover-up together, and Samuel's grieving, furious, and running out of options. Into that chaos, Las Encinas welcomes three new students who each bring their own brand of disaster. As usual, flash-forwards drop you into police interrogations while the season walks you toward another body.

@@ -10,8 +10,6 @@ excerpt: "I walked out of Ready or Not 2 thinking one thing: Samara Weaving dese
 coverImage: "/images/posts/review-ready-or-not-2-2026/image-1.jpg"
 ---
 
-![REVIEW: Ready Or Not 2 (2026)](/images/posts/review-ready-or-not-2-2026/image-1.jpg)
-
 I walked out of Ready or Not 2 thinking one thing: Samara Weaving deserves a raise.
 
 _This post contains minor spoilers._

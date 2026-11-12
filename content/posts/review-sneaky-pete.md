@@ -10,8 +10,6 @@ excerpt: "Sneaky Pete is a 2017 crime comedy drama on Amazon Prime. A con man st
 coverImage: "/images/posts/review-sneaky-pete/image-1.jpg"
 ---
 
-![REVIEW: Sneaky Pete](/images/posts/review-sneaky-pete/image-1.jpg)
-
 Sneaky Pete is a 2017 crime comedy drama on Amazon Prime. A con man steals his cellmate's identity to escape a dangerous gangster.
 
 The show follows Marius, a con man fresh out of prison who steals the identity of his former cellmate Pete to escape a very dangerous gangster he owes money to.

@@ -9,7 +9,6 @@ verdict: "Watch it now so you're caught up when Season 2 finally drops."
 excerpt: "Have you seen Common Side Effects? A mycologist discovers a mushroom that cures anything and naturally, everything goes wrong."
 coverImage: "/images/posts/review-common-side-effects/image-1.jpg"
 ---
-![REVIEW: Common Side Effects](/images/posts/review-common-side-effects/image-1.jpg)
 
 Have you seen Common Side Effects? A mycologist discovers a mushroom that cures anything and naturally, everything goes wrong.
 

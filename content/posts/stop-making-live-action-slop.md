@@ -9,8 +9,6 @@ excerpt: "Animation is its own magnificent final draft, not a testing ground for
 coverImage: "/images/posts/stop-making-live-action-slop/image-1.jpg"
 ---
 
-![Stop Making Live Action Slop!](/images/posts/stop-making-live-action-slop/image-1.jpg)
-
 Another year, another beloved, culturally flawless animated project dragged kicking and screaming into a live-action remake absolutely nobody asked for. 
 
 By this point, Hollywood's corporate pattern is painfully transparent: take an animated masterpiece, strip out every ounce of vibrant magic that made it function, slap real actors and "grounded" cinematography on it, and label the final carcass a *reimagining*. It isn't. 

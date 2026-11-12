@@ -12,8 +12,6 @@ excerpt: S Line had everything it needed to be one of the most interesting
 coverImage: /images/posts/review-s-line/image-1.jpg
 ---
 
-![REVIEW: S Line](/images/posts/review-s-line/image-1.jpg)
-
 S Line had everything it needed to be one of the most interesting K-dramas of 2025, and somehow, it still managed to blow it completely.
 
 This is one of those rare shows where the disappointment hits harder precisely because the potential was so obvious from the very start. We are talking about a concept so bold and provocative that it earned a spot at the 8th Cannes International Series Festival before it even aired. A Best Music award, early buzz from international critics, a cast featuring Lee Soo-hyuk and Lee Da-hee, and a premise lifted from a popular webtoon by Little Bee. This was a guaranteed win, and then they went ahead and fumbled it.

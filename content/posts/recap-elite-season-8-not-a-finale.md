@@ -9,7 +9,6 @@ score: 6.5
 excerpt: Eight seasons of Elite secrets, sex scandals, murder, and filthy rich teenagers making the worst decisions imaginable, and this is how we go out.
 coverImage: /images/posts/recap-elite-season-8/image-1.jpg
 ---
-![RECAP: Elite Season 8](/images/posts/recap-elite-season-8/image-1.jpg)
 
 Eight seasons of secrets, sex scandals, murder, and filthy rich teenagers making the worst decisions imaginable, and this is how we go out.
 

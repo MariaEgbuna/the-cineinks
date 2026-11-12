@@ -10,8 +10,6 @@ excerpt: From psychological thrillers that will rot your brain to sports anime t
 coverImage: /images/posts/anime-recommendations-may-20-2026/image-1.jpg
 ---
 
-![My Favorite Anime: 10 Shows That Live Rent-Free in My Head](/images/posts/anime-recommendations-may-20-2026/image-1.jpg)
-
 From psychological thrillers that will rot your brain to sports anime that will make you want to run through a brick wall.
 
 Here are my top 10 anime shows you need to watch immediately, plus two honourable mentions at the bottom, because some things are too good to leave off entirely.

@@ -9,8 +9,6 @@ excerpt: "Let me tell you about the Roundup movies, the most slept-on action fra
 coverImage: "/images/posts/hall-of-fame-the-roundup-movies/image-1.jpg"
 ---
 
-![The Roundup Movies in Order: Korea's Most Slept-On Action Franchise](/images/posts/hall-of-fame-the-roundup-movies/image-1.jpg)
-
 Let me tell you about the Roundup movies, the most slept-on action franchise on the planet right now.
 
 It's a South Korean action-crime series built around one man: Detective Ma Seok-do, played by Ma Dong-seok, the Monster Cop. Gambling rings, drug cartels, cross-border syndicates: they all underestimate him, and they all pay for it.
