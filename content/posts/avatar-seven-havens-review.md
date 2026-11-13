@@ -1,5 +1,5 @@
 ---
-title: "Avatar: Seven Havens (2026) Review: Great Ideas, Frustrating Execution"
+title: "Avatar: Seven Havens S1 Review: Great Ideas, Frustrating Execution"
 slug: "avatar-seven-havens-review"
 date: "2026-10-31T10:30:00Z"
 category: "Review"

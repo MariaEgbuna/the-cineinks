@@ -1,5 +1,5 @@
 ---
-title: "The Affair Was Just The Beginning Review: Unhinged In The Best Way"
+title: "The Affair Was Just The Beginning Review: Unhinged Chaos"
 slug: "review-the-affair-was-just-the-beginning"
 date: "2026-10-24T10:30:00Z"
 category: "Review"

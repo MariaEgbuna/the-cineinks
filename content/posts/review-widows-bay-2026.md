@@ -1,5 +1,5 @@
 ---
-title: "Widow's Bay (2026) Review: I Spoiled the Finale Early and It Still Worked"
+title: "Widow's Bay (2026) Review: A Balanced Horror-Comedy"
 slug: review-widow-bay-2026
 date: 2026-09-15T10:45:00.000+01:00
 category: Review

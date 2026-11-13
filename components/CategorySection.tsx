@@ -55,19 +55,15 @@ export default function CategorySection({ title, href, posts }: CategorySectionP
             </div>
 
             <div className="min-w-0 md:pt-3">
-              {/* Phone only: category and date above the title */}
-              <p className="mb-1 flex items-center gap-2 text-xs md:hidden">
-                <span className="font-medium text-accent">{post.category}</span>
-                <span className="text-main/30">•</span>
-                <span className="text-main/40">{formatDate(post.date)}</span>
+              {/* Phone only: the category on its own line, so a long name never squeezes the date */}
+              <p className="mb-1 text-xs font-medium text-accent md:hidden">
+                {post.category}
               </p>
               <h3 className="font-serif text-sm leading-snug text-main line-clamp-3 transition-colors group-hover:text-accent md:text-base">
                 {post.title}
               </h3>
-              {/* Desktop only: date under the title */}
-              <p className="mt-1.5 hidden text-xs text-main/40 md:block">
-                {formatDate(post.date)}
-              </p>
+              {/* The date sits under the title on every screen size */}
+              <p className="mt-1.5 text-xs text-main/40">{formatDate(post.date)}</p>
             </div>
           </Link>
         ))}

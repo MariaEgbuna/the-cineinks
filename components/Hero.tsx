@@ -100,16 +100,16 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
 
               {/* Phone: text on the right. Desktop: text over the bottom of the tile. */}
               <div className="min-w-0 md:absolute md:inset-x-0 md:bottom-0 md:z-10 md:p-4">
-                <p className="mb-1 flex items-center gap-2 text-xs md:mb-0 md:block md:text-[11px]">
-                  <span className="font-medium text-accent md:text-teal-light">
-                    {post.category}
-                  </span>
-                  <span className="text-main/30 md:hidden">•</span>
-                  <span className="text-main/40 md:hidden">{formatDate(post.date)}</span>
+                <p className="mb-1 text-xs font-medium text-accent md:mb-0 md:text-[11px] md:text-teal-light">
+                  {post.category}
                 </p>
                 <h2 className="font-serif text-sm leading-snug text-main line-clamp-4 transition-colors group-hover:text-accent md:mt-0.5 md:text-base md:text-cream md:line-clamp-3 md:group-hover:text-cream">
                   {post.title}
                 </h2>
+                {/* Phones only: the date sits under the title */}
+                <p className="mt-1.5 text-xs text-main/40 md:hidden">
+                  {formatDate(post.date)}
+                </p>
               </div>
             </Link>
           ))}

@@ -68,14 +68,12 @@ export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProp
               </div>
 
               <div className="min-w-0">
-                <p className="mb-1 flex items-center gap-2 text-xs">
-                  <span className="font-medium text-accent">{related.category}</span>
-                  <span className="text-main/30">•</span>
-                  <span className="text-main/40">{formatDate(related.date)}</span>
-                </p>
+                {/* The category on its own line, so a long name never squeezes the date */}
+                <p className="mb-1 text-xs font-medium text-accent">{related.category}</p>
                 <h3 className="font-serif text-sm leading-snug text-main line-clamp-3 transition-colors group-hover:text-accent sm:text-base">
                   {related.title}
                 </h3>
+                <p className="mt-1.5 text-xs text-main/40">{formatDate(related.date)}</p>
               </div>
             </Link>
           ))}
