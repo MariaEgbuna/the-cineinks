@@ -2,10 +2,8 @@ import { notFound } from "next/navigation";
 import ArticleCard from "./ArticleCard";
 import Pagination from "./Pagination";
 import { formatDate } from "../utils/posts";
-import {
-  getPostsForCategory,
-  CATEGORY_POSTS_PER_PAGE,
-} from "../utils/categoryPosts";
+import { getPostsForCategory } from "../utils/categoryPosts";
+import { POSTS_PER_PAGE } from "../utils/pagination";
 
 type CategoryListingProps = {
   category: { slug: string; label: string };
@@ -14,12 +12,12 @@ type CategoryListingProps = {
 
 export default function CategoryListing({ category, pageNumber }: CategoryListingProps) {
   const posts = getPostsForCategory(category.label);
-  const totalPages = Math.max(1, Math.ceil(posts.length / CATEGORY_POSTS_PER_PAGE));
+  const totalPages = Math.max(1, Math.ceil(posts.length / POSTS_PER_PAGE));
 
   if (pageNumber < 1 || pageNumber > totalPages) notFound();
 
-  const start = (pageNumber - 1) * CATEGORY_POSTS_PER_PAGE;
-  const pagePosts = posts.slice(start, start + CATEGORY_POSTS_PER_PAGE);
+  const start = (pageNumber - 1) * POSTS_PER_PAGE;
+  const pagePosts = posts.slice(start, start + POSTS_PER_PAGE);
 
   return (
     <main>

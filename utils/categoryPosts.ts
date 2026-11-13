@@ -1,7 +1,6 @@
 import { getAllPosts } from "./posts";
+import { POSTS_PER_PAGE } from "./pagination";
 import type { Post } from "./posts";
-
-export const CATEGORY_POSTS_PER_PAGE = 9;
 
 // Same label matching the category pages have always used
 export function getPostsForCategory(label: string): Post[] {
@@ -12,5 +11,5 @@ export function getPostsForCategory(label: string): Post[] {
 
 export function getCategoryTotalPages(label: string): number {
   const total = getPostsForCategory(label).length;
-  return Math.max(1, Math.ceil(total / CATEGORY_POSTS_PER_PAGE));
+  return Math.max(1, Math.ceil(total / POSTS_PER_PAGE));
 }

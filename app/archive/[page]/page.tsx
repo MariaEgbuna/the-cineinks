@@ -2,9 +2,8 @@ import { notFound } from "next/navigation";
 import ArticleCard from "../../../components/ArticleCard";
 import Pagination from "../../../components/Pagination";
 import { getAllPosts, formatDate } from "../../../utils/posts";
+import { POSTS_PER_PAGE } from "../../../utils/pagination";
 import type { Metadata } from "next";
-
-const POSTS_PER_PAGE = 9;
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { page } = await params;

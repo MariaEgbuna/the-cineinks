@@ -3,8 +3,7 @@ import { SITE_URL } from "../utils/site";
 import { getAllPosts } from "../utils/posts";
 import { categories } from "../utils/categories";
 import { getCategoryTotalPages } from "../utils/categoryPosts";
-
-const POSTS_PER_PAGE = 9;
+import { POSTS_PER_PAGE } from "../utils/pagination";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
@@ -28,7 +27,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(),
   }));
 
-  // Page 2 and up of each category (only exists once a category passes 9 posts)
+  // Page 2 and up of each category (only exists once a category passes one page)
   const categoryPaginatedPages: MetadataRoute.Sitemap = categories.flatMap((category) => {
     const totalPages = getCategoryTotalPages(category.label);
     return Array.from({ length: totalPages - 1 }, (_, i) => ({

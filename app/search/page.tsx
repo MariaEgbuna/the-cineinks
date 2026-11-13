@@ -2,10 +2,9 @@ import Link from "next/link";
 import ArticleCard from "../../components/ArticleCard";
 import Pagination from "../../components/Pagination";
 import { getAllPosts, formatDate } from "../../utils/posts";
+import { POSTS_PER_PAGE } from "../../utils/pagination";
 import type { Post } from "../../utils/posts";
 import type { Metadata } from "next";
-
-const RESULTS_PER_PAGE = 9;
 
 type PageProps = {
   searchParams: Promise<{ q?: string | string[]; page?: string | string[] }>;
@@ -78,10 +77,10 @@ export default async function SearchPage({ searchParams }: PageProps) {
           .map((entry) => entry.post);
 
   // Pagination: a page number that is too high falls back to the last page
-  const totalPages = Math.max(1, Math.ceil(results.length / RESULTS_PER_PAGE));
+  const totalPages = Math.max(1, Math.ceil(results.length / POSTS_PER_PAGE));
   const currentPage = Math.min(getPageNumber(page), totalPages);
-  const start = (currentPage - 1) * RESULTS_PER_PAGE;
-  const pageResults = results.slice(start, start + RESULTS_PER_PAGE);
+  const start = (currentPage - 1) * POSTS_PER_PAGE;
+  const pageResults = results.slice(start, start + POSTS_PER_PAGE);
 
   return (
     <main>

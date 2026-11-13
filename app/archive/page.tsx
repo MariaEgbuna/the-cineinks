@@ -1,9 +1,7 @@
-import Link from "next/link";
 import ArticleCard from "../../components/ArticleCard";
 import Pagination from "../../components/Pagination";
 import { getAllPosts, formatDate } from "../../utils/posts";
-
-const POSTS_PER_PAGE = 9;
+import { POSTS_PER_PAGE } from "../../utils/pagination";
 
 export default function ArchivePage() {
   const allPosts = getAllPosts();
@@ -13,7 +11,6 @@ export default function ArchivePage() {
   return (
     <>
       <main>
-        {/* Changed: bg-ink is now bg-bar, text-cream is now text-main */}
         <section className="bg-bar py-5 md:py-8">
           <div className="max-w-[1600px] mx-auto px-5">
             <h1 className="font-serif text-3xl text-main">All Posts</h1>
