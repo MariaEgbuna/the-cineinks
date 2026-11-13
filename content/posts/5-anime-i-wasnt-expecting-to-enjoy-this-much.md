@@ -6,7 +6,7 @@ category: Recommendations
 labels:
   - Anime
 excerpt: "From Twitter-clip accidents to massive hype traps, these 5 anime completely shattered my expectations."
-coverImage: /images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover-photo.jpg
+coverImage: /images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover.jpg
 featured: false
 ---
 

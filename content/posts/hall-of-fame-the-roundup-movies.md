@@ -6,7 +6,7 @@ category: "Hall of Fame"
 labels: ["Movies"]
 score: null
 excerpt: "Let me tell you about the Roundup movies, the most slept-on action franchise on the planet right now."
-coverImage: "/images/posts/hall-of-fame-the-roundup-movies/image-1.jpg"
+coverImage: "/images/posts/hall-of-fame-the-roundup-movies/round-up.jpg"
 ---
 
 Let me tell you about the Roundup movies, the most slept-on action franchise on the planet right now.

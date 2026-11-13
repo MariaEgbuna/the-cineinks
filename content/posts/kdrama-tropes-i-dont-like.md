@@ -1,5 +1,5 @@
 ---
-title: "Annoying K-Drama Tropes I'm Tired of Seeing"
+title: "Annoying K-Drama Tropes"
 slug: annoying-kdrama-tropes
 date: 2026-09-17T15:30:00.000+01:00
 category: Extra
@@ -8,7 +8,7 @@ labels:
 score: null
 excerpt: These are the K-drama tropes I can't stand, and I say that as someone
   who loves the genre.
-coverImage: /images/posts/kdrama-tropes-i-dont-like/jackie-chan-meme.jpg
+coverImage: /images/posts/kdrama-tropes-i-dont-like/cover-image.jpg
 featured: false
 ---
 

@@ -7,7 +7,7 @@ labels: ["Movies"]
 score: 5
 verdict: "This movie is basically the definition of a perfectly average thriller."
 excerpt: "The setup of Carry On is basically Die Hard reworked for a TSA badge instead of a cop’s. On paper, it should deliver wall-to-wall tension."
-coverImage: "/images/posts/review-carry-on-2024/image-1.jpg"
+coverImage: "/images/posts/review-carry-on-2024/carry-on.jpg"
 ---
 
 The setup is basically Die Hard reworked for a TSA badge instead of a cop's. On paper, it should deliver wall-to-wall tension.
