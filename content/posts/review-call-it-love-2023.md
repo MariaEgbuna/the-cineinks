@@ -6,7 +6,7 @@ category: Review
 labels:
   - KDrama
 score: 6.8
-verdict: "So long, unnecessarily long. That's the short version of my entire experience."
+verdict: "So long, unnecessarily long."
 excerpt: I watched sixteen episodes of Call It Love, a melodrama, mostly because Kim Young-kwang, a man who usually plays psychopaths, decided to be soft for once.
 coverImage: /images/posts/review-call-it-love-2023/call-it-love.jpg
 featured: false

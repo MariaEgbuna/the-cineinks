@@ -4,7 +4,7 @@ slug: "review-caddo-lake"
 date: "2026-06-04T15:42:02.745Z"
 category: "Review"
 labels: ["Movies"]
-score: 9.4
+score: 9.6
 verdict: "A masterpiece."
 excerpt: "Caddo Lake is a 2024 sci-fi thriller by Celine Held and Logan George and it was an absolute gem."
 coverImage: "/images/posts/review-caddo-lake/image-1.jpg"

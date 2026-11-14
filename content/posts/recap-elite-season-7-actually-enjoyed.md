@@ -1,22 +1,19 @@
 ---
-title: "Elite Season 7 Recap: I Actually Enjoyed It"
+title: "Elite Season 7 Recap: Omar's Return, New Alliances, and a Fatal Fall"
 slug: "recap-elite-season-7-actually-enjoyed"
 date: 2026-06-08T10:30:00.000Z
 category: Recap
 labels:
   - Recap
-score: 7.1
-excerpt: Elite Season 7 has no cold open dropping you into a crime scene this time. The story just starts and moves forward. That decision alone signals that the writers were trying to do something different.
-coverImage: /images/posts/recap-elite-season-7/elite.jpg
+excerpt: No flash-forwards, an undercover police sting, a severe domestic abuse plot, and a rooftop murder covered up as suicide. Here is everything that happens in Elite Season 7.
+coverImage: /images/posts/recap-elite-season-7/cover.jpg
 ---
 
-No cold open dropping you into a crime scene this time. The story just starts and moves forward. That decision alone signals that the writers were trying to do something different.
+Dropping the format of flash-forward interrogations, Elite Season 7 shifts toward linear storytelling while tackling heavy arcs involving domestic abuse, undercover policing, and mental health. The season centers on shifting power dynamics at Las Encinas before culminating in Raúl's death and a dangerous cover-up.
 
-This was the first season to drop the flash-forward interrogation structure the show had used since the beginning.
+_This post contains spoilers for Season 7 of Netflix's Elite._
 
-I went into Season 7 expecting absolutely nothing. After what Seasons 4 through 6 put me through I had basically written this show off and was just watching out of stubbornness. But here is the thing: Season 7 actually has consequences. People carry their baggage from one episode to the next, the decisions they make actually cost them something, the new characters come with real drama attached instead of just taking up screen time. Is it a full comeback? No. But it is enough to make me sit up and pay attention again, and after the last few seasons, that counts for a lot.
-
-*This post contains spoilers for Season 7 of Netflix's Elite.*
+_Content note: this recap mentions sexual assault, domestic abuse, suicide ideation, and murder._
 
 - - -
 
@@ -123,12 +120,6 @@ The season closes on the fallout. Nico brings Eric home to his parents' relief. 
 
 - - -
 
-### What worked
-
-Eric stole the show this season. His mental health arc gets more room to breathe than almost anything else here, and it hits because the writing treats it seriously rather than as a shock beat. Ivan handled himself with real maturity this season too, especially given everything he's been carrying since Cruz died. And Carmen pushing Raul off that roof works well as more than just a shocking finale twist, it's a woman finally acting on years of watching men like him get away with it, and the show earns that catharsis by the time it happens. Dalmar was a quiet highlight too, steady in a season full of people barely holding it together.
-
----
-
 Season 7 is not bad. Actually, better than not bad, and I didn't think I'd be saying that after the last few seasons.
 
 This is the best this show has been since Season 3. It's not a full return to form, but a real, visible step back toward what made the early seasons work. The drama hits harder because it's grounded in who these people actually are rather than just what scandalous thing happens next. The abuse storyline, Eric's mental health arc, Omar's grief, the toxic family loyalty threading through the corruption plot: all of it works because the writing gives it room to breathe.
@@ -137,4 +128,4 @@ The weak spots are still there. The dialogue is kind of cheesy, Isa and Didac go
 
 One season left. The show set up the right questions to answer. Here's hoping Season 8 actually crosses the finish line properly, because after seven seasons of watching these people hurt each other in increasingly creative ways, they all deserve a clean exit.
 
-[← Prev: Season 6](https://cineinks.vercel.app/posts/recap-elite-season-6) [Next: Season 8 →](https://cineinks.vercel.app/posts/recap-elite-season-8)
+[← Prev: Season 6](https://cineinks.vercel.app/posts/recap-elite-season-6-got-tired) [Next: Season 8 →](https://cineinks.vercel.app/posts/recap-elite-season-8-not-a-finale)

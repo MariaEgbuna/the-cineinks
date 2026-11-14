@@ -1,5 +1,5 @@
 ---
-title: "Is Bob's Burgers Worth Watching? Yes, It Got Better With Time"
+title: "Is Bob's Burgers Worth Watching? Yes."
 slug: bobs-burgers-is-special
 date: 2026-07-06T10:30:00.000Z
 category: Extra

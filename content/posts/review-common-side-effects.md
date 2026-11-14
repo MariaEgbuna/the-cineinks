@@ -10,8 +10,6 @@ excerpt: "Have you seen Common Side Effects? A mycologist discovers a mushroom t
 coverImage: "/images/posts/review-common-side-effects/image-1.jpg"
 ---
 
-Have you seen Common Side Effects? A mycologist discovers a mushroom that cures anything and naturally, everything goes wrong.
-
 Common Side Effects is a 2025 adult animated dark comedy-thriller that follows Marshall Cuso, a mycologist who discovers the Blue Angel Mushroom, a rare fungus that appears to cure any illness or injury imaginable.
 
 When word gets out, he and his old high school friend Frances find themselves caught in a dangerous cat-and-mouse conspiracy involving a ruthless pharmaceutical giant and a government dead set on burying the discovery. Think a paranoid thriller wrapped inside a darkly funny commentary on corporate greed and the broken healthcare machine.

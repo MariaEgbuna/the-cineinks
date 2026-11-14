@@ -39,13 +39,11 @@
       "labels:",
       "  - ${3|Series,Anime,KDrama|}",
       "  - Recap",
-      "score: ${4:7.9}",
-      "verdict: \"${5}\"",
-      "excerpt: \"${6:Opening hook, word for word.}\"",
+      "excerpt: \"${4:Opening hook, word for word.}\"",
       "coverImage: /images/posts/${2}/image-1.jpg",
       "featured: false",
       "---",
-      "![RECAP: ${7:Show Season N}](/images/posts/${2}/image-1.jpg)",
+      "![RECAP: ${5:Show Season N}](/images/posts/${2}/image-1.jpg)",
       "",
       "$0"
     ]

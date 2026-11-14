@@ -6,7 +6,7 @@ category: "Extra"
 labels: ["Movies"]
 score: null
 excerpt: "Five days, nine movies, and three of them didn't survive past the one-hour mark."
-coverImage: "/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-1.jpg"
+coverImage: "/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/cover.jpg"
 ---
 
 Five days, nine movies, and three of them didn't survive past the one-hour mark.

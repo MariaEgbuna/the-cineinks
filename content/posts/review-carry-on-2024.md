@@ -5,12 +5,10 @@ date: "2026-05-11T10:18:00.007Z"
 category: "Review"
 labels: ["Movies"]
 score: 5
-verdict: "This movie is basically the definition of a perfectly average thriller."
+verdict: "Just rewatch Die Hard"
 excerpt: "The setup of Carry On is basically Die Hard reworked for a TSA badge instead of a cop’s. On paper, it should deliver wall-to-wall tension."
 coverImage: "/images/posts/review-carry-on-2024/carry-on.jpg"
 ---
-
-The setup is basically Die Hard reworked for a TSA badge instead of a cop's. On paper, it should deliver wall-to-wall tension.
 
 Carry-On is a Netflix thriller directed by Jaume Collet-Serra, the guy behind The Shallows and a string of Liam Neeson vs. a ticking clock movies like Non-Stop and The Commuter. Ethan Kopek (Taron Egerton) is a junior TSA officer at LAX on Christmas Eve when a stranger, credited only as the Traveler (Jason Bateman), drops an earpiece on his station and starts giving orders: let one specific carry-on through the scanner, or Ethan's girlfriend Nora pays for it.
 
@@ -32,6 +30,4 @@ The film leans into that one-guy-against-impossible-odds formula Collet-Serra ha
 
 ---
 
-All the ingredients are there, but the execution fumbles just enough that it never turns into anything memorable. It did rack up huge numbers for Netflix in its opening week, so clearly the premise alone was enough to pull people in. Watch it if you need some background noise with a bit of adrenaline in it. Otherwise, just rewatch Die Hard instead.
-
-**Am I being too harsh?**
+All the ingredients are there, but the execution fumbles just enough that it never turns into anything memorable. It did rack up huge numbers for Netflix in its opening week, so clearly the premise alone was enough to pull people in. Watch it if you need some background noise with a bit of adrenaline in it.
