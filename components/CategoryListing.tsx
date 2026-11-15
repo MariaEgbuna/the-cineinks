@@ -21,9 +21,19 @@ export default function CategoryListing({ category, pageNumber }: CategoryListin
 
   return (
     <main>
-      <section className="bg-bar py-5 md:py-8">
+      <section className="bg-linear-to-b from-accent/10 to-transparent py-6 md:py-8">
         <div className="max-w-[1600px] mx-auto px-5">
-          <h1 className="font-serif text-3xl text-main">{category.label}</h1>
+          {/* Changed: font-mono label and count line */}
+          <p className="mb-1 font-mono text-xs font-medium uppercase tracking-wide text-accent">
+            Category
+          </p>
+          <h1 className="font-serif text-2xl font-semibold leading-tight text-main md:text-3xl">
+            {category.label}
+          </h1>
+          <p className="mt-1.5 font-mono text-sm text-muted">
+            {posts.length} {posts.length === 1 ? "post" : "posts"}
+            {totalPages > 1 && ` · Page ${pageNumber} of ${totalPages}`}
+          </p>
         </div>
       </section>
       <section className="bg-page py-6 md:py-10">

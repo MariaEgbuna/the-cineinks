@@ -7,10 +7,10 @@ export const metadata: Metadata = {
 
 export default function NotFound() {
   return (
-    <main className="bg-page py-16 md:py-28">
+    <main className="bg-linear-to-b from-accent/10 to-transparent py-16 md:py-28">
       <div className="max-w-225 mx-auto px-5 text-center">
-        <p className="font-serif text-6xl font-light text-accent/40 mb-4">404</p>
-        <h1 className="font-serif text-3xl text-main mb-3">
+        <p className="font-mono text-6xl font-light text-accent/40 mb-4">404</p>
+        <h1 className="font-serif text-2xl font-semibold text-main mb-3 md:text-3xl">
           This one didn&apos;t make the cut
         </h1>
         <p className="text-main/60 mb-8">

@@ -1,10 +1,33 @@
 import type { Metadata } from "next";
+import { Lora, Inter, Courier_Prime } from "next/font/google";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { SITE_URL } from "../utils/site";
 import { getSearchablePosts } from "../utils/posts";
 import { Analytics } from "@vercel/analytics/next";
+
+// Headings and titles: an editorial serif
+const lora = Lora({
+  subsets: ["latin"],
+  variable: "--font-lora",
+  display: "swap",
+});
+
+// Body text: clean and readable
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+  display: "swap",
+});
+
+// Typewriter accent, only used where you add the font-mono class
+const courierPrime = Courier_Prime({
+  subsets: ["latin"],
+  weight: ["400", "700"],
+  variable: "--font-courier-prime",
+  display: "swap",
+});
 
 const SITE_DESCRIPTION =
   "Honest reviews and takes on movies, series, anime, and K-dramas. No fancy film degrees here, just what I'm watching or have watched.";
@@ -65,6 +88,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
+      className={`${lora.variable} ${inter.variable} ${courierPrime.variable}`}
       suppressHydrationWarning
     >
       <head>

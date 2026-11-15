@@ -110,53 +110,60 @@ export default async function PostPage({ params }: PageProps) {
         />
       )}
 
-      {/* Banner: cover image behind the title. Without a cover, it falls
-          back to the plain header. The padding sets the banner height. */}
-      <section className="relative overflow-hidden bg-bar">
-        {hasCover && (
-          <>
-            <Image
-              src={post.coverImage}
-              alt=""
-              fill
-              priority
-              sizes="100vw"
-              className="object-cover"
-            />
-            <div className="absolute inset-0 bg-linear-to-t from-black/95 via-black/60 to-black/20" />
-          </>
-        )}
-
+      {/* Banner: text on the left, the cover image on the right at its
+          natural 4:3 shape (no zooming). On phones the text comes first
+          and the image sits below it. Without a cover, it's text only. */}
+      <section className="bg-linear-to-b from-accent/10 to-transparent">
         <div
-          className={`relative max-w-225 mx-auto px-5 ${
-            hasCover ? "pt-40 pb-8 md:pt-64 md:pb-12" : "py-6 md:py-10"
+          className={`max-w-300 mx-auto px-5 py-6 md:py-10 ${
+            hasCover
+              ? "grid grid-cols-1 items-center gap-6 md:grid-cols-[1.3fr_1fr] md:gap-10"
+              : "max-w-225"
           }`}
         >
-          <div className="flex items-center gap-3 mb-4">
-            <span className="bg-teal text-teal-light text-xs px-2.5 py-1 rounded">
-              {post.category}
-            </span>
-            {/* bg-ink keeps the light score colors readable on any header */}
-            {post.score !== null && (
-              <span
-                className={`bg-ink text-sm font-medium px-3 py-1 rounded ${scoreColor(
-                  post.score
-                )}`}
-              >
-                {post.score}/10
+          <div>
+            <div className="flex items-center gap-3 mb-4">
+              {/* Changed: font-mono, uppercase, small */}
+              <span className="bg-teal text-teal-light font-mono text-[11px] uppercase tracking-wide px-2.5 py-1 rounded">
+                {post.category}
               </span>
+              {/* bg-ink keeps the light score colors readable on any background */}
+              {post.score !== null && (
+                <span
+                  className={`bg-ink text-sm font-medium px-3 py-1 rounded ${scoreColor(
+                    post.score
+                  )}`}
+                >
+                  {post.score}/10
+                </span>
+              )}
+            </div>
+            <h1 className="font-serif text-3xl md:text-4xl leading-tight text-main mb-3">
+              {post.title}
+            </h1>
+            {post.excerpt && (
+              <p className="text-base md:text-lg leading-relaxed text-main/70 mb-4">
+                {post.excerpt}
+              </p>
             )}
+            {/* Changed: font-mono */}
+            <p className="font-mono text-sm text-muted">
+              {formattedDate} · {readingMinutes} min read
+            </p>
           </div>
-          <h1
-            className={`font-serif text-3xl md:text-4xl lg:text-5xl leading-tight mb-3 ${
-              hasCover ? "text-cream" : "text-main"
-            }`}
-          >
-            {post.title}
-          </h1>
-          <p className={`text-sm ${hasCover ? "text-cream/70" : "text-main/60"}`}>
-            {formattedDate} · {readingMinutes} min read
-          </p>
+
+          {hasCover && (
+            <div className="relative aspect-4/3 overflow-hidden bg-line">
+              <Image
+                src={post.coverImage}
+                alt={post.title}
+                fill
+                priority
+                sizes="(min-width: 1200px) 500px, (min-width: 768px) 40vw, 100vw"
+                className="object-cover"
+              />
+            </div>
+          )}
         </div>
       </section>
 

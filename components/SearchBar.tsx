@@ -70,9 +70,12 @@ export default function SearchBar({ posts }: SearchBarProps) {
         <form
           onSubmit={handleSubmit}
           role="search"
-          className="flex items-center gap-2 bg-main/10 rounded px-3 py-1.5 focus-within:ring-2 focus-within:ring-accent"
+          // Changed: on phones the box floats just below the header row
+          // (full width, 44px tall, with a shadow) and doesn't move anything.
+          // From md up it sits inline like before.
+          className="absolute inset-x-0 top-full z-40 -mt-2 flex h-11 items-center gap-2 rounded border border-line bg-card px-3 shadow-lg focus-within:ring-2 focus-within:ring-accent md:static md:mt-0 md:h-auto md:border-0 md:bg-main/10 md:py-1.5 md:shadow-none"
         >
-          {/* The magnifier is now a submit button */}
+          {/* The magnifier is a submit button */}
           <button
             type="submit"
             aria-label="Search"
@@ -93,7 +96,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
             }}
             placeholder="Search posts..."
             aria-label="Search posts"
-            className="bg-transparent text-main text-sm placeholder:text-muted outline-none w-40 md:w-56"
+            className="min-w-0 flex-1 bg-transparent text-main text-sm placeholder:text-muted outline-none md:w-56 md:flex-none"
           />
           <button
             type="button"
@@ -116,9 +119,10 @@ export default function SearchBar({ posts }: SearchBarProps) {
         </button>
       )}
 
-      {/* Quick results dropdown */}
+      {/* Quick results dropdown.
+          Changed: on phones it starts below the floating box (mt-11) */}
       {isOpen && trimmedQuery && (
-        <div className="absolute left-0 right-0 top-full -mt-2 md:left-auto md:mt-2 md:w-80 bg-card border border-line rounded shadow-lg z-50 max-h-96 overflow-y-auto">
+        <div className="absolute left-0 right-0 top-full mt-11 md:left-auto md:mt-2 md:w-80 bg-card border border-line rounded shadow-lg z-50 max-h-96 overflow-y-auto">
           {results.length === 0 ? (
             <p className="text-sm text-main/60 px-4 py-3">No quick matches.</p>
           ) : (
@@ -132,7 +136,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
                 <p className="text-sm font-medium text-main leading-snug">
                   {post.title}
                 </p>
-                <p className="text-xs text-muted mt-0.5">{post.category}</p>
+                <p className="font-mono text-[11px] uppercase tracking-wide text-muted mt-0.5">{post.category}</p>
               </Link>
             ))
           )}

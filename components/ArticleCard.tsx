@@ -24,25 +24,31 @@ export default function ArticleCard({
   return (
     <Link
       href={`/posts/${slug}`}
-      className="group block bg-card overflow-hidden border border-line transition duration-300 hover:-translate-y-1 hover:border-accent/40 hover:shadow-xl hover:shadow-black/10 dark:hover:shadow-accent/10"
+      // flex-row-reverse puts the thumbnail on the right on phones.
+      // Desktop switches to a block, so the full card is unchanged.
+      className="group flex flex-row-reverse items-start gap-3 bg-card border border-line p-3 transition duration-300 hover:border-accent/40 md:block md:overflow-hidden md:p-0 md:hover:-translate-y-1 md:hover:shadow-xl md:hover:shadow-black/10 dark:md:hover:shadow-accent/10"
     >
-      <div className="relative bg-line aspect-4/3 overflow-hidden">
+      <div className="relative bg-line aspect-4/3 w-28 shrink-0 overflow-hidden sm:w-40 md:w-full">
         {coverImage && (
           <Image
             src={coverImage}
             alt={title}
             fill
-            sizes="(min-width: 768px) 33vw, 100vw"
+            sizes="(min-width: 768px) 33vw, (min-width: 640px) 160px, 112px"
             className="object-cover transition-transform duration-500 group-hover:scale-105"
           />
         )}
-        <div className="absolute inset-x-0 bottom-0 h-1/2 bg-linear-to-t from-black/50 to-transparent" />
-        <span className="absolute bottom-2.5 left-2.5 bg-teal text-teal-light text-xs px-2 py-1 rounded">
+
+        {/* Desktop only: soft shade and category badge over the image */}
+        <div className="absolute inset-x-0 bottom-0 hidden h-1/2 bg-linear-to-t from-black/50 to-transparent md:block" />
+        {/* Changed: font-mono, uppercase, small */}
+        <span className="absolute bottom-2.5 left-2.5 hidden bg-teal text-teal-light font-mono text-[11px] uppercase tracking-wide px-2 py-1 rounded md:block">
           {category}
         </span>
+
         {score !== null && (
           <span
-            className={`absolute top-2.5 right-2.5 bg-ink text-xs font-medium px-2.5 py-1 rounded ${scoreColor(
+            className={`absolute top-1.5 right-1.5 bg-ink text-[11px] font-medium px-1.5 py-0.5 rounded md:top-2.5 md:right-2.5 md:text-xs md:px-2.5 md:py-1 ${scoreColor(
               score
             )}`}
           >
@@ -50,14 +56,21 @@ export default function ArticleCard({
           </span>
         )}
       </div>
-      <div className="p-4">
-        <h3 className="font-serif text-lg text-main leading-snug mb-1.5 transition-colors group-hover:text-accent">
+
+      <div className="min-w-0 flex-1 md:p-4">
+        {/* Phone only: the category as a text line above the title. Changed: font-mono */}
+        <p className="mb-1 font-mono text-[11px] font-medium uppercase tracking-wide text-accent md:hidden">
+          {category}
+        </p>
+        <h3 className="font-serif text-sm text-main leading-snug line-clamp-3 transition-colors group-hover:text-accent md:mb-1.5 md:text-lg md:line-clamp-none">
           {title}
         </h3>
-        <p className="text-sm text-main/60 leading-relaxed mb-2.5">
+        {/* Hidden on small phones, two lines on larger phones, full on desktop */}
+        <p className="hidden sm:block text-sm text-main/60 leading-relaxed mt-1 line-clamp-2 md:mt-0 md:mb-2.5 md:line-clamp-none">
           {excerpt}
         </p>
-        <p className="text-xs text-muted">{date}</p>
+        {/* Changed: font-mono date */}
+        <p className="mt-1.5 font-mono text-xs text-muted md:mt-0">{date}</p>
       </div>
     </Link>
   );

@@ -1,20 +1,22 @@
 ---
-title: "Anime Recommendations: 5 Shows I Wasn't Expecting to Enjoy This Much"
+title: "5 Anime I Didn’t Expect to Enjoy This Much"
 slug: animes-i-wasnt-expecting-to-enjoy
 date: 2026-09-25T11:25:00.000+01:00
 category: Recommendations
 labels:
   - Anime
-excerpt: "From Twitter-clip accidents to massive hype traps, these 5 anime completely shattered my expectations."
+excerpt: "Five anime I almost skipped: a monster-girl comedy, a heliocentrism thriller, and a palace mystery that ate my weekend. Here's why each one won me over."
 coverImage: /images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover.jpg
 featured: false
 ---
 
-This list came together differently than my last one. I stumbled backward into these picks: a few found me through random Twitter clips, one had so much hype that I went in ready to hate-watch it (and failed), and a couple pushed me out of my usual genres.
+I'm pretty stubborn about what I'll watch. If a show looks slow, or too romantic, or just not for me, I skip it and never think about it again.
+
+These five got through anyway. A funny clip here, too much hype there, and one promise to myself to try something new. Now I'm the one telling everyone to watch them.
 
 ## 1. Interviews with Monster Girls (2017)
 
-![Anime Recommendations: 5 Shows I Wasn't Expecting to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/interview-with-monster-girls.jpg)
+![5 Anime I Didn’t Expect to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/interview-with-monster-girls.jpg)
 
 **2017 • 1 Season • 12 Episodes (+ 1 OVA) • Completed**
 
@@ -26,7 +28,7 @@ I saw a funny clip on my timeline, expected a forgettable comedy, and ended up c
 
 ## 2. Orb: On the Movement of the Earth (2024–2025)
 
-![Anime Recommendations: 5 Shows I Wasn't Expecting to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/orb-on-the-movement-of-earth.jpg)
+![5 Anime I Didn’t Expect to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/orb-on-the-movement-of-earth.jpg)
 
 **2024–2025 • 1 Season • 25 Episodes • Completed**
 
@@ -38,7 +40,7 @@ The internet was screaming about this show while it aired, and the hype still wa
 
 ## 3. My Happy Marriage (2023–2025)
 
-![Anime Recommendations: 5 Shows I Wasn't Expecting to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/my-happy-marriage.jpg)
+![5 Anime I Didn’t Expect to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/my-happy-marriage.jpg)
 
 **2023–2025 (Special coming Oct 2026) • 2 Seasons • 26 Episodes (+ 3-episode special) • Ongoing**
 
@@ -50,7 +52,7 @@ I am not a romance person, but I promised myself I would step out of my comfort 
 
 ## 4. Kaguya-sama: Love Is War (2019–2022)
 
-![Anime Recommendations: 5 Shows I Wasn't Expecting to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/kaguya-sama-love-is-war.jpg)
+![5 Anime I Didn’t Expect to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/kaguya-sama-love-is-war.jpg)
 
 **2019–2022 • 3 Seasons • 37 Episodes (+ film) • On Hiatus**
 
@@ -62,7 +64,7 @@ I don't do romance, but this is the exception, because it is secretly a comedy d
 
 ## 5. The Apothecary Diaries (2023–Present)
 
-![Anime Recommendations: 5 Shows I Wasn't Expecting to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/the-apothecary-diaries.jpg)
+![5 Anime I Didn’t Expect to Enjoy This Much](/images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/the-apothecary-diaries.jpg)
 
 **2023–Present (Season 3 starting Oct 2026) • 2 Seasons • 48 Episodes • Ongoing**
 

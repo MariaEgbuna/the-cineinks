@@ -1,16 +1,18 @@
 ---
-title: "The Boys Ending: The Finale Was Fine, The Season Wasn’t"
+title: "The Boys Finale Review: Fine Ending, Weak Final Season"
 slug: about-the-boys
-date: 2026-05-22T07:23:21.430Z
+date: 2026-05-22T08:23:21.430+01:00
 category: Thoughts
 labels:
   - Series
 score: null
-excerpt: "The crowbar met the skull, but the road to get there was a mess. Unpacking the corporate decay of Amazon’s flagship show."
+excerpt: "The finale was fine. The final season wasn't: rushed pacing, a thinner budget, and Homelander's powers switching on and off to suit the plot."
 coverImage: /images/posts/about-the-boys/image-1.jpg
 ---
 
-The series finale of *The Boys* was fine. I kind of liked it. My issue isn't with the final credits. It's with the unpolished final season we had to sit through to get there.
+*The Boys* is over, and I'm not even mad at the finale. That's the strange part. I watched the last episode, nodded, and thought, okay, fair enough.
+
+What I can't let go of is the season before it. I followed this show for seven years, and I wanted a better goodbye than a season that felt rushed and more interested in what comes next than in finishing what it started.
 
 *This post contains spoilers for the final season of The Boys.*
 
@@ -24,13 +26,13 @@ Seasons 1 and 2 had it down. The whole thesis lands in the pilot's opening minut
 
 Somewhere around Season 3, the writers forgot that Hughie and Annie were the emotional anchor and Vought was the antagonist. The show turned into the Butcher and Homelander show, and everyone else got left behind.
 
-Annie (Starlight) had it worst. By the final season her arc was stagnant, and she spent most of her scenes standing in the background looking concerned. Frenchie's storylines had been running on fumes for years, so the writers made up side-quests for him instead of giving his arc a real conclusion.
+Annie (Starlight) had it worst. She was supposed to be the heart of the show, and by the final season her arc was stagnant, with most of her scenes spent standing in the background looking concerned. Frenchie's storylines had been running on fumes for years, so the writers made up side-quests for him instead of giving his arc a real conclusion.
 
 Then there's Victoria Neuman. After seasons of setting her up as a smart, terrifying political threat, she gets torn apart by Butcher's new tentacle powers. It should have been a cathartic payoff, but it felt rushed, like board-clearing to set up spin-offs. The CGI tentacles also looked cheap, and the power set broke the grounded line the show had drawn between humans and Supes.
 
 ## What happened to the budget and the pacing?
 
-I refuse to be talked out of this: the Season 5 budget took a dive. Go back to Season 3's "Herogasm" episode, where Soldier Boy, Butcher, and Hughie team up to fight Homelander. The choreography, the physical stakes, and the effects showed what a prestige budget looks like. The final season never reached that bar. The finale delivered the blood and gore, but the staging felt constrained, and the scale didn't match the weight of the moment.
+Go back to Season 3's "Herogasm" episode, where Soldier Boy, Butcher, and Hughie team up to fight Homelander. The choreography, the physical stakes, and the effects showed what a prestige budget looks like. The final season never reached that bar. The finale delivered the blood and gore, but the staging felt constrained, and the scale didn't match the weight of the moment.
 
 The pacing collapsed too. Betrayals, revelations, and major deaths were crammed into the last episodes with no room to breathe. Butcher killing Homelander with a crowbar to the skull was the poetic, unglamorous ending the story needed, but the rushed sequencing around it took away from the impact.
 
@@ -50,8 +52,6 @@ The Gen V crossover has the same problem. We spent a whole spin-off season build
 
 ## Final thoughts
 
-The finale itself works. Butcher ending Homelander with a quiet "this is for Becca" felt right, and the soft epilogue reminded us that the show did its best work when the violence stopped and the characters got to be human: Hughie and Annie expecting a child named Robin, Mother's Milk becoming Ryan's legal guardian, and Kimiko moving to Marseille to honor Frenchie.
+The finale itself works. Butcher ending Homelander with a quiet "this is for Becca" felt right, and the soft epilogue reminded us that the show did its best work when the violence stopped and the characters got to be human: Hughie and Annie expecting a child named Robin, Mother's Milk becoming Ryan's legal guardian (for some reason), and Kimiko moving to Marseille to honor Frenchie.
 
 But as a final season, it didn't measure up to the show's golden era. *The Boys* ran out of road for some characters two seasons too late, and out of ideas for others two seasons too early, and it put setting up a streaming universe ahead of ending the story it spent seven years telling.
-
-**Sad, but it is what it is.**

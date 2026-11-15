@@ -1,26 +1,30 @@
 ---
-title: "Avatar: Seven Havens S1 Review: Great Ideas, Frustrating Execution"
+title: "Avatar: Seven Havens Review: Great Ideas, Weak Execution"
 slug: "avatar-seven-havens-review"
-date: "2026-10-31T10:30:00Z"
+date: "2026-10-31T11:30:00.000+01:00"
 category: "Review"
 labels: ["Anime"]
 score: 6.2
-verdict: "The Avatar is back, but Seven Havens still has some work to do."
-excerpt: "The premise is interesting, but the execution frustrated me, and I kept feeling the series could have been a lot better."
+verdict: "Smart ideas, uneven execution. Book 2 has to trust them more."
+excerpt: "A world that fears the Avatar is a great premise. But flat backgrounds, shaky character decisions and a rushed big reveal kept Seven Havens from landing."
 coverImage: "/images/posts/avatar-seven-havens-review/poster-image.jpg"
 ---
 
-Seven Havens is Nickelodeon and Avatar Studios' new 2D-animated series, created by Michael Dante DiMartino and Bryan Konietzko, the same duo behind The Last Airbender and The Legend of Korra. It premiered on Paramount+ on October 9, 2026, and Book 1 ran for 13 episodes. Critics have been kind to it – it was sitting at 100% on Rotten Tomatoes from 21 reviews as of October 14 – and I'm not as sold.
+Critics are loving *Avatar: Seven Havens*. I wanted to love it too, and I'm not there yet.
+
+The idea is strong: a world that has forgotten its own history and now fears the Avatar. But across 13 episodes, I kept feeling a better show was hiding underneath this one. Creators Michael Dante DiMartino and Bryan Konietzko, the duo behind *The Last Airbender* and *The Legend of Korra*, clearly know how to build a world. Here it just doesn't always show up on screen.
+
+*Full spoilers ahead for the whole season, including the finale.*
+
+For anyone who needs the setup: Seven Havens is Nickelodeon and Avatar Studios' new 2D-animated series. It premiered on Paramount+ on October 9, 2026, and critics have been kind to it. It was sitting at 100% on Rotten Tomatoes from 21 reviews as of October 14.
 
 The story follows Pavi (Saheli Khan), a young Earthbender who survives by scavenging and keeping a low profile in a world where benders face conscription and the Avatar is known as the Destroyer. At a festival marking the death of the Avatar, she reunites with her twin sister, Nisha (Aishu Devan).
-
-**A quick heads up: this review has full spoilers for the whole season, including the finale.**
 
 ---
 
 ## A world that fears the Avatar
 
-![REVIEW: Avatar: Seven Havens (2026)](/images/posts/avatar-seven-havens-review/what-worked.jpg)
+![Seven Havens: a world that fears the Avatar](/images/posts/avatar-seven-havens-review/what-worked.jpg)
 
 Let's start with what worked. Most records from Korra's era have been lost or destroyed, so people rely on oral accounts that blame the Avatar for destroying the world. The symbol of balance has become something to fear and resent. I like that, because it shows how losing history can warp an entire civilisation's idea of its own past.
 
@@ -30,7 +34,7 @@ Then comes the summit, where the other Havens gather, everything descends into c
 
 ## The finale: the truth about their parents
 
-![REVIEW: Avatar: Seven Havens (2026)](/images/posts/avatar-seven-havens-review/finale.jpg)
+![Pavi and Nisha in the Seven Havens finale](/images/posts/avatar-seven-havens-review/finale.jpg)
 
 The other thing that worked for me is the twins. All season, they read their parents' disappearance differently. Nisha believes they were abandoned, while Pavi insists there has to be a reasonable explanation. The last four episodes show the truth is more painful than either expected.
 
@@ -44,7 +48,7 @@ Then there's Pavi, who spent the whole season avoiding her responsibility. She u
 
 ## The writing: bad decisions with no room to breathe
 
-![REVIEW: Avatar: Seven Havens (2026)](/images/posts/avatar-seven-havens-review/kayoko.jpg)
+![Kayako, the governor of Ellora, in Seven Havens](/images/posts/avatar-seven-havens-review/kayoko.jpg)
 
 Now for what didn't work. My biggest problem is how the people in charge behave. Kayako, Ellora's governor, is the example. She has the Anomaly and the Faceless to deal with, and her answer is to weaponise the crystals against the rebels, which only makes things more dangerous.
 
@@ -54,7 +58,7 @@ The Anomaly could have been perfect for this, showing how different people react
 
 ## The animation: why does the world feel so lifeless?
 
-![REVIEW: Avatar: Seven Havens (2026)](/images/posts/avatar-seven-havens-review/what-did-not.jpg)
+![Seven Havens animation and backgrounds](/images/posts/avatar-seven-havens-review/what-did-not.jpg)
 
 The writing isn't my only complaint. This is my most noticeable technical one. I'm not a fan of the different visual direction, but a new series doesn't have to copy The Last Airbender or Korra. My issue is the backgrounds, which often feel like static illustrations the characters are walking through.
 
@@ -76,4 +80,4 @@ My worry is how it's handled from here. Chakras give Pavi a clear framework, but
 
 Seven Havens isn't without merit. The premise is compelling, the political conflicts have a lot of room to grow, and Pavi and Nisha give the story an emotional foundation. The mystery behind the Cataclysm is still wide open, and that keeps me curious about what comes next.
 
-But the character writing needs more nuance, the backgrounds need to feel alive, and the humour needs to fit the story. I'd also like the show to spend more time on the consequences of its big revelations. Most of all, I want it to trust its own ideas. A world that fears the Avatar is a fascinating premise, and a civilisation that lost its history is a strong foundation for a story about truth, responsibility, and collective fear. Potential only takes a series so far, though, and the writing, animation, and character development have to work together.
+But the character writing needs more nuance, the backgrounds need to feel alive, and the humour needs to fit the story. I'd also like the show to spend more time on the consequences of its big revelations. Most of all, I want it to trust its own ideas. A world that fears the Avatar is a fascinating premise, and a civilisation that lost its history is a strong foundation for a story about truth, responsibility, and collective fear. Potential only takes a series so far, though.

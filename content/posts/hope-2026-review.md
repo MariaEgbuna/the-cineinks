@@ -7,7 +7,7 @@ labels: ["Movies"]
 score: 7.3
 verdict: "Wild and fun."
 excerpt: "Hope is completely insane, and I didn't mind one bit."
-coverImage: "/images/posts/hope-2026-review/cover-image.jpg"
+coverImage: "/images/posts/hope-2026-review/image-1.jpg"
 ---
 
 Hope is completely insane, and I didn't mind one bit.

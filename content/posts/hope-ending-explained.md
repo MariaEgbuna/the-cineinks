@@ -6,7 +6,7 @@ category: Thoughts
 labels:
   - Extra
 excerpt: "The monsters in Na Hong-jin’s Hope (2026) aren't invading—they're a terrified rescue party, and the town's own border paranoia turned them into enemies."
-coverImage: /images/posts/hope-ending-explained/cover-image.jpg
+coverImage: /images/posts/hope-ending-explained/image-1.jpg
 ---
 
 When we think of alien invasion movies, we usually expect a malicious, faceless threat dropping from the sky to wipe us out. *Hope* doesn't do that. Na Hong-jin's 2026 sci-fi film sets itself up that way, then flips it.

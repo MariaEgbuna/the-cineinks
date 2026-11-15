@@ -79,9 +79,15 @@ export default async function SearchPage({ searchParams }: PageProps) {
 
   return (
     <main>
-      <section className="bg-bar py-5 md:py-8">
+      {/* Changed: gradient header, label and smaller title */}
+      <section className="bg-linear-to-b from-accent/10 to-transparent py-6 md:py-8">
         <div className="max-w-[1600px] mx-auto px-5">
-          <h1 className="font-serif text-3xl text-main mb-4">Search</h1>
+          <p className="mb-1 font-mono text-xs font-medium uppercase tracking-wide text-accent">
+            Find a post
+          </p>
+          <h1 className="font-serif text-2xl font-semibold leading-tight text-main mb-4 md:text-3xl">
+            Search
+          </h1>
           <form action="/search" method="get" role="search" className="flex max-w-xl">
             <input
               type="search"
@@ -120,7 +126,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
             </div>
           ) : (
             <>
-              <p className="mb-5 text-sm text-main/60">
+              <p className="mb-5 font-mono text-sm text-main/60">
                 {totalPages > 1
                   ? `Showing ${start + 1}–${start + pageResults.length} of ${results.length} results for `
                   : `${results.length} ${results.length === 1 ? "result" : "results"} for `}

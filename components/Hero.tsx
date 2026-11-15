@@ -21,7 +21,7 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
           {/* Lead story */}
           <Link
             href={`/posts/${featuredPost.slug}`}
-            className="group relative aspect-4/5 overflow-hidden bg-main/5 animate-fade-up transition-shadow hover:ring-2 ring-accent md:col-span-2 md:row-span-2 md:aspect-auto"
+            className="group relative aspect-4/3 overflow-hidden bg-main/5 animate-fade-up transition-shadow hover:ring-2 ring-accent md:col-span-2 md:row-span-2 md:aspect-auto"
           >
             {featuredPost.coverImage && (
               <Image
@@ -47,20 +47,22 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
             )}
 
             <div className="absolute inset-x-0 bottom-0 z-10 p-4 md:p-6">
-              <span className="mb-2 inline-block bg-teal px-2.5 py-1 text-xs text-teal-light rounded md:mb-3">
+              {/* Changed: font-mono, uppercase, small */}
+              <span className="mb-2 inline-block bg-teal px-2.5 py-1 font-mono text-[11px] uppercase tracking-wide text-teal-light rounded md:mb-3">
                 {featuredPost.category}
               </span>
               <h1 className="font-serif text-lg leading-snug text-cream line-clamp-3 md:text-4xl md:line-clamp-none">
                 {featuredPost.title}
               </h1>
-              <p className="mt-1.5 text-xs text-cream/70 md:mt-2 md:text-sm">
+              {/* Changed: font-mono date */}
+              <p className="mt-1.5 font-mono text-xs text-cream/70 md:mt-2 md:text-sm">
                 {formatDate(featuredPost.date)}
               </p>
             </div>
           </Link>
 
-          {/* Small heading, phones only */}
-          <p className="-mb-1 pt-2 text-xs font-medium uppercase tracking-wide text-accent md:hidden">
+          {/* Small heading, phones only. Changed: font-mono */}
+          <p className="-mb-1 pt-2 font-mono text-xs font-medium uppercase tracking-wide text-accent md:hidden">
             Latest posts
           </p>
 
@@ -100,14 +102,15 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
 
               {/* Phone: text on the right. Desktop: text over the bottom of the tile. */}
               <div className="min-w-0 md:absolute md:inset-x-0 md:bottom-0 md:z-10 md:p-4">
-                <p className="mb-1 text-xs font-medium text-accent md:mb-0 md:text-[11px] md:text-teal-light">
+                {/* Changed: font-mono, uppercase, small */}
+                <p className="mb-1 font-mono text-[11px] font-medium uppercase tracking-wide text-accent md:mb-0 md:text-teal-light">
                   {post.category}
                 </p>
                 <h2 className="font-serif text-sm leading-snug text-main line-clamp-4 transition-colors group-hover:text-accent md:mt-0.5 md:text-base md:text-cream md:line-clamp-3 md:group-hover:text-cream">
                   {post.title}
                 </h2>
-                {/* Phones only: the date sits under the title */}
-                <p className="mt-1.5 text-xs text-muted md:hidden">
+                {/* Phones only: the date sits under the title. Changed: font-mono */}
+                <p className="mt-1.5 font-mono text-xs text-muted md:hidden">
                   {formatDate(post.date)}
                 </p>
               </div>
