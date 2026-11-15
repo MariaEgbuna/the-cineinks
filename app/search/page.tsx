@@ -21,22 +21,17 @@ function getPageNumber(page: string | string[] | undefined): number {
   return Number.isNaN(number) || number < 1 ? 1 : number;
 }
 
-// Every word in the search must match somewhere in the post, otherwise the
-// post is left out. Matches in the title count most, then excerpt and tags,
-// then the body text.
+// Every word in the search must match the post's title or excerpt,
+// otherwise the post is left out. Title matches count more than excerpt matches.
 function scorePost(post: Post, terms: string[]): number {
   const title = post.title.toLowerCase();
   const excerpt = post.excerpt.toLowerCase();
-  const tags = [post.category, ...(post.labels ?? [])].join(" ").toLowerCase();
-  const content = (post.content ?? "").toLowerCase();
 
   let total = 0;
   for (const term of terms) {
     let termScore = 0;
     if (title.includes(term)) termScore += 5;
     if (excerpt.includes(term)) termScore += 3;
-    if (tags.includes(term)) termScore += 3;
-    if (content.includes(term)) termScore += 1;
     if (termScore === 0) return 0;
     total += termScore;
   }
@@ -110,7 +105,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
         <div className="max-w-[1600px] mx-auto px-5">
           {terms.length === 0 ? (
             <p className="text-main/60">
-              Type a title, actor or genre above to search every post.
+              Type a title or keyword above to search every post.
             </p>
           ) : results.length === 0 ? (
             <div className="text-main/60">
