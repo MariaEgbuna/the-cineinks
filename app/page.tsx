@@ -68,7 +68,7 @@ export default function Home() {
                       <span className="block text-sm text-main leading-snug transition-colors group-hover:text-accent md:text-base">
                         {post.title}
                       </span>
-                      <span className="text-xs text-main/40">{post.category}</span>
+                      <span className="text-xs text-muted">{post.category}</span>
                     </span>
                     <span
                       className={`shrink-0 rounded bg-ink px-2 py-1 text-xs font-medium ${scoreColor(

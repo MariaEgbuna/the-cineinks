@@ -53,8 +53,8 @@ export default function ArticleRow({
       <div className="min-w-0">
         <p className="flex items-center gap-2 text-xs mb-1">
           <span className="font-medium text-accent">{category}</span>
-          <span className="text-main/30">•</span>
-          <span className="text-main/40">{date}</span>
+          <span aria-hidden="true" className="text-muted">•</span>
+          <span className="text-muted">{date}</span>
         </p>
         <h3
           className={`font-serif text-main leading-snug transition-colors group-hover:text-accent ${

@@ -31,6 +31,16 @@ html {
   --page-accent: #5dcaa5;  /* light teal reads better on dark */
 }
 
+/* Visible focus ring for keyboard users. Mouse clicks don't trigger it.
+   It lives in the base layer so classes like outline-none still win
+   on the fields that draw their own focus style. */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--page-accent);
+    outline-offset: 2px;
+  }
+}
+
 /* --- Base Layout Typography Settings --- */
 body {
   background-color: var(--page-bg);

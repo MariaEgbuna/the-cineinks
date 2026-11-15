@@ -14,6 +14,13 @@ const navItems = [
   ...categories.map((c) => ({ label: c.label, href: `/category/${c.slug}` })),
 ];
 
+// Home only matches the home page. Category links also match their
+// paginated pages, like /category/series/2.
+function isActiveLink(pathname: string, href: string): boolean {
+  if (href === "/") return pathname === "/";
+  return pathname === href || pathname.startsWith(`${href}/`);
+}
+
 type HeaderProps = {
   searchablePosts: SearchablePost[];
 };
@@ -38,7 +45,6 @@ export default function Header({ searchablePosts }: HeaderProps) {
                 className="object-cover scale-125"
               />
             </div>
-            {/* Changed: semibold with slightly tighter letter spacing */}
             <p className="font-serif text-xl md:text-2xl font-semibold tracking-tight text-main whitespace-nowrap">
               The CineInks
             </p>
@@ -53,6 +59,8 @@ export default function Header({ searchablePosts }: HeaderProps) {
             {/* Hamburger toggle, only visible below the md breakpoint */}
             <button
               aria-label={isMenuOpen ? "Close menu" : "Open menu"}
+              aria-expanded={isMenuOpen}
+              aria-controls="site-nav"
               onClick={() => setIsMenuOpen((open) => !open)}
               className="flex items-center text-main md:hidden"
             >
@@ -76,17 +84,20 @@ export default function Header({ searchablePosts }: HeaderProps) {
             stacks vertically. On md screens and up, it always shows
             and lays out horizontally, ignoring the toggle entirely. */}
         <nav
+          id="site-nav"
+          aria-label="Main"
           className={`${
             isMenuOpen ? "flex" : "hidden"
           } md:flex border-t border-main/10 flex-col md:flex-row md:flex-wrap gap-3 md:gap-6 py-3`}
         >
           {navItems.map((item) => {
-            const isActive = pathname === item.href;
+            const isActive = isActiveLink(pathname, item.href);
             return (
               <Link
                 key={item.href}
                 href={item.href}
                 onClick={() => setIsMenuOpen(false)}
+                aria-current={isActive ? "page" : undefined}
                 className={`text-base font-semibold pb-1 transition-colors ${
                   isActive
                     ? "text-main border-b-2 border-accent w-fit"

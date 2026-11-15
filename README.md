@@ -38,14 +38,22 @@ Two reasons.
   - Cover image banner behind the title
   - Reading time and a reading progress bar
   - A Rating card at the end of scored posts, with an optional one-line verdict
+  - Share buttons under every post: WhatsApp, X, Facebook, Pinterest (when the post has a cover image) and copy link. Phones that support it also get a native share button. They are plain links, so nothing loads from those services until someone clicks
   - Related posts, matched by shared label and randomized on each visit
-- **Category pages and the archive:** both paginated, 9 posts per page
+- **Category pages and the archive:** both paginated, 9 posts per page. The active category stays underlined in the nav on paginated pages too
 - **Search:** a live dropdown in the header, plus a full results page at `/search`. The results page looks through titles, excerpts, categories, labels, and the post text itself, ranks title matches first, and is paginated too
-- An RSS feed at `/feed.xml`
+- **About, Contact and Privacy Policy pages:** redesigned to match the rest of the site, each with its own title and description for Google
+  - About: logo, a highlighted "How I rate" box, and a card for each section of the blog
+  - Contact: intro and social cards on one side, the form on the other (stacked on phones)
+  - Privacy Policy: a short summary box at the top, then the full details
+- **Contact form:** sent in the background through [Web3Forms](https://web3forms.com), so visitors stay on my site and see a "Message sent" card instead of Web3Forms' default page. It has a sending state, an error message, and a hidden spam-trap field
+- A branded 404 page with the site header and footer
+- An RSS feed at `/feed.xml`, linked from the footer
 - Sitemap (including the paginated pages), robots.txt, per-page metadata, Open Graph tags, and structured data for review scores, verified with Google's Rich Results Test
-- A CMS ([Decap](https://decapcms.org)) for when I want to write and publish without touching code
+- **Accessibility:** a "Skip to content" link, a visible teal focus ring for keyboard users, a menu button that reports whether it's open, and small gray text darkened to a readable contrast in both themes
+- A CMS ([Decap](https://decapcms.org)) for when I want to write and publish without touching code. The GitHub login checks a one-time `state` code, reports failed logins properly, and only talks to my own site
 - Vercel Web Analytics for basic visitor and page view tracking
-- A contact form (via [Web3Forms](https://web3forms.com)) and a privacy policy page that says what's actually collected
+- A privacy policy page that says what's actually collected
 
 ---
 
@@ -75,8 +83,20 @@ Small stuff I ran into and sorted out, keeping track mostly for myself:
 - The new hero was too crowded on phones: the four small tiles were about 160px wide, so the title took up half the image. Kept the mosaic on desktop and turned the four tiles into list rows (thumbnail on the left, text on the right) on phones.
 - The nav links looked too thin because the font stack falls back to Roboto on my screen. Bumped the size and weight, and made the inactive links brighter.
 - The home page had a "Latest" list that just repeated the hero. Removed it, and the category sections now skip anything already in the hero.
-- Privacy policy was wrong: it said no analytics and no forms, but the site runs Vercel Analytics and has a contact form. Rewrote it to say what's actually going on.
+- Privacy policy was wrong: it said no analytics and no forms, but the site runs Vercel Analytics and has a contact form. Rewrote it to say what's actually going on. Updated it again later to cover the share buttons.
+- Sending the contact form threw visitors onto Web3Forms' generic "Form submitted successfully" page, which felt off-brand. Moved the form into its own component that sends in the background and shows a success message on my own page.
+- About, Contact and Privacy Policy had no titles or descriptions of their own, so they all used the homepage's. Gave each its own, which should help with the indexing problems from before.
+- Missing pages showed Next's plain default 404. Added a branded one.
+- Dates, the copyright line and other small labels were too faint on the light background (`text-main/40`, about 2.6:1 contrast). Switched them to the `text-muted` color I'd already defined but never used.
+- The category underline in the nav disappeared on paginated pages like `/category/series/2` because it only matched the exact path. It now matches the category and everything under it.
+- The privacy policy jumped from an `h1` straight to `h3` headings. Changed them to `h2`.
 
+---
+
+## Still to do
+
+- Ads, someday. When they arrive, the privacy policy's "no cookies" and "no advertising" lines need rewriting, and a cookie consent banner will probably be needed for visitors in the UK and EU
+- 
 ---
 
 More to come as I keep working on this.

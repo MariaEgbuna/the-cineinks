@@ -36,9 +36,7 @@ export default function ArticleCard({
             className="object-cover transition-transform duration-500 group-hover:scale-105"
           />
         )}
-        {/* Soft shade at the bottom so the category badge always reads */}
         <div className="absolute inset-x-0 bottom-0 h-1/2 bg-linear-to-t from-black/50 to-transparent" />
-        {/* The category and score badges sit on top of the image, so they keep their fixed colors */}
         <span className="absolute bottom-2.5 left-2.5 bg-teal text-teal-light text-xs px-2 py-1 rounded">
           {category}
         </span>
@@ -59,7 +57,7 @@ export default function ArticleCard({
         <p className="text-sm text-main/60 leading-relaxed mb-2.5">
           {excerpt}
         </p>
-        <p className="text-xs text-main/40">{date}</p>
+        <p className="text-xs text-muted">{date}</p>
       </div>
     </Link>
   );

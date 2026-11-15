@@ -4,10 +4,8 @@ export default function Footer() {
   return (
     <footer className="bg-bar">
       <div className="max-w-[1600px] mx-auto px-5 py-6 md:py-10">
-        {/* Changed: border-cream/10 is now border-main/10 */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pb-8 border-b border-main/10">
           <div>
-            {/* Changed: text-teal-light is now text-accent, text-cream/60 is now text-main/60 */}
             <p className="text-xs text-accent font-medium mb-3">Information</p>
             <div className="flex flex-col gap-2">
               <Link href="/about" className="text-sm text-main/60">
@@ -19,6 +17,10 @@ export default function Footer() {
               <Link href="/privacy-policy" className="text-sm text-main/60">
                 Privacy Policy
               </Link>
+              {/* A plain link, since the feed is a data file and not a page */}
+              <a href="/feed.xml" className="text-sm text-main/60">
+                RSS Feed
+              </a>
             </div>
           </div>
 
@@ -52,13 +54,20 @@ export default function Footer() {
                   <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
                 </svg>
               </a>
+              <a href="/feed.xml" aria-label="RSS feed" className="text-main/60">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+                  <path d="M4 11a9 9 0 0 1 9 9" />
+                  <path d="M4 4a16 16 0 0 1 16 16" />
+                  <circle cx="5" cy="19" r="1" fill="currentColor" />
+                </svg>
+              </a>
             </div>
           </div>
         </div>
 
         <div className="text-center pt-8">
           <p className="font-serif text-xl text-main">The CineInks</p>
-          <p className="text-xs text-main/40 mt-6">
+          <p className="text-xs text-muted mt-6">
             © {new Date().getFullYear()} The CineInks. All rights reserved.
           </p>
         </div>

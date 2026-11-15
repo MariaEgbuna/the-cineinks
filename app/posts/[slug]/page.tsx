@@ -10,6 +10,7 @@ import { SITE_URL } from "../../../utils/site";
 import MarkdownImage from "../../../components/MarkdownImage";
 import RelatedPosts from "../../../components/RelatedPosts";
 import ReadingProgress from "../../../components/ReadingProgress";
+import ShareButtons from "../../../components/ShareButtons";
 
 type MarkdownImageComponent = React.ComponentType<React.ImgHTMLAttributes<HTMLImageElement>>;
 
@@ -58,6 +59,8 @@ export default async function PostPage({ params }: PageProps) {
   const allPosts = getAllPosts();
   const relatedCandidates = getRelatedPosts(post, allPosts);
 
+  const postUrl = `${SITE_URL}/posts/${post.slug}`;
+
   const formattedDate = new Date(post.date).toLocaleDateString("en-US", {
     month: "long",
     day: "numeric",
@@ -90,7 +93,7 @@ export default async function PostPage({ params }: PageProps) {
           name: "The CineInks",
         },
         datePublished: post.date,
-        url: `${SITE_URL}/posts/${post.slug}`,
+        url: postUrl,
       }
     : null;
 
@@ -174,7 +177,7 @@ export default async function PostPage({ params }: PageProps) {
             verdict line shows under the label, and the bar fills to the
             score out of 10 in the score's own color. */}
         {post.score !== null && (
-          <div className="max-w-225 mx-auto px-5 pb-10 md:pb-14">
+          <div className="max-w-225 mx-auto px-5 pb-8 md:pb-10">
             <aside className="flex items-center gap-5 border-l-4 border-accent bg-card p-5">
               <span
                 className={`shrink-0 bg-ink px-4 py-3 font-serif text-3xl font-semibold rounded ${scoreColor(
@@ -204,6 +207,17 @@ export default async function PostPage({ params }: PageProps) {
             </aside>
           </div>
         )}
+
+        {/* Share row, shown on every post */}
+        <div className="max-w-225 mx-auto px-5 pb-10 md:pb-14">
+          <div className="border-t border-line pt-6">
+            <ShareButtons
+              url={postUrl}
+              title={post.title}
+              image={post.coverImage ? `${SITE_URL}${post.coverImage}` : undefined}
+            />
+          </div>
+        </div>
       </section>
 
       <RelatedPosts candidates={relatedCandidates} />

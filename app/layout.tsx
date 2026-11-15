@@ -71,6 +71,15 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
       <body>
+        {/* Skip link: invisible until a keyboard user presses Tab, then it
+            lets them jump past the header straight to the page content. */}
+        <a
+          href="#main-content"
+          className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-100 focus:rounded focus:bg-teal focus:px-4 focus:py-2 focus:text-sm focus:font-medium focus:text-teal-light"
+        >
+          Skip to content
+        </a>
+
         {/* Structured data script. The replace() stops "<" from breaking out of the script tag. */}
         <script
           type="application/ld+json"
@@ -79,7 +88,10 @@ export default function RootLayout({
           }}
         />
         <Header searchablePosts={searchablePosts} />
-        {children}
+        {/* The skip link lands here */}
+        <div id="main-content" tabIndex={-1} className="outline-none">
+          {children}
+        </div>
         <Footer />
         <Analytics />
       </body>

@@ -70,7 +70,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
         <form
           onSubmit={handleSubmit}
           role="search"
-          className="flex items-center gap-2 bg-main/10 rounded px-3 py-1.5"
+          className="flex items-center gap-2 bg-main/10 rounded px-3 py-1.5 focus-within:ring-2 focus-within:ring-accent"
         >
           {/* The magnifier is now a submit button */}
           <button
@@ -92,7 +92,8 @@ export default function SearchBar({ posts }: SearchBarProps) {
               if (e.key === "Escape") closeSearch();
             }}
             placeholder="Search posts..."
-            className="bg-transparent text-main text-sm placeholder:text-main/40 outline-none w-40 md:w-56"
+            aria-label="Search posts"
+            className="bg-transparent text-main text-sm placeholder:text-muted outline-none w-40 md:w-56"
           />
           <button
             type="button"
@@ -131,7 +132,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
                 <p className="text-sm font-medium text-main leading-snug">
                   {post.title}
                 </p>
-                <p className="text-xs text-main/50 mt-0.5">{post.category}</p>
+                <p className="text-xs text-muted mt-0.5">{post.category}</p>
               </Link>
             ))
           )}

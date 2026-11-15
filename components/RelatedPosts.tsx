@@ -73,7 +73,7 @@ export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProp
                 <h3 className="font-serif text-sm leading-snug text-main line-clamp-3 transition-colors group-hover:text-accent sm:text-base">
                   {related.title}
                 </h3>
-                <p className="mt-1.5 text-xs text-main/40">{formatDate(related.date)}</p>
+                <p className="mt-1.5 text-xs text-muted">{formatDate(related.date)}</p>
               </div>
             </Link>
           ))}

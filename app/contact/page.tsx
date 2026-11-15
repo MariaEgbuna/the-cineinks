@@ -1,99 +1,86 @@
+import Link from "next/link";
+import ContactForm from "../../components/ContactForm";
+
+const socials = [
+  {
+    name: "Instagram",
+    handle: "@thecineinks",
+    href: "https://www.instagram.com/thecineinks/",
+    icon: (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+        <rect x="3" y="3" width="18" height="18" rx="5" />
+        <circle cx="12" cy="12" r="4" />
+        <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
+      </svg>
+    ),
+  },
+  {
+    name: "X (Twitter)",
+    handle: "@eagercricket",
+    href: "https://x.com/eagercricket",
+    icon: (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
+      </svg>
+    ),
+  },
+];
+
 export default function ContactPage() {
   return (
-    // Changed: bg-cream is now bg-page
     <main className="bg-page py-8 md:py-16">
       <div className="max-w-225 mx-auto px-5">
-        {/* Changed: prose-neutral removed so the theme colors apply */}
-        <div className="prose mb-8">
-          <h1 className="font-serif">Contact</h1>
-          <p>
-            Got a recommendation? Want to discuss a show, drop a hot take, or
-            just make an enquiry? Use the form below or find me on social
-            media.
-          </p>
+        <div className="grid grid-cols-1 gap-10 md:grid-cols-5 md:gap-12">
+          {/* Left: intro and social links */}
+          <div className="md:col-span-2">
+            <h1 className="font-serif text-4xl font-extrabold leading-tight text-main mb-4">
+              Contact
+            </h1>
+            <p className="text-lg leading-relaxed text-main/80 mb-3">
+              Got a recommendation? Want to discuss a show, drop a hot take,
+              or just make an enquiry?
+            </p>
+            <p className="text-main/70 leading-relaxed mb-8">
+              Send a message using the form. I read every one and reply as
+              soon as I can.
+            </p>
+
+            <p className="text-xs font-medium uppercase tracking-wide text-accent mb-3">
+              Or find me on
+            </p>
+            <div className="flex flex-col gap-3">
+              {socials.map((social) => (
+                <a
+                  key={social.name}
+                  href={social.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group flex items-center gap-3 border border-line bg-card p-4 transition-colors hover:border-accent"
+                >
+                  <span className="text-accent">{social.icon}</span>
+                  <span>
+                    <span className="block text-sm font-medium text-main">
+                      {social.name}
+                    </span>
+                    <span className="block text-xs text-muted">
+                      {social.handle}
+                    </span>
+                  </span>
+                </a>
+              ))}
+            </div>
+          </div>
+
+          {/* Right: the form */}
+          <div className="md:col-span-3">
+            <ContactForm />
+            <p className="mt-4 max-w-125 text-xs leading-relaxed text-muted">
+              Your name, email and message are only used to reply to you. Read
+              the <Link href="/privacy-policy" className="text-accent underline">privacy policy</Link>{" "}
+              for details.
+            </p>
+          </div>
         </div>
-
-        <div className="flex gap-5 mb-10">
-          {/* Changed: text-ink/70 is now text-main/70 on both links */}
-          <a
-            href="https://www.instagram.com/thecineinks/"
-            target="_blank"
-            rel="noopener"
-            className="flex items-center gap-2 text-sm text-main/70"
-          >
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <rect x="3" y="3" width="18" height="18" rx="5" />
-              <circle cx="12" cy="12" r="4" />
-              <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
-            </svg>
-            Instagram
-          </a>
-
-          <a
-            href="https://x.com/eagercricket"
-            target="_blank"
-            rel="noopener"
-            className="flex items-center gap-2 text-sm text-main/70"
-          >
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
-            </svg>
-            Twitter
-          </a>
-        </div>
-
-        <form
-          action="https://api.web3forms.com/submit"
-          method="POST"
-          className="max-w-125"
-        >
-          <input
-            type="hidden"
-            name="access_key"
-            value="e61a8c9f-262d-48d5-9c1d-706c1d637168"
-          />
-          <input type="hidden" name="subject" value="New message from The CineInks Contact Page" />
-
-          {/* Changed on all three fields: border-black/15 is now border-main/20,
-              text-ink is now text-main, and bg-card gives the field its own
-              background so it stands out in dark mode. */}
-          <div className="mb-5">
-            <label className="block text-sm mb-1.5">Name</label>
-            <input
-              name="name"
-              type="text"
-              required
-              className="w-full rounded border border-main/20 bg-card px-3 py-2.5 text-sm text-main"
-            />
-          </div>
-
-          <div className="mb-5">
-            <label className="block text-sm mb-1.5">Email</label>
-            <input
-              name="email"
-              type="email"
-              required
-              className="w-full rounded border border-main/20 bg-card px-3 py-2.5 text-sm text-main"
-            />
-          </div>
-
-          <div className="mb-6">
-            <label className="block text-sm mb-1.5">Message</label>
-            <textarea
-              name="message"
-              rows={6}
-              required
-              className="w-full rounded border border-main/20 bg-card px-3 py-2.5 text-sm text-main resize-y"
-            />
-          </div>
-
-          <button
-            type="submit"
-            className="rounded bg-teal text-teal-light px-8 py-3 text-sm font-medium"
-          >
-            Send Message
-          </button>
-        </form>
       </div>
     </main>
   );

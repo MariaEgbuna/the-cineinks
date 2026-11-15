@@ -63,7 +63,7 @@ export default function CategorySection({ title, href, posts }: CategorySectionP
                 {post.title}
               </h3>
               {/* The date sits under the title on every screen size */}
-              <p className="mt-1.5 text-xs text-main/40">{formatDate(post.date)}</p>
+              <p className="mt-1.5 text-xs text-muted">{formatDate(post.date)}</p>
             </div>
           </Link>
         ))}

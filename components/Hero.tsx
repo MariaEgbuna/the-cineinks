@@ -107,7 +107,7 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
                   {post.title}
                 </h2>
                 {/* Phones only: the date sits under the title */}
-                <p className="mt-1.5 text-xs text-main/40 md:hidden">
+                <p className="mt-1.5 text-xs text-muted md:hidden">
                   {formatDate(post.date)}
                 </p>
               </div>
