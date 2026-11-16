@@ -12,7 +12,7 @@ featured: false
 
 I made a promise last month: start watching the Marvel series. September was me keeping it, and I regret to report it did not go well.
 
-Fourteen shows this month. One clear winner, a Marvel bottom three, two I dropped, and a few quietly good ones in between.
+Thirteen shows this month. One clear winner, a Marvel bottom three, two I dropped, and a few quietly good ones in between.
 
 ![The best series I watched in September 2026](/images/posts/best-and-worst-of-september-series-edition/top-series.jpg)
 
