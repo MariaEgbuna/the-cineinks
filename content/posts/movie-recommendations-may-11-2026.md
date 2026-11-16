@@ -1,22 +1,24 @@
 ---
-title: "Movie Recommendations: The Handmaiden, Send Help, Hoppers and No Other Choice"
+title: "Movie Recommendations: 4 Films Worth Watching"
 slug: movie-recommendations-may-11-2026
-date: 2026-05-11T10:48:00.002Z
+date: 2026-05-11T11:48:00.002+01:00
 category: Recommendations
 labels:
   - Movies
 score: null
-excerpt: "Four films, one day, zero regrets: The Handmaiden, Send Help, Hoppers and No Other Choice."
+excerpt: "A Korean con-artist thriller, a Pixar beaver, a Sam Raimi survival film and a very dark job-hunt story. Four movies I watched in one day, and what could have been better."
 coverImage: /images/posts/movie-recommendations-may-11-2026/cover.jpg
 ---
 
-This batch covers a decade-old Korean thriller I somehow missed until now, two fresh 2026 releases that surprised me, and one survival story that goes completely off the rails in the best possible way. No ranking here, just my takes on everything I watched, in the order I watched it.
+I watched four movies in one day, and none of them let me down. A decade-old Korean thriller I somehow missed, two fresh 2026 releases that surprised me, and a survival story that goes completely off the rails in the best way.
+
+No ranking here, just my takes on all four, in the order I watched them. Each one comes with the one thing I think could have been better.
 
 ---
 
 ## The Handmaiden (2016)
 
-![MOVIE RECOMMENDATIONS: (May 11, 2026)](/images/posts/movie-recommendations-may-11-2026/image-2.jpg)
+![The Handmaiden (2016)](/images/posts/movie-recommendations-may-11-2026/image-2.jpg)
 
 The Handmaiden is a 2016 South Korean thriller set in 1930s colonial Korea, built around a young woman hired as a maid to a wealthy Japanese heiress, except her role is part of an elaborate con to steal the heiress's fortune. That's all I'll say about the plot, because the less you know going in, the better.
 
@@ -28,7 +30,7 @@ The film is split into three parts, each replaying events from a different chara
 
 ## Hoppers (2026)
 
-![MOVIE RECOMMENDATIONS: (May 11, 2026)](/images/posts/movie-recommendations-may-11-2026/image-3.jpg)
+![Hoppers (2026)](/images/posts/movie-recommendations-may-11-2026/image-3.jpg)
 
 Pixar's latest follows a young woman who uploads her consciousness into a robotic beaver to communicate with animals and help defend their forest. Yes, really. And somehow it works.
 
@@ -40,7 +42,7 @@ The concept is wonderfully strange, the forest animals are oddly endearing, the 
 
 ## No Other Choice (2025)
 
-![MOVIE RECOMMENDATIONS: (May 11, 2026)](/images/posts/movie-recommendations-may-11-2026/image-4.jpg)
+![No Other Choice (2025)](/images/posts/movie-recommendations-may-11-2026/image-4.jpg)
 
 No Other Choice follows a man who loses his job and, rather than accept it, starts systematically eliminating every other candidate competing for the position he wants. Dark doesn't even cover it.
 
@@ -52,7 +54,7 @@ What makes it work is how effectively the film builds empathy for a character do
 
 ## Send Help (2026)
 
-![MOVIE RECOMMENDATIONS: (May 11, 2026)](/images/posts/movie-recommendations-may-11-2026/image-5.jpg)
+![Send Help (2026)](/images/posts/movie-recommendations-may-11-2026/image-5.jpg)
 
 Sam Raimi directs this one, and once you know that, the mid-film tonal lurch makes sense. Send Help starts as a fairly grounded survival thriller: a plane crash, a remote island, two survivors who happen to be boss and employee. Then around the halfway mark it decides to become something far more unhinged. Raimi can't help himself, and I respect it.
 
@@ -63,3 +65,5 @@ It's a little predictable and doesn't pull off twists the way the other films on
 ---
 
 That's it for this batch. Four films, four very different experiences, all worth your time.
+
+Three of these (The Handmaiden, Hoppers and No Other Choice) also made my [top 10 movies of 2026 so far](/posts/best-movies-ive-watched-this-year-so-far). What should I watch next? [Tell me](/contact).
