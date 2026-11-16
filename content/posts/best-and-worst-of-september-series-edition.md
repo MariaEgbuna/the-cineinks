@@ -1,38 +1,38 @@
 ---
-title: "Series I Watched in September 2026"
+title: "Best and Worst Series I Watched in September 2026"
 slug: best-and-worst-series-of-september-2026
 date: 2026-09-30T18:30:00.000+01:00
 category: Best and Worst
 labels:
   - List
-excerpt: Another month done, and my watchlist did not come out of it unharmed.
+excerpt: "13 series in September: Industry stole the month, three Marvel shows landed at the bottom, and two others I couldn't finish."
 coverImage: /images/posts/best-and-worst-of-september-series-edition/image-cover.jpg
 featured: false
 ---
 
-Another month done, and my watchlist did not come out of it unharmed.
+I made a promise last month: start watching the Marvel series. September was me keeping it, and I regret to report it did not go well.
 
-I watched 14 shows in September, dropped two, and kept a promise I made in an earlier post: watching Marvel series. I'll tell you now, it did not go well.
+Fourteen shows this month. One clear winner, a Marvel bottom three, two I dropped, and a few quietly good ones in between.
 
-![Best series](/images/posts/best-and-worst-of-september-series-edition/top-series.jpg)
+![The best series I watched in September 2026](/images/posts/best-and-worst-of-september-series-edition/top-series.jpg)
 
-## The Best of September
+## The Standout
 
-**1. Industry (Season 2):** The standout of the month for me. I watch one season of Industry every month – I don't even know why. September was season 2's turn, and it was so good.
+**Industry (Season 2):** The best thing I watched this month. I watch one season of Industry every month, and I don't even know why. September was Season 2's turn, and it was so good.
 
-**2. Archer (Seasons 1 and 2):** I'm late to this show, but so far I love it. It took some getting used to, since Archer is voiced by H. Jon Benjamin, the same guy behind Bob Belcher on Bob's Burgers, but I'm having a blast.
+## Also Great
 
-**3. Widow's Bay (Season 1):** A solid pick that I already covered in full. [Read the review here](https://cineinks.vercel.app/posts/review-widow-bay-2026).
+**Archer (Seasons 1 and 2):** I'm late to this show, but so far I love it. It took some getting used to, since Archer is voiced by H. Jon Benjamin, the same guy behind Bob Belcher on Bob's Burgers, but I'm having a blast.
 
-**4. The Gentlemen (Season 1):** Great show. Simple as that. I was already a fan of the movie, and I'll be watching season 2 next month.
+**The Gentlemen (Season 1):** Great show. Simple as that. I was already a fan of the movie, and I'll be watching Season 2 next month.
 
-**5. Fargo (Season 5):** Not the best of Fargo, but it's decent.
+**Widow's Bay (Season 1):** A solid pick that I already covered in full. [Read the review here](/posts/review-widow-bay-2026).
 
-*Just missed: Heartstopper Season 2. I'll do a full series review later, once I'm done with the show.*
+**Fargo (Season 5):** Not the best of Fargo, but it's decent.
 
 ## The Marvel Problem
 
-![Marvel tv shows](/images/posts/best-and-worst-of-september-series-edition/marvel-problem.jpg)
+![Marvel TV shows](/images/posts/best-and-worst-of-september-series-edition/marvel-problem.jpg)
 
 Remember when I said I'd start watching the Marvel series? Well, I did. Three of them. And they took the bottom three spots of the month.
 
@@ -44,26 +44,30 @@ Remember when I said I'd start watching the Marvel series? Well, I did. Three of
 
 I'm not giving up on Marvel, but if this is the standard, the next batch has a lot to prove.
 
-## Not Bad, Not Great
+## Mixed Feelings
 
-![deli-boys](/images/posts/best-and-worst-of-september-series-edition/deli-boys.jpg)
+![Deli Boys](/images/posts/best-and-worst-of-september-series-edition/deli-boys.jpg)
 
-**Deli Boys (Seasons 1 and 2):** A split decision. I knew the show got canned, but I was told it wrapped up quite nicely. It kind of did, but season 2 was disappointing. The acting was overdone, and the story felt rushed.
+**Deli Boys (Seasons 1 and 2):** A split decision. I knew the show got canned, but I was told it wrapped up quite nicely. It kind of did, but Season 2 was disappointing. The acting was overdone, and the story felt rushed.
+
+![Other shows I watched in September](/images/posts/best-and-worst-of-september-series-edition/mentions.jpg)
+
+**The Good Place (Seasons 1 and 2):** Good TV. It has 4 seasons, so I'm looking forward to finishing it. I'll start Season 3 soon.
+
+**Interviews With Monster Girls (Season 1):** Not a low at all. It's a warm, twelve-episode slice-of-life with a supernatural coat of paint. I recommended it here as well, alongside a few other shows: [Anime Recommendations](/posts/animes-i-wasnt-expecting-to-enjoy).
 
 ## Shows I Gave Up On
 
-![dropped shows](/images/posts/best-and-worst-of-september-series-edition/dropped-shows.jpg)
+![Shows I dropped in September](/images/posts/best-and-worst-of-september-series-edition/dropped-shows.jpg)
 
-* **Oblivion Battery:** I watched only 2 of 12 episodes, then dropped it. Maybe it's because I don't get baseball – seriously, I don't understand the sport – and the show didn't bother to ease me into it. My brother loves it though, so if you're a baseball fan, give it a go.
-* **If Wishes Could Kill:** I stopped after 5 of 8 episodes. It was trying so hard to be edgy, and the plot was all over the place.
+**Oblivion Battery:** I watched only 2 of 12 episodes, then dropped it. Maybe it's because I don't get baseball (seriously, I don't understand the sport) and the show didn't bother to ease me into it. My brother loves it though, so if you're a baseball fan, give it a go.
 
-![honourable mentions](/images/posts/best-and-worst-of-september-series-edition/mentions.jpg)
+**If Wishes Could Kill:** I stopped after 5 of 8 episodes. It was trying so hard to be edgy, and the plot was all over the place.
 
-## The Rest of the Pack
-
-* **The Good Place (Seasons 1 and 2):** Good TV. It has 4 seasons, so I'm looking forward to finishing it. I'll start season 3 soon.
-* **Interviews With Monster Girls (Season 1):** Not a low at all. It's a warm, twelve-episode slice-of-life with a supernatural coat of paint. I recommended it here as well, alongside a few other shows: [Anime Recommendations](https://cineinks.vercel.app/posts/animes-i-wasnt-expecting-to-enjoy).
+---
 
 That's all for September. 🫡
+
+What should I watch in October? [Tell me](/contact).
 
 *P.S: I might start using emojis now. We'll see.*

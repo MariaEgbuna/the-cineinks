@@ -7,14 +7,12 @@ labels:
   - Movies
 score: 7.2
 verdict: "Fun, but overhyped."
-excerpt: The internet says The Furious reinvented martial arts cinema. I say the fights are great and everything else is just okay.
+excerpt: "The internet says The Furious reinvented martial arts cinema. I say the fights are great and everything else is just okay. Here's why."
 coverImage: /images/posts/i-think-the-furious-2026-is-overhyped/the-furious-cover.jpg
 featured: false
 ---
 
-The internet says The Furious reinvented martial arts cinema. I say the fights are great and everything else is just okay.
-
-The Furious is a Hong Kong action thriller directed by Kenji Tanigaki, a stunt coordinator turned director. It premiered at the Toronto International Film Festival's Midnight Madness section in September 2025 and opened worldwide on June 12, 2026.
+*The Furious* is a Hong Kong action thriller directed by Kenji Tanigaki, a stunt coordinator turned director. It premiered at the Toronto International Film Festival's Midnight Madness section in September 2025 and opened worldwide on June 12, 2026.
 
 Xie Miao plays Wang Wei, a mute handyman whose quiet life falls apart when his teenage daughter Rainy is kidnapped by a child trafficking ring operating with police protection. Joe Taslim plays Navin, a journalist whose wife went missing while investigating the same network, and the two men team up out of shared desperation. The setup moves fast, almost aggressively: Rainy is lured away from a busy street in broad daylight, which tells you upfront that the system meant to protect kids like her has already failed. It's a strong hook.
 
@@ -24,7 +22,7 @@ Xie Miao plays Wang Wei, a mute handyman whose quiet life falls apart when his t
 
 ## The action, and the moment my brain kicked back in
 
-![The Furious First Fight Scene](/images/posts/i-think-the-furious-2026-is-overhyped/action-scene-1-.jpg)
+![The first big fight scene in The Furious](/images/posts/i-think-the-furious-2026-is-overhyped/action-scene-1-.jpg)
 
 This is where the movie lives up to its reputation, at least partly. The fight choreography is excellent. Every punch, throw, and improvised weapon strike looks like it hurts, and you can tell real stunt performers spent serious time rehearsing.
 
@@ -38,9 +36,9 @@ Paklung, the villain played by Joey Iwanaga, is my biggest issue with the movie,
 
 Iwanaga is clearly having a blast playing against his usual, calmer roles. But a villain this interesting, someone hiding a fake identity behind a respectable businessman persona, deserved to be introduced and developed much earlier.
 
-## The third act is where this movie wins or loses you
+## The third act: great fight, weak ending
 
-![5 Way Fight](/images/posts/i-think-the-furious-2026-is-overhyped/5-way-de.jpg)
+![The five-way fight in The Furious](/images/posts/i-think-the-furious-2026-is-overhyped/5-way-de.jpg)
 
 The final fight might be one of the best pure action sequences I've watched in a while. If you've seen Jujutsu Kaisen and remember the three-way domain expansion, this is a five-way version of that everyone-fighting-everyone energy, with fists, blades, and improvised weapons instead of cursed techniques. Arrows fly, knives change hands mid-fight, and at one point two people fight each other with bicycles. Ridiculous in the best way.
 
@@ -52,6 +50,6 @@ If you've watched a reasonable amount of Asian action cinema, this movie is just
 
 ---
 
-The Furious is a fun, good time. It's not the genre-redefining masterpiece a chunk of the internet is treating it as, but it's not a movie you'll regret spending two hours on. Just go in knowing the story is thin, the villain needed more room to breathe, and you'll need to switch your brain off at some point.
+The Furious is a fun time. It's not the genre-redefining masterpiece a chunk of the internet is treating it as, but it's not a movie you'll regret spending two hours on. Just go in knowing the story is thin, the villain needed more room to breathe, and you'll have to stop asking how they're still alive.
 
 *PS: this movie had me asking just one question during every single fight scene: **how are they still alive?***

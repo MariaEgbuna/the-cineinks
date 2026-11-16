@@ -87,10 +87,11 @@ export default function RootLayout({
 
   return (
     <html
-      lang="en"
-      className={`${lora.variable} ${inter.variable} ${courierPrime.variable}`}
-      suppressHydrationWarning
-    >
+        lang="en"
+        data-scroll-behavior="smooth"
+        className={`${lora.variable} ${inter.variable} ${courierPrime.variable}`}
+        suppressHydrationWarning
+      >
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>

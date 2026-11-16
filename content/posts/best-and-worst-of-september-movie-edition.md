@@ -1,53 +1,61 @@
 ---
-title: "Movies I Watched in September 2026"
+title: "Best and Worst Movies I Watched in September 2026"
 slug: best-and-worst-movies-of-september-2026
 date: 2026-09-30T10:30:00.000+01:00
 category: Best and Worst
 labels:
   - List
-excerpt: September was a big month for movies. I watched 10; finished 9, dropped one, and found my movie of the year along the way.
+excerpt: "10 movies in September, from Project Hail Mary to Unfrosted. One became my movie of the year, and one I couldn't even finish."
 coverImage: /images/posts/best-and-worst-of-september-movie-edition/phm-3.jpg
 featured: false
 ---
 
-September was a big month for movies. I watched 10; finished 9, dropped one, and found my movie of the year along the way.
+Ten movies in September, and the gap between the best and the worst was huge. One is my movie of the year. Another took me two days to get halfway through, and I still quit.
 
-I also found a few that didn't deserve the hype.
+Everything else landed somewhere in between, including one that didn't deserve the noise around it.
 
-## September's Wins
+![The best movies I watched in September 2026](/images/posts/best-and-worst-of-september-movie-edition/top-movies-1.jpg)
 
-![Best Movies](/images/posts/best-and-worst-of-september-movie-edition/top-movies-1.jpg)
+## The Standout
 
-**1. Project Hail Mary (2026):** Best movie of the year for me. Go watch it. 10/10.
+**Project Hail Mary (2026):** My movie of the year so far, and I went in knowing nothing. I have a rule: no trailers, no synopsis, I just press play. This time it paid off. It made me wonder how vast the world really is, and I walked away completely blown away. If you can, go in blind like I did. 10/10.
 
-**2. Fantastic Mr. Fox (2009):** The oldest movie in my top five, and it beat almost every new release I watched this month. 'Twas a fun ride from start to finish.
+## Also Good
 
-**3. The Invite (2026):** Sometimes a movie is fine and you still don't connect with it. That's The Invite. It's just not for me.
+**Fantastic Mr. Fox (2009):** The oldest movie in my top five, and it beat almost every new release I watched this month. 'Twas a fun ride from start to finish.
 
-**4. The Naked Gun (2025):** A goofy movie that doesn't try to be anything more.
+**The Naked Gun (2025):** A goofy movie that doesn't try to be anything more.
 
-**5. Free Fall (2013):** Well-acted and quietly devastating, and I never regretted watching it. [Read my full thoughts on Free Fall](https://cineinks.vercel.app/posts/my-thoughts-on-free-fall).
+**Free Fall (2013):** Well-acted and quietly devastating, and I never regretted watching it. [Read my full thoughts on Free Fall](/posts/my-thoughts-on-free-fall).
+
+## Fine, But Not For Me
+
+**The Invite (2026):** Sometimes a movie is fine and you still don't connect with it. That's The Invite. It's just not for me.
+
+**The Kitchen (2019):** A decent film, nothing exceptional. I watched it because Melissa McCarthy was in it.
+
+**Green Lantern (2011):** I watched this after enjoying HBO's Lanterns and wanting more Green Lantern in my life. I'd never seen the Ryan Reynolds one, so I gave it a shot. It's average overall, but the CGI was awful.
 
 ## The Overhyped One
 
-![The Furious](/images/posts/best-and-worst-of-september-movie-edition/furious.jpg)
+![The Furious (2026)](/images/posts/best-and-worst-of-september-movie-edition/furious.jpg)
 
-**The Furious (2026):** A decent flick, but it didn't live up to the noise around it. [Here's why I think it's overhyped](https://cineinks.vercel.app/posts/the-furious-is-overhyped).
+**The Furious (2026):** A decent flick, but it didn't live up to the noise around it. [Here's why I think it's overhyped](/posts/the-furious-is-overhyped).
 
-## The Lowlights of September
+## The Worst
 
-![Worst movies I have watched](/images/posts/best-and-worst-of-september-movie-edition/bottom-movies.jpg)
+![The Runner (2026), the worst movie I watched in September](/images/posts/best-and-worst-of-september-movie-edition/bottom-movies.jpg)
 
-**1. The Runner (2026):** I already dropped my take on this one. [My full review of The Runner](https://cineinks.vercel.app/posts/review-the-runner-2026).
+**The Runner (2026):** I already dropped my take on this one. [My full review of The Runner](/posts/review-the-runner-2026).
 
-**2. Green Lantern (2011):** I watched this after enjoying HBO's Lanterns and wanting more Green Lantern in my life. I'd never seen the Ryan Reynolds one, so I gave it a shot. It's average overall, but the CGI was awful.
+## The One I Gave Up On
 
-**3. The Kitchen (2019):** A decent film, nothing exceptional. I watched it because Melissa McCarthy was in it.
-
-## Movies I Gave Up On
-
-![Unfrosted](/images/posts/best-and-worst-of-september-movie-edition/unfrosted.jpg)
+![Unfrosted (2024)](/images/posts/best-and-worst-of-september-movie-edition/unfrosted.jpg)
 
 **Unfrosted (2024):** It took me two days just to get through half of it. It was so stupid that my love for Melissa couldn't save it.
 
+---
+
 That's September: one movie of the year, one I gave up on, and a few that didn't deserve the hype.
+
+What should I watch in October? [Tell me](/contact).

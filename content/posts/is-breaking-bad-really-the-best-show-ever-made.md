@@ -1,17 +1,17 @@
 ---
-title: "Is Breaking Bad Worth Watching? Yes, But Give It Until Season 3"
+title: "Is Breaking Bad Worth Watching? Yes, Give It to Season 3"
 slug: "is-breaking-bad-really-the-best-show-ever-made"
-date: "2026-04-28T22:04:00.018Z"
+date: "2026-04-28T23:04:00.018+01:00"
 category: "Thoughts"
 labels: ["Series"]
 score: null
-excerpt: "Breaking Bad is one of those shows the internet will not stop talking about. Everyone acts like it's basically a religion."
+excerpt: "Is Breaking Bad worth watching? The first seasons are slower than the hype suggests. Why Walt, Jesse and Gus Fring make Season 3 the turning point."
 coverImage: "/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-1.jpg"
 ---
 
-Breaking Bad is one of those shows the internet will not stop talking about. Everyone acts like it's basically a religion.
+Everyone told me Breaking Bad was the best show ever made. Then I sat through Season 1 watching Walt deal with a school bully, and I wondered if the internet had lied to me.
 
-But once you actually sit down and watch it, there's a weird gap between what people promised you and what you're getting, at least at first. Let me explain what I mean.
+It hadn't, exactly. The show does become everything people promised. But the gap between the hype and those first episodes is real, and it's worth talking about.
 
 *This post contains spoilers for AMC's Breaking Bad.*
 
@@ -23,7 +23,7 @@ Breaking Bad sits at 9.5 out of 10 on IMDb, one of the highest scores any TV sho
 
 Season 5 Episode 14 (Ozymandias) was the only episode of TV with a flat-out perfect 10/10 on IMDb for 13 years, and Rolling Stone put it at the top of its 2024 list of the greatest TV episodes. The score slipped to 9.9 in early 2026, but only because a fandom war with a newer show led to a bunch of coordinated low ratings. On paper, this show is untouchable. The real question is whether it feels that way while you're watching.
 
-## So what's the show actually about
+## So what's the show actually about?
 
 Breaking Bad ran on AMC from January 2008 to September 2013, five seasons total. Walter White is a high school chemistry teacher in Albuquerque who finds out he has terminal lung cancer and starts cooking meth so his family isn't left broke. He brings in his old student Jesse Pinkman, and what starts as a desperate move slowly turns darker, because Walt is really, really good at being bad.
 
@@ -31,7 +31,7 @@ Vince Gilligan's pitch was famously simple: turn Mr. Chips into Scarface. He wan
 
 ## Walter White's slow fall is the whole point
 
-![Is Breaking Bad Worth Watching? Yes, But Give It Until Season 3](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-2.jpg)
+![Walter White in Breaking Bad](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-2.jpg)
 
 The reason people can't stop talking about this show is Walt. At the start you actually feel for him. He's underpaid, disrespected, working two jobs just to get by, and clearly smarter than the life he's stuck in. Then he gets a cancer diagnosis and finds out his family will be financially wrecked. You get why he makes that first bad call. You might even be on his side.
 
@@ -39,13 +39,13 @@ But the show isn't asking "*why did he start doing this?*" It's asking "*when di
 
 ## Jesse Pinkman is why you keep watching
 
-![Is Breaking Bad Worth Watching? Yes, But Give It Until Season 3](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-3.jpg)
+![Jesse Pinkman in Breaking Bad](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-3.jpg)
 
 Walt is fascinating, but he's not really likeable, and the show knows that, which is why Jesse exists. Jesse is the heart of the whole thing, the one who still has a conscience after Walt's has checked out. Walt buries everything under excuses and ego. Jesse feels every bit of it and falls apart. As Walt becomes less and less someone you can root for, Jesse becomes the guy you actually want to see make it out okay.
 
 ## The Gus Fring effect
 
-![Is Breaking Bad Worth Watching? Yes, But Give It Until Season 3](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-4.jpg)
+![Gus Fring in Breaking Bad](/images/posts/is-breaking-bad-really-the-best-show-ever-made/image-4.jpg)
 
 Ask any Breaking Bad fan when the show really clicked for them, and most will say when Gus Fring showed up. Played by Giancarlo Esposito, Gus runs a chicken restaurant chain called Los Pollos Hermanos as a front for his meth operation, while staying so squeaky clean publicly that he's friendly with the local DEA. He's polite, professional, and smiles at his customers.
 
@@ -70,5 +70,3 @@ Breaking Bad is well made, with a clear vision, great performances, and a great 
 But *greatest show ever made?* That's where it gets complicated. The reputation the internet has built almost makes the rough early episodes harder to get through, because you're comparing them to a legend they haven't proved yet on screen. I think **the greatest show ever probably shouldn't require you to push through a patience test before it becomes the greatest show ever.**
 
 Still watch it, just with normal expectations instead of the impossible ones everyone online hands you. It's normal to spend the first couple seasons wondering what the fuss is about.
-
-**Give it until Season 3. Let Gus show up, and you'll get it.**

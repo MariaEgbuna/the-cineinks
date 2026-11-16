@@ -1,17 +1,17 @@
 ---
-title: "Leviticus, Backrooms, Hokum and The Sheep Detectives: My Movie Week Reviewed"
+title: "Movie Week Recap: Evil Dead, Leviticus, Backrooms and More"
 slug: "horror-heartbreak-and-a-flock-of-very-good-detectives"
-date: "2026-08-24T11:00:00Z"
+date: "2026-08-24T12:00:00.000+01:00"
 category: "Extra"
 labels: ["Movies"]
 score: null
-excerpt: "Five days, nine movies, and three of them didn't survive past the one-hour mark."
+excerpt: "Nine movies in five days: a John Wick rewatch, an Evil Dead deep dive, three horror films, and a flock of sheep that turned out to be the best of the week."
 coverImage: "/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/cover.jpg"
 ---
 
-Five days, nine movies, and three of them didn't survive past the one-hour mark.
+I started the week with a John Wick rewatch, and somewhere around the credits I decided the rest of it would be horror.
 
-It started with a John Wick rewatch, and somewhere around the credits I decided I wanted horror for the rest of the week. That turned into an accidental Evil Dead deep dive, then whatever new horror release was in my queue: Leviticus, Backrooms, and Hokum. By the end I'd watched a bunch of talking sheep solve a murder and got a little emotional about it. Here's how it went, in the order I watched it.
+That turned into an accidental Evil Dead deep dive, then the new horror releases in my queue: Leviticus, Backrooms and Hokum. By the end, I'd watched a flock of talking sheep solve a murder and gotten a little emotional about it. Nine movies in five days, three of which didn't survive past the one-hour mark. Here's how it went, in the order I watched it.
 
 ## John Wick: Chapter 3 - Parabellum (2019)
 
@@ -45,7 +45,7 @@ All atmosphere, no substance. Kane Parsons, the creator of the viral Backrooms Y
 
 ![Hokum](/images/posts/horror-heartbreak-and-a-flock-of-very-good-detectives/image-6.jpg)
 
-The one that just didn't work, and the last horror movie of the week. Damian McCarthy, the director of Oddity, brings the same slow-burn atmosphere to a story about a novelist confronting a witch legend while scattering his parents' ashes at a remote Irish inn. Cheap scares and a whole lot of meh. I know it's supposed to be about grief underneath the ghost story, but I couldn't bring myself to care. I dropped it around the one-hour mark.
+The one that just didn't work, and the last horror movie of the week. Damian McCarthy, the director of Oddity, brings the same slow-burn atmosphere to a story about a novelist confronting a witch legend while scattering his parents' ashes at a remote Irish inn. Cheap scares and a whole lot of meh. I know it's supposed to be about grief underneath the ghost story, but I couldn't bring myself to care. **Dropped** around the one-hour mark.
 
 ## The Sheep Detectives (2026)
 
@@ -53,4 +53,8 @@ The one that just didn't work, and the last horror movie of the week. Damian McC
 
 A sheep whodunit. After Backrooms and Hokum I just needed something to pass the time, so I put it on without expecting much, and it was the best surprise of the week. Hugh Jackman plays a shepherd who reads murder mysteries to his flock every night, convinced they can't understand a word, right up until he turns up dead and the sheep decide to solve it. It's based on the novel Three Bags Full and directed by Kyle Balda in his first live-action feature, and it's a great little movie with a solid twist. **8.3/10.**
 
+---
+
 That's the full week: a John Wick comfort watch, an Evil Dead franchise that couldn't decide if it wanted to scare me or lose me, two horror movies I regret, and a flock of sheep that ended up being the best thing I watched. Horror won't always deliver, but the movie you expect the least from sometimes will.
+
+What should I watch next week? [Tell me](/contact).
