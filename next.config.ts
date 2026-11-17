@@ -1,6 +1,9 @@
 import type { NextConfig } from "next";
 
+const devOrigin = process.env.DEV_ORIGIN;
+
 const nextConfig: NextConfig = {
+  ...(devOrigin ? { allowedDevOrigins: [devOrigin] } : {}),
   async redirects() {
     return [
       {
@@ -18,6 +21,16 @@ const nextConfig: NextConfig = {
         destination: "/posts/review-from-season-2-still-good",
         permanent: true,
       },
+      {
+        source: "/posts/review-dorohedoro-season-1",
+        destination: "/posts/review-dorohedoro-season-1-underrated",
+        permanent: true,
+      },
+      {
+        source: "/posts/recap-elite-season-2",
+        destination: "/posts/recap-elite-season-2-solid-followup",
+        permanent: true,
+      }
     ];
   },
 };

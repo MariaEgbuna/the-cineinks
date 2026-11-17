@@ -2,7 +2,7 @@
 title: "Primal Season 1 Review: Raw and Intense"
 slug: primal-s1-review
 date: 2026-06-26T10:30:00Z
-category: Review
+category: Quick Take
 labels:
   - Anime
 score: 9.0

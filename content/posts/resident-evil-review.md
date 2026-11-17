@@ -1,18 +1,16 @@
 ---
-title: "Resident Evil (2026): Just A Regular Guy Trying to Survive"
+title: "Resident Evil (2026) Review: A Regular Guy in Raccoon City"
 slug: "resident-evil-review"
-date: "2026-11-03T10:30:00Z"
+date: "2026-11-03T11:30:00.000+01:00"
 category: "Review"
 labels: ["Movies"]
 score: 8.5
 verdict: "I'll happily take another trip to Raccoon City."
-excerpt: "Resident Evil proves that sometimes an ordinary guy trying to get home makes for the best horror protagonist."
+excerpt: "Zach Cregger's Resident Evil swaps the soldier for an ordinary courier delivering a package to Raccoon City. A spoiler-light review of a film that ends too soon."
 coverImage: "/images/posts/resident-evil-review/image-1.jpg"
 ---
 
-Resident Evil proves that sometimes an ordinary guy trying to get home makes for the best horror protagonist.
-
-Directed by Zach Cregger and written alongside Shay Hatten, Resident Evil (2026) is a new entry in the long-running horror franchise. Starring Austin Abrams as Bryan, alongside Paul Walter Hauser, Kali Reis and Zach Cherry, the movie takes us back to the infamous Raccoon City.
+Directed by Zach Cregger and written alongside Shay Hatten, *Resident Evil* (2026) is the newest entry in the long-running horror franchise. Austin Abrams stars as Bryan, with Paul Walter Hauser, Kali Reis and Zach Cherry, and the movie takes us back to the infamous Raccoon City.
 
 The story follows Bryan, a medical courier trying to navigate a new junction in his personal life: whether or not he's ready to become a father. While he and his girlfriend struggle with that decision, an unusually lucrative delivery offer comes his way. All he has to do is deliver a package to Raccoon City. Sounds simple enough. But these things never are.
 
@@ -20,7 +18,7 @@ The story follows Bryan, a medical courier trying to navigate a new junction in 
 
 ## Your everyday Joe in a zombie apocalypse
 
-![REVIEW: Resident Evil (2026)](/images/posts/resident-evil-review/image-2.jpg)
+![Bryan, the ordinary hero of Resident Evil (2026)](/images/posts/resident-evil-review/image-2.jpg)
 
 One of my biggest takeaways from this movie is how refreshing it was to have an ordinary person as the protagonist.
 
@@ -32,7 +30,7 @@ The comedy also deserves its flowers. It comes from Bryan's reactions, the absur
 
 ## The infected keep things unpredictable
 
-![REVIEW: Resident Evil (2026)](/images/posts/resident-evil-review/image-3.jpg)
+![The infected in Resident Evil (2026)](/images/posts/resident-evil-review/image-3.jpg)
 
 Another highlight is the infected themselves. Their ability to merge with other infected and replace damaged body parts makes encounters considerably more unpredictable.
 
@@ -44,7 +42,7 @@ Once he finally reaches the city, the objective becomes relatively straightforwa
 
 ## There's more to Bryan than survival
 
-![REVIEW: Resident Evil (2026)](/images/posts/resident-evil-review/image-4.jpg)
+![Bryan facing the Umbrella Corporation in Resident Evil (2026)](/images/posts/resident-evil-review/image-4.jpg)
 
 Something I appreciated was how the movie handled Bryan's uncertainty about becoming a father.
 
@@ -58,12 +56,8 @@ Umbrella Corporation also plays an important role in the story, particularly whe
 
 My biggest complaint about this movie is that it was simply too short!
 
-I genuinely wouldn't have minded another 15–30 minutes. Not because I think a particular section needed fixing or that the story required unnecessary additions, but because I was enjoying the experience enough to want more of it.
+I wouldn't have minded another 15–30 minutes. Not because I think a particular section needed fixing or that the story required unnecessary additions, but because I was enjoying the experience enough to want more of it.
 
 The movie delivers a surprisingly entertaining combination of horror, comedy, suspense and emotional storytelling. More importantly, it manages to make its protagonist relatable without sacrificing the danger surrounding him.
 
-I'm not particularly a Resident Evil fan, but I walked away wanting a sequel. That says quite a bit about how well the movie managed to pull me into its world.
-
----
-
-Resident Evil is a thoroughly enjoyable horror experience that understands the value of an ordinary protagonist, well-timed humour and unpredictable threats.
+I'm not particularly a Resident Evil fan, but the movie managed to pull me into its world.
