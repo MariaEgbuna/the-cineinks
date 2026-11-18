@@ -4,7 +4,7 @@ slug: "review-sneaky-pete"
 date: "2026-06-10T11:30:00.000+01:00"
 category: "Quick Take"
 labels: ["Series"]
-score: 7.1
+score: 7.3
 verdict: "Seasons 1 and 2 are great, just stop there."
 excerpt: "A con man steals his cellmate's identity and moves in with a family of bail bondsmen. Why Sneaky Pete's first two seasons are great, and where I stopped."
 coverImage: "/images/posts/review-sneaky-pete/image-1.jpg"

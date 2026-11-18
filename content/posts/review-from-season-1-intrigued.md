@@ -4,7 +4,7 @@ slug: "review-from-season-1-intrigued"
 date: "2026-07-22T11:30:00.000+01:00"
 category: "Review"
 labels: ["Series"]
-score: 8.6
+score: 8.5
 verdict: "Add it to your watchlist ASAP."
 excerpt: "I kept seeing From pop up everywhere and I finally sat down to watch it."
 coverImage: "/images/posts/review-from-season-1/image-1.jpg"

@@ -4,7 +4,7 @@ slug: "review-from-season-3-weakest-yet"
 date: "2026-07-27T11:00:00.000+01:00"
 category: "Review"
 labels: ["Series"]
-score: 7.2
+score: 6.9
 verdict: "This season was such a drag."
 excerpt: "From Season 3 has a great Victor storyline and a killer cliffhanger, but a mid-season drag and characters who still won't talk make it the weakest so far."
 coverImage: "/images/posts/review-from-season-3/image-1.jpg"

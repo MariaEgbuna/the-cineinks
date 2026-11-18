@@ -4,7 +4,7 @@ slug: "review-from-season-2-still-good"
 date: "2026-07-24T11:30:00.000+01:00"
 category: "Review"
 labels: ["Series"]
-score: 8.0
+score: 7.9
 verdict: "It's still great TV, just not as tight as the first ride."
 excerpt: "From Season 2 has a killer cliffhanger and a great new wildcard in Randall, but characters keeping secrets and a mid-season drag wore on me. Spoilers inside."
 coverImage: "/images/posts/review-from-season-2/image-1.jpg"

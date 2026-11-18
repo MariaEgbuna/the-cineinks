@@ -4,7 +4,7 @@ slug: "review-obsession-2026"
 date: "2026-08-14T11:30:00.000+01:00"
 category: "Quick Take"
 labels: ["Movies"]
-score: 9.1
+score: 9.0
 verdict: "One of the best horror movies of 2026."
 excerpt: "Curry Barker's Obsession turns a wish for love into a nightmare. A spoiler-light review of the supernatural horror hit, and why one scene made me furious."
 coverImage: "/images/posts/review-obsession-2026/image-1.jpg"

@@ -4,7 +4,7 @@ slug: "review-matthias-and-maxime"
 date: "2026-06-10T09:30:00.000+01:00"
 category: "Quick Take"
 labels: ["Movies"]
-score: 7.5
+score: 7.6
 verdict: "This one's worth your time."
 excerpt: "One kiss for a student film, and everything gets weird. A spoiler-free review of Xavier Dolan's quiet, slow-burn drama about two childhood best friends."
 coverImage: "/images/posts/review-matthias-and-maxime/image-1.jpg"

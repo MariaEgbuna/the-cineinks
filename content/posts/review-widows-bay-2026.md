@@ -5,8 +5,8 @@ date: 2026-09-15T10:45:00.000+01:00
 category: Review
 labels:
   - Series
-score: 8.8
-verdict: "I am completely ready to board the ferry back to the bay."
+score: 9.0
+verdict: "I am ready to board the ferry back to the bay."
 excerpt: "I accidentally spoiled the entire Widow's Bay season finale within the first four episodes, and it still didn't ruin the show."
 coverImage: /images/posts/review-widows-bay-2026/widow-bay-cover-image.jpg
 featured: false

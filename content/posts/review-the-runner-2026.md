@@ -5,7 +5,7 @@ date: 2026-09-05T11:30:00.000+01:00
 category: Review
 labels:
   - Movies
-score: 4.8
+score: 4.9
 verdict: "Another entry in Amazon's pile of forgettable original films."
 excerpt: "Gal Gadot runs across London for 84 minutes in Amazon's phone-call thriller. A review of the familiar plot, the talent behind it, and the review-bombing debate."
 coverImage: /images/posts/review-the-runner-2026/the-runner-cover.jpg

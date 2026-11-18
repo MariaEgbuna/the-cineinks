@@ -5,7 +5,7 @@ date: 2026-05-23T07:49:02.198+01:00
 category: Review
 labels:
   - KDrama
-score: 9.1
+score: 9.2
 verdict: "Brilliantly acted, unflinching, and emotionally devastating."
 excerpt: "Two pigs, a killer and a detective, and a school hierarchy that never let go. A spoiler-light review of the brutal 2022 K-drama starring Kim Dong-wook and Kim Sung-kyu."
 coverImage: /images/posts/review-the-king-of-pigs/image-1.jpg

@@ -7,10 +7,10 @@ labels:
   - Anime
 score: null
 excerpt: "My top 10 anime, from Mob Psycho 100 to Odd Taxi, plus two honourable mentions. Each one comes with what could have been better, so no blind hype."
-coverImage: /images/posts/anime-recommendations-may-20-2026/image-1.jpg
+coverImage: /images/posts/anime-recommendations-may-20-2026/cover.jpg
 ---
 
-Ask me what to watch and I'll start with ten shows, then spend ten more minutes explaining why they all belong on the list. So I wrote it down.
+Ask me what to watch and I'll start with these ten shows, then spend ten more minutes explaining why they all belong on the list. So I wrote it down.
 
 These are the anime I keep coming back to, the ones I've rewatched, pushed on friends, or just thought about for weeks after the last episode. Some are huge, some are criminally underrated, and each comes with the one thing I think could have been better, because nothing here is perfect. Two honourable mentions are waiting at the bottom, because some things are too good to leave off entirely.
 

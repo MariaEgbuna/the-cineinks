@@ -4,7 +4,7 @@ slug: "review-the-affair-was-just-the-beginning"
 date: "2026-10-24T11:30:00.000+01:00"
 category: "Quick Take"
 labels: ["KDrama"]
-score: 8.4
+score: 8.1
 verdict: "The affair really was just the beginning."
 excerpt: "A cheating-spouse drama that turns into a hit-and-run, a hidden body and a blackmailer. A spoiler-light review of the eight-episode Kim Hye-soo black comedy."
 coverImage: "/images/posts/review-the-affair-was-just-the-beginning/poster-image.jpg"

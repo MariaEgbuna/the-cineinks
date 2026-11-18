@@ -4,7 +4,7 @@ slug: "review-ready-or-not-2-2026"
 date: "2026-05-11T11:33:00.006+01:00"
 category: "Quick Take"
 labels: ["Movies"]
-score: 7.7
+score: 7.8
 verdict: "This sequel had no business working as well as it does."
 excerpt: "Ready or Not 2 has creative kills, Elijah Wood's deadpan and Samara Weaving holding it all together. A spoiler-light review of the horror-comedy sequel."
 coverImage: "/images/posts/review-ready-or-not-2-2026/image-1.jpg"

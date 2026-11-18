@@ -12,8 +12,6 @@ coverImage: /images/posts/series-recommendations-june-06-2026/image-1.jpg
 
 Somehow this all started with Sam Reid and ended with four shows permanently lodged in my brain. Two of them feature him, the other two just fit the same vibe: dark, heavy, the kind of stories that sit with you for days.
 
-
-
 ### Interview with the Vampire (2022)
 
 ![Interview With The Vampire (2022)](/images/posts/series-recommendations-june-06-2026/image-2.jpg)

@@ -4,7 +4,7 @@ slug: "review-from-season-4-better-binged"
 date: "2026-07-31T13:30:00.000+01:00"
 category: "Quick Take"
 labels: ["Series"]
-score: 7.8
+score: 7.7
 verdict: "Season 4 successfully pulled the show out of its season 3 slump."
 excerpt: "From Season 4 brings back real threats, a plot that moves and characters who finally talk. Why it pulled the show out of its slump, and who annoyed me anyway."
 coverImage: "/images/posts/review-from-season-4/image-1.jpg"
