@@ -1,5 +1,5 @@
 ---
-title: "Elite Review: All 8 Seasons, Season by Season"
+title: "Elite Review: Full Retrospective"
 slug: elite-full-retrospective
 date: 2026-11-14T17:40:00.000+01:00
 category: Review

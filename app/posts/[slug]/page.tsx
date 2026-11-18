@@ -76,6 +76,10 @@ export default async function PostPage({ params }: PageProps) {
   // Text and bar colors for the Rating card (null when the post has no score)
   const tone = post.score !== null ? scoreTone(post.score) : null;
 
+  // Banner info: the year and the length (seasons/episodes or runtime).
+  // Empty when neither is filled in, so older posts look exactly as before.
+  const factsLine = [post.year, post.length].filter(Boolean).join(" · ");
+
   const structuredData = post.score !== null
     ? {
         "@context": "https://schema.org",
@@ -125,11 +129,10 @@ export default async function PostPage({ params }: PageProps) {
           }`}
         >
           <div>
-            <div className="mb-4">
-              <span className="bg-teal text-teal-light font-mono text-[11px] uppercase tracking-wide px-2.5 py-1 rounded">
-                {post.category}
-              </span>
-            </div>
+            {/* The category as a quiet accent-colored line, no filled badge. */}
+            <p className="mb-3.5 font-mono text-xs font-bold uppercase leading-normal tracking-wide text-accent md:text-[13px]">
+              {post.category}
+            </p>
             <h1 className="font-serif text-3xl md:text-4xl leading-tight text-main mb-3">
               {post.title}
             </h1>
@@ -137,6 +140,9 @@ export default async function PostPage({ params }: PageProps) {
               <p className="text-base md:text-lg leading-relaxed text-main/70 mb-4">
                 {post.excerpt}
               </p>
+            )}
+            {factsLine && (
+              <p className="mb-1 text-sm font-medium text-main">{factsLine}</p>
             )}
             <p className="font-mono text-sm text-muted">
               {formattedDate} · {readingMinutes} min read
@@ -172,8 +178,8 @@ export default async function PostPage({ params }: PageProps) {
         </div>
 
         {/* Rating card, only for posts that have a score.
-            Changed: the number gets a tier text color and the bar gets a
-            tier fill color. The wrapper no longer carries any color. */}
+            The number gets a tier text color and the bar gets a
+            tier fill color. The wrapper carries no color. */}
         {post.score !== null && tone && (
           <div className="max-w-225 mx-auto px-5 pb-8 md:pb-10">
             <aside className="border-l-4 border-accent bg-card p-5">

@@ -29,10 +29,7 @@ collections:
       - { label: "Verdict Line", name: "verdict", widget: "string", required: false, hint: "One short line shown on the Rating card. Optional." }
       - { label: "Excerpt", name: "excerpt", widget: "text" }
       - { label: "Cover Image", name: "coverImage", widget: "image", required: false }
-      - { label: "Genres", name: "genres", widget: "list", required: false, hint: "Shown next to the category in the banner. Optional." }
-      - { label: "Year", name: "year", widget: "string", required: false, hint: "For example 2025, or 2018 – 2024 for a series. Optional." }
-      - { label: "Length", name: "length", widget: "string", required: false, hint: "For example 2h 14m, or 8 seasons, 64 episodes. Optional." }
-      - { label: "Where to Watch", name: "network", widget: "string", required: false, hint: "For example Netflix. Optional." }
-      - { label: "Cast", name: "cast", widget: "list", required: false, hint: "Up to 3 names are shown in the banner. Optional." }
+      - { label: "Year", name: "year", widget: "string", required: false, hint: "Shown in the banner. For example 2025, or 2018 – 2024 for a series. Optional." }
+      - { label: "Length", name: "length", widget: "string", required: false, hint: "Shown in the banner. For example 2h 14m, or 8 seasons, 64 episodes. Optional." }
       - { label: "Featured", name: "featured", widget: "boolean", required: false, default: false }
       - { label: "Body", name: "body", widget: "markdown" }

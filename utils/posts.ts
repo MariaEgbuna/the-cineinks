@@ -16,12 +16,9 @@ export type Post = {
   excerpt: string;
   coverImage: string;
   featured?: boolean;
-  // Banner info, all optional. Empty string / empty list when not filled in.
-  genres: string[];
+  // Banner info, both optional. Empty string when not filled in.
   year: string;
   length: string;
-  network: string;
-  cast: string[];
   content: string;
 };
 
@@ -38,14 +35,6 @@ export type SearchablePost = {
 function cleanString(value: unknown): string {
   if (typeof value === "number") return String(value);
   return typeof value === "string" ? value.trim() : "";
-}
-
-function cleanList(value: unknown): string[] {
-  if (!Array.isArray(value)) return [];
-  return value
-    .filter((item): item is string => typeof item === "string")
-    .map((item) => item.trim())
-    .filter(Boolean);
 }
 
 export function getAllPosts(): Post[] {
@@ -67,11 +56,8 @@ export function getAllPosts(): Post[] {
       score,
       coverImage,
       verdict: cleanString(data.verdict),
-      genres: cleanList(data.genres),
       year: cleanString(data.year),
       length: cleanString(data.length),
-      network: cleanString(data.network),
-      cast: cleanList(data.cast),
     } as Post;
   });
 
