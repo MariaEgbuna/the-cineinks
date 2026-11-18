@@ -16,6 +16,12 @@ export type Post = {
   excerpt: string;
   coverImage: string;
   featured?: boolean;
+  // Banner info, all optional. Empty string / empty list when not filled in.
+  genres: string[];
+  year: string;
+  length: string;
+  network: string;
+  cast: string[];
   content: string;
 };
 
@@ -26,6 +32,21 @@ export type SearchablePost = {
   category: string;
   excerpt: string;
 };
+
+// Decap skips optional fields left blank, and a hand-typed year can come
+// through as a number, so every optional text field is cleaned in one place.
+function cleanString(value: unknown): string {
+  if (typeof value === "number") return String(value);
+  return typeof value === "string" ? value.trim() : "";
+}
+
+function cleanList(value: unknown): string[] {
+  if (!Array.isArray(value)) return [];
+  return value
+    .filter((item): item is string => typeof item === "string")
+    .map((item) => item.trim())
+    .filter(Boolean);
+}
 
 export function getAllPosts(): Post[] {
   const filenames = readdirSync(POSTS_DIR).filter((name) => name.endsWith(".md"));
@@ -40,17 +61,17 @@ export function getAllPosts(): Post[] {
     const coverImage: string =
       typeof data.coverImage === "string" ? data.coverImage : "";
 
-    // Decap skips optional fields left blank, so a missing verdict is
-    // treated as empty here, in one place, the same way score is.
-    const verdict: string =
-      typeof data.verdict === "string" ? data.verdict.trim() : "";
-
     return {
       ...data,
       content,
       score,
       coverImage,
-      verdict,
+      verdict: cleanString(data.verdict),
+      genres: cleanList(data.genres),
+      year: cleanString(data.year),
+      length: cleanString(data.length),
+      network: cleanString(data.network),
+      cast: cleanList(data.cast),
     } as Post;
   });
 

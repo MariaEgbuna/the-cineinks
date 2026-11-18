@@ -5,6 +5,11 @@ date: 2026-11-14T17:40:00.000+01:00
 category: Review
 labels:
   - Series
+genres: ["Drama", "Thriller", "Teen"]
+year: "2018 – 2024"
+length: "8 seasons, 64 episodes"
+network: "Netflix"
+cast: ["Úrsula Corberó", "Miguel Herrán", "Jaime Lorente"]
 score: 6.8
 verdict: "Great for three seasons, exhausting after that."
 excerpt: "A season-by-season look at Elite: three messy, addictive seasons, a long slide from Season 4, and a goodbye that left too much unanswered."
