@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { getAllPosts, getPostBySlug, getRelatedPosts } from "../../../utils/posts";
-import { scoreColor } from "../../../utils/scoreColor";
+import { scoreTone } from "../../../utils/scoreColor";
 import { Metadata } from "next";
 import { SITE_URL } from "../../../utils/site";
 import MarkdownImage from "../../../components/MarkdownImage";
@@ -73,6 +73,9 @@ export default async function PostPage({ params }: PageProps) {
 
   const hasCover = Boolean(post.coverImage);
 
+  // Text and bar colors for the Rating card (null when the post has no score)
+  const tone = post.score !== null ? scoreTone(post.score) : null;
+
   const structuredData = post.score !== null
     ? {
         "@context": "https://schema.org",
@@ -122,20 +125,10 @@ export default async function PostPage({ params }: PageProps) {
           }`}
         >
           <div>
-            <div className="flex items-center gap-3 mb-4">
+            <div className="mb-4">
               <span className="bg-teal text-teal-light font-mono text-[11px] uppercase tracking-wide px-2.5 py-1 rounded">
                 {post.category}
               </span>
-              {/* bg-ink keeps the light score colors readable on any background */}
-              {post.score !== null && (
-                <span
-                  className={`bg-ink text-sm font-medium px-3 py-1 rounded ${scoreColor(
-                    post.score
-                  )}`}
-                >
-                  {post.score}/10
-                </span>
-              )}
             </div>
             <h1 className="font-serif text-3xl md:text-4xl leading-tight text-main mb-3">
               {post.title}
@@ -179,27 +172,24 @@ export default async function PostPage({ params }: PageProps) {
         </div>
 
         {/* Rating card, only for posts that have a score.
-            Changed: the badge and bar share one row, and the verdict gets
-            its own full-width line underneath, so long verdicts no longer
-            get squeezed into a narrow column on phones. */}
-        {post.score !== null && (
+            Changed: the number gets a tier text color and the bar gets a
+            tier fill color. The wrapper no longer carries any color. */}
+        {post.score !== null && tone && (
           <div className="max-w-225 mx-auto px-5 pb-8 md:pb-10">
             <aside className="border-l-4 border-accent bg-card p-5">
               <div className="flex items-center gap-4">
                 <span
-                  className={`shrink-0 bg-ink px-3 py-2 font-serif text-2xl font-semibold rounded sm:px-4 sm:py-3 sm:text-3xl ${scoreColor(
-                    post.score
-                  )}`}
+                  className={`shrink-0 bg-ink px-3 py-2 font-serif text-2xl font-semibold rounded sm:px-4 sm:py-3 sm:text-3xl ${tone.text}`}
                 >
                   {post.score}/10
                 </span>
-                <div className={`min-w-0 flex-1 ${scoreColor(post.score)}`}>
+                <div className="min-w-0 flex-1">
                   <p className="font-mono text-xs font-medium uppercase tracking-wide text-accent">
                     Rating
                   </p>
                   <div className="mt-2 h-1.5 bg-main/10">
                     <div
-                      className="h-full bg-current"
+                      className={`h-full ${tone.bar}`}
                       style={{
                         width: `${Math.min(100, Math.max(0, post.score * 10))}%`,
                       }}
