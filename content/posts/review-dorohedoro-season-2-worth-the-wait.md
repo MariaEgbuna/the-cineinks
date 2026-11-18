@@ -14,7 +14,7 @@ Dorohedoro Season 2 took six years to arrive, and every second of the wait was w
 
 It picks up exactly where the first season left off, with no hand-holding and no boring recap episode. MAPPA and director Yuichiro Hayashi stepped right back into this unhinged world like no time had passed. The season ran 11 episodes from April 1 to May 27, 2026, and I waited for the whole thing to drop before hitting play. It was the best call I could have made. Watching this week to week would have broken me.
 
-New here? Start with [my Season 1 review](/posts/review-dorohedoro-season-1-underrated).
+New here? Start with [my Season 1 quick take](/posts/review-dorohedoro-season-1-underrated).
 
 ## More of absolutely everything
 

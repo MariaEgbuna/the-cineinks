@@ -2,7 +2,7 @@
 title: "5 Anime I Didn’t Expect to Enjoy This Much"
 slug: animes-i-wasnt-expecting-to-enjoy
 date: 2026-09-25T11:25:00.000+01:00
-category: Recommendations
+category: Curated
 labels:
   - Anime
 excerpt: "Five anime I almost skipped: a monster-girl comedy, a heliocentrism thriller, and a palace mystery that ate my weekend. Here's why each one won me over."

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { scoreColor } from "../utils/scoreColor";
+import ScoreBadge from "./ScoreBadge";
 import { formatDate } from "../utils/posts";
 import type { Post } from "../utils/posts";
 
@@ -35,33 +35,29 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
             )}
             <div className="absolute inset-0 bg-linear-to-t from-black/90 via-black/30 to-transparent" />
 
-            {/* Everything on top of the image keeps its fixed colors on purpose */}
+            {/* Changed: round score badge */}
             {featuredPost.score !== null && (
-              <span
-                className={`absolute top-3 right-3 z-10 bg-ink px-2.5 py-1 text-xs font-medium rounded md:top-4 md:right-4 md:px-3 md:text-sm ${scoreColor(
-                  featuredPost.score
-                )}`}
-              >
-                {featuredPost.score}/10
-              </span>
+              <ScoreBadge
+                score={featuredPost.score}
+                size="lead"
+                className="absolute top-3 right-3 z-10 md:top-4 md:right-4"
+              />
             )}
 
             <div className="absolute inset-x-0 bottom-0 z-10 p-4 md:p-6">
-              {/* Changed: font-mono, uppercase, small */}
               <span className="mb-2 inline-block bg-teal px-2.5 py-1 font-mono text-[11px] uppercase tracking-wide text-teal-light rounded md:mb-3">
                 {featuredPost.category}
               </span>
               <h1 className="font-serif text-lg leading-snug text-cream line-clamp-3 md:text-4xl md:line-clamp-none">
                 {featuredPost.title}
               </h1>
-              {/* Changed: font-mono date */}
               <p className="mt-1.5 font-mono text-xs text-cream/70 md:mt-2 md:text-sm">
                 {formatDate(featuredPost.date)}
               </p>
             </div>
           </Link>
 
-          {/* Small heading, phones only. Changed: font-mono */}
+          {/* Small heading, phones only */}
           <p className="-mb-1 pt-2 font-mono text-xs font-medium uppercase tracking-wide text-accent md:hidden">
             Latest posts
           </p>
@@ -87,13 +83,10 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
                   />
                 )}
                 {post.score !== null && (
-                  <span
-                    className={`absolute top-1.5 right-1.5 z-10 bg-ink px-1.5 py-0.5 text-[11px] font-medium rounded md:top-2 md:right-2 md:px-2 ${scoreColor(
-                      post.score
-                    )}`}
-                  >
-                    {post.score}/10
-                  </span>
+                  <ScoreBadge
+                    score={post.score}
+                    className="absolute top-1.5 right-1.5 z-10 md:top-2 md:right-2"
+                  />
                 )}
               </div>
 
@@ -102,14 +95,13 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
 
               {/* Phone: text on the right. Desktop: text over the bottom of the tile. */}
               <div className="min-w-0 md:absolute md:inset-x-0 md:bottom-0 md:z-10 md:p-4">
-                {/* Changed: font-mono, uppercase, small */}
                 <p className="mb-1 font-mono text-[11px] font-medium uppercase tracking-wide text-accent md:mb-0 md:text-teal-light">
                   {post.category}
                 </p>
                 <h2 className="font-serif text-sm leading-snug text-main line-clamp-4 transition-colors group-hover:text-accent md:mt-0.5 md:text-base md:text-cream md:line-clamp-3 md:group-hover:text-cream">
                   {post.title}
                 </h2>
-                {/* Phones only: the date sits under the title. Changed: font-mono */}
+                {/* Phones only: the date sits under the title */}
                 <p className="mt-1.5 font-mono text-xs text-muted md:hidden">
                   {formatDate(post.date)}
                 </p>

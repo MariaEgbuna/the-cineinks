@@ -2,7 +2,7 @@
 title: "Movie Week Recap: Evil Dead, Leviticus, Backrooms and More"
 slug: "horror-heartbreak-and-a-flock-of-very-good-detectives"
 date: "2026-08-24T12:00:00.000+01:00"
-category: "Extra"
+category: "Curated"
 labels: ["Movies"]
 score: null
 excerpt: "Nine movies in five days: a John Wick rewatch, an Evil Dead deep dive, three horror films, and a flock of sheep that turned out to be the best of the week."

@@ -2,7 +2,7 @@
 title: "10 Anime That Live Rent-Free in My Head"
 slug: anime-recommendations-may-20-2026
 date: 2026-05-20T12:46:21.472+01:00
-category: Recommendations
+category: Curated
 labels:
   - Anime
 score: null

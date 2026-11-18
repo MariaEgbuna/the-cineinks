@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { scoreColor } from "../utils/scoreColor";
+import ScoreBadge from "./ScoreBadge";
 
 type ArticleRowProps = {
   slug: string;
@@ -39,14 +39,9 @@ export default function ArticleRow({
             className="object-cover transition-transform duration-500 group-hover:scale-105"
           />
         )}
+        {/* Changed: round score badge */}
         {score !== null && (
-          <span
-            className={`absolute top-1.5 right-1.5 bg-ink text-[11px] font-medium px-1.5 py-0.5 rounded ${scoreColor(
-              score
-            )}`}
-          >
-            {score}/10
-          </span>
+          <ScoreBadge score={score} className="absolute top-1.5 right-1.5" />
         )}
       </div>
 

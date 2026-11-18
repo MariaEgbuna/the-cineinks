@@ -2,9 +2,9 @@ import Link from "next/link";
 import Hero from "../components/Hero";
 import CategorySection from "../components/CategorySection";
 import SectionHeading from "../components/SectionHeading";
+import ScoreBadge from "../components/ScoreBadge";
 import { getAllPosts, getFeaturedPost } from "../utils/posts";
 import { categories } from "../utils/categories";
-import { scoreColor } from "../utils/scoreColor";
 
 // Which category sections show on the home page, in this order
 const SECTION_SLUGS = ["movies", "series", "anime", "kdrama"];
@@ -39,7 +39,7 @@ export default function Home() {
           !heroSlugs.has(post.slug) &&
           post.labels?.some((label) => label.toLowerCase() === category.label.toLowerCase())
       )
-      .slice(0, 4);
+      .slice(0, 3);
     return posts.length > 0 ? [{ category, posts }] : [];
   });
 
@@ -68,18 +68,12 @@ export default function Home() {
                       <span className="block text-sm text-main leading-snug transition-colors group-hover:text-accent md:text-base">
                         {post.title}
                       </span>
-                      {/* Changed: font-mono, uppercase, small */}
                       <span className="font-mono text-[11px] uppercase tracking-wide text-muted">
                         {post.category}
                       </span>
                     </span>
-                    <span
-                      className={`shrink-0 rounded bg-ink px-2 py-1 text-xs font-medium ${scoreColor(
-                        post.score ?? 0
-                      )}`}
-                    >
-                      {post.score}/10
-                    </span>
+                    {/* Changed: round score badge */}
+                    <ScoreBadge score={post.score ?? 0} size="row" />
                   </Link>
                 </li>
               ))}

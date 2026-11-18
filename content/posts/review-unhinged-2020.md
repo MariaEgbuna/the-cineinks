@@ -2,7 +2,7 @@
 title: "Unhinged (2020) Review: An Ordinary Drive Turns Into a Nightmare"
 slug: "review-unhinged-2020"
 date: "2026-05-11T10:12:00.004Z"
-category: "Review"
+category: "Quick Take"
 labels: ["Movies"]
 score: 7.3
 verdict: "Watch it for Crowe. Stay for the chaos."
@@ -16,16 +16,16 @@ Unhinged is a 2020 thriller directed by Derrick Borte, written by Carl Ellsworth
 
 What starts as a road rage exchange spirals fast. Tom follows Rachel and her son home, and from there he doesn't stop, not at her job, lawyer's office, or anyone she cares about. The film treats one bad interaction in traffic as the spark for a full day of escalating terror.
 
-### The Highlights:
+## The Highlights:
 
-*   **Russell Crowe Is Deeply Unsettling.** This is not some cartoonish villain you can laugh off. He plays it with a low burning rage that feels disturbingly believable, like a guy you could actually run into on the road.
-*   **The Premise Hits Close to Home.** That split second thought of "what kind of person is this?" during a road rage moment is something most of us have felt at some point. The film takes that exact feeling and pushes it to the most extreme place it can go.
-*   **No Wasted Time.** At 93 minutes, the runtime is tight and the pacing never lets up.
+* **Russell Crowe Is Deeply Unsettling.** This is not some cartoonish villain you can laugh off. He plays it with a low burning rage that feels disturbingly believable, like a guy you could actually run into on the road.
+* **The Premise Hits Close to Home.** That split second thought of "what kind of person is this?" during a road rage moment is something most of us have felt at some point. The film takes that exact feeling and pushes it to the most extreme place it can go.
+* **No Wasted Time.** At 93 minutes, the runtime is tight and the pacing never lets up.
 
-### Fair Warning:
+## Fair Warning:
 
-*   **The Supporting Cast Struggles to Keep Up.** Whenever Crowe is off screen, the cracks start showing. Some of the supporting characters feel flat, and it becomes pretty obvious during the film's most intense moments.
-*   **There's No Depth Here.** This is a blunt instrument, plain and simple. If you need your thrillers to mean something deeper, you will walk away unsatisfied.
+* **The Supporting Cast Struggles to Keep Up.** Whenever Crowe is off screen, the cracks start showing. Some of the supporting characters feel flat, and it becomes pretty obvious during the film's most intense moments.
+* **There's No Depth Here.** This is a blunt instrument, plain and simple. If you need your thrillers to mean something deeper, you will walk away unsatisfied.
    
 ---
 

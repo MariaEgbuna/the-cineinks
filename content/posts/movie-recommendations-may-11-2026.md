@@ -2,7 +2,7 @@
 title: "Movie Recommendations: 4 Films Worth Watching"
 slug: movie-recommendations-may-11-2026
 date: 2026-05-11T11:48:00.002+01:00
-category: Recommendations
+category: Curated
 labels:
   - Movies
 score: null

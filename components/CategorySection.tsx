@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import SectionHeading from "./SectionHeading";
-import { scoreColor } from "../utils/scoreColor";
+import ScoreBadge from "./ScoreBadge";
 import { formatDate } from "../utils/posts";
 import type { Post } from "../utils/posts";
 
@@ -43,14 +43,12 @@ export default function CategorySection({ title, href, posts }: CategorySectionP
                 {post.category}
               </span>
 
+              {/* Changed: round score badge */}
               {post.score !== null && (
-                <span
-                  className={`absolute top-1.5 right-1.5 z-10 rounded bg-ink px-1.5 py-0.5 text-[11px] font-medium md:top-2.5 md:right-2.5 md:px-2.5 md:py-1 md:text-xs ${scoreColor(
-                    post.score
-                  )}`}
-                >
-                  {post.score}/10
-                </span>
+                <ScoreBadge
+                  score={post.score}
+                  className="absolute top-1.5 right-1.5 z-10 md:top-2.5 md:right-2.5"
+                />
               )}
             </div>
 
@@ -68,7 +66,7 @@ export default function CategorySection({ title, href, posts }: CategorySectionP
         ))}
       </div>
 
-      {/* Changed: small swipe cue, phones only */}
+      {/* Small swipe cue, phones only */}
       {posts.length > 1 && (
         <p
           aria-hidden="true"

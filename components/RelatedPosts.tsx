@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import SectionHeading from "./SectionHeading";
-import { scoreColor } from "../utils/scoreColor";
+import ScoreBadge from "./ScoreBadge";
 import type { Post } from "../utils/posts";
 
 type RelatedPostsProps = {
@@ -56,26 +56,22 @@ export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProp
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
                   />
                 )}
+                {/* Changed: round score badge */}
                 {related.score !== null && (
-                  <span
-                    className={`absolute top-1.5 right-1.5 rounded bg-ink px-1.5 py-0.5 text-[11px] font-medium ${scoreColor(
-                      related.score
-                    )}`}
-                  >
-                    {related.score}/10
-                  </span>
+                  <ScoreBadge
+                    score={related.score}
+                    className="absolute top-1.5 right-1.5"
+                  />
                 )}
               </div>
 
               <div className="min-w-0">
-                {/* The category on its own line. Changed: font-mono, uppercase, small */}
                 <p className="mb-1 font-mono text-[11px] font-medium uppercase tracking-wide text-accent">
                   {related.category}
                 </p>
                 <h3 className="font-serif text-sm leading-snug text-main line-clamp-3 transition-colors group-hover:text-accent sm:text-base">
                   {related.title}
                 </h3>
-                {/* Changed: font-mono date */}
                 <p className="mt-1.5 font-mono text-xs text-muted">{formatDate(related.date)}</p>
               </div>
             </Link>

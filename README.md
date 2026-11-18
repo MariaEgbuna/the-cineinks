@@ -1,8 +1,6 @@
 # The CineInks
 
-A blog about movies, series, anime, and K-dramas, honest takes on what I've watched.
-
-This used to live on Blogger, under the name "The Watchlist Chronicles." I decided to rebuild it myself instead, the way I actually wanted it to look and work.
+A blog about movies, series, anime, and K-dramas, honest takes on what I've watched. This used to live on Blogger, under the name "The Watchlist Chronicles." I decided to rebuild it myself instead, the way I actually wanted it to look and work.
 
 **Live at:** [cineinks.vercel.app](https://cineinks.vercel.app)
 
@@ -31,7 +29,7 @@ Two reasons.
 - Light and dark mode, with a toggle in the header that remembers your choice
 - All 68 posts migrated from Blogger, including a script to convert the old export into clean Markdown with self-hosted, compressed images
 - **Home page:**
-  - A hero with one big lead story and four tiles (on phones the four tiles turn into a list)
+  - A hero with one big lead story and tiles (on phones the tiles turn into a list)
   - A Top Rated list, the five highest scores
   - A section each for Movies, Series, Anime, and KDrama, skipping any post already in the hero
 - **Post pages:**
@@ -96,7 +94,7 @@ Small stuff I ran into and sorted out, keeping track mostly for myself:
 ## Still to do
 
 - Ads, someday. When they arrive, the privacy policy's "no cookies" and "no advertising" lines need rewriting, and a cookie consent banner will probably be needed for visitors in the UK and EU
-- 
+
 ---
 
 More to come as I keep working on this.

@@ -2,7 +2,7 @@
 title: "K-Drama Recommendations: 9 Underrated Shows to Watch"
 slug: kdrama-recommendations-may-27-2026
 date: 2026-05-27T18:53:33.242+01:00
-category: Recommendations
+category: Curated
 labels:
   - KDrama
 score: null

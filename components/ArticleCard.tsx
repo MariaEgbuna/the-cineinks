@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { scoreColor } from "../utils/scoreColor";
+import ScoreBadge from "./ScoreBadge";
 
 type ArticleCardProps = {
   slug: string;
@@ -41,24 +41,21 @@ export default function ArticleCard({
 
         {/* Desktop only: soft shade and category badge over the image */}
         <div className="absolute inset-x-0 bottom-0 hidden h-1/2 bg-linear-to-t from-black/50 to-transparent md:block" />
-        {/* Changed: font-mono, uppercase, small */}
         <span className="absolute bottom-2.5 left-2.5 hidden bg-teal text-teal-light font-mono text-[11px] uppercase tracking-wide px-2 py-1 rounded md:block">
           {category}
         </span>
 
+        {/* Changed: round score badge */}
         {score !== null && (
-          <span
-            className={`absolute top-1.5 right-1.5 bg-ink text-[11px] font-medium px-1.5 py-0.5 rounded md:top-2.5 md:right-2.5 md:text-xs md:px-2.5 md:py-1 ${scoreColor(
-              score
-            )}`}
-          >
-            {score}/10
-          </span>
+          <ScoreBadge
+            score={score}
+            className="absolute top-1.5 right-1.5 z-10 md:top-2.5 md:right-2.5"
+          />
         )}
       </div>
 
       <div className="min-w-0 flex-1 md:p-4">
-        {/* Phone only: the category as a text line above the title. Changed: font-mono */}
+        {/* Phone only: the category as a text line above the title */}
         <p className="mb-1 font-mono text-[11px] font-medium uppercase tracking-wide text-accent md:hidden">
           {category}
         </p>
@@ -69,7 +66,6 @@ export default function ArticleCard({
         <p className="hidden sm:block text-sm text-main/60 leading-relaxed mt-1 line-clamp-2 md:mt-0 md:mb-2.5 md:line-clamp-none">
           {excerpt}
         </p>
-        {/* Changed: font-mono date */}
         <p className="mt-1.5 font-mono text-xs text-muted md:mt-0">{date}</p>
       </div>
     </Link>

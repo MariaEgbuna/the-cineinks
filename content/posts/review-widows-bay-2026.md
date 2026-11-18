@@ -30,9 +30,9 @@ The series is penned by Katie Dippold (*Parks and Recreation*) and directed by t
 
 The narrative engine is entirely carried by an incredible cast of eccentric characters:
 
-*   **Tom Loftis (Matthew Rhys):** The island’s widower mayor and the emotional anchor of the series. Tom isn't a corrupt politician; he's just a regular guy whose dream of opening coffee shops keeps getting derailed by supernatural terror. Rhys delivers a spectacular performance, balancing comic panic with raw vulnerability. His signature wide-eyed, exasperated expression whenever a ghost interrupts his municipal planning does half the storytelling on its own.
-*   **Patricia Moyer (Kate O'Flynn):** Tom’s socially awkward assistant and the true heart of the show. Patricia is a lonely outcast whom the town completely wrote off after nobody believed her high school story about a masked killer. Her desperate search for real friendship amid bizarre island mysteries gives the series its most moving, human elements.
-*   **Wyck Crawford (Stephen Root):** The resident grizzled doomsayer. Wyck has spent his life studying the island's dark history, standing on the docks yelling at ferries to turn around. Root brings a weathered, intense energy to the role that makes you instantly believe he’s been carrying the heavy weight of the town's secrets for decades. 
+* **Tom Loftis (Matthew Rhys):** The island’s widower mayor and the emotional anchor of the series. Tom isn't a corrupt politician; he's just a regular guy whose dream of opening coffee shops keeps getting derailed by supernatural terror. Rhys delivers a spectacular performance, balancing comic panic with raw vulnerability. His signature wide-eyed, exasperated expression whenever a ghost interrupts his municipal planning does half the storytelling on its own.
+* **Patricia Moyer (Kate O'Flynn):** Tom’s socially awkward assistant and the true heart of the show. Patricia is a lonely outcast whom the town completely wrote off after nobody believed her high school story about a masked killer. Her desperate search for real friendship amid bizarre island mysteries gives the series its most moving, human elements.
+* **Wyck Crawford (Stephen Root):** The resident grizzled doomsayer. Wyck has spent his life studying the island's dark history, standing on the docks yelling at ferries to turn around. Root brings a weathered, intense energy to the role that makes you instantly believe he’s been carrying the heavy weight of the town's secrets for decades. 
 
 ## Embracing the Disorientation
 
