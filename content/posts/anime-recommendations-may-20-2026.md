@@ -18,7 +18,7 @@ These are the anime I keep coming back to, the ones I've rewatched, pushed on fr
 
 ## 1. Mob Psycho 100
 
-![Mob Psycho 100](/images/posts/anime-recommendations-may-20-2026/image-2.jpg)
+![Mob Psycho 100](/images/posts/anime-recommendations-may-20-2026/image-1.jpg)
 
 This show holds a special place in my heart. I picked it up on a whim and wasn't ready for what I walked into. It has some of the most jaw-dropping animation you'll ever see, and an even better emotional core underneath. It's not just about an overpowered psychic kid blowing up buildings. It's a funny, moving, grounded story about growing up and accepting that being "special" doesn't make you better than anyone else.
 
@@ -28,7 +28,7 @@ This show holds a special place in my heart. I picked it up on a whim and wasn't
 
 ## 2. Attack on Titan
 
-![Attack on Titan](/images/posts/anime-recommendations-may-20-2026/image-3.jpg)
+![Attack on Titan](/images/posts/anime-recommendations-may-20-2026/image-2.jpg)
 
 A literal generational epic. I did a full rewatch recently and it hurt all over again. What starts as "humanity vs. giant monsters" slowly becomes a brutal political nightmare about war, freedom, and the endless cycle of hatred. I know the ending divided people, but I loved it. There will never be another show like AOT, and I'm at peace with that.
 
@@ -38,7 +38,7 @@ A literal generational epic. I did a full rewatch recently and it hurt all over 
 
 ## 3. Monster
 
-![Monster](/images/posts/anime-recommendations-may-20-2026/image-4.jpg)
+![Monster](/images/posts/anime-recommendations-may-20-2026/image-3.jpg)
 
 If you want a slow-burn psychological thriller that treats you like an adult, this is the gold standard. It's a cat-and-mouse game between an innocent doctor and Johan Liebert, easily one of the most chilling antagonists in the history of fiction. Not just anime. **Fiction.** No superpowers, no anime tropes, just dark, realistic, masterfully written drama. Don't binge it too fast. Let it marinate.
 
@@ -48,7 +48,7 @@ If you want a slow-burn psychological thriller that treats you like an adult, th
 
 ## 4. Haikyu!!
 
-![Haikyu!!](/images/posts/anime-recommendations-may-20-2026/image-5.jpg)
+![Haikyu!!](/images/posts/anime-recommendations-may-20-2026/image-4.jpg)
 
 Technically the anime isn't fully finished because the final movie is still coming, but it belongs on this list. I've read the manga and I know how it ends, and I'm putting it here anyway. You don't need to know volleyball or care about sports. It makes you care about every single person on that court, and the character growth is beautiful.
 
@@ -58,7 +58,7 @@ Technically the anime isn't fully finished because the final movie is still comi
 
 ## 5. FullMetal Alchemist: Brotherhood
 
-![FullMetal Alchemist: Brotherhood](/images/posts/anime-recommendations-may-20-2026/image-6.jpg)
+![FullMetal Alchemist: Brotherhood](/images/posts/anime-recommendations-may-20-2026/image-5.jpg)
 
 Just a really solid show from top to bottom. There's a reason it's consistently near the top of anime rankings, year after year. The Elric brothers' journey balances dark alchemy, political conspiracies, comedy, and grief without dropping the ball, and watching every moving part click into place is incredibly satisfying.
 
@@ -68,7 +68,7 @@ Just a really solid show from top to bottom. There's a reason it's consistently 
 
 ## 6. Run with the Wind
 
-![Run with the Wind](/images/posts/anime-recommendations-may-20-2026/image-7.jpg)
+![Run with the Wind](/images/posts/anime-recommendations-may-20-2026/image-6.jpg)
 
 This show is so criminally underrated it hurts. A ragtag group of college guys, most of them out of shape or with zero interest in running, get basically tricked into training for one of Japan's most grueling marathon relays. It's character-driven in a way that sneaks up on you, about finding your purpose and figuring out what you're actually running toward. By the end you'll want to go outside and move your body. Please stop sleeping on this one.
 
@@ -78,7 +78,7 @@ This show is so criminally underrated it hurts. A ragtag group of college guys, 
 
 ## 7. Steins; Gate
 
-![Steins; Gate](/images/posts/anime-recommendations-may-20-2026/image-8.jpg)
+![Steins; Gate](/images/posts/anime-recommendations-may-20-2026/image-7.jpg)
 
 Time travel stories are hard to pull off without plot holes, but Steins; Gate handles it brilliantly. It eases you in with a quirky, slow sci-fi slice-of-life vibe, then around the halfway point it yanks the rug out and becomes a devastating race against time. The internal logic holds up, the stakes feel real, and the romance actually hurts. It's the gold standard for time-travel storytelling in anime.
 
@@ -88,7 +88,7 @@ Time travel stories are hard to pull off without plot holes, but Steins; Gate ha
 
 ## 8. Dororo
 
-![Dororo](/images/posts/anime-recommendations-may-20-2026/image-9.jpg)
+![Dororo](/images/posts/anime-recommendations-may-20-2026/image-8.jpg)
 
 Another severely underrated show. It's a dark, gritty historical fantasy about Hyakkimaru, whose father traded pieces of his newborn son's body to demons in exchange for political power. His whole life since then has been hunting those demons down to take his body back, joined by a scrappy little thief named Dororo. It's action-packed and emotionally brutal, and the question it keeps asking about what it means to be human hits harder the further you get.
 
@@ -98,7 +98,7 @@ Another severely underrated show. It's a dark, gritty historical fantasy about H
 
 ## 9. Baccano!
 
-![Baccano!](/images/posts/anime-recommendations-may-20-2026/image-10.jpg)
+![Baccano!](/images/posts/anime-recommendations-may-20-2026/image-9.jpg)
 
 A friend put me onto this and I burned through the whole thing without stopping. Zero regrets. Set in 1930s Prohibition America, it's a wild, non-linear story where mafia families, serial killers, alchemists, and immortals all collide. I'm a complete sucker for huge casts running around seemingly disconnected, until it all snaps together and you realize everyone *was* connected all along. Fast, stylized, violent as hell, and a blast from beginning to end.
 
@@ -108,7 +108,7 @@ A friend put me onto this and I burned through the whole thing without stopping.
 
 ## 10. Odd Taxi
 
-![Odd Taxi](/images/posts/anime-recommendations-may-20-2026/image-11.jpg)
+![Odd Taxi](/images/posts/anime-recommendations-may-20-2026/image-10.jpg)
 
 Don't let the cute animal character designs fool you. This is a brilliant, tightly written modern noir mystery hiding inside a slice-of-life show about a cynical walrus taxi driver, and it's one of the smartest things I've watched in years. Every casual conversation and throwaway detail feeds into a massive interconnected puzzle, and it ends with one of the best plot twists in recent memory.
 
@@ -122,13 +122,13 @@ These two didn't quite crack the top ten, but they're still essential viewing an
 
 **Nichijou**
 
-![Nichijou](/images/posts/anime-recommendations-may-20-2026/image-12.jpg)
+![Nichijou](/images/posts/anime-recommendations-may-20-2026/image-11.jpg)
 
 The absolute peak of surreal comedy. It takes the boring, mundane daily lives of high schoolers and turns them into over-the-top, spectacularly animated absurdism. Funny as hell and impossible not to smile at.
 
 **Samurai Champloo**
 
-![Samurai Champloo](/images/posts/anime-recommendations-may-20-2026/image-13.jpg)
+![Samurai Champloo](/images/posts/anime-recommendations-may-20-2026/image-12.jpg)
 
 A blend of Edo-period samurai culture and hip-hop that has no right to work as well as it does. Episodic storytelling at its finest, stylish as hell, and anchored by one of the most iconic soundtracks in anime.
 
