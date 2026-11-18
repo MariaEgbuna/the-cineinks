@@ -1,5 +1,6 @@
 {
-  // Review: category Review, medium label plus Review, with a score and optional verdict
+  // Review: category Review, medium label plus Review, with a score and optional verdict.
+  // Year and length feed the info line in the post banner (both optional).
   "CineInks Review": {
     "prefix": "review",
     "scope": "markdown",
@@ -17,9 +18,11 @@
       "verdict: \"${5}\"",
       "excerpt: \"${6:One sentence with the core take.}\"",
       "coverImage: /images/posts/${2}/image-1.jpg",
+      "year: \"${7:2025}\"",
+      "length: \"${8:8 episodes}\"",
       "featured: false",
       "---",
-      "![REVIEW: ${7:Movie Title (Year)}](/images/posts/${2}/image-1.jpg)",
+      "![REVIEW: ${9:Movie Title (Year)}](/images/posts/${2}/image-1.jpg)",
       "",
       "$0"
     ]
