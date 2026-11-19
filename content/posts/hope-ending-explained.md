@@ -9,9 +9,7 @@ excerpt: "The monsters in Na Hong-jin’s Hope (2026) aren't invading—they're 
 coverImage: /images/posts/hope-ending-explained/image-1.jpg
 ---
 
-When we think of alien invasion movies, we usually expect a malicious, faceless threat dropping from the sky to wipe us out. *Hope* doesn't do that. Na Hong-jin's 2026 sci-fi film sets itself up that way, then flips it.
-
-What starts as a terrifying creature feature quickly devolves into a heartbreaking masterclass in human misunderstanding. This is more than a monster movie.
+When we think of alien invasion movies, we usually expect a malicious, faceless threat dropping from the sky to wipe us out. *Hope* doesn't do that. What starts as a terrifying creature feature quickly devolves into a heartbreaking masterclass in human misunderstanding. This is more than a monster movie.
 
 It proves that our own deeply ingrained paranoia, historic trauma, and readiness for war are the very things that turn a tragic rescue mission into a cosmic bloodbath.
 

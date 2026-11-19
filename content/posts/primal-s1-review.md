@@ -9,6 +9,9 @@ score: 9.0
 verdict: "A Must Watch"
 excerpt: "If you love drama that is pure, intense, and a little unhinged, this is exactly that, stripped down to its rawest form."
 coverImage: /images/posts/primal-s1-review/cover.jpg
+year: "2019"
+length: "10 episodes"
+genres: "Action, Adventure"
 ---
 
 Genndy Tartakovsky's Primal debuted on Adult Swim in October 2019, spanning ten 22-minute episodes across its first season. Driven almost entirely by visual storytelling rather than spoken dialogue, the series centers on a caveman and a Tyrannosaurus rex fighting to survive in a harsh prehistoric landscape.
@@ -17,10 +20,9 @@ Genndy Tartakovsky's Primal debuted on Adult Swim in October 2019, spanning ten 
 
 ## What Worked
 
-### The Friendship
+### The Premise
 
-Spear and Fang, a Tyrannosaurus, end up together because neither of them has anyone left. It is not an easy friendship. 
-Fang steals his kills, eats his fruit even though she is a carnivore, and keeps him up at night with her breathing. It's funny, but also real: two creatures from completely different worlds trying to figure out how to exist side by side, and constantly failing at it.
+Spear and Fang, a Tyrannosaurus, end up together because neither of them has anyone left. It is not an easy friendship. These are two creatures from different worlds trying to figure out how to exist side by side, and constantly failing at it.
 
 ### How The Story Is Told
 

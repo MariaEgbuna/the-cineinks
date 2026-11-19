@@ -9,6 +9,9 @@ score: 7.9
 verdict: "Worth Watching"
 excerpt: "You already know Spear survives in some form. What you don't know is how brutal that road back is going to be."
 coverImage: /images/posts/why-primal-s3/cover.jpg
+year: "2026"
+length: "10 episodes"
+genres: "Action, Adventure"
 ---
 
 After an uncertain gap following the Season 2 finale and a multi-year production wait, Primal Season 3 aired its ten-episode run on Adult Swim from January to March 2026. Returning to the series' largely wordless format, the third season resurrects Spear and follows his brutal, memory-driven journey back to his family.

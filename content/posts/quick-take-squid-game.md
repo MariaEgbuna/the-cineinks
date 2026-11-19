@@ -9,17 +9,17 @@ excerpt: "Is Squid Game worth watching after Season 1? Yes. Why the later season
 coverImage: "/images/posts/quick-take-squid-game/image-1.jpg"
 ---
 
+Hwang Dong-hyuk first wrote the idea in 2008, pulling from his own financial struggles and the class inequality baked into South Korean society. He took the script around to studios for years and nobody wanted it, so he shelved it. Then Netflix came looking for international content in 2019 and picked it up. Season 1 dropped September 17, 2021 and hit number one in 94 countries, pulling 265 million views in its first 91 days. By the time Season 2 launched in December 2024, Season 1 had 330 million viewers and 2.8 billion hours watched. The stress of making it cost Hwang six teeth. Six actual teeth.
+
 Squid Game is a great show that made some bad strategic decisions. Season 1 is lightning in a bottle, and a lot of my frustration with Seasons 2 and 3 has less to do with the writing than with how Netflix released them.
 
 Both easy takes exist online: it's a masterpiece, or it's Netflix squeezing a finished story for money. Neither is quite right.
-
-Hwang Dong-hyuk first wrote the idea in 2008, pulling from his own financial struggles and the class inequality baked into South Korean society. He took the script around to studios for years and nobody wanted it, so he shelved it. Then Netflix came looking for international content in 2019 and picked it up. Season 1 dropped September 17, 2021 and hit number one in 94 countries, pulling 265 million views in its first 91 days. By the time Season 2 launched in December 2024, Season 1 had 330 million viewers and 2.8 billion hours watched. The stress of making it cost Hwang six teeth. Six actual teeth.
 
 *This post contains minor spoilers for Netflix's Squid Game.*
 
 ---
 
-## What makes Season 1 untouchable?
+## What makes Season 1 untouchable
 
 The games are Red Light Green Light, honeycomb carving, tug-of-war, marbles, glass stepping stones, and the title game. These are things Korean kids played in the street, drenched in nostalgia, and the show weaponizes that by dropping adults at their economic rock bottom into a structure designed for childhood play, then watching them tear each other apart for a prize worth 45.6 billion won that most won't live to collect.
 
@@ -37,7 +37,7 @@ The VIPs, the obscenely wealthy spectators who fund the whole operation, remain 
 
 The Front Man, played by Lee Byung-hun, is where Season 3 wastes its best card. He's one of the show's most layered characters: a man who played the games, won, and chose to serve the machine instead of burning it down. He's the dark mirror to Gi-hun, and their confrontation is supposed to be the payoff for everything after Season 1. Season 3 barely uses him. He disappears for most of it and comes back for a finale that doesn't give that confrontation anywhere near the weight it needed.
 
-## What holds up anyway?
+## What holds up
 
 The show never got lazy about what it looks like. Season 1 cost around 21 million dollars, Season 2 jumped to 84 million, and Season 3 had 69 million for just six episodes. The game environments stay inventive and the color work stays sharp.
 

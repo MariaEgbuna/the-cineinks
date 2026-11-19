@@ -8,6 +8,9 @@ score: 7.0
 verdict: "Watch the first season if you haven't already, but don't expect too much from the second."
 excerpt: "The Gentlemen Season 2 started off so strong, and then somewhere around episode 6, I stopped caring."
 coverImage: "/images/posts/the-gentlemen-season-2-review/the-gentlemen-cover.jpg"
+year: "2026"
+length: "8 episodes"
+genres: "Crime, Comedy"
 ---
 
 The Gentlemen Season 2 started off so strong, and then somewhere around episode 6, I stopped caring.

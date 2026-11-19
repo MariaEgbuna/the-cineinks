@@ -9,6 +9,9 @@ score: 9.2
 verdict: "Brilliantly acted, unflinching, and emotionally devastating."
 excerpt: "Two pigs, a killer and a detective, and a school hierarchy that never let go. A spoiler-light review of the brutal 2022 K-drama starring Kim Dong-wook and Kim Sung-kyu."
 coverImage: /images/posts/review-the-king-of-pigs/image-1.jpg
+year: "2022"
+length: "12 episodes"
+genres: "Thriller, Drama"
 ---
 
 I finished *The King of Pigs* at some unreasonable hour of the night and just sat there for a while after it ended. Not because I was processing some big twist. Because I needed a minute before I could go back to being a normal person.
@@ -19,7 +22,7 @@ It's a 2022 Korean thriller, twelve episodes, that aired on TVING. It was adapte
 
 ---
 
-## What's the plot?
+## The Premise
 
 The story is built around a specific hierarchy that existed in Korean schools: pigs and dogs. Students from poor families were labeled pigs. Students from wealthy families were dogs, and the dogs didn't just look down on the pigs, they brutalized them, with the tacit permission of teachers and administrators who either didn't notice or didn't care.
 

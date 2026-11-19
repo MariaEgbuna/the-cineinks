@@ -9,6 +9,9 @@ score: 8.7
 verdict: "A Must Watch"
 excerpt: "Primal Season 2 expands its map across ancient civilizations without losing Spear and Fang at its center."
 coverImage: /images/posts/primal-s2-review/cover.jpg
+year: "2022"
+length: "10 episodes"
+genres: "Action, Adventure"
 ---
 
 The second season of Primal continues Genndy Tartakovsky's animated action-drama. While spoken dialogue remains minimal, the narrative shifts outward as Spear and Fang cross the sea to find Mira, pitting them against organized human societies and a relentless new adversary.
@@ -26,8 +29,6 @@ I went into this season already knowing Mira was Spear's love interest. That was
 That is the real strength of this season: it kept widening the map without ever losing the two characters at the center of it. However far the story travels, it is still about Spear and Fang, and the moments that hit hardest are still the small ones between them.
 
 ## What Didn't
-
-### The Ending
 
 Where it lost me a little was the ending. It felt rushed, and from what I have heard, that comes down to the show not knowing if it would even get a third season while this one was being made. You can feel that uncertainty in how fast everything wraps up.
 

@@ -76,6 +76,13 @@ export default async function PostPage({ params }: PageProps) {
   // Text and bar colors for the Rating card (null when the post has no score)
   const tone = post.score !== null ? scoreTone(post.score) : null;
 
+  // Banner info: year, length and genres on one line, like
+  // "2026 · 1h 35m · Horror, Comedy". Any piece that's empty is skipped,
+  // and the whole line disappears when all three are empty.
+  const factsLine = [post.year, post.length, post.genres]
+    .filter(Boolean)
+    .join(" · ");
+
   const structuredData = post.score !== null
     ? {
         "@context": "https://schema.org",
@@ -115,30 +122,36 @@ export default async function PostPage({ params }: PageProps) {
 
       {/* Banner: text on the left, the cover image on the right at its
           natural 4:3 shape (no zooming). On phones the text comes first
-          and the image sits below it. Without a cover, it's text only. */}
+          and the image sits below it. Without a cover, it's text only.
+          Every text size is one step smaller on phones.
+          Changed: less space under the banner on phones (pb-4, not py-6). */}
       <section className="bg-linear-to-b from-accent/10 to-transparent">
         <div
-          className={`max-w-300 mx-auto px-5 py-6 md:py-10 ${
+          className={`max-w-300 mx-auto px-5 pt-6 pb-4 md:py-10 ${
             hasCover
               ? "grid grid-cols-1 items-center gap-6 md:grid-cols-[1.3fr_1fr] md:gap-10"
               : "max-w-225"
           }`}
         >
           <div>
-            <div className="mb-4">
-              <span className="bg-teal text-teal-light font-mono text-[11px] uppercase tracking-wide px-2.5 py-1 rounded">
-                {post.category}
-              </span>
-            </div>
-            <h1 className="font-serif text-3xl md:text-4xl leading-tight text-main mb-3">
+            {/* The category as a quiet accent-colored line, no filled badge. */}
+            <p className="mb-3 font-mono text-[11px] font-bold uppercase leading-normal tracking-wide text-accent md:mb-3.5 md:text-[13px]">
+              {post.category}
+            </p>
+            <h1 className="font-serif text-2xl md:text-4xl leading-tight text-main mb-3">
               {post.title}
             </h1>
             {post.excerpt && (
-              <p className="text-base md:text-lg leading-relaxed text-main/70 mb-4">
+              <p className="text-sm md:text-lg leading-relaxed text-main/70 mb-4">
                 {post.excerpt}
               </p>
             )}
-            <p className="font-mono text-sm text-muted">
+            {factsLine && (
+              <p className="mb-1 text-[0.8125rem] font-medium leading-normal text-main md:text-sm">
+                {factsLine}
+              </p>
+            )}
+            <p className="font-mono text-xs text-muted md:text-sm">
               {formattedDate} · {readingMinutes} min read
             </p>
           </div>
@@ -159,9 +172,11 @@ export default async function PostPage({ params }: PageProps) {
       </section>
 
       <section className="bg-page">
+        {/* Changed: less space above the post text (pt-4 on phones,
+            md:pt-6 on desktop), so the gap under the banner is smaller. */}
         <div
           id="post-body"
-          className="max-w-225 mx-auto px-5 py-5 md:py-10 prose"
+          className="max-w-225 mx-auto px-5 pt-4 pb-5 md:pt-6 md:pb-10 prose"
         >
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
@@ -172,8 +187,8 @@ export default async function PostPage({ params }: PageProps) {
         </div>
 
         {/* Rating card, only for posts that have a score.
-            Changed: the number gets a tier text color and the bar gets a
-            tier fill color. The wrapper no longer carries any color. */}
+            The number gets a tier text color and the bar gets a
+            tier fill color. The wrapper carries no color. */}
         {post.score !== null && tone && (
           <div className="max-w-225 mx-auto px-5 pb-8 md:pb-10">
             <aside className="border-l-4 border-accent bg-card p-5">

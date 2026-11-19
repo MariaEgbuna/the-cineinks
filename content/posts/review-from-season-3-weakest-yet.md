@@ -8,6 +8,9 @@ score: 6.9
 verdict: "This season was such a drag."
 excerpt: "From Season 3 has a great Victor storyline and a killer cliffhanger, but a mid-season drag and characters who still won't talk make it the weakest so far."
 coverImage: "/images/posts/review-from-season-3/image-1.jpg"
+year: "2024"
+length: "10 episodes"
+genres: "Horror, Sci-Fi"
 ---
 
 It hurts to say this, but this season is the weakest of the three so far. It's not bad television. It just spent a good chunk of its runtime running in place.

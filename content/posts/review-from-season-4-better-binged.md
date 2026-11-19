@@ -8,6 +8,9 @@ score: 7.7
 verdict: "Season 4 successfully pulled the show out of its season 3 slump."
 excerpt: "From Season 4 brings back real threats, a plot that moves and characters who finally talk. Why it pulled the show out of its slump, and who annoyed me anyway."
 coverImage: "/images/posts/review-from-season-4/image-1.jpg"
+year: "2026"
+length: "10 episodes"
+genres: "Horror, Sci-Fi"
 ---
 
 *From* Season 4 pulled the show out of its Season 3 slump, and the best way to experience it is to binge it. Watching this week to week would have driven me completely up the wall.

@@ -9,13 +9,16 @@ score: 4.9
 verdict: "Another entry in Amazon's pile of forgettable original films."
 excerpt: "Gal Gadot runs across London for 84 minutes in Amazon's phone-call thriller. A review of the familiar plot, the talent behind it, and the review-bombing debate."
 coverImage: /images/posts/review-the-runner-2026/the-runner-cover.jpg
+year: "2026"
+length: "1h 24m"
+genres: "Thriller, Action"
 ---
 
 *The Runner* isn't the worst movie of the year, whatever the internet says. It's just a very familiar one. Gal Gadot runs across London for 84 minutes and somehow it still feels longer than the trial her character is supposed to be prosecuting. That's the whole vibe in one sentence, but stick with me, because there's more to unpack here than just legs and spandex.
 
 If you've watched more than three action thrillers in the last decade, you already know this genre by heart: a person gets a phone call, someone they love is in danger, a mystery voice on the other end tells them to move, keep moving, and don't stop or else. You've seen *Phone Booth* and probably seen the *Black Mirror* episode "Shut Up and Dance" too, which did the blackmail-by-phone thing with a lot more dread. *The Runner* picks London as its scenery, straps a pair of running shoes on Wonder Woman, and calls it a day.
 
-## The setup
+## The Premise
 
 ![Maia Marten on a train in The Runner (2026)](/images/posts/review-the-runner-2026/gal-gadot-1-.jpg)
 

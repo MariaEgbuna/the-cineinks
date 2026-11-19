@@ -29,5 +29,8 @@ collections:
       - { label: "Verdict Line", name: "verdict", widget: "string", required: false, hint: "One short line shown on the Rating card. Optional." }
       - { label: "Excerpt", name: "excerpt", widget: "text" }
       - { label: "Cover Image", name: "coverImage", widget: "image", required: false }
+      - { label: "Year", name: "year", widget: "string", required: false, hint: "Shown in the banner. For example 2025, or 2018 – 2024 for a series. Optional." }
+      - { label: "Length", name: "length", widget: "string", required: false, hint: "Shown in the banner. For example 2h 14m, or 8 seasons, 64 episodes. Optional." }
+      - { label: "Genres", name: "genres", widget: "string", required: false, hint: "Shown in the banner after the length. For example Horror, Comedy. Optional." }
       - { label: "Featured", name: "featured", widget: "boolean", required: false, default: false }
       - { label: "Body", name: "body", widget: "markdown" }

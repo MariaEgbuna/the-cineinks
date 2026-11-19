@@ -86,11 +86,11 @@ h1, h2, h3, h4, h5, h6 {
   --tw-prose-td-borders: var(--page-line);
 }
 
-/* Changed: one reading size for every prose block (posts, About, Privacy).
+/* One reading size for every prose block (posts, About, Privacy).
    Smaller on phones, back to the normal size from md up. */
 .prose {
-  font-size: 0.9375rem;
-  line-height: 1.7;
+  font-size: 0.85rem;
+  line-height: 1.5;
 }
 
 @media (min-width: 768px) {
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Changed: headings inside prose use the same sizes as the section
+/* Headings inside prose use the same sizes as the section
    headings elsewhere on the site (text-xl / md:text-2xl, and text-base / text-lg) */
 .prose :where(h2) {
   font-size: 1.25rem;
@@ -126,6 +126,14 @@ h1, h2, h3, h4, h5, h6 {
 .prose img {
   max-width: 100%;
   height: auto;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+/* Changed: the first thing in a post starts flush, so the gap under the
+   banner isn't padded twice (padding plus a paragraph margin). */
+.prose > :first-child {
+  margin-top: 0;
 }
 
 /* --- Tables in posts (character grids) --- */
@@ -209,7 +217,7 @@ h1, h2, h3, h4, h5, h6 {
   --color-accent: var(--page-accent);
 
   /* Lora for headings, Inter for body, Courier Prime as the
-     typewriter accent (use the font-mono class where you want it) */
+     typewriter accent */
   --font-serif: var(--font-lora), Georgia, 'Times New Roman', serif;
   --font-sans: var(--font-inter), 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
   --font-mono: var(--font-courier-prime), 'Courier New', Courier, monospace;

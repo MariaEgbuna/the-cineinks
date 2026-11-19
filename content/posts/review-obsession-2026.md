@@ -8,6 +8,9 @@ score: 9.0
 verdict: "One of the best horror movies of 2026."
 excerpt: "Curry Barker's Obsession turns a wish for love into a nightmare. A spoiler-light review of the supernatural horror hit, and why one scene made me furious."
 coverImage: "/images/posts/review-obsession-2026/image-1.jpg"
+year: "2026"
+length: "1h 49m"
+genres: "Horror"
 ---
 
 Curry Barker wrote and directed **Obsession** after building an audience on YouTube, and this was his first feature. It's a supernatural psychological horror movie, and it deserved every bit of the buzz around it this year. Michael Johnston stars as Bear, a music store employee too nervous to tell his coworker Nikki how he feels, and Inde Navarrette plays Nikki, a girl whose autonomy is stripped away.
@@ -18,7 +21,7 @@ If you've seen *Get Out* or *Talk to Me*, you know the type of horror this leans
 
 *Heads up: this review has minor spoilers about one key scene.*
 
-## The Highlights
+## What Worked
 
 * **Inde Navarrette as Nikki.** She's doing the heaviest lifting in this movie and she absolutely kills it. Watching her body language shift from a normal person to someone stripped of free will is so unsettling. There are some scenes where the "real" Nikki briefly breaks through the spell and begs to be stopped, and it's one of the most upsetting moments I've watched all year.
 * **Bear as an uncomfortable mirror.** Michael Johnston plays him as the nice guy we've all met at some point. The one that's quiet, a little awkward, and seemingly harmless. You spend the first few minutes rooting for him, and then you watch him choose himself over and over again, even once he knows exactly what's happening to Nikki. I was disgusted by his actions, that scene where the real Nikki begs him to kill her and his response "What's so bad about being with me?" pissed me off in a way that I haven't felt in a long time. He's a coward who made one impulsive wish and the film lets that cowardice curdle into something disturbing.

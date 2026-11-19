@@ -8,6 +8,9 @@ score: 8.5
 verdict: "Add it to your watchlist ASAP."
 excerpt: "I kept seeing From pop up everywhere and I finally sat down to watch it."
 coverImage: "/images/posts/review-from-season-1/image-1.jpg"
+year: "2022"
+length: "10 episodes"
+genres: "Horror, Sci-Fi"
 ---
 
 A town that straight-up shouldn't exist. Every road out loops you right back to the start, and at night, smiling creatures crawl out of the woods to hunt anyone left outside. I kept seeing *From* all over my feed, so I finally sat down, hit play, and lost myself in it.
@@ -28,15 +31,15 @@ To help us make sense of the madness, we experience the town through its newest 
 
 What I love most about Season 1 is that it stubbornly refuses to hand over answers. It just throws these massive questions at you, like what's up with the monsters, why that specific tree matters so much, and who that voice on the radio is, and lets them simmer. By the finale, you aren't any closer to knowing the truth, but you are 100% invested in these people.
 
-## What worked?
+## What worked
 
-*   **The atmosphere.** The sheer unease of the show hooked me immediately. I love a good mystery, and *From* trusts its audience enough to let us sit in the tension instead of over-explaining everything by episode three. It's so rare for a horror show not to panic and ruin the mystery early on.
-*   **Victor.** Hands down, my favorite character is **Victor Kavanaugh** (played perfectly by Scott McCord). He lives at Colony House and has been trapped in the town since he was a kid. That changed how I viewed him. He didn't just get stuck here as an adult, he *grew up* inside a literal nightmare. He has this arrested development and stunted vibe that is incredibly heartbreaking once you realize what he's been through. The show doesn't spell it out with some cheesy monologue, either. They just let his behavior speak for itself, and I ended up rooting for him more than anyone else.
-*   **The emotional core.** The drama between Boyd and his son gives the show a real, beating heart. It's not just a bunch of cheap jump scares. It's an actual family falling apart and trying to survive in the middle of a horror movie.
+* **The atmosphere.** The sheer unease of the show hooked me immediately. I love a good mystery, and *From* trusts its audience enough to let us sit in the tension instead of over-explaining everything by episode three. It's so rare for a horror show not to panic and ruin the mystery early on.
+* **Victor.** Hands down, my favorite character is **Victor Kavanaugh** (played perfectly by Scott McCord). He lives at Colony House and has been trapped in the town since he was a kid. That changed how I viewed him. He didn't just get stuck here as an adult, he *grew up* inside a literal nightmare. He has this arrested development and stunted vibe that is incredibly heartbreaking once you realize what he's been through. The show doesn't spell it out with some cheesy monologue, either. They just let his behavior speak for itself, and I ended up rooting for him more than anyone else.
+* **The emotional core.** The drama between Boyd and his son gives the show a real, beating heart. It's not just a bunch of cheap jump scares. It's an actual family falling apart and trying to survive in the middle of a horror movie.
 
-## What didn't hit the mark?
+## What didn't
 
-*   **Inconsistent acting.** If I have one real complaint, it's that the acting fluctuates. Harold Perrineau carries a massive amount of weight as Boyd, but a few of the supporting cast members completely pulled me out of the moment. Nobody was explicitly *bad*, but some of the dialogue delivery felt a bit stiff. In a show built entirely on dread, one flat line can instantly break the spell.
+* **Inconsistent acting.** If I have one real complaint, it's that the acting fluctuates. Harold Perrineau carries a massive amount of weight as Boyd, but a few of the supporting cast members completely pulled me out of the moment. Nobody was explicitly *bad*, but some of the dialogue delivery felt a bit stiff. In a show built entirely on dread, one flat line can instantly break the spell.
 
 ---
 

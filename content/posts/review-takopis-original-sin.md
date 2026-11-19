@@ -8,23 +8,22 @@ score: 8.6
 verdict: "The parents in this show are awful. I've never seen anything like it."
 excerpt: "A cute alien, a bullied fourth grader and a story that hurts. A spoiler-light review of Takopi's Original Sin, the six-episode anime that isn't what it looks like."
 coverImage: "/images/posts/review-takopis-original-sin/image-1.jpg"
+year: "2025"
+length: "6 episodes"
+genres: "Drama, Sci-Fi"
 ---
 
-*Takopi's Original Sin* looks like a cheerful slice of life about a cute alien cheering up a lonely kid. It isn't, and that's the whole point.
-
-It's a six-episode psychological drama that premiered in Japan on June 28, 2025, adapted from Taizan5's web manga of the same name. It was produced by Studio Enishiya and directed by Shinya Iino, known for *Dr. Stone*.
+**Takopi's Original Sin** is a six-episode psychological drama that premiered in Japan on June 28, 2025, adapted from Taizan5's web manga of the same name. It was produced by Studio Enishiya and directed by Shinya Iino, known for *Dr. Stone*.
 
 *This post contains minor spoilers. Content warning: bullying, child abuse and a child's death.*
 
-## What's the plot?
+## The Premise
 
 The story follows a small, cheerful alien named Takopi who lands on Earth with one job, spread happiness, and ends up attaching himself to Shizuka, a quiet fourth grader. She's dealing with relentless bullying at school, led by a classmate named Marina, and a home life that offers her almost nothing. The only real comfort in her world is her dog, Chappy.
 
 What starts as a soft, almost comedic premise, an alien learning to cheer up a sad kid, doesn't stay that way for long. Takopi's good intentions end up making things worse, and the show shifts hard once he's forced to use his tech to try to undo a mistake he never saw coming. From there, it turns into something far heavier, following Takopi as he keeps trying to fix a situation over and over again.
 
 As the story unfolds, it pulls back the curtain on everyone involved, including Marina, who turns out to be dealing with just as much pain at home as Shizuka is, and Azuma, a classmate quietly trying to help in his own way while carrying his own family pressure. Nobody in this show stays a simple hero or villain for long. By the end, Takopi has to accept that some things can't be undone no matter how many times he tries, and the story trades its early shock value for something quieter, sadder, and ultimately more hopeful.
-
-It's a short watch, but it doesn't waste a single episode.
 
 ## What worked?
 
