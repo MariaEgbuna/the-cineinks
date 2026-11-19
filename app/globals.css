@@ -31,9 +31,6 @@ html {
   --page-accent: #5dcaa5;  /* light teal reads better on dark */
 }
 
-/* Visible focus ring for keyboard users. Mouse clicks don't trigger it.
-   It lives in the base layer so classes like outline-none still win
-   on the fields that draw their own focus style. */
 @layer base {
   :focus-visible {
     outline: 2px solid var(--page-accent);
@@ -45,14 +42,14 @@ html {
 body {
   background-color: var(--page-bg);
   color: var(--page-text);
-  font-family: var(--font-sans); /* Inter, set in the theme below */
+  font-family: var(--font-sans);
 }
 
 /* Thin brand-colored line across the very top of every page */
 body::before {
   content: "";
   display: block;
-  height: 3px;
+  height: 2px;
   background: linear-gradient(90deg, #0f6e56, #5dcaa5);
 }
 
@@ -86,11 +83,10 @@ h1, h2, h3, h4, h5, h6 {
   --tw-prose-td-borders: var(--page-line);
 }
 
-/* Changed: one reading size for every prose block (posts, About, Privacy).
-   Smaller on phones, back to the normal size from md up. */
+/* One reading size for every prose block (posts, About, Privacy). */
 .prose {
-  font-size: 0.9375rem;
-  line-height: 1.7;
+  font-size: 0.85rem;
+  line-height: 1.5;
 }
 
 @media (min-width: 768px) {
@@ -99,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Changed: headings inside prose use the same sizes as the section
+/* Headings inside prose use the same sizes as the section
    headings elsewhere on the site (text-xl / md:text-2xl, and text-base / text-lg) */
 .prose :where(h2) {
   font-size: 1.25rem;
@@ -132,8 +128,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Equal-width columns, no matter how much text each cell holds */
 .prose table {
-  table-layout: fixed; /* columns share the width equally */
-  width: 100%;         /* table fills the post column */
+  table-layout: fixed;
+  width: 100%;
 }
 
 /* Same width for every cell, content starts at the top */
@@ -209,7 +205,7 @@ h1, h2, h3, h4, h5, h6 {
   --color-accent: var(--page-accent);
 
   /* Lora for headings, Inter for body, Courier Prime as the
-     typewriter accent (use the font-mono class where you want it) */
+     typewriter accent */
   --font-serif: var(--font-lora), Georgia, 'Times New Roman', serif;
   --font-sans: var(--font-inter), 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
   --font-mono: var(--font-courier-prime), 'Courier New', Courier, monospace;
