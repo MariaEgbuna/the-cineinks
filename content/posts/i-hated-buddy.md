@@ -2,7 +2,7 @@
 title: "Buddy (2026) Review: I Hated It"
 slug: "i-hated-buddy"
 date: "2026-10-21T11:30:00.000+01:00"
-category: "Quick Take"
+category: "Review"
 labels: ["Movies"]
 score: 3.5
 verdict: "Not worth the time."

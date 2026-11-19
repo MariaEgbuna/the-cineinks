@@ -19,16 +19,16 @@ It's a 2015 crime drama and prequel spin-off that tracks the origin story of Jim
 
 ---
 
-## What's great about it?
+## The Highlights
 
-*   **The performances are something else.** Bob Odenkirk carries the whole thing on his shoulders and makes it look easy. Watching Jimmy slowly talk himself into every bad decision feels painfully real. And the supporting cast never lets the side down either.
-*   **The writing rewards your attention.** The characters are built so carefully that by the end of the first season you'll already have strong opinions about all of them. It earns every moment it asks you to invest in.
+* **The performances are something else.** Bob Odenkirk carries the whole thing on his shoulders and makes it look easy. Watching Jimmy slowly talk himself into every bad decision feels painfully real. And the supporting cast never lets the side down either.
+* **The writing rewards your attention.** The characters are built so carefully that by the end of the first season you'll already have strong opinions about all of them. It earns every moment it asks you to invest in.
 *   **Knowing the ending doesn't kill the tension.** It actually makes it worse. You spend the whole show watching a man who could've been good choose not to be, over and over again. That's uncomfortable in the best possible way.
 
 ## Fair warning
 
-*   **It's a slow burn and it commits to that.** Classic Vince Gilligan style. If you went into Breaking Bad expecting a fast pace and got surprised, same thing is happening here. Come prepared.
-*   **The show loves a long, drawn-out scene.** Montages, artistic b-roll, stretches of near silence. Some of it is brilliant. Some of it will test your patience. Usually both at the same time.
+* **It's a slow burn and it commits to that.** Classic Vince Gilligan style. If you went into Breaking Bad expecting a fast pace and got surprised, same thing is happening here. Come prepared.
+* **The show loves a long, drawn-out scene.** Montages, artistic b-roll, stretches of near silence. Some of it is brilliant. Some of it will test your patience. Usually both at the same time.
 
 ---
 

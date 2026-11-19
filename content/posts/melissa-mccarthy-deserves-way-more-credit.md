@@ -15,7 +15,7 @@ Today's Spotlight is about why that mix is so rare, and why she still isn't gett
 
 ---
 
-## Why does she have no off switch?
+## She Has No Off Switch
 
 ![Melissa McCarthy in Bridesmaids](/images/posts/melissa-mccarthy-deserves-way-more-credit/image-2.jpg)
 
@@ -25,13 +25,13 @@ Take **Bridesmaids** (2011) and the food poisoning scene at the bridal shop. Tha
 
 There's warmth under all that noise too, even when she's playing someone crude or a little terrifying. Plenty of comedians can do loud. Not many can do loud and still make you care what happens to them.
 
-## How did she get here?
+## How Did She Get Here?
 
 McCarthy started out doing stand-up in New York, at Stand Up New York and The Improv, then spent years as a working actress before most people knew her name. She played Sookie on **Gilmore Girls** for seven seasons, Dena on **Samantha Who?**, and then Molly on **Mike & Molly**, which made her a network lead and won her a Primetime Emmy in 2011. **Bridesmaids** blew it wide open that same year, with an Oscar nomination for Best Supporting Actress and BAFTA and SAG nominations alongside it.
 
 What she did next is the interesting part. Instead of staying in one lane, she and her husband, Ben Falcone, built their own production company, On the Day, and made comedies like **Tammy** and **The Boss**. Then she stacked studio comedies like **Identity Thief** and **The Heat**, action comedy in **Spy**, a swing at a legacy franchise with **Ghostbusters**, a hard left into crime drama with **The Kitchen**, and a full pivot into prestige territory with **Can You Ever Forgive Me?**
 
-## Does funny mean shallow?
+## Her Range
 
 ![Melissa McCarthy in Can You Ever Forgive Me?](/images/posts/melissa-mccarthy-deserves-way-more-credit/image-3.jpg)
 
@@ -41,13 +41,13 @@ Then there's **Can You Ever Forgive Me?** (2018), where she plays literary forge
 
 Even in the misses, she's building a real person. **The Kitchen** (2019) got poor reviews and opened to about 5.5 million dollars, but she played Kathy Brennan, a mob wife in 1970s Hell's Kitchen, with real weight, and Screen Daily called her the film's highlight. 
 
-## Why isn't she getting her flowers?
+## The Underrated Factor
 
 McCarthy still doesn't come up when people list the great comedic actors of this era. Part of that is the industry's tired habit of treating physical comedy as lesser than dry wit, especially when it's a woman doing it.
 
 The other part of it is the noise that followed her. The "women aren't funny" nonsense thrown at **Bridesmaids**, then the online backlash to the 2016 **Ghostbusters** reboot before most people had even seen it. None of that had anything to do with her actual work, and it still drowned out how good she is on screen.
 
-## What did her SNL takeover look like?
+## Her SNL Takeover
 
 ![Melissa McCarthy as Sean Spicer on SNL](/images/posts/melissa-mccarthy-deserves-way-more-credit/image-4.jpg)
 

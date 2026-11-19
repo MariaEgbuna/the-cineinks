@@ -15,13 +15,13 @@ Here's my confession though. I went in expecting a fun D&D adaptation, something
 
 ---
 
-### The Plot (In a Nutshell)
+### The Premise
 
 Vox Machina is a band of misfits, mercenaries, and full time bar tab dodgers who stumble into becoming the people who actually save the world. What starts as a group taking odd jobs for coin turns into a fight against a vengeful undead lord, a coalition of ancient chromatic dragons burning entire cities to the ground, and now, in the current season, something even older stirring in the dark. It's set in Exandria, the fantasy world built by Matthew Mercer, and every arc raises the stakes without losing the characters in the noise.
 
 The premise works because of how unglamorous the group's starting point is. These aren't chosen ones or prophecy driven heroes. They're broke adventurers who take a mercenary job because they need the coin, and the story lets the stakes grow organically from there instead of announcing on day one that these seven people are destined to save the world. That grounded starting point is part of why the eventual scale of what they take on hits as hard as it does.
 
-### My Take
+## Why I Love This Show
 
 What actually gets me about this show is how it never treats "funny" and "devastating" as opposites. One episode has Grog getting into a drinking contest, and two episodes later someone's dead and the whole group is quietly falling apart from grief. That whiplash should feel jarring. Instead it feels like how people actually process loss, one minute laughing to survive it, the next minute completely gutted.
 
@@ -29,7 +29,7 @@ And the thing that keeps me coming back season after season is that nothing here
 
 The animation itself has quietly leveled up every single time too. Season one already looked sharp for a show funded off Kickstarter money, but by season three the fight choreography got noticeably more ambitious, camera work started doing things you'd expect from a much bigger budget, and the character designs picked up small details that reward people paying close attention. Most shows either lock in a visual style and stay there or slowly get lazier as the seasons pile up. This one keeps spending more effort exactly where you'd expect a show to start coasting.
 
-### The Characters
+## The Characters
 
 ![The Legend of Vox Machina Is Peak](/images/posts/the-legend-of-vox-machina-is-peak/image-2.jpg)
 
@@ -69,8 +69,6 @@ Critically, the show has backed up the hype too. All three completed seasons hol
 
 ---
 
-### Final Thoughts
-
-I'm putting an unfinished show in the Hall of Fame, and I'm not apologizing for it. Some things don't need a finished story to prove they're great, they just need to keep giving you a reason to trust them every time they come back. Vox Machina has done that four seasons running, and I have zero doubt season five closes it out exactly the way this cast and crew have built it up to.
-
 If you love fantasy with actual heart, characters who feel like people instead of archetypes, and animation that never stops getting more ambitious, this is for you. If you think D&D is just nerds rolling dice in a basement, this is also for you, because it'll change your mind by episode three.
+
+I'm putting an unfinished show in the Hall of Fame, and I'm not apologizing for it.

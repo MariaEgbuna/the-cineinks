@@ -13,9 +13,7 @@ length: "7 episodes"
 genres: "Mystery, Thriller"
 ---
 
-I finished all seven episodes of *The Watcher* disappointed. A true crime mystery with a great premise, a stacked cast, and somehow still no idea where it's going.
-
-It was created by Ryan Murphy and Ian Brennan for Netflix, and it stars Naomi Watts and Bobby Cannavale as a couple who buy their dream house and start getting threatening letters from someone who signs off as "The Watcher." It's a 2022 show billed as horror and mystery thriller, loosely based on a real unsolved case out of New Jersey. That true story angle is exactly what pulled me in. A family gets stalked by an anonymous letter writer who claims to have been watching the house for generations, and to this day nobody knows who sent those letters.
+**The Watcher** was created by Ryan Murphy and Ian Brennan for Netflix, and it stars Naomi Watts and Bobby Cannavale as a couple who buy their dream house and start getting threatening letters from someone who signs off as "The Watcher." It's a show billed as horror and mystery thriller, loosely based on a real unsolved case out of New Jersey. 
 
 *This post contains minor spoilers, including how the show ends.*
 
@@ -32,7 +30,7 @@ The last two episodes try to pull everything together, and that's where it falls
 ## The Highlights
 
 * **The cast.** Naomi Watts and Bobby Cannavale sell the paranoia well, and Jennifer Coolidge and Mia Farrow show up and immediately make every scene they're in more fun to watch. The performances are the one part of this show that never dips.
-* **The premise.** A stalker who's been "watching" a house for generations and won't say why is creepy on its own, no embellishment needed. The first couple episodes lean into that and build real tension.
+* **The story.** A stalker who's been "watching" a house for generations and won't say why is creepy on its own, no embellishment needed. The first couple episodes lean into that and build real tension.
 
 ## Fair Warning
 
@@ -41,6 +39,6 @@ The last two episodes try to pull everything together, and that's where it falls
 
 ---
 
-I don't think this is a bad watch exactly. It's decent, the cast is doing real work, and the premise is solid. But for something riding on a genuinely unsettling true story, it ends up average at best, and average is a disappointing place to land after all the hype it got online. This is easily the weakest thing I've watched this month, because it wastes a good premise on a plot that never commits to a direction.
+For something riding on an unsettling true story, it ends up average at best. This is easily the weakest thing I've watched this month, because it wastes a good premise on a plot that never commits to a direction.
 
 *PS: if you've seen this one, I'd love to know if you figured out or have an idea about who The Watcher was supposed to be before the finale, because I couldn't tell you.*

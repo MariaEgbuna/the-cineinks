@@ -21,19 +21,19 @@ Djawadi doesn't sound like one thing. He trained on guitar and studied film scor
 
 He also isn't afraid to mix eras. Westworld throws Radiohead covers and old saloon piano next to full orchestra, and it works because he understands *tone* before he understands genre.
 
-## How does he pick his projects?
+## His Range
 
 His catalog barely makes sense as one person's work. **Iron Man. Game of Thrones. Prison Break. Person of Interest. Pacific Rim. Westworld. House of the Dragon. Fallout.** That's a superhero movie, high fantasy, a prison break thriller, a paranoid surveillance drama, a giant robot movie, and a post apocalyptic video game adaptation. Djawadi treats every project like it needs its own language, then builds one from scratch.
 
 Person of Interest needed something cold and paranoid, all clipped strings and a sense that someone's always watching. Prison Break needed tension that could hold for an entire episode without breaking. Game of Thrones needed to carry both a wedding and a massacre in the same season. A lot of composers have a signature sound they lean on no matter the project. Djawadi has a signature process, and the sound changes every time.
 
-## Is he underrated?
+## The Underrated Factor
 
 Fun fact: Ramin trained directly under Hans Zimmer. He started out maintaining audio equipment in the "machine room" at Remote Control Productions and worked his way up to writing some of the most recognizable TV themes of the last two decades. He's won two Emmys back to back for Game of Thrones, and casual viewers still mostly think of him as "background music," if they think about him at all.
 
 He's scoring video games, animated movies, and prestige dramas in the same stretch of years, and he's been putting in quiet work for two decades. Most people couldn't pick his name out of a lineup despite having his music stuck in their head, and that's criminal.
 
-## What's the scene stealer?
+## The Scene Stealer
 
 Everyone points to the Game of Thrones theme, and sure, it's massive: ten seconds in and you know exactly what show you're watching. But the hype around that show does a lot of heavy lifting. Listen to the Westworld theme with fresh ears and it's just a better piece of music. That slow, unsettling build from lone piano notes into a full orchestral wall says more with restraint than Thrones ever needed to. Prison Break's score doesn't get enough credit either. It carried entire episodes of tension without a single lyric, which is its own kind of iconic.
 
