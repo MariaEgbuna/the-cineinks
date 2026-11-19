@@ -21,6 +21,16 @@ const nextConfig: NextConfig = {
         destination: "/posts/review-from-season-2-still-good",
         permanent: true,
       },
+            {
+        source: "/posts/review-from-season-3",
+        destination: "/posts/review-from-season-3-weakest-yet",
+        permanent: true,
+      },
+      {
+        source: "/posts/review-from-season-4",
+        destination: "/posts/review-from-season-4-better-binged",
+        permanent: true,
+      },
       {
         source: "/posts/review-dorohedoro-season-1",
         destination: "/posts/review-dorohedoro-season-1-underrated",
