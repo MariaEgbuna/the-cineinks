@@ -25,8 +25,6 @@ The first hour plays like a grounded horror mystery. A creature is tearing throu
 
 **The movie doesn't explain much**: Most of what I understand about this movie, I picked up online. Na has said the original script was too long and too dense for a single movie, so he cut it down. That's why he ended up explaining so much himself in interviews.
 
-**It's a lot**: About an hour in, this movie goes completely off the rails. It's a lot. I know it divided people at Cannes, but I never minded.
-
 ## What Did
 
 Everything else.
