@@ -8,6 +8,8 @@ score: 8.6
 verdict: "The parents in this show are awful. I've never seen anything like it."
 excerpt: "A cute alien, a bullied fourth grader and a story that hurts. A spoiler-light review of Takopi's Original Sin, the six-episode anime that isn't what it looks like."
 coverImage: "/images/posts/review-takopis-original-sin/image-1.jpg"
+year: "2025"
+length: "6 episodes"
 ---
 
 *Takopi's Original Sin* looks like a cheerful slice of life about a cute alien cheering up a lonely kid. It isn't, and that's the whole point.

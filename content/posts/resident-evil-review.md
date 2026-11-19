@@ -8,6 +8,8 @@ score: 8.5
 verdict: "I'll happily take another trip to Raccoon City."
 excerpt: "Zach Cregger's Resident Evil swaps the soldier for an ordinary courier delivering a package to Raccoon City. A spoiler-light review of a film that ends too soon."
 coverImage: "/images/posts/resident-evil-review/image-1.jpg"
+year: "2026"
+length: "1h 35m"
 ---
 
 Directed by Zach Cregger and written alongside Shay Hatten, *Resident Evil* (2026) is the newest entry in the long-running horror franchise. Austin Abrams stars as Bryan, with Paul Walter Hauser, Kali Reis and Zach Cherry, and the movie takes us back to the infamous Raccoon City.

@@ -8,6 +8,8 @@ score: 8.5
 verdict: "Watch it now so you're caught up when Season 2 finally drops."
 excerpt: "A mycologist finds a mushroom that cures anything, and a pharma giant wants it buried. A spoiler-free review of the sharp, weird adult animated thriller."
 coverImage: "/images/posts/review-common-side-effects/image-1.jpg"
+year: "2025"
+length: "10 episodes"
 ---
 
 **Common Side Effects** is a 2025 adult animated dark comedy-thriller that follows Marshall Cuso, a mycologist who discovers the Blue Angel Mushroom, a rare fungus that appears to cure any illness or injury imaginable. When word gets out, he and his old high school friend Frances find themselves caught in a dangerous cat-and-mouse conspiracy involving a ruthless pharmaceutical giant and a government dead set on burying the discovery. Think a paranoid thriller wrapped inside a darkly funny commentary on corporate greed and the broken healthcare machine.

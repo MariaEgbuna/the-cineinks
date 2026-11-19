@@ -8,6 +8,8 @@ score: 9.2
 verdict: "Peak Fiction!"
 excerpt: "Dorohedoro Season 2 is darker, tighter and better than the first. A spoiler-free review of the 11-episode return, and why the six-year wait paid off."
 coverImage: "/images/posts/review-dorohedoro-season-2/image-1.jpg"
+year: "2026"
+length: "11 episodes"
 ---
 
 Dorohedoro Season 2 took six years to arrive, and every second of the wait was worth it. Drop everything and go watch it.

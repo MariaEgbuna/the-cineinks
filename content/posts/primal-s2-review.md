@@ -9,6 +9,8 @@ score: 8.7
 verdict: "A Must Watch"
 excerpt: "Primal Season 2 expands its map across ancient civilizations without losing Spear and Fang at its center."
 coverImage: /images/posts/primal-s2-review/cover.jpg
+year: "2022"
+length: "10 episodes"
 ---
 
 The second season of Primal continues Genndy Tartakovsky's animated action-drama. While spoken dialogue remains minimal, the narrative shifts outward as Spear and Fang cross the sea to find Mira, pitting them against organized human societies and a relentless new adversary.

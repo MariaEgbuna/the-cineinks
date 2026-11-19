@@ -8,6 +8,8 @@ score: 8.7
 verdict: "Can we please get more buff women in anime?"
 excerpt: "A lizard-headed man, a fry cook who fights like a tank, and a world of sorcerers. A spoiler-free review of Dorohedoro Season 1, and why it's so good."
 coverImage: "/images/posts/review-dorohedoro-season-1/image-1.jpg"
+year: "2020"
+length: "12 episodes"
 ---
 
 A man with a giant lizard head and no memory. A fry cook who fights like a tank. A slum where sorcerers drop in to use humans as target practice. *Dorohedoro* is an absolute trip.

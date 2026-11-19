@@ -8,6 +8,8 @@ score: 8.5
 verdict: "Add it to your watchlist ASAP."
 excerpt: "I kept seeing From pop up everywhere and I finally sat down to watch it."
 coverImage: "/images/posts/review-from-season-1/image-1.jpg"
+year: "2022"
+length: "10 episodes"
 ---
 
 A town that straight-up shouldn't exist. Every road out loops you right back to the start, and at night, smiling creatures crawl out of the woods to hunt anyone left outside. I kept seeing *From* all over my feed, so I finally sat down, hit play, and lost myself in it.

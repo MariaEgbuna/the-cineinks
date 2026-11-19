@@ -8,6 +8,8 @@ score: 7.3
 verdict: "Seasons 1 and 2 are great, just stop there."
 excerpt: "A con man steals his cellmate's identity and moves in with a family of bail bondsmen. Why Sneaky Pete's first two seasons are great, and where I stopped."
 coverImage: "/images/posts/review-sneaky-pete/image-1.jpg"
+year: "2015 – 2019"
+length: "3 seasons, 30 episodes"
 ---
 
 Sneaky Pete is a 2017 crime comedy drama on Amazon Prime. Marius, a con man fresh out of prison, steals the identity of his former cellmate Pete to escape a very dangerous gangster he owes money to. The plan? Track down Pete's estranged family, a loud, messy, lovable crew of bail bondsmen, and convince them he's their long-lost Pete. What follows is a wild juggling act of con jobs, family drama, and increasingly high stakes that is so fun to watch. At least for the first two seasons.

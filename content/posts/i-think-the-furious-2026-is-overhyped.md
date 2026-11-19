@@ -9,6 +9,8 @@ score: 7.2
 verdict: "Fun, but overhyped."
 excerpt: "The internet says The Furious reinvented martial arts cinema. I say the fights are great and everything else is just okay. Here's why."
 coverImage: /images/posts/i-think-the-furious-2026-is-overhyped/the-furious-cover.jpg
+year: "2026"
+length: "1h 53m"
 featured: false
 ---
 

@@ -8,6 +8,8 @@ score: 5.4
 verdict: "If I had to sum this show up in two words: frustratingly stupid."
 excerpt: "Naomi Watts, Bobby Cannavale and a true-crime premise that should have worked. A spoiler-light review of The Watcher, and why it never finds a direction."
 coverImage: "/images/posts/review-the-watcher-2022/the-watcher-cover.jpg"
+year: "2022"
+length: "7 episodes"
 ---
 
 I finished all seven episodes of *The Watcher* disappointed. A true crime mystery with a great premise, a stacked cast, and somehow still no idea where it's going.

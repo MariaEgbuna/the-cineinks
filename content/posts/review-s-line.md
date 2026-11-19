@@ -9,6 +9,8 @@ score: 6.4
 verdict: "Do yourself a favor and look elsewhere."
 excerpt: "S Line's first five episodes are gripping, then episode six collapses into a fever dream. A spoiler-light review of the 2025 K-drama."
 coverImage: /images/posts/review-s-line/image-1.jpg
+year: "2025"
+length: "6 episodes"
 ---
 
 *S Line* had everything it needed to be one of the most interesting K-dramas of 2025, and somehow it still managed to blow it.

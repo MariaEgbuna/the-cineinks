@@ -9,6 +9,8 @@ score: 9.2
 verdict: "Brilliantly acted, unflinching, and emotionally devastating."
 excerpt: "Two pigs, a killer and a detective, and a school hierarchy that never let go. A spoiler-light review of the brutal 2022 K-drama starring Kim Dong-wook and Kim Sung-kyu."
 coverImage: /images/posts/review-the-king-of-pigs/image-1.jpg
+year: "2022"
+length: "12 episodes"
 ---
 
 I finished *The King of Pigs* at some unreasonable hour of the night and just sat there for a while after it ended. Not because I was processing some big twist. Because I needed a minute before I could go back to being a normal person.

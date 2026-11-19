@@ -8,6 +8,8 @@ score: 7.6
 verdict: "This one's worth your time."
 excerpt: "One kiss for a student film, and everything gets weird. A spoiler-free review of Xavier Dolan's quiet, slow-burn drama about two childhood best friends."
 coverImage: "/images/posts/review-matthias-and-maxime/image-1.jpg"
+year: "2019"
+length: "1h 59m"
 ---
 
 I found *Matthias & Maxime* because of a gif on Twitter. I spent way too long scrolling through the comments trying to work out what it was from, and the second I got the name, it went straight on my watchlist.

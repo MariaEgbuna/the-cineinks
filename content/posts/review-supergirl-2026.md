@@ -8,6 +8,8 @@ score: 6.8
 verdict: "If you skipped this because of the discourse, it's worth a watch now that it's on digital."
 excerpt: "Supergirl isn't the disaster the discourse made it out to be. Milly Alcock and a great villain carry an average superhero movie. A spoiler-free review."
 coverImage: "/images/posts/review-supergirl-2026/image-1.jpg"
+year: "2026"
+length: "1h 48m"
 ---
 
 I was skeptical going into *Supergirl*. The Twitter discourse was brutal from the start, and the film hit digital barely a month after leaving theaters, which never says confidence from a studio. So I braced for something rough, but it never came. It was just average, which might be the hardest spot for a movie to land, because nobody wants to defend "fine."

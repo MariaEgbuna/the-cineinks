@@ -8,6 +8,9 @@ score: 6.2
 verdict: "Smart ideas, uneven execution. Book 2 has to trust them more."
 excerpt: "A world that fears the Avatar is a great premise. But flat backgrounds, shaky character decisions and a rushed big reveal kept Seven Havens from landing."
 coverImage: "/images/posts/avatar-seven-havens-review/poster-image.jpg"
+year: "2026"
+length: "13 episodes"
+genres: "Animation, Adventure, Drama"
 ---
 
 Critics are loving *Avatar: Seven Havens*. I wanted to love it too, and I'm not there yet.

@@ -7,7 +7,6 @@ labels:
   - Anime
 excerpt: "Five anime I almost skipped: a monster-girl comedy, a heliocentrism thriller, and a palace mystery that ate my weekend. Here's why each one won me over."
 coverImage: /images/posts/5-anime-i-wasnt-expecting-to-enjoy-this-much/cover.jpg
-featured: false
 ---
 
 I'm pretty stubborn about what I'll watch. If a show looks slow, or too romantic, or just not for me, I skip it and never think about it again.

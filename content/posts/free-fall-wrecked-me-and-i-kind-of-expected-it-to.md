@@ -9,6 +9,8 @@ score: 7.1
 verdict: "I need a serious pick-me-up after this one. I'm tired of sad gay movies."
 excerpt: "Free Fall/Freier Fall is a sad gay movie, but it earns every bit of it. A review of the German drama, its characters and why the ending didn't bother me."
 coverImage: /images/posts/free-fall-wrecked-me-and-i-kind-of-expected-it-to/free-fall-cover.jpg
+year: "2013"
+length: "1h 40m"
 ---
 
 I wrote a whole post about how [gay romance in media has a suffering problem](/posts/gay-romance-in-media-has-a-suffering-problem). Then I went and watched Free Fall anyway, knowing exactly what I was getting into.

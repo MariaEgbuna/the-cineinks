@@ -76,9 +76,12 @@ export default async function PostPage({ params }: PageProps) {
   // Text and bar colors for the Rating card (null when the post has no score)
   const tone = post.score !== null ? scoreTone(post.score) : null;
 
-  // Banner info: the year and the length (seasons/episodes or runtime).
-  // Empty when neither is filled in, so older posts look exactly as before.
-  const factsLine = [post.year, post.length].filter(Boolean).join(" · ");
+  // Banner info: year, length and genres on one line, like
+  // "2026 · 1h 35m · Horror, Comedy". Any piece that's empty is skipped,
+  // and the whole line disappears when all three are empty.
+  const factsLine = [post.year, post.length, post.genres]
+    .filter(Boolean)
+    .join(" · ");
 
   const structuredData = post.score !== null
     ? {
@@ -142,7 +145,9 @@ export default async function PostPage({ params }: PageProps) {
               </p>
             )}
             {factsLine && (
-              <p className="mb-1 text-sm font-medium text-main">{factsLine}</p>
+              <p className="mb-1 text-sm font-medium leading-normal text-main">
+                {factsLine}
+              </p>
             )}
             <p className="font-mono text-sm text-muted">
               {formattedDate} · {readingMinutes} min read

@@ -8,6 +8,8 @@ score: 7.1
 verdict: "Doesn't hold a candle to the first season."
 excerpt: "Gorgeous animation and one great episode, but Frieren Season 2 drags and wraps its main arc too early. A mostly spoiler-free review of the Divine Revolte arc."
 coverImage: "/images/posts/review-frieren-season-2/image-1.jpg"
+year: "2026"
+length: "10 episodes"
 ---
 
 I finally finished *Frieren* Season 2, and my first honest reaction was: "Wait, that's it?"

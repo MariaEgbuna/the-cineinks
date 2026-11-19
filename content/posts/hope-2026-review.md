@@ -8,6 +8,8 @@ score: 7.3
 verdict: "Wild and fun."
 excerpt: "Na Hong-jin's Hope starts as a tense creature horror and goes full chaotic sci-fi. A spoiler-free review of the Cannes film I watched twice."
 coverImage: "/images/posts/hope-2026-review/image-1.jpg"
+year: "2026"
+length: "2h 40m"
 ---
 
 I watched Hope twice, and I'd do it again. It's long, it's confusing, and about an hour in it goes completely off the rails. I had a blast.

@@ -8,6 +8,8 @@ score: 9.6
 verdict: "A masterpiece."
 excerpt: "A spoiler-free review of Caddo Lake, the Dylan O'Brien mystery produced by M. Night Shyamalan. Why you should go in blind, and what to expect."
 coverImage: "/images/posts/review-caddo-lake/image-1.jpg"
+year: "2024"
+length: "1h 39m"
 ---
 
 The less you know about *Caddo Lake*, the better it hits, so I'll keep this spoiler-free.
