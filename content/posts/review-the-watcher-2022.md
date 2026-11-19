@@ -21,7 +21,7 @@ It was created by Ryan Murphy and Ian Brennan for Netflix, and it stars Naomi Wa
 
 ---
 
-## The plot
+## The Premise
 
 The Brannocks move into their new house and the letters start almost immediately. From there the show throws suspect after suspect at you: the neighbors, a private investigator, a cult theory, a guy connected to a decades old murder case. Every episode adds another layer instead of building on the one before it.
 
@@ -31,13 +31,13 @@ The last two episodes try to pull everything together, and that's where it falls
 
 ## The Highlights
 
-*   **The cast.** Naomi Watts and Bobby Cannavale sell the paranoia well, and Jennifer Coolidge and Mia Farrow show up and immediately make every scene they're in more fun to watch. The performances are the one part of this show that never dips.
-*   **The premise.** A stalker who's been "watching" a house for generations and won't say why is creepy on its own, no embellishment needed. The first couple episodes lean into that and build real tension.
+* **The cast.** Naomi Watts and Bobby Cannavale sell the paranoia well, and Jennifer Coolidge and Mia Farrow show up and immediately make every scene they're in more fun to watch. The performances are the one part of this show that never dips.
+* **The premise.** A stalker who's been "watching" a house for generations and won't say why is creepy on its own, no embellishment needed. The first couple episodes lean into that and build real tension.
 
 ## Fair Warning
 
-*   **The writing tries too hard to be clever.** Every episode wants to be the one with the twist, and after a while the twists stop meaning anything because there's no line connecting them. It felt like the writers were chasing "shocking" instead of "coherent," and it just didn't work.
-*   **It's a slog.** I almost dropped it after episode three but pushed through since it was only seven episodes, and that shouldn't be the bar a show has to clear.
+* **The writing tries too hard to be clever.** Every episode wants to be the one with the twist, and after a while the twists stop meaning anything because there's no line connecting them. It felt like the writers were chasing "shocking" instead of "coherent," and it just didn't work.
+* **It's a slog.** I almost dropped it after episode three but pushed through since it was only seven episodes, and that shouldn't be the bar a show has to clear.
 
 ---
 

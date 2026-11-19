@@ -21,7 +21,7 @@ If you've seen *Get Out* or *Talk to Me*, you know the type of horror this leans
 
 *Heads up: this review has minor spoilers about one key scene.*
 
-## The Highlights
+## What Worked
 
 * **Inde Navarrette as Nikki.** She's doing the heaviest lifting in this movie and she absolutely kills it. Watching her body language shift from a normal person to someone stripped of free will is so unsettling. There are some scenes where the "real" Nikki briefly breaks through the spell and begs to be stopped, and it's one of the most upsetting moments I've watched all year.
 * **Bear as an uncomfortable mirror.** Michael Johnston plays him as the nice guy we've all met at some point. The one that's quiet, a little awkward, and seemingly harmless. You spend the first few minutes rooting for him, and then you watch him choose himself over and over again, even once he knows exactly what's happening to Nikki. I was disgusted by his actions, that scene where the real Nikki begs him to kill her and his response "What's so bad about being with me?" pissed me off in a way that I haven't felt in a long time. He's a coward who made one impulsive wish and the film lets that cowardice curdle into something disturbing.

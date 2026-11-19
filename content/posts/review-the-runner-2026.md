@@ -18,7 +18,7 @@ genres: "Thriller, Action"
 
 If you've watched more than three action thrillers in the last decade, you already know this genre by heart: a person gets a phone call, someone they love is in danger, a mystery voice on the other end tells them to move, keep moving, and don't stop or else. You've seen *Phone Booth* and probably seen the *Black Mirror* episode "Shut Up and Dance" too, which did the blackmail-by-phone thing with a lot more dread. *The Runner* picks London as its scenery, straps a pair of running shoes on Wonder Woman, and calls it a day.
 
-## The setup
+## The Premise
 
 ![Maia Marten on a train in The Runner (2026)](/images/posts/review-the-runner-2026/gal-gadot-1-.jpg)
 

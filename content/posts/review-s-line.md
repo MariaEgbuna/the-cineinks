@@ -32,7 +32,7 @@ The tonal whiplash was violent. One minute you are in a semi-realistic world gra
 
 ## Why did this show fail?
 
-Here is what makes it sting even more: the show's structure actually made this kind of ending inexcusable. Six episodes. That is all they had to work with, which means there was no room for the kind of bloated filler that typically derails longer K-dramas. Six tight episodes should have given the writers complete control over pacing, character resolution, and payoff. Instead, the tight runtime made the collapse in the final episode feel even more deliberate and indefensible.
+What makes this sting even more is that the show's structure actually made this kind of ending inexcusable. Six episodes. That is all they had to work with, which means there was no room for the kind of bloated filler that typically derails longer K-dramas. Six tight episodes should have given the writers complete control over pacing, character resolution, and payoff. Instead, the tight runtime made the collapse in the final episode feel even more deliberate and indefensible.
 
 The real tragedy of S Line is that it did not fail because it was a bad idea. It failed because the people behind it either ran out of courage or ran out of time, and they chose shock value over the storytelling their own premise deserved.
 

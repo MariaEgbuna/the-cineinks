@@ -17,14 +17,14 @@ I found *Matthias & Maxime* because of a gif on Twitter. I spent way too long sc
 
 It's a 2019 Canadian drama by Xavier Dolan about two childhood best friends in their late twenties, Matthias (Gabriel Freitas) and Maxime (Dolan), whose friendship gets weird after they're asked to kiss for a student short film. That's the whole setup. One kiss they didn't think twice about, and suddenly everything feels off and neither of them knows what to do about it. It's quiet, it's intimate, and it's set in Quebec, shot mostly in French. Very much a Xavier Dolan film in all the best ways.
 
-## The Highlights
+## What Worked
 
 * **The leads are incredible together.** Freitas and Dolan have this real, easy chemistry that makes you believe every second of their friendship.
 * **The cinematography is gorgeous.** André Turpin shoots this with so much care. Lingering close-ups, quiet moments that just breathe, no scene hanging around longer than it should. It looks beautiful without trying too hard.
 * **Dolan pulls back and it works.** If you know his other movies, you know he loves big emotions and bold style. This one's a lot quieter, and it actually fits the story perfectly.
 * **It doesn't spell anything out for you.** The film trusts you to sit in the awkwardness and figure it out along with the characters. If you like stories that respect your brain, this one's for you.
 
-## Fair warning
+## What Didn't
 
 * **It's a slow burn.** At 119 minutes, the pace is deliberate. There are slow parts in the middle, and a few scenes you could cut without losing much. You've gotta be in the right mood for this one.
 * **The group scenes can feel pointless.** A lot of the movie happens within a wider friend group, and some of those scenes wander before going anywhere interesting. If the group doesn't grab you early, those parts will test your patience.

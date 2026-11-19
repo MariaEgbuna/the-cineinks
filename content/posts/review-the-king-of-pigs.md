@@ -22,7 +22,7 @@ It's a 2022 Korean thriller, twelve episodes, that aired on TVING. It was adapte
 
 ---
 
-## What's the plot?
+## The Premise
 
 The story is built around a specific hierarchy that existed in Korean schools: pigs and dogs. Students from poor families were labeled pigs. Students from wealthy families were dogs, and the dogs didn't just look down on the pigs, they brutalized them, with the tacit permission of teachers and administrators who either didn't notice or didn't care.
 
