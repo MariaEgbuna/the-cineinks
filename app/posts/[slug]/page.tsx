@@ -122,7 +122,9 @@ export default async function PostPage({ params }: PageProps) {
 
       {/* Banner: text on the left, the cover image on the right at its
           natural 4:3 shape (no zooming). On phones the text comes first
-          and the image sits below it. Without a cover, it's text only. */}
+          and the image sits below it. Without a cover, it's text only.
+          Changed: every text size in the banner is one step smaller on
+          phones. From md up the sizes are the same as before. */}
       <section className="bg-linear-to-b from-accent/10 to-transparent">
         <div
           className={`max-w-300 mx-auto px-5 py-6 md:py-10 ${
@@ -133,23 +135,23 @@ export default async function PostPage({ params }: PageProps) {
         >
           <div>
             {/* The category as a quiet accent-colored line, no filled badge. */}
-            <p className="mb-3.5 font-mono text-xs font-bold uppercase leading-normal tracking-wide text-accent md:text-[13px]">
+            <p className="mb-3 font-mono text-[11px] font-bold uppercase leading-normal tracking-wide text-accent md:mb-3.5 md:text-[13px]">
               {post.category}
             </p>
-            <h1 className="font-serif text-3xl md:text-4xl leading-tight text-main mb-3">
+            <h1 className="font-serif text-2xl md:text-4xl leading-tight text-main mb-3">
               {post.title}
             </h1>
             {post.excerpt && (
-              <p className="text-base md:text-lg leading-relaxed text-main/70 mb-4">
+              <p className="text-sm md:text-lg leading-relaxed text-main/70 mb-4">
                 {post.excerpt}
               </p>
             )}
             {factsLine && (
-              <p className="mb-1 text-sm font-medium leading-normal text-main">
+              <p className="mb-1 text-[0.8125rem] font-medium leading-normal text-main md:text-sm">
                 {factsLine}
               </p>
             )}
-            <p className="font-mono text-sm text-muted">
+            <p className="font-mono text-xs text-muted md:text-sm">
               {formattedDate} · {readingMinutes} min read
             </p>
           </div>
