@@ -38,6 +38,8 @@ The one thing I couldn't get past was Nano and Marina. Nano is a grown man, Mari
 
 Everything else was a mess. Malick and Yeray were plot devices with a face, and the writers stripped Carla of everything that made her dangerous. Omar and Ander got dragged through a cheating storyline with no real point, and that felt like a betrayal of everything the first two seasons built.
 
+## The Bad
+
 ### Seasons 4 to 6: Where it lost me
 
 ![Elite seasons 4 to 6](/images/posts/elite-full-retrospective/image-2.jpg)
@@ -55,6 +57,8 @@ Rebeka and Mencía were pulled apart and pushed back together so many times that
 One major issue with this season was that the writers added five new characters at once. Five! And none of them got the attention they deserved. The Ari, Patrick, and Ivan subplot was a disaster, and the aftermath of Isadora's assault felt rushed. 
 
 The finale twist works in the moment and falls apart when you think about it. Isadora House has a staffed car park and visible security, and not one camera catches who got into which car. Raul supposedly bleaches a car interior, and nobody notices the smell, including Mencía who woke up inside it. The club has been trivially easy to drug people in all season, and that same blind spot reappears exactly when the writers need it.
+
+## How It Ended
 
 ## Seasons 7 and 8: A good stretch, then a messy goodbye
 
