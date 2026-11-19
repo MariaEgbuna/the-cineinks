@@ -11,6 +11,7 @@ excerpt: "I accidentally spoiled the entire Widow's Bay season finale within the
 coverImage: /images/posts/review-widows-bay-2026/widow-bay-cover-image.jpg
 year: "2026"
 length: "10 episodes"
+genres: "Horror, Comedy"
 featured: false
 ---
 

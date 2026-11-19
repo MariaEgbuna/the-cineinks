@@ -10,6 +10,7 @@ excerpt: "A spoiler-free review of Caddo Lake, the Dylan O'Brien mystery produce
 coverImage: "/images/posts/review-caddo-lake/image-1.jpg"
 year: "2024"
 length: "1h 39m"
+genres: "Mystery, Thriller"
 ---
 
 The less you know about *Caddo Lake*, the better it hits, so I'll keep this spoiler-free.

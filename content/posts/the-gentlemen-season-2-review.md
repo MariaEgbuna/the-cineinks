@@ -10,6 +10,7 @@ excerpt: "The Gentlemen Season 2 started off so strong, and then somewhere aroun
 coverImage: "/images/posts/the-gentlemen-season-2-review/the-gentlemen-cover.jpg"
 year: "2026"
 length: "8 episodes"
+genres: "Crime, Comedy"
 ---
 
 The Gentlemen Season 2 started off so strong, and then somewhere around episode 6, I stopped caring.

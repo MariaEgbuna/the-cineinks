@@ -11,6 +11,7 @@ excerpt: "The internet says The Furious reinvented martial arts cinema. I say th
 coverImage: /images/posts/i-think-the-furious-2026-is-overhyped/the-furious-cover.jpg
 year: "2026"
 length: "1h 53m"
+genres: "Action, Thriller"
 featured: false
 ---
 

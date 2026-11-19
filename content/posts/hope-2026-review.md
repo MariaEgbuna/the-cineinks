@@ -10,6 +10,7 @@ excerpt: "Na Hong-jin's Hope starts as a tense creature horror and goes full cha
 coverImage: "/images/posts/hope-2026-review/image-1.jpg"
 year: "2026"
 length: "2h 40m"
+genres: "Thriller, Sci-Fi"
 ---
 
 I watched Hope twice, and I'd do it again. It's long, it's confusing, and about an hour in it goes completely off the rails. I had a blast.

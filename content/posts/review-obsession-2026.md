@@ -10,6 +10,7 @@ excerpt: "Curry Barker's Obsession turns a wish for love into a nightmare. A spo
 coverImage: "/images/posts/review-obsession-2026/image-1.jpg"
 year: "2026"
 length: "1h 49m"
+genres: "Horror"
 ---
 
 Curry Barker wrote and directed **Obsession** after building an audience on YouTube, and this was his first feature. It's a supernatural psychological horror movie, and it deserved every bit of the buzz around it this year. Michael Johnston stars as Bear, a music store employee too nervous to tell his coworker Nikki how he feels, and Inde Navarrette plays Nikki, a girl whose autonomy is stripped away.

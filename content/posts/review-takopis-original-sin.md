@@ -10,6 +10,7 @@ excerpt: "A cute alien, a bullied fourth grader and a story that hurts. A spoile
 coverImage: "/images/posts/review-takopis-original-sin/image-1.jpg"
 year: "2025"
 length: "6 episodes"
+genres: "Drama, Sci-Fi"
 ---
 
 *Takopi's Original Sin* looks like a cheerful slice of life about a cute alien cheering up a lonely kid. It isn't, and that's the whole point.

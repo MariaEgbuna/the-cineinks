@@ -10,6 +10,7 @@ excerpt: "A lizard-headed man, a fry cook who fights like a tank, and a world of
 coverImage: "/images/posts/review-dorohedoro-season-1/image-1.jpg"
 year: "2020"
 length: "12 episodes"
+genres: "Action, Fantasy"
 ---
 
 A man with a giant lizard head and no memory. A fry cook who fights like a tank. A slum where sorcerers drop in to use humans as target practice. *Dorohedoro* is an absolute trip.

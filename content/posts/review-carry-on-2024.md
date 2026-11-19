@@ -10,6 +10,7 @@ excerpt: "Carry-On has a great premise and a fast pace, but a script built on co
 coverImage: "/images/posts/review-carry-on-2024/carry-on.jpg"
 year: "2024"
 length: "1h 59m"
+genres: "Action, Thriller"
 ---
 
 *Carry-On* is basically *Die Hard* with a TSA badge, and on paper it should deliver wall-to-wall tension. It doesn't.

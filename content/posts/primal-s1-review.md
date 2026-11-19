@@ -11,6 +11,7 @@ excerpt: "If you love drama that is pure, intense, and a little unhinged, this i
 coverImage: /images/posts/primal-s1-review/cover.jpg
 year: "2019"
 length: "10 episodes"
+genres: "Action, Adventure"
 ---
 
 Genndy Tartakovsky's Primal debuted on Adult Swim in October 2019, spanning ten 22-minute episodes across its first season. Driven almost entirely by visual storytelling rather than spoken dialogue, the series centers on a caveman and a Tyrannosaurus rex fighting to survive in a harsh prehistoric landscape.

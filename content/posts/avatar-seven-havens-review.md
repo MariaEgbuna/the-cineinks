@@ -10,7 +10,7 @@ excerpt: "A world that fears the Avatar is a great premise. But flat backgrounds
 coverImage: "/images/posts/avatar-seven-havens-review/poster-image.jpg"
 year: "2026"
 length: "13 episodes"
-genres: "Animation, Adventure, Drama"
+genres: "Animation, Adventure"
 ---
 
 Critics are loving *Avatar: Seven Havens*. I wanted to love it too, and I'm not there yet.

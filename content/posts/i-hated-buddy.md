@@ -10,6 +10,7 @@ excerpt: "Buddy opens with a great Barney-style roast, then turns into generic s
 coverImage: "/images/posts/i-hated-buddy/image-1.jpg"
 year: "2026"
 length: "1h 35m"
+genres: "Horror, Thriller"
 ---
 
 I hated Buddy, and the more I think about it, the more I hate it.

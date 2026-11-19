@@ -11,6 +11,7 @@ excerpt: "Gal Gadot runs across London for 84 minutes in Amazon's phone-call thr
 coverImage: /images/posts/review-the-runner-2026/the-runner-cover.jpg
 year: "2026"
 length: "1h 24m"
+genres: "Thriller, Action"
 ---
 
 *The Runner* isn't the worst movie of the year, whatever the internet says. It's just a very familiar one. Gal Gadot runs across London for 84 minutes and somehow it still feels longer than the trial her character is supposed to be prosecuting. That's the whole vibe in one sentence, but stick with me, because there's more to unpack here than just legs and spandex.

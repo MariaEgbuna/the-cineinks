@@ -10,6 +10,7 @@ excerpt: "A spoiler-light review of Better Call Saul: why I'd watch Breaking Bad
 coverImage: "/images/posts/review-better-call-saul/image-1.jpg"
 year: "2015 – 2022"
 length: "6 seasons, 63 episodes"
+genres: "Crime, Drama"
 ---
 
 I'll say it up front: I think I liked *Better Call Saul* more than *Breaking Bad*. Technically you could watch it without seeing Breaking Bad first, but I wouldn't recommend it.

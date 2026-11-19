@@ -10,6 +10,7 @@ excerpt: "Ready or Not 2 has creative kills, Elijah Wood's deadpan and Samara We
 coverImage: "/images/posts/review-ready-or-not-2-2026/image-1.jpg"
 year: "2026"
 length: "1h 48m"
+genres: "Horror, Comedy"
 ---
 
 *Ready or Not 2: Here I Come* is the sequel to the 2019 horror comedy where Grace married into a family that turned her wedding night into a game of hide and seek with her as the prey. This one picks up seconds after that ends. Grace survives the Le Domas massacre, only to find out her nightmare has a bigger, richer, more organized sequel of its own. The Le Domas family answered to a whole council of elite bloodlines who worship the same guy, Mr. Le Bail, and now every one of those families wants a shot at the power Grace accidentally unlocked by surviving. She gets kidnapped along with her estranged sister Faith and dragged into round two.

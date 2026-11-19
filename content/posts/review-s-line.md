@@ -11,6 +11,7 @@ excerpt: "S Line's first five episodes are gripping, then episode six collapses 
 coverImage: /images/posts/review-s-line/image-1.jpg
 year: "2025"
 length: "6 episodes"
+genres: "Thriller, Fantasy"
 ---
 
 *S Line* had everything it needed to be one of the most interesting K-dramas of 2025, and somehow it still managed to blow it.

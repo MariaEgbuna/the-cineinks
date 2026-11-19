@@ -10,6 +10,7 @@ excerpt: "From Season 4 brings back real threats, a plot that moves and characte
 coverImage: "/images/posts/review-from-season-4/image-1.jpg"
 year: "2026"
 length: "10 episodes"
+genres: "Horror, Sci-Fi"
 ---
 
 *From* Season 4 pulled the show out of its Season 3 slump, and the best way to experience it is to binge it. Watching this week to week would have driven me completely up the wall.

@@ -11,6 +11,7 @@ excerpt: "Kim Young-kwang plays a gentle lover for once in this 16-episode melod
 coverImage: /images/posts/review-call-it-love-2023/call-it-love.jpg
 year: "2023"
 length: "16 episodes"
+genres: "Romance, Drama"
 featured: false
 ---
 

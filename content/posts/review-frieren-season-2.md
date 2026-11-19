@@ -10,6 +10,7 @@ excerpt: "Gorgeous animation and one great episode, but Frieren Season 2 drags a
 coverImage: "/images/posts/review-frieren-season-2/image-1.jpg"
 year: "2026"
 length: "10 episodes"
+genres: "Fantasy, Adventure"
 ---
 
 I finally finished *Frieren* Season 2, and my first honest reaction was: "Wait, that's it?"

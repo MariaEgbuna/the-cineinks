@@ -11,6 +11,7 @@ excerpt: "A Y2K-era superhero K-drama with glitchy powers, a great comic cast an
 coverImage: /images/posts/review-the-wonderfools/image-1.jpg
 year: "2026"
 length: "8 episodes"
+genres: "Superhero, Comedy"
 ---
 
 A superhero K-drama set during the Y2K scare sounded like exactly the kind of concept that looks fun in a trailer and falls apart by episode 3. *WONDERfools* didn't.

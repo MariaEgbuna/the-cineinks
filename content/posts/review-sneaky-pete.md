@@ -10,6 +10,7 @@ excerpt: "A con man steals his cellmate's identity and moves in with a family of
 coverImage: "/images/posts/review-sneaky-pete/image-1.jpg"
 year: "2015 – 2019"
 length: "3 seasons, 30 episodes"
+genres: "Crime, Comedy"
 ---
 
 Sneaky Pete is a 2017 crime comedy drama on Amazon Prime. Marius, a con man fresh out of prison, steals the identity of his former cellmate Pete to escape a very dangerous gangster he owes money to. The plan? Track down Pete's estranged family, a loud, messy, lovable crew of bail bondsmen, and convince them he's their long-lost Pete. What follows is a wild juggling act of con jobs, family drama, and increasingly high stakes that is so fun to watch. At least for the first two seasons.

@@ -10,6 +10,7 @@ excerpt: "Unhinged is chasing the same nerve as Duel or The Hitcher: an ordinary
 coverImage: "/images/posts/review-unhinged-2020/unhinged.jpg"
 year: "2020"
 length: "1h 33m"
+genres: "Action, Thriller"
 ---
 
 Unhinged is chasing the same nerve as Duel or The Hitcher: an ordinary drive turning into a nightmare you can't shake.

@@ -10,6 +10,7 @@ excerpt: "From Season 2 has a killer cliffhanger and a great new wildcard in Ran
 coverImage: "/images/posts/review-from-season-2/image-1.jpg"
 year: "2023"
 length: "10 episodes"
+genres: "Horror, Sci-Fi"
 ---
 
 Season 2 of *From* is still great TV, but this is where the show's bad habits started to wear on me. Everyone is still trapped, the woods are still terrifying, and the characters still refuse to just talk to each other.

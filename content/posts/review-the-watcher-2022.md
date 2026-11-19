@@ -10,6 +10,7 @@ excerpt: "Naomi Watts, Bobby Cannavale and a true-crime premise that should have
 coverImage: "/images/posts/review-the-watcher-2022/the-watcher-cover.jpg"
 year: "2022"
 length: "7 episodes"
+genres: "Mystery, Thriller"
 ---
 
 I finished all seven episodes of *The Watcher* disappointed. A true crime mystery with a great premise, a stacked cast, and somehow still no idea where it's going.
