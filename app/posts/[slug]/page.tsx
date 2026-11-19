@@ -123,11 +123,11 @@ export default async function PostPage({ params }: PageProps) {
       {/* Banner: text on the left, the cover image on the right at its
           natural 4:3 shape (no zooming). On phones the text comes first
           and the image sits below it. Without a cover, it's text only.
-          Changed: every text size in the banner is one step smaller on
-          phones. From md up the sizes are the same as before. */}
+          Every text size is one step smaller on phones.
+          Changed: less space under the banner on phones (pb-4, not py-6). */}
       <section className="bg-linear-to-b from-accent/10 to-transparent">
         <div
-          className={`max-w-300 mx-auto px-5 py-6 md:py-10 ${
+          className={`max-w-300 mx-auto px-5 pt-6 pb-4 md:py-10 ${
             hasCover
               ? "grid grid-cols-1 items-center gap-6 md:grid-cols-[1.3fr_1fr] md:gap-10"
               : "max-w-225"
@@ -172,9 +172,11 @@ export default async function PostPage({ params }: PageProps) {
       </section>
 
       <section className="bg-page">
+        {/* Changed: less space above the post text (pt-4 on phones,
+            md:pt-6 on desktop), so the gap under the banner is smaller. */}
         <div
           id="post-body"
-          className="max-w-225 mx-auto px-5 py-5 md:py-10 prose"
+          className="max-w-225 mx-auto px-5 pt-4 pb-5 md:pt-6 md:pb-10 prose"
         >
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}

@@ -13,29 +13,29 @@ length: "13 episodes"
 genres: "Animation, Adventure"
 ---
 
-Critics are loving *Avatar: Seven Havens*. I wanted to love it too, and I'm not there yet.
+Seven Havens is Nickelodeon and Avatar Studios' new 2D-animated series. It premiered on Paramount+ on October 9, 2026, and critics have been kind to it. I wanted to love it too, but I'm not there yet.
 
-The idea is strong: a world that has forgotten its own history and now fears the Avatar. But across 13 episodes, I kept feeling a better show was hiding underneath this one. Creators Michael Dante DiMartino and Bryan Konietzko, the duo behind *The Last Airbender* and *The Legend of Korra*, clearly know how to build a world. Here it just doesn't always show up on screen.
+The story follows Pavi (Saheli Khan), a young Earthbender who survives by scavenging and keeping a low profile in a world where benders face conscription and the Avatar is known as **The Destroyer**. At a festival marking the death of the Avatar, she reunites with her twin sister, Nisha (Aishu Devan).
 
-*Full spoilers ahead for the whole season, including the finale.*
+Across the 13 episodes, I kept feeling a better show was hiding underneath this one. Creators Michael Dante DiMartino and Bryan Konietzko, the duo behind *The Last Airbender* and *The Legend of Korra*, clearly know how to build a world. Here it just doesn't always show up on screen.
 
-For anyone who needs the setup: Seven Havens is Nickelodeon and Avatar Studios' new 2D-animated series. It premiered on Paramount+ on October 9, 2026, and critics have been kind to it. It was sitting at 100% on Rotten Tomatoes from 21 reviews as of October 14.
+*Major spoilers ahead for the whole season, including the finale.*
 
-The story follows Pavi (Saheli Khan), a young Earthbender who survives by scavenging and keeping a low profile in a world where benders face conscription and the Avatar is known as the Destroyer. At a festival marking the death of the Avatar, she reunites with her twin sister, Nisha (Aishu Devan).
+## What Worked
 
----
-
-## A world that fears the Avatar
+### The Premise
 
 ![Seven Havens: a world that fears the Avatar](/images/posts/avatar-seven-havens-review/what-worked.jpg)
 
-Let's start with what worked. Most records from Korra's era have been lost or destroyed, so people rely on oral accounts that blame the Avatar for destroying the world. The symbol of balance has become something to fear and resent. I like that, because it shows how losing history can warp an entire civilisation's idea of its own past.
+Most records from Korra's era have been lost or destroyed, so people rely on oral accounts that blame the Avatar for destroying the world. The symbol of balance has become something to fear and resent. I like that, because it shows how losing history can warp an entire civilisation's idea of its own past.
 
 Karthik (Akshay Khanna), a commander in Ellora's protective brigade and a White Lotus member, trains the sisters, but they want different things. Nisha wants to protect her Haven and get more involved in its affairs. Pavi doesn't want to be the Avatar and only cares about finding out what happened to their parents. Around them you have the Anomaly, a mysterious crystal that induces fear and irrational thinking, and the Faceless, a rebel group fighting the conscription of benders.
 
-Then comes the summit, where the other Havens gather, everything descends into chaos, and Nisha's identity is exposed. Nobody welcomes her. They turn on her, even after she tries to protect the delegates. Her being the Avatar becomes a political problem instead of a source of authority, and that raises a good question: what happens when the person meant to keep balance isn't trusted by the people she's meant to protect? I would have loved more on how the White Lotus operates in a world like this, since entire communities now see the Avatar as a threat.
+Then comes the summit, where the other Havens gather, everything descends into chaos, and Nisha's identity is exposed. Nobody welcomes her. They turn on her, even after she tries to protect the delegates. Her being the Avatar becomes a political problem instead of a source of authority, and that raises a good question: *what happens when the person meant to keep balance isn't trusted by the people she's meant to protect?* 
 
-## The finale: the truth about their parents
+I would have loved more on how the White Lotus operates in a world like this, since entire communities now see the Avatar as a threat.
+
+### The Finale
 
 ![Pavi and Nisha in the Seven Havens finale](/images/posts/avatar-seven-havens-review/finale.jpg)
 
@@ -47,33 +47,31 @@ It's devastating because it changes Nisha. She isn't just a hotheaded girl makin
 
 My one complaint is that the show doesn't give this enough room. A reveal this big reshapes the relationship, and I wanted the story to sit in the fallout a bit longer before rushing to the next plot beat.
 
-Then there's Pavi, who spent the whole season avoiding her responsibility. She unlocks her Root Chakra and pushes the Anomaly's energy out of Ellora. By the end, the sisters part ways and Pavi heads off to open her next chakra. That's a really interesting conflict to carry into Book 2.
+## What Didn't
 
-## The writing: bad decisions with no room to breathe
+### The Character Writing
 
 ![Kayako, the governor of Ellora, in Seven Havens](/images/posts/avatar-seven-havens-review/kayoko.jpg)
 
-Now for what didn't work. My biggest problem is how the people in charge behave. Kayako, Ellora's governor, is the example. She has the Anomaly and the Faceless to deal with, and her answer is to weaponise the crystals against the rebels, which only makes things more dangerous.
+My biggest problem is how the people in charge behave. Kayako, Ellora's governor, is the prime example. She has the Anomaly and the Faceless to deal with, and her answer is to weaponise the crystals against the rebels, which only makes things more dangerous.
 
 I understand the point. Fear clouds judgement, and people who think they're protecting their community can cause more harm. But when a character makes a terrible call, I want to see the internal conflict and the pressure pushing them there, even if I disagree. Without that, the decision feels like a convenient way to move the plot.
 
-The Anomaly could have been perfect for this, showing how different people react to danger and misinformation. Instead I was more annoyed at the characters than invested in the consequences. The concept isn't the problem. The problem is turning it into believable behaviour.
-
-## The animation: why does the world feel so lifeless?
+### The Lifeless Animation
 
 ![Seven Havens animation and backgrounds](/images/posts/avatar-seven-havens-review/what-did-not.jpg)
 
-The writing isn't my only complaint. This is my most noticeable technical one. I'm not a fan of the different visual direction, but a new series doesn't have to copy The Last Airbender or Korra. My issue is the backgrounds, which often feel like static illustrations the characters are walking through.
+This is my most noticeable technical one. I'm not a fan of the different visual direction, but a new series doesn't have to copy The Last Airbender or Korra. My issue is the backgrounds, which often feel like static illustrations the characters are walking through.
 
-It shows most when the environment should be reacting: chaotic crowds, storms, political confrontations. People should react to danger and crowds should feel alive. Instead the surroundings sometimes look almost frozen, and scenes meant to feel like panic come off strangely empty. A simplified style can work beautifully, but it still has to give the world enough movement to be believable. Avatar has always been at its best when the surroundings respond to the bending, and I wanted more of that here.
+It shows most when the environment should be reacting: chaotic crowds, storms, political confrontations. People should react to danger and crowds should feel alive. Instead the surroundings sometimes look almost frozen, and scenes meant to feel like panic come off strangely empty. A simplified style can work, but it still has to give the world enough movement to be believable. Avatar has always been at its best when the surroundings respond to the bending, and I wanted more of that here.
 
-## The kid-friendly tone and the jokes that don't fit
+### The Jokes That Don't Fit
 
-Tone is the last thing that didn't work for me. Avatar has always been accessible to younger viewers, but a lot of its audience grew up with it and is now in their late teens or twenties. I'm not asking for darker or more violent. I'm saying Seven Havens sometimes leans too hard into a child-oriented tone.
+Seven Havens sometimes leans too hard into a child-oriented tone. Avatar has always been accessible to younger viewers, but a lot of its audience grew up with it and is now in their late teens or twenties.
 
-The random phrases and attempts at humour can be funny, but too often they feel out of place. Aang's story was full of silly moments, and they worked because they suited the characters, while the show still dealt with war, grief, and oppression. When a series brings in childhood trauma, historical distortion, persecution, and the destruction of whole communities, the lighter moments have to complement that instead of undermining it. A younger audience doesn't need simpler storytelling. It just takes confidence to tell the story properly.
+The random phrases and attempts at humour can be funny, but too often they feel out of place. Aang's story was full of silly moments, and they worked because they suited the characters, while the show still dealt with war, grief, and oppression. When a series brings in childhood trauma, historical distortion, persecution, and the destruction of whole communities, the lighter moments have to complement that instead of undermining it.
 
-## The chakra system: more than a checklist
+### The Chakra System
 
 And then there's the part I'm torn on. The chakra system comes from The Last Airbender, when Aang visited Guru Pathik to learn how to access the Avatar State. Seven Havens brings it back through Pavi, with unlocking her chakras becoming part of her growth as the Avatar. I like that it builds on existing lore instead of inventing something disconnected.
 
@@ -82,5 +80,3 @@ My worry is how it's handled from here. Chakras give Pavi a clear framework, but
 ---
 
 Seven Havens isn't without merit. The premise is compelling, the political conflicts have a lot of room to grow, and Pavi and Nisha give the story an emotional foundation. The mystery behind the Cataclysm is still wide open, and that keeps me curious about what comes next.
-
-But the character writing needs more nuance, the backgrounds need to feel alive, and the humour needs to fit the story. I'd also like the show to spend more time on the consequences of its big revelations. Most of all, I want it to trust its own ideas. A world that fears the Avatar is a fascinating premise, and a civilisation that lost its history is a strong foundation for a story about truth, responsibility, and collective fear. Potential only takes a series so far, though.

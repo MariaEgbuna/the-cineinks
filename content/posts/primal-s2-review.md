@@ -30,8 +30,6 @@ That is the real strength of this season: it kept widening the map without ever 
 
 ## What Didn't
 
-### The Ending
-
 Where it lost me a little was the ending. It felt rushed, and from what I have heard, that comes down to the show not knowing if it would even get a third season while this one was being made. You can feel that uncertainty in how fast everything wraps up.
 
 ---

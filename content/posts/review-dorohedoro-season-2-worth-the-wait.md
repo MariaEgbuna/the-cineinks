@@ -24,9 +24,9 @@ New here? Start with [my Season 1 quick take](/posts/review-dorohedoro-season-1-
 Everything that made me fall in love with the first season got amplified here. The action is nastier, the character drama has real emotional punch, and the twists hit you from angles you will never see coming. And the gore? If you thought Season 1 was intense, this season says doesn't hold back.
 
 The narrative leans heavily into the **Cross-Eyes faction**, that chaotic gang we saw circling Caiman and Nikaido's story in the first finale. Diving into their internal mess, their desperate obsession with their missing boss, and how they collide with En's sorcerer family gives this season a massive sense of scope that Season 1 just didn't have the real estate for. There are *a lot* of moving pieces this time around:
-*   **Shin and Noi** get their own fantastic character arc.
-*   **Risu** is out here bloodily chasing his own answers.
-*   **Caiman and Nikaido** are right in the thick of it.
+* **Shin and Noi** get their own fantastic character arc.
+* **Risu** is out here bloodily chasing his own answers.
+* **Caiman and Nikaido** are right in the thick of it.
 
 Amazingly, none of it feels overwhelming. The show trusts you to keep up, and the payoff is massive.
 
@@ -38,7 +38,7 @@ Remember how I said the 3D animation took a minute to get used to in Season 1? Y
 
 I have zero issues with the storytelling. Every single thread this season pulls on connects right back to the bigger picture of Caiman's dark past and why he ended up with a lizard head in the first place. The flashbacks hit way harder because we're deeply invested in these characters by now. It is incredibly tight writing from the first episode to the last frame.
 
-## Should you binge it?
+## Final Thoughts
 
 I am so incredibly glad I binged all 11 episodes. The pacing is phenomenal, with no mid-season dips and no stalling episodes where you start checking your phone. An anime that can maintain this kind of breakneck momentum for a full season is incredibly rare, but *Dorohedoro* pulled it off flawlessly.
 

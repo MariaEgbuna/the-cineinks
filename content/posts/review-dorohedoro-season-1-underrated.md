@@ -25,13 +25,13 @@ On the flip side, we get a front-row seat to the sorcerers' world, which has its
 
 ## What worked
 
-*   **The characters are everything.** Caiman and Nikaido have a ride-or-die friendship that feels totally earned from episode one. There's no boring, forced exposition dump to explain why they trust each other. You just watch them kick ass as a unit and immediately get it. Nikaido is spectacular. She isn't written as a generic "strong female character" to check a box, she is just a powerhouse, full stop.
-*   **Shin and Noi's dynamic.** Noi could have easily been a mindless muscle archetype attached to Shin, but the show gives her so much personality. Her absolute devotion to En, her partnership with Shin, and the pure joy she gets from a bloody brawl make her an instant favorite. Her relationship with Shin is weirdly sweet and tender for a show this incredibly violent, and that contrast is pure gold.
-*   **Top-tier world-building.** The Hole and the sorcerer world feel distinct, both visually and tonally. The show respects your intelligence enough to let you piece together the smoke-based magic system and gang dynamics on your own without hitting you over the head with explanations.
+* **The characters are everything.** Caiman and Nikaido have a ride-or-die friendship that feels totally earned from episode one. There's no boring, forced exposition dump to explain why they trust each other. You just watch them kick ass as a unit and immediately get it. Nikaido is spectacular. She isn't written as a generic "strong female character" to check a box, she is just a powerhouse, full stop.
+* **Shin and Noi's dynamic.** Noi could have easily been a mindless muscle archetype attached to Shin, but the show gives her so much personality. Her absolute devotion to En, her partnership with Shin, and the pure joy she gets from a bloody brawl make her an instant favorite. Her relationship with Shin is weirdly sweet and tender for a show this incredibly violent, and that contrast is pure gold.
+* **Top-tier world-building.** The Hole and the sorcerer world feel distinct, both visually and tonally. The show respects your intelligence enough to let you piece together the smoke-based magic system and gang dynamics on your own without hitting you over the head with explanations.
 
 ## Fair warning
 
-*   **The CGI takes getting used to.** MAPPA heavily relied on **3D animation** for the character models and action sequences, which is a massive departure from traditional 2D anime. The first couple of episodes might feel a little jarring or clunky if you're not used to it.
+* **The CGI takes getting used to.** MAPPA heavily relied on **3D animation** for the character models and action sequences, which is a massive departure from traditional 2D anime. The first couple of episodes might feel a little jarring or clunky if you're not used to it.
 
 Honestly, though? It's barely a downside. Once the narrative hooks you, the unique art style stops being a distraction and becomes part of the show's gritty, punk-rock identity. By episode four, I wasn't even thinking about the animation style. I was just completely locked into the story.
 

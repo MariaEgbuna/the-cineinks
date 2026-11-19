@@ -15,11 +15,11 @@ It's a South Korean action-crime series built around one man: Detective Ma Seok-
 
 *This post contains minor spoilers for the Roundup movies.*
 
-## What's it about?
+## The Premise
 
 Ma Seok-do is a beast of a cop with zero patience for criminals and a talent for stumbling into disasters above his pay grade. Each film drops him into a new international crisis and a new kind of villain. The cases change. The carnage does not.
 
-## What are the Roundup movies, in order?
+## The Movies In Order
 
 ![The Outlaws (2017)](/images/posts/hall-of-fame-the-roundup-movies/image-2.jpg)
 
@@ -37,21 +37,21 @@ Ma Seok-do is a beast of a cop with zero patience for criminals and a talent for
 
 **The Roundup: Punishment (2024):** The bounce-back the franchise needed. It premiered at the 74th Berlin International Film Festival, with Ma going after a huge illegal online gambling operation in the Philippines, with a cryptocurrency money laundering angle. It broke Korean presale records with over 834,000 advance tickets and reached 10 million admissions faster than any previous entry. Kim Moo-yeol plays a ruthless ex-special forces killer who is menacing in the way the third film needed, and the action set pieces are some of the best in the franchise.
 
-## What's my one complaint?
-
-*No Way Out*. It's the weakest of the four, mostly because of its underbaked main villain, and it's the one film where the franchise's usual confidence slips. It's still worth watching, but it's the only one I'd call a bump in the road.
-
-## Why does the action hit so hard?
+## The Action
 
 These fights are filmed on a different level from most Western action cinema right now. No lazy shaky-cam. No cuts every half-second to hide that nobody can really fight. The camera steps back and lets you see everything: every open-hand slap, every shoulder throw, every hit from Ma Dong-seok coming down with full bone-crunching weight.
 
 The choreography is designed around what his body actually does, not cut around what it can't. The action director on the first film, Heo Myeong-haeng, went on to direct the fourth, which shows how much the choreography is the backbone of the whole operation.
 
+## My One Complaint
+
+*No Way Out*. It's the weakest of the four, mostly because of its underbaked main villain, and it's the one film where the franchise's usual confidence slips. It's still worth watching, but it's the only one I'd call a bump in the road.
+
 ## Are the Roundup movies Hall of Fame material?
 
 The series knows exactly what it is and never apologizes for it. These aren't films trying to be prestige cinema in disguise. They want you to feel the hits, root for the good guy, and walk out satisfied, and they're well made instead of cynically assembled.
 
-Ma Seok-do is also a refreshing protagonist. He isn't morally conflicted, he isn't broken, and he isn't hiding a secret that comes out in the third act. He's a cop who loves his job, is very good at it, and solves problems with his hands. There's something satisfying about a character who sees a problem and just deals with it.
+Ma Seok-do is also a refreshing protagonist. He isn't morally conflicted, broken, or hiding a secret that comes out in the third act. He's a cop who loves his job, is very good at it, and solves problems with his hands. It's so satisfying to watch everytime.
 
 I'm locked into this franchise for life. Watch the films in order, because the first two are essential. Power through the third. Let the fourth remind you why you started. With a fifth already confirmed, there's no better time to get caught up.
 
