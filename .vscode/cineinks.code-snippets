@@ -1,6 +1,6 @@
 {
   // Review: category Review, medium label plus Review, with a score and optional verdict.
-  // Year and length feed the info line in the post banner (both optional).
+  // Year, length and genres feed the info line in the post banner (all optional).
   "CineInks Review": {
     "prefix": "review",
     "scope": "markdown",
@@ -20,15 +20,17 @@
       "coverImage: /images/posts/${2}/image-1.jpg",
       "year: \"${7:2025}\"",
       "length: \"${8:8 episodes}\"",
+      "genres: \"${9:Drama, Thriller}\"",
       "featured: false",
       "---",
-      "![REVIEW: ${9:Movie Title (Year)}](/images/posts/${2}/image-1.jpg)",
+      "![REVIEW: ${10:Movie Title (Year)}](/images/posts/${2}/image-1.jpg)",
       "",
       "$0"
     ]
   },
 
-  // Recap: category Recap, medium label plus Recap, with a score and optional verdict
+  // Recap: category Recap, medium label plus Recap, with a score and optional verdict.
+  // Year, length and genres are for the season being recapped (all optional).
   "CineInks Recap": {
     "prefix": "recap",
     "scope": "markdown",
@@ -44,15 +46,19 @@
       "  - Recap",
       "excerpt: \"${4:Opening hook, word for word.}\"",
       "coverImage: /images/posts/${2}/image-1.jpg",
+      "year: \"${5:2025}\"",
+      "length: \"${6:8 episodes}\"",
+      "genres: \"${7:Drama, Thriller}\"",
       "featured: false",
       "---",
-      "![RECAP: ${5:Show Season N}](/images/posts/${2}/image-1.jpg)",
+      "![RECAP: ${8:Show Season N}](/images/posts/${2}/image-1.jpg)",
       "",
       "$0"
     ]
   },
 
-  // Hall of Fame: medium label only, no score line
+  // Hall of Fame: medium label only, no score line.
+  // Year, length and genres are optional, like on reviews.
   "CineInks Hall of Fame": {
     "prefix": "hof",
     "scope": "markdown",
@@ -67,6 +73,9 @@
       "  - ${3|Movies,Series,Anime,KDrama|}",
       "excerpt: \"${4:Opening line, word for word.}\"",
       "coverImage: /images/posts/${2}/image-1.jpg",
+      "year: \"${5:2025}\"",
+      "length: \"${6:8 episodes}\"",
+      "genres: \"${7:Drama, Thriller}\"",
       "featured: false",
       "---",
       "![${1}](/images/posts/${2}/image-1.jpg)",
