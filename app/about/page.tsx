@@ -37,7 +37,7 @@ export default function AboutPage() {
         description="No fancy film degrees here. Just someone who watches far too many movies, series, anime and K-dramas, and has opinions about all of them."
       />
 
-      <section className="bg-page py-6 md:py-10">
+      <section className="bg-page pt-4 pb-6 md:pt-6 md:pb-10">
         <div className="max-w-225 mx-auto px-5">
           <div className="prose">
             <p>

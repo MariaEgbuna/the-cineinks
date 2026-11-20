@@ -7,7 +7,7 @@ type PageHeaderProps = {
 
 export default function PageHeader({ label, title, description, meta }: PageHeaderProps) {
   return (
-    <section className="bg-linear-to-b from-accent/10 to-transparent py-6 md:py-8">
+    <section className="bg-linear-to-b from-accent/10 to-transparent pt-6 pb-0 md:pt-8">
       <div className="max-w-225 mx-auto px-5">
         <p className="mb-1 font-mono text-xs font-medium uppercase tracking-wide text-accent">
           {label}

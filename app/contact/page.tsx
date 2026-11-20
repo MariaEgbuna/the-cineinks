@@ -36,7 +36,7 @@ export default function ContactPage() {
         description="Got a recommendation? Want to discuss a show, drop a hot take, or just make an enquiry?"
       />
 
-      <section className="bg-page py-6 md:py-10">
+      <section className="bg-page pt-4 pb-6 md:pt-6 md:pb-10">
         <div className="max-w-225 mx-auto px-5">
           <div className="grid grid-cols-1 gap-10 md:grid-cols-5 md:gap-12">
             {/* Left: intro and social links */}

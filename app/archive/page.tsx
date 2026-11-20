@@ -2,6 +2,16 @@ import ArticleCard from "../../components/ArticleCard";
 import Pagination from "../../components/Pagination";
 import { getAllPosts, formatDate } from "../../utils/posts";
 import { POSTS_PER_PAGE } from "../../utils/pagination";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "All Posts | The CineInks",
+  description:
+    "Browse every review, recap, and post on The CineInks: movies, series, anime and K-dramas, newest first.",
+  alternates: {
+    canonical: "/archive",
+  },
+};
 
 export default function ArchivePage() {
   const allPosts = getAllPosts();

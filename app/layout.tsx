@@ -93,6 +93,9 @@ export default function RootLayout({
         suppressHydrationWarning
       >
       <head>
+        {/* Runs before the page paints, so the saved theme is applied with
+            no flash. React 19 shows a dev-only console notice about this
+            tag; it is harmless and does not appear in production. */}
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
       <body>

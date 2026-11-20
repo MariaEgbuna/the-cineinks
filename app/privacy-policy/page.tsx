@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
         meta="Last updated: November 2026"
       />
 
-      <section className="bg-page py-6 md:py-10">
+      <section className="bg-page pt-4 pb-6 md:pt-6 md:pb-10">
         <div className="max-w-225 mx-auto px-5">
           {/* The short version, for people who won't read the whole page */}
           <aside className="mb-8 border-l-4 border-accent bg-card p-5 md:p-6">
