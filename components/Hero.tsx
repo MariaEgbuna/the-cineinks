@@ -33,9 +33,10 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
               />
             )}
-            <div className="absolute inset-0 bg-linear-to-t from-black/90 via-black/30 to-transparent" />
+            {/* Changed: a darker, taller fade on phones so the text stays
+                readable over bright cover art. Desktop keeps the old look. */}
+            <div className="absolute inset-0 bg-linear-to-t from-black/95 via-black/60 to-black/5 md:from-black/90 md:via-black/30 md:to-transparent" />
 
-            {/* Changed: round score badge */}
             {featuredPost.score !== null && (
               <ScoreBadge
                 score={featuredPost.score}
@@ -45,13 +46,17 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
             )}
 
             <div className="absolute inset-x-0 bottom-0 z-10 p-4 md:p-6">
-              <span className="mb-2 inline-block bg-teal px-2.5 py-1 font-mono text-[11px] uppercase tracking-wide text-teal-light rounded md:mb-3">
+              {/* Changed: text-cream instead of text-teal-light (about 5.7:1
+                  instead of 3:1 on the teal) */}
+              <span className="mb-2 inline-block bg-teal px-2.5 py-1 font-mono text-[11px] uppercase tracking-wide text-cream rounded md:mb-3">
                 {featuredPost.category}
               </span>
-              <h1 className="font-serif text-lg leading-snug text-cream line-clamp-3 md:text-4xl md:line-clamp-none">
+              {/* Changed: soft text shadow so letters never blend into the image */}
+              <h1 className="font-serif text-lg leading-snug text-cream line-clamp-3 [text-shadow:0_1px_4px_rgb(0_0_0/0.8)] md:text-4xl md:line-clamp-none">
                 {featuredPost.title}
               </h1>
-              <p className="mt-1.5 font-mono text-xs text-cream/70 md:mt-2 md:text-sm">
+              {/* Changed: full cream (was cream/70) plus the same shadow */}
+              <p className="mt-1.5 font-mono text-xs text-cream [text-shadow:0_1px_3px_rgb(0_0_0/0.8)] md:mt-2 md:text-sm">
                 {formatDate(featuredPost.date)}
               </p>
             </div>
@@ -90,15 +95,16 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
                 )}
               </div>
 
-              {/* Desktop only: the dark fade behind the tile text */}
-              <div className="absolute inset-0 hidden bg-linear-to-t from-black/85 via-black/20 to-transparent md:block" />
+              {/* Desktop only: the dark fade behind the tile text.
+                  Changed: slightly darker middle (via-black/35, was /20) */}
+              <div className="absolute inset-0 hidden bg-linear-to-t from-black/85 via-black/35 to-transparent md:block" />
 
               {/* Phone: text on the right. Desktop: text over the bottom of the tile. */}
               <div className="min-w-0 md:absolute md:inset-x-0 md:bottom-0 md:z-10 md:p-4">
                 <p className="mb-1 font-mono text-[11px] font-medium uppercase tracking-wide text-accent md:mb-0 md:text-teal-light">
                   {post.category}
                 </p>
-                <h2 className="font-serif text-sm leading-snug text-main line-clamp-4 transition-colors group-hover:text-accent md:mt-0.5 md:text-base md:text-cream md:line-clamp-3 md:group-hover:text-cream">
+                <h2 className="font-serif text-sm leading-snug text-main line-clamp-4 transition-colors group-hover:text-accent md:mt-0.5 md:text-base md:text-cream md:line-clamp-3 md:[text-shadow:0_1px_3px_rgb(0_0_0/0.8)] md:group-hover:text-cream">
                   {post.title}
                 </h2>
                 {/* Phones only: the date sits under the title */}

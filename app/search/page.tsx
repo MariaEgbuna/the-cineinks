@@ -97,9 +97,10 @@ export default async function SearchPage({ searchParams }: PageProps) {
               aria-label="Search posts"
               className="min-w-0 flex-1 border border-main/20 bg-card px-4 py-2.5 text-sm text-main outline-none focus:border-accent"
             />
+            {/* Changed: text-cream instead of text-teal-light */}
             <button
               type="submit"
-              className="bg-teal px-6 text-sm font-medium text-teal-light"
+              className="bg-teal px-6 text-sm font-medium text-cream"
             >
               Search
             </button>

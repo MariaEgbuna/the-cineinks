@@ -159,13 +159,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .prose :where(h2) {
-  margin-top: 1.5em;
-  margin-bottom: 0.6em;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.3;
 }
 
 .prose :where(h3) {
-  margin-top: 1.25em;
-  margin-bottom: 0.5em;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
 }
 
 .prose :where(p) {
@@ -217,7 +219,7 @@ h1, h2, h3, h4, h5, h6 {
 
   /* Lora for headings, Inter for body, Courier Prime as the
      typewriter accent (use the font-mono class where you want it) */
-  --font-serif: var(--font-lora), Georgia, 'Times New Roman', serif;
+  --font-serif: var(--font-lora), 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
   --font-sans: var(--font-inter), 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
   --font-mono: var(--font-courier-prime), 'Courier New', Courier, monospace;
 }

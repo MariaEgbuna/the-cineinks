@@ -100,9 +100,10 @@ export default function AboutPage() {
               Recommendations are always welcome, and so are disagreements.
             </p>
             <div className="flex flex-wrap gap-3">
+              {/* Changed: text-cream instead of text-teal-light */}
               <Link
                 href="/archive"
-                className="rounded bg-teal text-teal-light px-6 py-3 text-sm font-medium"
+                className="rounded bg-teal text-cream px-6 py-3 text-sm font-medium"
               >
                 Read the latest posts
               </Link>

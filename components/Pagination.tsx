@@ -92,8 +92,9 @@ export default function Pagination({
           key={page}
           href={hrefFor(page)}
           aria-current={page === currentPage ? "page" : undefined}
+          // Changed: text-cream instead of text-teal-light on the active page
           className={`${baseButton} ${
-            page === currentPage ? "bg-teal text-teal-light" : "bg-main/5 text-main/60"
+            page === currentPage ? "bg-teal text-cream" : "bg-main/5 text-main/60"
           }`}
         >
           {page}

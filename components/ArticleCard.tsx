@@ -41,7 +41,8 @@ export default function ArticleCard({
 
         {/* Desktop only: soft shade and category badge over the image */}
         <div className="absolute inset-x-0 bottom-0 hidden h-1/2 bg-linear-to-t from-black/50 to-transparent md:block" />
-        <span className="absolute bottom-2.5 left-2.5 hidden bg-teal text-teal-light font-mono text-[11px] uppercase tracking-wide px-2 py-1 rounded md:block">
+        {/* Changed: text-cream instead of text-teal-light */}
+        <span className="absolute bottom-2.5 left-2.5 hidden bg-teal text-cream font-mono text-[11px] uppercase tracking-wide px-2 py-1 rounded md:block">
           {category}
         </span>
 

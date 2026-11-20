@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Lora, Inter, Courier_Prime } from "next/font/google";
+import { Plus_Jakarta_Sans, Inter, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -7,9 +7,11 @@ import { SITE_URL } from "../utils/site";
 import { getSearchablePosts } from "../utils/posts";
 import { Analytics } from "@vercel/analytics/next";
 
-// Headings and titles: an editorial serif
-const lora = Lora({
+// Headings and titles: Plus Jakarta Sans, a sturdy geometric sans.
+// The variable name stays --font-lora so globals.css keeps working.
+const headingFont = Plus_Jakarta_Sans({
   subsets: ["latin"],
+  weight: ["500", "600", "700", "800"],
   variable: "--font-lora",
   display: "swap",
 });
@@ -22,9 +24,9 @@ const inter = Inter({
 });
 
 // Typewriter accent, only used where you add the font-mono class
-const courierPrime = Courier_Prime({
+const plexMono = IBM_Plex_Mono({
   subsets: ["latin"],
-  weight: ["400", "700"],
+  weight: ["400", "500", "600"],
   variable: "--font-courier-prime",
   display: "swap",
 });
@@ -89,7 +91,7 @@ export default function RootLayout({
     <html
         lang="en"
         data-scroll-behavior="smooth"
-        className={`${lora.variable} ${inter.variable} ${courierPrime.variable}`}
+        className={`${headingFont.variable} ${inter.variable} ${plexMono.variable}`}
         suppressHydrationWarning
       >
       <head>
@@ -103,7 +105,7 @@ export default function RootLayout({
             lets them jump past the header straight to the page content. */}
         <a
           href="#main-content"
-          className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-100 focus:rounded focus:bg-teal focus:px-4 focus:py-2 focus:text-sm focus:font-medium focus:text-teal-light"
+          className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-100 focus:rounded focus:bg-teal focus:px-4 focus:py-2 focus:text-sm focus:font-medium focus:text-cream"
         >
           Skip to content
         </a>

@@ -20,7 +20,7 @@ export default function NotFound() {
         <div className="flex flex-wrap justify-center gap-3">
           <Link
             href="/"
-            className="rounded bg-teal text-teal-light px-6 py-3 text-sm font-medium"
+            className="rounded bg-teal text-cream px-6 py-3 text-sm font-medium"
           >
             Back home
           </Link>

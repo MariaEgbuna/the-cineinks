@@ -102,10 +102,11 @@ export default function ContactForm() {
         />
       </div>
 
+      {/* Changed: text-cream instead of text-teal-light */}
       <button
         type="submit"
         disabled={status === "sending"}
-        className="rounded bg-teal text-teal-light px-8 py-3 text-sm font-medium disabled:opacity-60"
+        className="rounded bg-teal text-cream px-8 py-3 text-sm font-medium disabled:opacity-60"
       >
         {status === "sending" ? "Sending..." : "Send Message"}
       </button>

@@ -39,7 +39,8 @@ export default function CategorySection({ title, href, posts }: CategorySectionP
 
               {/* Desktop only: soft shade and category badge over the image */}
               <div className="absolute inset-x-0 bottom-0 hidden h-1/2 bg-linear-to-t from-black/50 to-transparent md:block" />
-              <span className="absolute bottom-2.5 left-2.5 hidden rounded bg-teal px-2 py-1 font-mono text-[11px] uppercase tracking-wide text-teal-light md:block">
+              {/* Changed: text-cream instead of text-teal-light */}
+              <span className="absolute bottom-2.5 left-2.5 hidden rounded bg-teal px-2 py-1 font-mono text-[11px] uppercase tracking-wide text-cream md:block">
                 {post.category}
               </span>
 
