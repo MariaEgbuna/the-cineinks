@@ -4,7 +4,6 @@ import Hero from "../components/Hero";
 import CategorySection from "../components/CategorySection";
 import SectionHeading from "../components/SectionHeading";
 import ScoreBadge from "../components/ScoreBadge";
-import ArticleRow from "../components/ArticleRow";
 import { getAllPosts, getFeaturedPost, formatDate } from "../utils/posts";
 import { categories } from "../utils/categories";
 import type { Post } from "../utils/posts";
@@ -35,9 +34,11 @@ function SpotlightCard({ post }: { post: Post }) {
         <h3 className="font-serif text-sm leading-snug text-main line-clamp-3 transition-colors group-hover:text-accent md:text-base">
           {post.title}
         </h3>
-        <p className="mt-1.5 hidden text-sm leading-relaxed text-main/60 line-clamp-3 sm:block">
-          {post.excerpt}
-        </p>
+        {post.excerpt && (
+          <p className="mt-1.5 text-[0.8125rem] leading-relaxed text-main/60 line-clamp-2 md:text-sm md:line-clamp-3">
+            {post.excerpt}
+          </p>
+        )}
         <p className="mt-1.5 font-mono text-xs text-muted">{formatDate(post.date)}</p>
       </div>
     </Link>
@@ -72,7 +73,7 @@ export default function Home() {
 
   const spotlight = available.filter((post) => hasLabel(post, "Spotlight")).slice(0, 3);
 
-  const extras = available.filter((post) => hasLabel(post, "Extra")).slice(0, 4);
+  const extras = available.filter((post) => hasLabel(post, "Extra")).slice(0, 6);
 
   // The four mediums, shown as quick links to their category pages
   const mediums = categories.filter((c) => c.isMainType);
@@ -155,25 +156,30 @@ export default function Home() {
             </section>
           )}
 
+          {/* Extras: a plain text list, no images. One column on phones;
+              on desktop two columns that read down the left, then the right. */}
           {extras.length > 0 && (
             <section>
               <SectionHeading title="Extras" href="/category/extra" />
-              <div className="grid grid-cols-1 gap-x-12 gap-y-5 md:grid-cols-2">
+              <ul className="grid grid-cols-1 gap-x-12 md:grid-flow-col md:grid-cols-2 md:grid-rows-3">
                 {extras.map((post) => (
-                  <div key={post.slug} className="border-b border-line pb-5">
-                    <ArticleRow
-                      slug={post.slug}
-                      coverImage={post.coverImage}
-                      category={post.category}
-                      score={post.score}
-                      title={post.title}
-                      excerpt={post.excerpt}
-                      date={formatDate(post.date)}
-                      compact
-                    />
-                  </div>
+                  <li key={post.slug}>
+                    <Link
+                      href={`/posts/${post.slug}`}
+                      className="group block border-b border-line py-3.5"
+                    >
+                      <p className="mb-1 flex items-center gap-2 font-mono text-[11px] uppercase tracking-wide">
+                        <span className="font-medium text-accent">{post.category}</span>
+                        <span aria-hidden="true" className="text-muted">•</span>
+                        <span className="text-muted">{formatDate(post.date)}</span>
+                      </p>
+                      <h3 className="font-serif text-sm leading-snug text-main transition-colors group-hover:text-accent md:text-base">
+                        {post.title}
+                      </h3>
+                    </Link>
+                  </li>
                 ))}
-              </div>
+              </ul>
             </section>
           )}
         </div>
