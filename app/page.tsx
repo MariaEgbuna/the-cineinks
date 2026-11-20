@@ -89,7 +89,7 @@ export default function Home() {
             <SectionHeading
               title="Top Rated"
               href="/stats"
-              linkLabel="My Stats"
+              linkLabel="My stats"
             />
             {/* One column on phones. On desktop, two columns that read
                 down the left (1 to 3) and then down the right (4 and 5). */}
@@ -120,21 +120,23 @@ export default function Home() {
         </section>
       )}
 
-      {/* Browse by medium */}
+      {/* Browse by medium: the label on its own line, the pills below */}
       <section className="bg-page pb-8 md:pb-10">
-        <div className="max-w-[1600px] mx-auto px-5 flex flex-wrap items-center gap-2">
-          <span className="mr-1 font-mono text-xs uppercase tracking-wide text-muted">
-            Browse by
-          </span>
-          {mediums.map((medium) => (
-            <Link
-              key={medium.slug}
-              href={`/category/${medium.slug}`}
-              className="rounded border border-main/20 px-3 py-1 text-sm text-main/80 transition-colors hover:border-accent hover:text-accent"
-            >
-              {medium.label}
-            </Link>
-          ))}
+        <div className="max-w-[1600px] mx-auto px-5">
+          <p className="mb-3 font-mono text-xs font-medium uppercase tracking-wide text-muted">
+            Browse By:
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {mediums.map((medium) => (
+              <Link
+                key={medium.slug}
+                href={`/category/${medium.slug}`}
+                className="rounded-full border border-main/20 px-4 py-1.5 text-sm text-main/80 transition-colors hover:border-accent hover:text-accent"
+              >
+                {medium.label}
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 
