@@ -16,6 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/about`, lastModified: new Date() },
     { url: `${SITE_URL}/contact`, lastModified: new Date() },
     { url: `${SITE_URL}/privacy-policy`, lastModified: new Date() },
+    { url: `${SITE_URL}/reviews`, lastModified: new Date() },
   ];
 
   const postPages: MetadataRoute.Sitemap = posts.map((post) => ({

@@ -6,14 +6,8 @@ import SectionHeading from "../components/SectionHeading";
 import ScoreBadge from "../components/ScoreBadge";
 import { getAllPosts, getFeaturedPost, formatDate } from "../utils/posts";
 import { categories } from "../utils/categories";
+import { hasLabel, isReview } from "../utils/reviews";
 import type { Post } from "../utils/posts";
-
-// Posts carrying any of these labels are not counted as reviews
-const NON_REVIEW_LABELS = ["recap", "list", "spotlight", "extra"];
-
-function hasLabel(post: Post, label: string): boolean {
-  return post.labels?.some((l) => l.toLowerCase() === label.toLowerCase()) ?? false;
-}
 
 // A portrait thumbnail with the text beside it, for Spotlight posts
 function SpotlightCard({ post }: { post: Post }) {
@@ -67,9 +61,8 @@ export default function Home() {
 
   const available = allPosts.filter((post) => !heroSlugs.has(post.slug));
 
-  const reviews = available
-    .filter((post) => !NON_REVIEW_LABELS.some((label) => hasLabel(post, label)))
-    .slice(0, 4);
+  // The same rule the /reviews page uses (see utils/reviews.ts)
+  const reviews = available.filter(isReview).slice(0, 4);
 
   const spotlight = available.filter((post) => hasLabel(post, "Spotlight")).slice(0, 3);
 
@@ -144,7 +137,7 @@ export default function Home() {
       <section className="bg-page pb-8 md:pb-12">
         <div className="max-w-[1600px] mx-auto px-5 flex flex-col gap-12 md:gap-16">
           {reviews.length > 0 && (
-            <CategorySection title="Reviews" href="/archive" posts={reviews} />
+            <CategorySection title="Reviews" href="/reviews" posts={reviews} />
           )}
 
           {spotlight.length > 0 && (
