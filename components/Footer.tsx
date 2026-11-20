@@ -14,6 +14,9 @@ export default function Footer() {
               <Link href="/contact" className="text-sm text-main/60">
                 Contact
               </Link>
+              <Link href="/stats" className="text-sm text-main/60">
+                By the Numbers
+              </Link>
               <Link href="/privacy-policy" className="text-sm text-main/60">
                 Privacy Policy
               </Link>
