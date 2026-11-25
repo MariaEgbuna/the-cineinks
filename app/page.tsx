@@ -51,7 +51,7 @@ export default function Home() {
 
   const remainingPosts = allPosts.filter((post) => post.slug !== featuredPost.slug);
 
-  const recentlyWatched = remainingPosts.slice(0, 3);
+  const recentlyWatched = remainingPosts.slice(0, 4);
 
   // Everything already shown in the hero, so the sections below skip it
   const heroSlugs = new Set([
