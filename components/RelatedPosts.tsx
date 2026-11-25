@@ -12,11 +12,15 @@ type RelatedPostsProps = {
   limit?: number;
 };
 
+// timeZone: "UTC" keeps the date the same as the post page shows, no matter
+// where the visitor is. Dates are stored as midnight UTC, so without this a
+// visitor in the US would see the day before.
 function formatDate(date: string): string {
   return new Date(date).toLocaleDateString("en-US", {
     month: "short",
     day: "numeric",
     year: "numeric",
+    timeZone: "UTC",
   });
 }
 
