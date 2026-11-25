@@ -3,6 +3,7 @@ import ArticleCard from "../../../components/ArticleCard";
 import Pagination from "../../../components/Pagination";
 import { getAllPosts, formatDate } from "../../../utils/posts";
 import { POSTS_PER_PAGE } from "../../../utils/pagination";
+import { pageAlternates } from "../../../utils/seo";
 import type { Metadata } from "next";
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
@@ -11,6 +12,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: `All Posts - Page ${page} | The CineInks`,
     description: "Browse every review, recap, and post on The CineInks.",
+    alternates: pageAlternates(`/archive/${page}`),
   };
 }
 

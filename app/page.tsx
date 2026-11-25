@@ -7,7 +7,13 @@ import ScoreBadge from "../components/ScoreBadge";
 import { getAllPosts, getFeaturedPost, formatDate } from "../utils/posts";
 import { categories } from "../utils/categories";
 import { hasLabel, isReview } from "../utils/reviews";
+import { pageAlternates } from "../utils/seo";
 import type { Post } from "../utils/posts";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  alternates: pageAlternates("/"),
+};
 
 // A portrait thumbnail with the text beside it, for Spotlight posts
 function SpotlightCard({ post }: { post: Post }) {

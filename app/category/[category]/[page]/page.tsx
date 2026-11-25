@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import CategoryListing from "../../../../components/CategoryListing";
 import { categories } from "../../../../utils/categories";
 import { getCategoryTotalPages } from "../../../../utils/categoryPosts";
+import { pageAlternates } from "../../../../utils/seo";
 import type { Metadata } from "next";
 
 type PageProps = {
@@ -19,6 +20,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: `${category.label} - Page ${page} | The CineInks`,
     description: `${category.label} reviews and posts from The CineInks, page ${page}.`,
+    alternates: pageAlternates(`/category/${category.slug}/${page}`),
   };
 }
 

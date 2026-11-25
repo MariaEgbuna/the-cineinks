@@ -3,6 +3,7 @@ import Pagination from "../../components/Pagination";
 import { formatDate } from "../../utils/posts";
 import { getReviewPosts } from "../../utils/reviews";
 import { POSTS_PER_PAGE } from "../../utils/pagination";
+import { pageAlternates } from "../../utils/seo";
 import type { Metadata } from "next";
 
 type PageProps = {
@@ -17,13 +18,22 @@ function getPageNumber(page: string | string[] | undefined): number {
 
 export async function generateMetadata({ searchParams }: PageProps): Promise<Metadata> {
   const { page } = await searchParams;
-  const pageNumber = getPageNumber(page);
+
+  // Same fallback the page uses: a number that is too high becomes the last page
+  const totalPages = Math.max(
+    1,
+    Math.ceil(getReviewPosts().length / POSTS_PER_PAGE)
+  );
+  const pageNumber = Math.min(getPageNumber(page), totalPages);
   const suffix = pageNumber > 1 ? ` - Page ${pageNumber}` : "";
 
   return {
     title: `Reviews${suffix} | The CineInks`,
     description:
       "Every review and quick take on The CineInks: movies, series, anime and K-dramas, newest first.",
+    alternates: pageAlternates(
+      pageNumber > 1 ? `/reviews?page=${pageNumber}` : "/reviews"
+    ),
   };
 }
 

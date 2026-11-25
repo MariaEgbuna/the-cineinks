@@ -12,6 +12,7 @@ import {
 import { scoreTone } from "../../../utils/scoreColor";
 import { Metadata } from "next";
 import { SITE_URL } from "../../../utils/site";
+import { pageAlternates } from "../../../utils/seo";
 import MarkdownImage from "../../../components/MarkdownImage";
 import RelatedPosts from "../../../components/RelatedPosts";
 import ReadingProgress from "../../../components/ReadingProgress";
@@ -45,6 +46,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: `${post.title} | The CineInks`,
     description: post.excerpt,
+    alternates: pageAlternates(`/posts/${post.slug}`),
     openGraph: {
       title: post.title,
       description: post.excerpt,
