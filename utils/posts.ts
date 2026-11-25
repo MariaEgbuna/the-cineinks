@@ -38,6 +38,16 @@ function cleanString(value: unknown): string {
   return typeof value === "string" ? value.trim() : "";
 }
 
+// gray-matter turns an unquoted front matter date (date: 2026-11-14) into a
+// Date object, even though the rest of the site treats dates as strings.
+// Convert it to an ISO string here so every page gets the same thing.
+function cleanDate(value: unknown): string {
+  if (value instanceof Date) {
+    return Number.isNaN(value.getTime()) ? "" : value.toISOString();
+  }
+  return typeof value === "string" ? value.trim() : "";
+}
+
 // Genres can be written as plain text ("Horror, Comedy") or as a list
 // (["Horror", "Comedy"]). Either way they end up as one string.
 function cleanGenres(value: unknown): string {
@@ -67,6 +77,7 @@ export function getAllPosts(): Post[] {
     return {
       ...data,
       content,
+      date: cleanDate(data.date),
       score,
       coverImage,
       verdict: cleanString(data.verdict),

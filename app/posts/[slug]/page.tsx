@@ -14,6 +14,13 @@ import ShareButtons from "../../../components/ShareButtons";
 
 type MarkdownImageComponent = React.ComponentType<React.ImgHTMLAttributes<HTMLImageElement>>;
 
+// Turns whatever the date is (text or a Date object) into an ISO string like
+// 2026-11-14T00:00:00.000Z, or undefined if it isn't a real date.
+function toIsoDate(date: unknown): string | undefined {
+  const parsed = new Date(date as string);
+  return Number.isNaN(parsed.getTime()) ? undefined : parsed.toISOString();
+}
+
 export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
 }
@@ -38,7 +45,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: post.excerpt,
       url: `/posts/${post.slug}`,
       type: "article",
-      publishedTime: post.date,
+      publishedTime: toIsoDate(post.date),
       images: post.coverImage ? [{ url: post.coverImage }] : [],
     },
     twitter: {
@@ -102,7 +109,7 @@ export default async function PostPage({ params }: PageProps) {
           "@type": "Person",
           name: "The CineInks",
         },
-        datePublished: post.date,
+        datePublished: toIsoDate(post.date),
         url: postUrl,
       }
     : null;
