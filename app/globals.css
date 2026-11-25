@@ -99,11 +99,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Changed: headings inside prose use the same sizes as the section
-   headings elsewhere on the site (text-xl / md:text-2xl, and text-base / text-lg) */
+/* Changed: headings inside prose are defined once, here. The same size
+   on phones and desktop (h2 1.25rem, h3 1rem), both semi-bold. */
 .prose :where(h2) {
   font-size: 1.25rem;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.3;
 }
 
@@ -111,16 +111,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1rem;
   font-weight: 600;
   line-height: 1.4;
-}
-
-@media (min-width: 768px) {
-  .prose :where(h2) {
-    font-size: 1.5rem;
-  }
-
-  .prose :where(h3) {
-    font-size: 1.125rem;
-  }
 }
 
 .prose img {
@@ -156,18 +146,6 @@ h1, h2, h3, h4, h5, h6 {
 .prose :where(hr) {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
-}
-
-.prose :where(h2) {
-  font-size: 1.25rem;
-  font-weight: 600;
-  line-height: 1.3;
-}
-
-.prose :where(h3) {
-  font-size: 1rem;
-  font-weight: 600;
-  line-height: 1.4;
 }
 
 .prose :where(p) {

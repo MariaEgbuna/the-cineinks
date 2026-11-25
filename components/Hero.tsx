@@ -24,9 +24,10 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
             className="group relative aspect-4/3 overflow-hidden bg-main/5 animate-fade-up transition-shadow hover:ring-2 ring-accent md:col-span-2 md:row-span-2 md:aspect-auto"
           >
             {featuredPost.coverImage && (
+              // alt="" because the title is written on top of the image
               <Image
                 src={featuredPost.coverImage}
-                alt={featuredPost.title}
+                alt=""
                 fill
                 sizes="(min-width: 768px) 50vw, 100vw"
                 priority
@@ -79,9 +80,10 @@ export default function Hero({ featuredPost, recentlyWatched }: HeroProps) {
                   Desktop: fills the whole tile as the background. */}
               <div className="relative aspect-4/3 w-28 shrink-0 overflow-hidden bg-main/10 md:absolute md:inset-0 md:aspect-auto md:w-auto md:bg-transparent">
                 {post.coverImage && (
+                  // alt="" because the title is written next to the image
                   <Image
                     src={post.coverImage}
-                    alt={post.title}
+                    alt=""
                     fill
                     sizes="(min-width: 768px) 25vw, 112px"
                     className="object-cover transition-transform duration-700 group-hover:scale-105 md:group-hover:scale-110"

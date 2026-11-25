@@ -32,12 +32,13 @@ export async function GET() {
     .join("");
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The CineInks</title>
     <link>${SITE_URL}</link>
     <description>No fancy film degrees here. Just honest takes on what I'm watching or have watched.</description>
-    <language>en-us</language>${items}
+    <language>en-us</language>
+    <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />${items}
   </channel>
 </rss>`;
 

@@ -52,9 +52,10 @@ export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProp
             >
               <div className="relative aspect-4/3 w-28 shrink-0 overflow-hidden bg-line sm:w-40">
                 {related.coverImage && (
+                  // alt="" because the title is written next to the image
                   <Image
                     src={related.coverImage}
-                    alt={related.title}
+                    alt=""
                     fill
                     sizes="(min-width: 640px) 160px, 112px"
                     className="object-cover transition-transform duration-500 group-hover:scale-105"

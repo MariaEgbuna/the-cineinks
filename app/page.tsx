@@ -21,9 +21,10 @@ function SpotlightCard({ post }: { post: Post }) {
     <Link href={`/posts/${post.slug}`} className="group flex items-start gap-3 md:gap-4">
       <div className="relative aspect-3/4 w-28 shrink-0 overflow-hidden bg-line md:w-2/5">
         {post.coverImage && (
+          // alt="" because the title is written next to the image
           <Image
             src={post.coverImage}
-            alt={post.title}
+            alt=""
             fill
             sizes="(min-width: 768px) 14vw, 112px"
             className="object-cover transition-transform duration-500 group-hover:scale-105"

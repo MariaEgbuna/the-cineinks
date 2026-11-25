@@ -30,9 +30,11 @@ export default function ArticleCard({
     >
       <div className="relative bg-line aspect-4/3 w-28 shrink-0 overflow-hidden sm:w-40 md:w-full">
         {coverImage && (
+          // alt="" because the title is written right next to the image,
+          // so a screen reader would otherwise read it twice.
           <Image
             src={coverImage}
-            alt={title}
+            alt=""
             fill
             sizes="(min-width: 768px) 33vw, (min-width: 640px) 160px, 112px"
             className="object-cover transition-transform duration-500 group-hover:scale-105"

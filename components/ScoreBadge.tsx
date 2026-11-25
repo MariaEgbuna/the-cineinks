@@ -15,6 +15,7 @@ const sizes = {
 export default function ScoreBadge({ score, size = "card", className = "" }: ScoreBadgeProps) {
   return (
     <span
+      role="img"
       aria-label={`Rated ${score.toFixed(1)} out of 10`}
       className={`inline-flex shrink-0 items-center justify-center rounded-full border-2 font-medium shadow-sm ${scoreColor(
         score

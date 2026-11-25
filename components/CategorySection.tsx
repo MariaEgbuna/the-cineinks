@@ -28,9 +28,10 @@ export default function CategorySection({ title, href, posts }: CategorySectionP
           >
             <div className="relative aspect-4/3 w-full overflow-hidden bg-line">
               {post.coverImage && (
+                // alt="" because the title is written right under the image
                 <Image
                   src={post.coverImage}
-                  alt={post.title}
+                  alt=""
                   fill
                   sizes="(min-width: 768px) 25vw, (min-width: 640px) 45vw, 68vw"
                   className="object-cover transition-transform duration-500 group-hover:scale-105"

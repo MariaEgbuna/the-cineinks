@@ -31,9 +31,10 @@ export default function ArticleRow({
         }`}
       >
         {coverImage && (
+          // alt="" because the title is written right next to the image
           <Image
             src={coverImage}
-            alt={title}
+            alt=""
             fill
             sizes={compact ? "112px" : "(min-width: 640px) 208px, 144px"}
             className="object-cover transition-transform duration-500 group-hover:scale-105"
