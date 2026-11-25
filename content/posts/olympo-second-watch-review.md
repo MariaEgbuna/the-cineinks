@@ -6,14 +6,12 @@ category: "Review"
 labels: ["Series"]
 score: 6.7
 verdict: "Worth a casual watch."
-excerpt: "Rewatching Netflix's cancelled teen sports drama Olympo exposes repetitive writing and weak athletics, despite standout acting from Clara Galle and Agustín Della Corte."
+excerpt: "Rewatching Olympo is a reminder of how quickly initial binge-watch adrenaline can hide a show's biggest flaws."
 coverImage: "/images/posts/olympo-second-watch-review/cover-image.jpg"
 year: "2025"
 length: "8 episodes"
 genres: "Sports, Thriller"
 ---
-
-Rewatching *Olympo* is a reminder of how quickly initial binge-watch adrenaline can hide a show's biggest flaws.
 
 Streaming on Netflix, this Spanish drama was created by Jan Matheu, Laia Foguet, and Ibai Abad, and directed by Marçal Forès, Daniel Barone, Ibai Abad, and Ana Vázquez. The series stars Clara Galle, Agustín Della Corte, Nira Osahia, Nuno Gallego, María Romanillos, and Juan Perales.
 
