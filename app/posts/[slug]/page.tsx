@@ -3,7 +3,12 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { getAllPosts, getPostBySlug, getRelatedPosts } from "../../../utils/posts";
+import {
+  getAllPosts,
+  getPostBySlug,
+  getRelatedPosts,
+  toRelatedPost,
+} from "../../../utils/posts";
 import { scoreTone } from "../../../utils/scoreColor";
 import { Metadata } from "next";
 import { SITE_URL } from "../../../utils/site";
@@ -64,7 +69,9 @@ export default async function PostPage({ params }: PageProps) {
   if (!post) notFound();
 
   const allPosts = getAllPosts();
-  const relatedCandidates = getRelatedPosts(post, allPosts);
+  // Trimmed to the few fields the list shows, so no article text is sent
+  // to the browser along with it.
+  const relatedCandidates = getRelatedPosts(post, allPosts).map(toRelatedPost);
 
   const postUrl = `${SITE_URL}/posts/${post.slug}`;
 

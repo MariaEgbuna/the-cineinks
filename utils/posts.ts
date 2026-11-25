@@ -31,6 +31,24 @@ export type SearchablePost = {
   excerpt: string;
 };
 
+// Only what the Related Posts list displays. No article text, so it stays
+// small when it is sent to the browser.
+export type RelatedPost = Pick<
+  Post,
+  "slug" | "title" | "coverImage" | "category" | "score" | "date"
+>;
+
+export function toRelatedPost(post: Post): RelatedPost {
+  return {
+    slug: post.slug,
+    title: post.title,
+    coverImage: post.coverImage,
+    category: post.category,
+    score: post.score,
+    date: post.date,
+  };
+}
+
 // Decap skips optional fields left blank, and a hand-typed year can come
 // through as a number, so every optional text field is cleaned in one place.
 function cleanString(value: unknown): string {

@@ -5,10 +5,10 @@ import Image from "next/image";
 import Link from "next/link";
 import SectionHeading from "./SectionHeading";
 import ScoreBadge from "./ScoreBadge";
-import type { Post } from "../utils/posts";
+import type { RelatedPost } from "../utils/posts";
 
 type RelatedPostsProps = {
-  candidates: Post[];
+  candidates: RelatedPost[];
   limit?: number;
 };
 
@@ -21,7 +21,7 @@ function formatDate(date: string): string {
 }
 
 export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProps) {
-  const [selected, setSelected] = useState<Post[] | null>(null);
+  const [selected, setSelected] = useState<RelatedPost[] | null>(null);
 
   useEffect(() => {
     const shuffled = [...candidates];
