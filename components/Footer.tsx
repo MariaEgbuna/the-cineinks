@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { socials } from "./socials";
 
 export default function Footer() {
   return (
@@ -33,30 +34,18 @@ export default function Footer() {
               No fancy film degrees here, just honest takes. Follow along.
             </p>
             <div className="flex gap-4">
-              <a
-                href="https://www.instagram.com/thecineinks/"
-                target="_blank"
-                rel="noopener"
-                aria-label="Instagram"
-                className="text-main/60"
-              >
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <rect x="3" y="3" width="18" height="18" rx="5" />
-                  <circle cx="12" cy="12" r="4" />
-                  <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
-                </svg>
-              </a>
-              <a
-                href="https://x.com/eagercricket"
-                target="_blank"
-                rel="noopener"
-                aria-label="Twitter"
-                className="text-main/60"
-              >
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
-                </svg>
-              </a>
+              {socials.map(({ name, href, Icon }) => (
+                <a
+                  key={name}
+                  href={href}
+                  target="_blank"
+                  rel="noopener"
+                  aria-label={name}
+                  className="text-main/60"
+                >
+                  <Icon />
+                </a>
+              ))}
               <a href="/feed.xml" aria-label="RSS feed" className="text-main/60">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
                   <path d="M4 11a9 9 0 0 1 9 9" />

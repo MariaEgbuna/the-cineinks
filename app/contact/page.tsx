@@ -1,31 +1,16 @@
 import Link from "next/link";
 import ContactForm from "../../components/ContactForm";
 import PageHeader from "../../components/PageHeader";
+import { socials } from "../../components/socials";
+import { pageAlternates } from "../../utils/seo";
+import type { Metadata } from "next";
 
-const socials = [
-  {
-    name: "Instagram",
-    handle: "@thecineinks",
-    href: "https://www.instagram.com/thecineinks/",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
-        <rect x="3" y="3" width="18" height="18" rx="5" />
-        <circle cx="12" cy="12" r="4" />
-        <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
-      </svg>
-    ),
-  },
-  {
-    name: "X (Twitter)",
-    handle: "@eagercricket",
-    href: "https://x.com/eagercricket",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-        <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
-      </svg>
-    ),
-  },
-];
+export const metadata: Metadata = {
+  title: "Contact | The CineInks",
+  description:
+    "Get in touch with The CineInks: send a recommendation, a hot take or an enquiry, or find me on Instagram and X.",
+  alternates: pageAlternates("/contact"),
+};
 
 export default function ContactPage() {
   return (
@@ -50,22 +35,22 @@ export default function ContactPage() {
                 Or find me on
               </p>
               <div className="flex flex-col gap-3">
-                {socials.map((social) => (
+                {socials.map(({ name, handle, href, Icon }) => (
                   <a
-                    key={social.name}
-                    href={social.href}
+                    key={name}
+                    href={href}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group flex items-center gap-3 border border-line bg-card p-4 transition-colors hover:border-accent"
                   >
-                    <span className="text-accent">{social.icon}</span>
+                    <span className="text-accent">
+                      <Icon size={20} />
+                    </span>
                     <span>
                       <span className="block text-sm font-medium text-main">
-                        {social.name}
+                        {name}
                       </span>
-                      <span className="block text-xs text-muted">
-                        {social.handle}
-                      </span>
+                      <span className="block text-xs text-muted">{handle}</span>
                     </span>
                   </a>
                 ))}

@@ -1,18 +1,16 @@
-import Link from "next/link";
 import PageHeader from "../../components/PageHeader";
 import SectionHeading from "../../components/SectionHeading";
-import ScoreBadge from "../../components/ScoreBadge";
+import RankedList from "../../components/RankedList";
 import { getAllPosts } from "../../utils/posts";
 import { categories } from "../../utils/categories";
+import { pageAlternates } from "../../utils/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "By the Numbers | The CineInks",
   description:
     "My watching in numbers: how many posts, my average score, which categories I rate highest, and my top and lowest rated picks.",
-  alternates: {
-    canonical: "/stats",
-  },
+  alternates: pageAlternates("/stats"),
 };
 
 // The same four mediums the home page sections use
@@ -210,59 +208,8 @@ export default function StatsPage() {
             </div>
           )}
 
-          {/* Top rated */}
-          {topFive.length > 0 && (
-            <div>
-              <SectionHeading title="Highest rated" />
-              <ol className="flex flex-col gap-4">
-                {topFive.map((post) => (
-                  <li key={post.slug}>
-                    <Link
-                      href={`/posts/${post.slug}`}
-                      className="group flex items-center gap-4 border-b border-line pb-4"
-                    >
-                      <span className="min-w-0 flex-1">
-                        <span className="block text-sm text-main leading-snug transition-colors group-hover:text-accent md:text-base">
-                          {post.title}
-                        </span>
-                        <span className="font-mono text-[11px] uppercase tracking-wide text-muted">
-                          {post.category}
-                        </span>
-                      </span>
-                      <ScoreBadge score={post.score ?? 0} size="row" />
-                    </Link>
-                  </li>
-                ))}
-              </ol>
-            </div>
-          )}
-
-          {/* Lowest rated */}
-          {lowestFive.length > 0 && (
-            <div>
-              <SectionHeading title="Lowest rated" />
-              <ol className="flex flex-col gap-4">
-                {lowestFive.map((post) => (
-                  <li key={post.slug}>
-                    <Link
-                      href={`/posts/${post.slug}`}
-                      className="group flex items-center gap-4 border-b border-line pb-4"
-                    >
-                      <span className="min-w-0 flex-1">
-                        <span className="block text-sm text-main leading-snug transition-colors group-hover:text-accent md:text-base">
-                          {post.title}
-                        </span>
-                        <span className="font-mono text-[11px] uppercase tracking-wide text-muted">
-                          {post.category}
-                        </span>
-                      </span>
-                      <ScoreBadge score={post.score ?? 0} size="row" />
-                    </Link>
-                  </li>
-                ))}
-              </ol>
-            </div>
-          )}
+          <RankedList title="Highest rated" posts={topFive} />
+          <RankedList title="Lowest rated" posts={lowestFive} />
         </div>
       </section>
     </main>

@@ -3,6 +3,9 @@ import path from "path";
 import matter from "gray-matter";
 import { categories } from "./categories";
 
+// Lives in its own file so browser components can use it too
+export { formatDate } from "./formatDate";
+
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
 
 export type Post = {
@@ -116,14 +119,6 @@ export function getFeaturedPost(posts: Post[]): Post {
 
 export function getPostBySlug(slug: string): Post | undefined {
   return getAllPosts().find((post) => post.slug === slug);
-}
-
-export function formatDate(date: string): string {
-  return new Date(date).toLocaleDateString("en-US", {
-    month: "short",
-    day: "numeric",
-    year: "numeric",
-  });
 }
 
 function getMatchingLabel(post: Post): string | undefined {

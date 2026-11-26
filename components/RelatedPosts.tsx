@@ -5,24 +5,13 @@ import Image from "next/image";
 import Link from "next/link";
 import SectionHeading from "./SectionHeading";
 import ScoreBadge from "./ScoreBadge";
+import { formatDate } from "../utils/formatDate";
 import type { RelatedPost } from "../utils/posts";
 
 type RelatedPostsProps = {
   candidates: RelatedPost[];
   limit?: number;
 };
-
-// timeZone: "UTC" keeps the date the same as the post page shows, no matter
-// where the visitor is. Dates are stored as midnight UTC, so without this a
-// visitor in the US would see the day before.
-function formatDate(date: string): string {
-  return new Date(date).toLocaleDateString("en-US", {
-    month: "short",
-    day: "numeric",
-    year: "numeric",
-    timeZone: "UTC",
-  });
-}
 
 export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProps) {
   const [selected, setSelected] = useState<RelatedPost[] | null>(null);

@@ -1,5 +1,14 @@
 import Link from "next/link";
 import PageHeader from "../../components/PageHeader";
+import { pageAlternates } from "../../utils/seo";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Privacy Policy | The CineInks",
+  description:
+    "What data The CineInks collects, how the contact form and analytics work, and how your information is used.",
+  alternates: pageAlternates("/privacy-policy"),
+};
 
 const summary = [
   "No cookies, and no advertising.",

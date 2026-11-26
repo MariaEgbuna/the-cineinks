@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState, useSyncExternalStore, type ReactNode } from "react";
+import { XIcon } from "./socials";
 
 type ShareButtonsProps = {
   url: string;
@@ -124,9 +125,7 @@ export default function ShareButtons({ url, title, image }: ShareButtonsProps) {
           href={`https://x.com/intent/post?text=${encodedTitle}&url=${encodedUrl}`}
           label="Share on X"
         >
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-            <path d="M18.9 2H22l-7.6 8.7L23.3 22H16.6l-5.3-6.9L5.2 22H2l8.1-9.3L1 2h6.9l4.8 6.3L18.9 2zm-1.2 18h1.7L7.4 4H5.6l12.1 16z" />
-          </svg>
+          <XIcon />
         </ShareLink>
 
         <ShareLink
