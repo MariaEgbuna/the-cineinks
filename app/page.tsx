@@ -192,9 +192,15 @@ export default function Home() {
         <div className="max-w-[1600px] mx-auto px-5 text-center">
           <Link
             href="/archive"
-            className="border-b border-main/20 pb-0.5 text-sm text-main/60 transition-colors hover:border-accent hover:text-accent"
+            className="group inline-flex items-center gap-2 rounded bg-teal px-6 py-3 text-sm font-semibold text-cream transition-opacity hover:opacity-90"
           >
-            View all posts →
+            View all posts
+            <span
+              aria-hidden="true"
+              className="transition-transform group-hover:translate-x-0.5"
+            >
+              →
+            </span>
           </Link>
         </div>
       </section>
