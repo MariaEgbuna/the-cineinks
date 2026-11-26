@@ -1,4 +1,5 @@
-import ReviewsListing from "../../components/ReviewsListing";
+import PostListing from "../../components/PostListing";
+import { getReviewPosts } from "../../utils/reviews";
 import { pageAlternates } from "../../utils/seo";
 import type { Metadata } from "next";
 
@@ -10,5 +11,14 @@ export const metadata: Metadata = {
 };
 
 export default function ReviewsPage() {
-  return <ReviewsListing pageNumber={1} />;
+  return (
+    <PostListing
+      label="Reviews"
+      title="Reviews & Quick Takes"
+      posts={getReviewPosts()}
+      pageNumber={1}
+      basePath="/reviews"
+      emptyMessage="No reviews yet."
+    />
+  );
 }

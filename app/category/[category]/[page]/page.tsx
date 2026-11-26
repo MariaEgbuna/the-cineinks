@@ -1,7 +1,11 @@
 import { notFound } from "next/navigation";
-import CategoryListing from "../../../../components/CategoryListing";
+import PostListing from "../../../../components/PostListing";
 import { categories } from "../../../../utils/categories";
-import { getCategoryTotalPages } from "../../../../utils/categoryPosts";
+import {
+  getPostsForCategory,
+  getCategoryTotalPages,
+} from "../../../../utils/categoryPosts";
+import { getExtraPageParams, parsePageParam } from "../../../../utils/pagination";
 import { pageAlternates } from "../../../../utils/seo";
 import type { Metadata } from "next";
 
@@ -24,27 +28,31 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-// Page 1 is handled by app/category/[category]/page.tsx, so this only
-// generates pages 2 and up, and only for categories that have them.
+// Page 1 is handled by app/category/[category]/page.tsx
 export function generateStaticParams() {
-  return categories.flatMap((category) => {
-    const totalPages = getCategoryTotalPages(category.label);
-    return Array.from({ length: totalPages - 1 }, (_, i) => ({
+  return categories.flatMap((category) =>
+    getExtraPageParams(getCategoryTotalPages(category.label)).map(({ page }) => ({
       category: category.slug,
-      page: String(i + 2),
-    }));
-  });
+      page,
+    }))
+  );
 }
 
 export default async function CategoryPaginatedPage({ params }: PageProps) {
   const { category: slug, page } = await params;
   const category = categories.find((c) => c.slug === slug);
+  const pageNumber = parsePageParam(page);
 
-  if (!category) notFound();
+  if (!category || pageNumber === null) notFound();
 
-  if (!/^\d+$/.test(page)) notFound();
-  const pageNumber = parseInt(page, 10);
-  if (pageNumber < 2) notFound();
-
-  return <CategoryListing category={category} pageNumber={pageNumber} />;
+  return (
+    <PostListing
+      label="Category"
+      title={category.label}
+      posts={getPostsForCategory(category.label)}
+      pageNumber={pageNumber}
+      basePath={`/category/${category.slug}`}
+      emptyMessage="No posts in this category yet."
+    />
+  );
 }

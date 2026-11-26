@@ -1,8 +1,8 @@
 import Link from "next/link";
-import ArticleCard from "../../components/ArticleCard";
 import Pagination from "../../components/Pagination";
-import { getAllPosts, formatDate } from "../../utils/posts";
-import { POSTS_PER_PAGE } from "../../utils/pagination";
+import { ListingHeader, PostGrid } from "../../components/PostListing";
+import { getAllPosts } from "../../utils/posts";
+import { POSTS_PER_PAGE, getTotalPages } from "../../utils/pagination";
 import type { Post } from "../../utils/posts";
 import type { Metadata } from "next";
 
@@ -72,41 +72,28 @@ export default async function SearchPage({ searchParams }: PageProps) {
           .map((entry) => entry.post);
 
   // Pagination: a page number that is too high falls back to the last page
-  const totalPages = Math.max(1, Math.ceil(results.length / POSTS_PER_PAGE));
+  const totalPages = getTotalPages(results.length);
   const currentPage = Math.min(getPageNumber(page), totalPages);
   const start = (currentPage - 1) * POSTS_PER_PAGE;
   const pageResults = results.slice(start, start + POSTS_PER_PAGE);
 
   return (
     <main>
-      {/* Changed: gradient header, label and smaller title */}
-      <section className="bg-linear-to-b from-accent/10 to-transparent py-6 md:py-8">
-        <div className="max-w-[1600px] mx-auto px-5">
-          <p className="mb-1 font-mono text-xs font-medium uppercase tracking-wide text-accent">
-            Find a post
-          </p>
-          <h1 className="font-serif text-2xl font-semibold leading-tight text-main mb-4 md:text-3xl">
+      <ListingHeader label="Find a post" title="Search">
+        <form action="/search" method="get" role="search" className="mt-4 flex max-w-xl">
+          <input
+            type="search"
+            name="q"
+            defaultValue={query}
+            placeholder="Search posts..."
+            aria-label="Search posts"
+            className="min-w-0 flex-1 border border-main/20 bg-card px-4 py-2.5 text-sm text-main outline-none focus:border-accent"
+          />
+          <button type="submit" className="bg-teal px-6 text-sm font-medium text-cream">
             Search
-          </h1>
-          <form action="/search" method="get" role="search" className="flex max-w-xl">
-            <input
-              type="search"
-              name="q"
-              defaultValue={query}
-              placeholder="Search posts..."
-              aria-label="Search posts"
-              className="min-w-0 flex-1 border border-main/20 bg-card px-4 py-2.5 text-sm text-main outline-none focus:border-accent"
-            />
-            {/* Changed: text-cream instead of text-teal-light */}
-            <button
-              type="submit"
-              className="bg-teal px-6 text-sm font-medium text-cream"
-            >
-              Search
-            </button>
-          </form>
-        </div>
-      </section>
+          </button>
+        </form>
+      </ListingHeader>
 
       <section className="bg-page py-6 md:py-10">
         <div className="max-w-[1600px] mx-auto px-5">
@@ -133,20 +120,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
                   : `${results.length} ${results.length === 1 ? "result" : "results"} for `}
                 &ldquo;{query}&rdquo;
               </p>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-                {pageResults.map((post) => (
-                  <ArticleCard
-                    key={post.slug}
-                    slug={post.slug}
-                    coverImage={post.coverImage}
-                    category={post.category}
-                    score={post.score}
-                    title={post.title}
-                    excerpt={post.excerpt}
-                    date={formatDate(post.date)}
-                  />
-                ))}
-              </div>
+              <PostGrid posts={pageResults} />
               {totalPages > 1 && (
                 <Pagination
                   currentPage={currentPage}

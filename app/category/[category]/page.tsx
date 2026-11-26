@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
-import CategoryListing from "../../../components/CategoryListing";
+import PostListing from "../../../components/PostListing";
 import { categories } from "../../../utils/categories";
+import { getPostsForCategory } from "../../../utils/categoryPosts";
 import { pageAlternates } from "../../../utils/seo";
 import type { Metadata } from "next";
 
@@ -33,5 +34,14 @@ export default async function CategoryPage({ params }: PageProps) {
 
   if (!category) notFound();
 
-  return <CategoryListing category={category} pageNumber={1} />;
+  return (
+    <PostListing
+      label="Category"
+      title={category.label}
+      posts={getPostsForCategory(category.label)}
+      pageNumber={1}
+      basePath={`/category/${category.slug}`}
+      emptyMessage="No posts in this category yet."
+    />
+  );
 }

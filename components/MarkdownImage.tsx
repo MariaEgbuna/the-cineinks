@@ -27,6 +27,8 @@ export default async function MarkdownImage({ src, alt }: MarkdownImageProps) {
   const dimensions = isLocal ? await getLocalImageDimensions(src) : null;
 
   if (!dimensions) {
+    // Fallback for images whose size is unknown, which <Image> would need
+    // eslint-disable-next-line @next/next/no-img-element
     return <img src={src} alt={alt ?? ""} loading="lazy" className="w-full h-auto" />;
   }
 

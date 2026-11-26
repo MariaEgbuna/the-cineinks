@@ -1,10 +1,17 @@
 import { notFound } from "next/navigation";
-import ArticleCard from "../../../components/ArticleCard";
-import Pagination from "../../../components/Pagination";
-import { getAllPosts, formatDate } from "../../../utils/posts";
-import { POSTS_PER_PAGE } from "../../../utils/pagination";
+import PostListing from "../../../components/PostListing";
+import { getAllPosts } from "../../../utils/posts";
+import {
+  getTotalPages,
+  getExtraPageParams,
+  parsePageParam,
+} from "../../../utils/pagination";
 import { pageAlternates } from "../../../utils/seo";
 import type { Metadata } from "next";
+
+type PageProps = {
+  params: Promise<{ page: string }>;
+};
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { page } = await params;
@@ -17,71 +24,23 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export function generateStaticParams() {
-  const totalPosts = getAllPosts().length;
-  const totalPages = Math.ceil(totalPosts / POSTS_PER_PAGE);
-
-  // Page 1 is handled separately by app/archive/page.tsx, so this
-  // only needs to generate pages 2 and up.
-  return Array.from({ length: totalPages - 1 }, (_, i) => ({
-    page: String(i + 2),
-  }));
+  return getExtraPageParams(getTotalPages(getAllPosts().length));
 }
-
-type PageProps = {
-  params: Promise<{ page: string }>;
-};
 
 export default async function ArchivePaginatedPage({ params }: PageProps) {
   const { page } = await params;
-  const pageNumber = parseInt(page, 10);
+  const pageNumber = parsePageParam(page);
 
-  const allPosts = getAllPosts();
-  const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
-
-  if (isNaN(pageNumber) || pageNumber < 2 || pageNumber > totalPages) {
-    notFound();
-  }
-
-  const start = (pageNumber - 1) * POSTS_PER_PAGE;
-  const pagePosts = allPosts.slice(start, start + POSTS_PER_PAGE);
+  if (pageNumber === null) notFound();
 
   return (
-    <>
-      <main>
-        {/* Changed: gradient header with label, smaller title and count */}
-        <section className="bg-linear-to-b from-accent/10 to-transparent py-6 md:py-8">
-          <div className="max-w-[1600px] mx-auto px-5">
-            <p className="mb-1 font-mono text-xs font-medium uppercase tracking-wide text-accent">
-              Archive
-            </p>
-            <h1 className="font-serif text-2xl font-semibold leading-tight text-main md:text-3xl">
-              All Posts
-            </h1>
-            <p className="mt-1.5 font-mono text-sm text-muted">
-              {allPosts.length} {allPosts.length === 1 ? "post" : "posts"} · Page {pageNumber} of {totalPages}
-            </p>
-          </div>
-        </section>
-        <section className="bg-page py-6 md:py-10">
-          <div className="max-w-[1600px] mx-auto px-5">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-              {pagePosts.map((post) => (
-                <ArticleCard
-                  key={post.slug}
-                  slug={post.slug}
-                  coverImage={post.coverImage}
-                  category={post.category}
-                  score={post.score}
-                  title={post.title}
-                  excerpt={post.excerpt}
-                  date={formatDate(post.date)}
-                />
-              ))}
-            </div>
-            <Pagination currentPage={pageNumber} totalPages={totalPages} />
-          </div>
-        </section>
-      </main>
-    </>
+    <PostListing
+      label="Archive"
+      title="All Posts"
+      posts={getAllPosts()}
+      pageNumber={pageNumber}
+      basePath="/archive"
+      emptyMessage="No posts yet."
+    />
   );
 }

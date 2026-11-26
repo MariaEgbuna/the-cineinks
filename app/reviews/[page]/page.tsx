@@ -1,7 +1,11 @@
 import { notFound } from "next/navigation";
-import ReviewsListing from "../../../components/ReviewsListing";
+import PostListing from "../../../components/PostListing";
 import { getReviewPosts } from "../../../utils/reviews";
-import { POSTS_PER_PAGE } from "../../../utils/pagination";
+import {
+  getTotalPages,
+  getExtraPageParams,
+  parsePageParam,
+} from "../../../utils/pagination";
 import { pageAlternates } from "../../../utils/seo";
 import type { Metadata } from "next";
 
@@ -20,24 +24,25 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-// Page 1 is handled by app/reviews/page.tsx, so this only generates
-// pages 2 and up.
+// Page 1 is handled by app/reviews/page.tsx
 export function generateStaticParams() {
-  const totalPages = Math.max(
-    1,
-    Math.ceil(getReviewPosts().length / POSTS_PER_PAGE)
-  );
-  return Array.from({ length: totalPages - 1 }, (_, i) => ({
-    page: String(i + 2),
-  }));
+  return getExtraPageParams(getTotalPages(getReviewPosts().length));
 }
 
 export default async function ReviewsPaginatedPage({ params }: PageProps) {
   const { page } = await params;
+  const pageNumber = parsePageParam(page);
 
-  if (!/^\d+$/.test(page)) notFound();
-  const pageNumber = parseInt(page, 10);
-  if (pageNumber < 2) notFound();
+  if (pageNumber === null) notFound();
 
-  return <ReviewsListing pageNumber={pageNumber} />;
+  return (
+    <PostListing
+      label="Reviews"
+      title="Reviews & Quick Takes"
+      posts={getReviewPosts()}
+      pageNumber={pageNumber}
+      basePath="/reviews"
+      emptyMessage="No reviews yet."
+    />
+  );
 }

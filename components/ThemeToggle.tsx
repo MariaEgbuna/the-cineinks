@@ -8,7 +8,7 @@ export default function ThemeToggle() {
     try {
       // Save the choice so it is remembered on the next visit.
       localStorage.setItem("theme", isDark ? "dark" : "light");
-    } catch (e) {
+    } catch {
       // If storage is blocked, the toggle still works for this visit.
     }
   }

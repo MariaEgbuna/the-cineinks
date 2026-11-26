@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, type ReactNode } from "react";
+import { useEffect, useState, useSyncExternalStore, type ReactNode } from "react";
 
 type ShareButtonsProps = {
   url: string;
@@ -22,6 +22,11 @@ const iconProps = {
   strokeLinejoin: "round" as const,
   "aria-hidden": true,
 };
+
+// Share support never changes during a visit, so there is nothing to listen for
+const subscribe = () => () => {};
+const getShareSupport = () => typeof navigator.share === "function";
+const getServerShareSupport = () => false;
 
 type ShareLinkProps = {
   href: string;
@@ -45,14 +50,14 @@ function ShareLink({ href, label, children }: ShareLinkProps) {
 }
 
 export default function ShareButtons({ url, title, image }: ShareButtonsProps) {
-  const [canNativeShare, setCanNativeShare] = useState(false);
-  const [copied, setCopied] = useState(false);
-
   // Only phones and some browsers support the built-in share sheet.
-  // Checked after load so the server and browser render the same HTML first.
-  useEffect(() => {
-    setCanNativeShare(typeof navigator.share === "function");
-  }, []);
+  // The server value is used first, so the server and browser HTML match.
+  const canNativeShare = useSyncExternalStore(
+    subscribe,
+    getShareSupport,
+    getServerShareSupport
+  );
+  const [copied, setCopied] = useState(false);
 
   // Hide the "Link copied" message after two seconds
   useEffect(() => {

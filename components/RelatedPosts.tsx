@@ -28,12 +28,18 @@ export default function RelatedPosts({ candidates, limit = 3 }: RelatedPostsProp
   const [selected, setSelected] = useState<RelatedPost[] | null>(null);
 
   useEffect(() => {
-    const shuffled = [...candidates];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-    }
-    setSelected(shuffled.slice(0, limit));
+    // Runs only in the browser, so the random order can't cause a
+    // mismatch with the server's HTML
+    const frame = requestAnimationFrame(() => {
+      const shuffled = [...candidates];
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+      }
+      setSelected(shuffled.slice(0, limit));
+    });
+
+    return () => cancelAnimationFrame(frame);
   }, [candidates, limit]);
 
   if (!selected || selected.length === 0) return null;

@@ -1,61 +1,24 @@
-import ArticleCard from "../../components/ArticleCard";
-import Pagination from "../../components/Pagination";
-import { getAllPosts, formatDate } from "../../utils/posts";
-import { POSTS_PER_PAGE } from "../../utils/pagination";
+import PostListing from "../../components/PostListing";
+import { getAllPosts } from "../../utils/posts";
+import { pageAlternates } from "../../utils/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "All Posts | The CineInks",
   description:
     "Browse every review, recap, and post on The CineInks: movies, series, anime and K-dramas, newest first.",
-  alternates: {
-    canonical: "/archive",
-  },
+  alternates: pageAlternates("/archive"),
 };
 
 export default function ArchivePage() {
-  const allPosts = getAllPosts();
-  const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
-  const pagePosts = allPosts.slice(0, POSTS_PER_PAGE);
-
   return (
-    <>
-      <main>
-        {/* Changed: gradient header with label, smaller title and count */}
-        <section className="bg-linear-to-b from-accent/10 to-transparent py-6 md:py-8">
-          <div className="max-w-[1600px] mx-auto px-5">
-            <p className="mb-1 font-mono text-xs font-medium uppercase tracking-wide text-accent">
-              Archive
-            </p>
-            <h1 className="font-serif text-2xl font-semibold leading-tight text-main md:text-3xl">
-              All Posts
-            </h1>
-            <p className="mt-1.5 font-mono text-sm text-muted">
-              {allPosts.length} {allPosts.length === 1 ? "post" : "posts"}
-              {totalPages > 1 && ` · Page 1 of ${totalPages}`}
-            </p>
-          </div>
-        </section>
-        <section className="bg-page py-6 md:py-10">
-          <div className="max-w-[1600px] mx-auto px-5">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-              {pagePosts.map((post) => (
-                <ArticleCard
-                  key={post.slug}
-                  slug={post.slug}
-                  coverImage={post.coverImage}
-                  category={post.category}
-                  score={post.score}
-                  title={post.title}
-                  excerpt={post.excerpt}
-                  date={formatDate(post.date)}
-                />
-              ))}
-            </div>
-            <Pagination currentPage={1} totalPages={totalPages} />
-          </div>
-        </section>
-      </main>
-    </>
+    <PostListing
+      label="Archive"
+      title="All Posts"
+      posts={getAllPosts()}
+      pageNumber={1}
+      basePath="/archive"
+      emptyMessage="No posts yet."
+    />
   );
 }
