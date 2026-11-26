@@ -9,67 +9,65 @@ excerpt: Class warfare, a stolen watch full of incriminating evidence, and a fat
 coverImage: /images/posts/recap-elite-season-1-still-the-best/elite-s1.jpg
 ---
 
-Premiering on Netflix in October 2018, the eight-episode first season of Elite blends teen drama with a murder mystery at the elite prep school Las Encinas. Framed around police interrogations following the death of a student, the season tracks how three scholarship newcomers upend the lives of their wealthy classmates.
+Premiering on Netflix in October 2018, the eight-episode first season of *Elite* blends teen drama with a murder mystery at the elite prep school Las Encinas. Framed around police interrogations following a student's death, the season tracks how three scholarship newcomers upend the lives of their wealthy classmates.
 
 *This post contains spoilers for Season 1 of Netflix's Elite.*
 
-*Content note: this recap mentions an adult sleeping with a 16-year-old, and a character's HIV status being outed in class.*
+*Content note: This recap mentions an adult sleeping with a 16-year-old, and a character's HIV status being outed in class.*
+
+### The Quick Version (TL;DR)
+* **The Setup:** Three working-class teens enroll at Las Encinas on scholarships funded by the corrupt construction company that destroyed their old school.
+* **The Motive:** Marina and Samuel's ex-con brother, Nano, steal a watch containing incriminating construction documents to fund their escape after Marina gets pregnant.
+* **The Murder:** Trying to recover the watch to win Carla back, Polo kills Marina with a trophy by the school pool, and Carla orchestrates a cover-up that frames Nano.
 
 ---
 
-## A Roof Caves In
+## Class Warfare at Las Encinas
 
 ![RECAP: Elite Season 1](/images/posts/recap-elite-season-1-still-the-best/trio.jpg)
 
-Samuel, Nadia, and Christian walk into Las Encinas as scholarship kids after their old school's roof caves in. The construction company behind the shoddy job, run by Teo and Ventura, both of whom have kids at Las Encinas, hands out the scholarships as a PR move.
+After a shoddy construction job collapses their public school's roof, Samuel, Nadia, and Christian receive PR-motivated scholarships to Las Encinas from the builders responsible: Teo (Carla's father) and Ventura (Guzman and Marina's father).
 
-Nadia hits the culture clash immediately: the school markets itself as multicultural, but she's told to take off her hijab on campus. Christian just wants in with the popular crowd. That's Marina and her brother Guzman, who draws the hardest line against the scholarship students; Lu, sharp and territorial, with something going on with Guzman; and Carla, who catches Christian's eye, though Ander, the principal's son, tells him she's been with Polo since they were twelve. Ander isn't rich and he's quietly closeted. He and Christian bond over weed that leads them to a dealer named Omar, Samuel's childhood friend, and when Ander finally meets someone off Grindr, it turns out to be Omar too.
+The newcomers immediately clash with the rich elite:
+* **Nadia vs. Guzman & Lu:** Forced to remove her hijab on campus, Nadia becomes the target of a cruel bet between Lu and Guzman to take her virginity. Guzman eventually catches real feelings, apologizes, and earns her forgiveness—until an angry outburst leads him to out Nadia's brother, Omar.
+* **Christian, Carla & Polo:** Hungry to fit in, Christian gets pulled into a staged hookup with Carla for her longtime boyfriend, Polo, to watch. What starts as a threesome turns into genuine feelings between Christian and Carla, prompting Polo to sabotage Christian's modeling gig out of jealousy and causing Carla to dump him.
+* **Ander & Omar:** The principal's closeted son, Ander, connects with Omar on Grindr. Despite Ander's mother catching them and Omar's father arranging a forced marriage after Guzman outs him, the two keep finding their way back to each other.
 
-At home, Samuel's brother Nano has just gotten out of prison. The two tag a house one night out of boredom, and it belongs to Ventura, the man funding the scholarships. It comes back to bite Samuel at Marina's sixteenth birthday party, held at that same house. That night, Christian's hookup with Carla turns out to be staged for Polo to watch, Guzman finds out about the tagging and threatens Samuel until Nadia shuts it down, and Marina tells her family she's not ashamed of anything, including being HIV positive. Then the show cuts to Marina in a body bag, and everything after is the road to how she ends up there.
+## The Stolen Watch and a Secret Pregnancy
 
-## Nano's Debt Turns Into Blackmail
+At home, Samuel's brother Nano is fresh out of prison and drowning in a €60,000 debt to violent thugs. Meanwhile, Marina accidentally confesses on camera during a school project that her father is hiding documents proving his company cut corners on the collapsed school. 
 
-Nano owes money to men from prison. They hand him a gun and a name: shoot a man named Fer for missing a payment. Nano tracks Fer down, finds out he has a family, and can't do it. The thugs kill Fer themselves, stab Nano as a warning, and raise his debt from forty thousand euros to sixty. Marina patches him up while Samuel is in the other room, unaware.
+Desperate to save Nano, Samuel agrees to a blackmail scheme. Marina—who has fallen in love with Nano—steals the keys and alarm code to Carla's house so Nano can rob her father's watch collection, walking away with a red-banded watch hiding the incriminating files.
 
-Meanwhile, Marina forgets the camera is rolling during a school project with Samuel and admits on tape that her father is sitting on documents proving the construction company cut corners on the school that collapsed. Nano finds the footage on Samuel's laptop and sees a chance to blackmail. Samuel is horrified, but with his brother stabbed and drowning in debt, he agrees. Marina ends up making the theft possible: she lifts a set of house keys and the alarm code from Carla's place so Nano can clear out her father's watch collection, and he walks out with all of it, including a red-banded watch that holds the evidence.
-
-Nano and Marina sleep together, and Marina realizes she's in love with him. She starts avoiding Samuel without explanation. Then a teacher confiscating a phone reads her HIV status out loud in front of the whole class. That's when we learn how she got it: at fourteen, from a boy named Pablo who didn't know he had it. Her parents didn't press charges. They paid Pablo to disappear and quietly let slide that Guzman, Polo, and Ander had beaten him nearly to death, which is why the police later look at Guzman as a suspect.
-
-Marina collapses, ends up in the hospital, and her pregnancy comes out. Samuel assumes it isn't his and becomes obsessed with finding the father, not realizing it's Nano. Marina considers ending the pregnancy, but Nano talks her out of it, promising the watch money will be enough to start over somewhere else. Samuel's hunt goes wrong when he attacks a teacher he wrongly accuses. Nadia clears it up and exposes a blackmail arrangement between that teacher and Lu, which gets the teacher fired and Lu suspended.
-
-## Bets, Lies, and Staged Hookups
-
-Nadia and Guzman get paired for a school project, exactly as Lu wanted. It comes out that the two of them made a bet: Guzman could get Nadia into bed. Nadia finds out, humiliated. Guzman keeps showing up anyway, gives her a custom hijab as an apology, and fumbles an attempt to grovel to her parents that accidentally exposes the school's hijab ban. Nadia decides he's grown into someone worth forgiving.
-
-Polo reveals he's known about the staged hookup all along, then pulls Christian into a threesome with Carla. He gets Christian a modeling opportunity, then quietly sabotages it out of jealousy once things look real between Christian and Carla. Carla is furious, and after Christian finally asks to be her actual boyfriend, she breaks things off with Polo for good.
-
-Guzman, angry after a fight with Nadia, outs Omar to her as both gay and a dealer. Nadia struggles with it given her family's faith, which stings Omar enough that he cuts Ander off. It doesn't last. Even after Ander's mother catches them kissing and Omar's father decides to force him into an arranged marriage, the two keep finding their way back to each other.
+Marina's world quickly unravels:
+* **Outed:** A teacher confiscates a phone and accidentally reads Marina's HIV-positive status aloud to the class. It's revealed she contracted it at fourteen from a boy named Pablo, whom her parents paid off after Guzman, Polo, and Ander beat him nearly to death.
+* **Pregnant:** Marina collapses and discovers she is pregnant with Nano's child. When Samuel wrongly suspects a teacher is the father and attacks him, Nadia steps in and exposes an illicit affair between that teacher and Lu, getting the teacher fired and Lu suspended.
 
 ## The Night at the Pool
 
 ![RECAP: Elite Season 1](/images/posts/recap-elite-season-1-still-the-best/s1-finale.jpg)
 
-It all blows up by the end of episode seven. Carla can't prove Marina and Nano are behind the blackmail, but she tells her father, who tells Ventura, and Marina has to admit she's pregnant with Nano's child. Guzman, blindsided, pulls in Ander and Polo to go after Nano, but it's Samuel who throws the first punch, and it turns into a full brawl. Guzman hides at Nadia's family shop, Polo slips away, and Ander is beaten badly enough that Omar finds him bleeding in an alley.
+Carla figures out Marina and Nano are behind the watch theft and tips off her father, exposing Marina's pregnancy to Ventura. Blindsided, Guzman, Ander, and Polo confront Nano, sparking a brutal street brawl that leaves Ander badly beaten in an alley.
 
-By the finale, Marina's father plans to force an abortion the next morning, so she and Nano decide to skip town for Asilah in Morocco and raise the baby there. That night is graduation, and Marina wins the school's top scholarship trophy by default, since Nadia has been pulled out of school by her father and Lu is suspended, leaving neither able to sit their exams. She slips away to wait for Nano by the pool. Samuel finds her crying and tries one last time to talk her out of leaving, and she says no. He begs Guzman to talk his sister down, but Guzman brushes him off.
+With Ventura planning to force Marina to have an abortion the next morning, she and Nano decide to flee to Morocco after graduation. That night, Marina wins the school's top academic trophy by default (with Nadia pulled out of school and Lu suspended) and slips away to wait for Nano by the pool.
 
-Alone at the pool, Marina gets a visit from Polo, who's spiraling and convinced that getting the watch back is his only shot at winning Carla back. She won't hand it over, and whatever she says cuts deep enough that he hits her with the trophy she just won. He runs to the locker room and walks in on Christian and Carla mid hookup. Carla gets the whole story out of him and goes straight into damage control: she forces Christian to help build an alibi, finds Polo a clean shirt, and the three of them walk back out to the party like nothing happened.
+Instead, a spiraling Polo confronts her, convinced returning the watch is his only shot at winning Carla back. When Marina refuses and mocks him, Polo snaps and bashes her head in with her own trophy. 
 
-Nano reaches the pool and finds Marina dying. She falls into his arms and doesn't make it. He calls for help that never comes, panics, and runs, which is exactly what Samuel sees. Samuel's account makes Nano the prime suspect, Polo sticks to Carla's story, and no one looks twice at him. Guzman, wrecked with grief, blames Samuel for ever introducing Marina to Nano. The next day, Lu finds Guzman on the edge of a bridge and talks him down. Nano is arrested for murder, Polo walks free, and the trophy that killed Marina sinks to the bottom of a reservoir, buried along with the truth.
+Polo runs to the locker room and confesses to Carla and Christian mid-hookup. Carla immediately takes charge: she gets Polo a clean shirt, forces Christian to help build an alibi, and walks them back to the party. Moments later, Nano arrives at the pool to find Marina dying in his arms. He panics and flees just as Samuel spots him—making Nano the prime suspect while Polo walks free and the murder weapon sinks to the bottom of a reservoir.
 
 ---
 
-## Where we left everyone
+## Where We Left Everyone
 
-* **Polo:** Free. Not a scratch on him.
-* **Carla:** Untouchable. She ran an entire murder cover-up in real time and her world is exactly how she designed it.
-* **Christian:** Trapped. He's an accessory now, and Carla holds that over him.
-* **Nano:** In prison for a murder he didn't commit.
-* **Samuel:** His crush is dead, his brother is behind bars, and he's the reason the police looked at Nano.
-* **Guzman:** Wrecked with guilt and grief. Lu talked him down from a bridge.
-* **Nadia:** Pulled out of school by her father, missing her own exams.
-* **Ander:** Badly beaten in the brawl and found bleeding in an alley by Omar.
-* **Omar:** Still with Ander, but facing a forced marriage his father is arranging to bury the shame of him being outed.
+* **Polo:** Free, with not a scratch on him.
+* **Carla:** Untouchable. She ran an entire murder cover-up in real time and kept her world intact.
+* **Christian:** Trapped as an accessory to murder, with Carla holding it over his head.
+* **Nano:** Sitting in prison for a murder he didn't commit.
+* **Samuel:** Devastated. His crush is dead, his brother is behind bars, and his own police statement put Nano there.
+* **Guzman:** Wrecked with grief and guilt, saved only after Lu talks him down from a bridge.
+* **Nadia:** Pulled out of school by her father, missing her final exams.
+* **Ander:** Recovering after being badly beaten in the brawl and rescued by Omar.
+* **Omar:** Still committed to Ander, but facing a forced marriage arranged by his father.
 
 ---
 
