@@ -103,6 +103,4 @@ The season closes with Raul holding that secret over Sara like a leash, while Iv
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](/posts/elite-retrospective).
-
 [← Prev: Season 5](/posts/recap-elite-season-5-weak) [Next: Season 7 →](/posts/recap-elite-season-7-actually-enjoyed)

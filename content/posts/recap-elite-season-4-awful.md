@@ -121,6 +121,4 @@ Not long after, Guzman and Ander leave Las Encinas together to travel, saying te
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](/posts/elite-retrospective).
-
 [← Prev: Season 3](/posts/recap-elite-should-have-ended-season-3) [Next: Season 5 →](/posts/recap-elite-season-5-weak)

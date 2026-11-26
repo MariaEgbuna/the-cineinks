@@ -10,6 +10,8 @@ coverImage: "/images/posts/recap-primal-season-2/image-1.jpg"
 
 Primal Season 2 takes Spear and Fang beyond their prehistoric wilderness into a wider world of ancient empires and warring tribes. Driven by their mission to rescue Mira, the season shifts the focus from animal survival to large-scale human conflict.
 
+[Season 2 Review](/posts/primal-s2-review)
+
 _This post contains spoilers for Primal Season 2._
 
 ---
@@ -81,7 +83,5 @@ The season closes years later, with Fang and her now grown offspring still livin
 *   **Kamau:** Freed himself and his daughter from the Egyptian Queen's enslavement, last seen sailing toward an unknown future after years of servitude.
 
 ---
-
-My full thoughts on this season are in the [Season 2 review](/posts/primal-s2-review).
 
 [← Prev: Season 1](/posts/recap-primal-season-1-all-action) [Next: Season 3 →](/posts/recap-primal-season-3-wasnt-needed)

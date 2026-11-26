@@ -97,6 +97,6 @@ Two months later, most of them walk back into Las Encinas for one final year: Sa
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](https://cineinks.vercel.app/posts/elite-retrospective).
+My full thoughts on all eight seasons are in the [Elite retrospective](/posts/elite-retrospective).
 
 [← Prev: Season 2](/posts/recap-elite-season-2-solid-followup) [Next: Season 4 →](/posts/recap-elite-season-4-awful)

@@ -1,5 +1,6 @@
 import type { ComponentPropsWithoutRef } from "react";
 import type { ExtraProps } from "react-markdown";
+import PostButton from "./PostButton";
 import PostNav from "./PostNav";
 import { resolveNavLinks } from "../utils/postLinks";
 import type { RawLink } from "../utils/postLinks";
@@ -44,8 +45,13 @@ function getNavLinks(node: ExtraProps["node"]) {
 export default function MarkdownParagraph({ node, children, ...props }: MarkdownParagraphProps) {
   const navLinks = getNavLinks(node);
 
-  if (navLinks) return <PostNav links={navLinks} />;
-
   // Every other paragraph stays as it was
-  return <p {...props}>{children}</p>;
+  if (!navLinks) return <p {...props}>{children}</p>;
+
+  const [first] = navLinks;
+  if (navLinks.length === 1 && first.direction === "other") {
+    return <PostButton post={first.post} text={first.text} />;
+  }
+
+  return <PostNav links={navLinks} />;
 }

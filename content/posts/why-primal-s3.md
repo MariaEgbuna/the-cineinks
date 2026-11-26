@@ -16,6 +16,8 @@ genres: "Action, Adventure"
 
 After an uncertain gap following the Season 2 finale and a multi-year production wait, Primal Season 3 aired its ten-episode run on Adult Swim from January to March 2026. Returning to the series' largely wordless format, the third season resurrects Spear and follows his brutal, memory-driven journey back to his family.
 
+[Primal Season 3 Recap](/posts/recap-primal-season-3-wasnt-needed)
+
 **A quick heads up: this review has minor spoilers** for Season 3, and it gives away how Season 2 ends.
 
 ## What Worked
@@ -41,7 +43,5 @@ The Fang and Spear conflict was the hardest part to sit through, because watchin
 ---
 
 Still, none of that makes this a bad season. It is just the weakest of the three so far, sitting a notch below what season 1 and season 2 managed to pull off.
-
-Want to see how Spear navigates a darker supernatural world as an undead warrior searching for his past? Check out Season three recap [here.](/posts/recap-primal-season-3-wasnt-needed)
 
 [← Prev: Season 2](/posts/primal-s2-review) 

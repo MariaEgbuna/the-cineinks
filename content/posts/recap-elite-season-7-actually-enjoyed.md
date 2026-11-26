@@ -126,6 +126,4 @@ The season closes on the fallout. Nico brings Eric home to his parents' relief. 
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](/posts/elite-retrospective).
-
 [← Prev: Season 6](/posts/recap-elite-season-6-got-tired) [Next: Season 8 →](/posts/recap-elite-season-8-not-a-finale)

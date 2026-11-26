@@ -16,6 +16,8 @@ genres: "Action, Adventure"
 
 The second season of Primal continues Genndy Tartakovsky's animated action-drama. While spoken dialogue remains minimal, the narrative shifts outward as Spear and Fang cross the sea to find Mira, pitting them against organized human societies and a relentless new adversary.
 
+[Primal Season 2 Recap](/posts/recap-primal-season-2-surprised-me)
+
 **A quick heads up: this review has minor spoilers**.
 
 ## What Worked
@@ -36,7 +38,4 @@ Where it lost me a little was the ending. It felt rushed, and from what I have h
 
 Still, even with that stumble, the story this season told was a great one, and it ends as bittersweet in the best and worst ways.
 
-If you want to follow every battle, crossing, and turning point from their overseas rescue mission, check out my recap of [Primal Season 2.](/posts/recap-primal-season-2-surprised-me)
-
-[← Prev: Season 1](/posts/primal-s1-review) 
-[Next: Season 3 →](/posts/was-primal-s3-needed)
+[← Prev: Season 1](/posts/primal-s1-review) [Next: Season 3 →](/posts/was-primal-s3-needed)

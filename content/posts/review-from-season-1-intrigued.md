@@ -45,4 +45,4 @@ What I love most about Season 1 is that it stubbornly refuses to hand over answe
 
 It builds a genuinely unsettling world and populates it with characters you actually care about, especially Victor, who is the absolute emotional gut-punch of the season. The acting hitches knocked it down a fraction, but not enough to ruin the ride. I went in expecting basic jump scares and walked away deeply moved by a kid who grew up trapped in a town with no escape. That is exactly the kind of horror I live for.
 
-**Next up:** [My From Season 2 review →](/posts/review-from-season-2-still-good)
+[Next: Season 2 →](/posts/review-from-season-2-still-good)

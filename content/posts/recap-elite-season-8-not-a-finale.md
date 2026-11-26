@@ -131,6 +131,6 @@ After Omar's livestream, worried parents protest outside the school, and Princip
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](/posts/elite-retrospective).
+[Elite Full Retrospective](/posts/elite-full-retrospective)
 
 [← Prev: Season 7](/posts/recap-elite-season-7-actually-enjoyed)

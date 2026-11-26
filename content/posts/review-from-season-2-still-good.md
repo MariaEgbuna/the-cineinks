@@ -17,9 +17,7 @@ Season 2 of *From* is still great TV, but this is where the show's bad habits st
 
 The writers also drop a literal **busload of new arrivals** into the chaos. It's a bit of a mixed bag. Some of them earn their keep immediately, while others feel like they're just killing time until the monsters get them.
 
-*Fair warning: we are diving straight into **spoiler territory for Season 2** below.*
-
-New here? Start with [my Season 1 review](/posts/review-from-season-1-intrigued).
+*Fair warning: minor spoilers below*
 
 ## What happens this season
 
@@ -51,4 +49,4 @@ By the back half, everything starts cracking. Colony House is facing a massive f
 
 Season 2 still has everything that made me fall for this universe: the dread, the lore, and characters like Victor who give the show its heartbeat. But the massive communication breakdown between the characters is so frustrating, and the middle episodes drag in a way Season 1 never did.
 
-**The story continues:** [Did Season 3 keep it up? →](/posts/review-from-season-3-weakest-yet)
+[← Prev: Season 1](/posts/review-from-season-1-intrigued) [Next: Season 3 →](/posts/review-from-season-3-weakest-yet)

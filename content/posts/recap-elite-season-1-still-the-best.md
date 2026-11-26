@@ -73,6 +73,4 @@ Nano reaches the pool and finds Marina dying. She falls into his arms and doesn'
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](/posts/elite-retrospective).
-
 [Next: Season 2 →](/posts/recap-elite-season-2-solid-followup)

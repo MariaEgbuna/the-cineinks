@@ -10,6 +10,8 @@ coverImage: "/images/posts/recap-primal-season-3/image-1.jpg"
 
 Taking a darker supernatural turn, Primal Season 3 opens months after Spear's sacrifice. Revived as an undead warrior with fragmented memories, Spear traverses a hostile world to piece together who he is while Fang and Mira fight to protect their growing families.
 
+[Season 3 Review](/posts/was-primal-s3-needed)
+
 _This post contains spoilers for Primal Season 3._
 
 ---
@@ -81,7 +83,5 @@ The season closes years later. Fang's kids are grown. Spear's daughter is a teen
 *   **The Black River people:** Left behind, likely scattered or dead, after their volcano erupted mid ritual and swallowed most of the arena along with their leader.
 
 ---
-
-My full thoughts on this season are in the [Season 3 review](/posts/was-primal-s3-needed).
 
 [← Prev: Season 2](/posts/recap-primal-season-2-surprised-me)

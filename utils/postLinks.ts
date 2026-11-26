@@ -4,7 +4,12 @@ import { SITE_URL } from "./site";
 
 export type RawLink = { text: string; href: string };
 export type Direction = "previous" | "next" | "other";
-export type NavLink = { post: Post; direction: Direction; label: string };
+export type NavLink = {
+  post: Post;
+  direction: Direction;
+  label: string;
+  text: string;
+};
 
 // Accepts /posts/my-slug or the full address of a post on this site
 function getPostSlug(href: string): string | null {
@@ -37,7 +42,12 @@ export function resolveNavLinks(links: RawLink[], boldLabel?: string): NavLink[]
     const defaultLabel =
       direction === "previous" ? "Previous" : direction === "next" ? "Next" : "Read next";
 
-    resolved.push({ post, direction, label: boldLabel || defaultLabel });
+    resolved.push({
+      post,
+      direction,
+      label: boldLabel || defaultLabel,
+      text: link.text,
+    });
   }
 
   if (resolved.length === 2) {
@@ -50,8 +60,8 @@ export function resolveNavLinks(links: RawLink[], boldLabel?: string): NavLink[]
   return resolved;
 }
 
-// If the post's last paragraph is only post links, separates it from the
-// text so it can be shown after the Rating card.
+// If the post's last paragraph is only Prev or Next links, separates it
+// from the text so it can be shown after the Rating card.
 export function splitEndLinks(content: string) {
   const unchanged = { body: content, endLinks: null };
   const text = content.trimEnd();
@@ -75,7 +85,10 @@ export function splitEndLinks(content: string) {
   }));
 
   const endLinks = resolveNavLinks(links, bold?.[1].trim().replace(/:$/, ""));
-  if (!endLinks) return unchanged;
+  // Buttons are not moved. They stay where they were written.
+  if (!endLinks || endLinks.some((item) => item.direction === "other")) {
+    return unchanged;
+  }
 
   // Also drop a divider line left hanging at the end of the text
   const body = text

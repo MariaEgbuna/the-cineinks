@@ -10,6 +10,8 @@ coverImage: /images/posts/recap-primal-season-1/image-1.jpg
 
 Set in a brutal prehistoric world, Primal follows a caveman and a Tyrannosaurus rex brought together by shared tragedy as they fight to survive. Told with almost no dialogue, the story relies entirely on action and visual cues.
 
+[Season 1 Review](/posts/primal-s1-review)
+
 _This post contains spoilers for Primal Season 1._
 
 ---
@@ -67,7 +69,5 @@ Spear and Fang come across an enslaved woman named Mira fighting off a sea creat
 *   **Mira:** Escaped slavery only to get recaptured in the final minutes of the season, taken away on a ship before Spear and Fang can reach her.
 
 ---
-
-My full thoughts on this season are in the [Season 1 review](/posts/primal-s1-review).
 
 [Next: Season 2 →](/posts/recap-primal-season-2-surprised-me)

@@ -75,6 +75,4 @@ By the time school resumes after New Year's, Guzman and Samuel seem to have made
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](https://cineinks.vercel.app/posts/elite-retrospective).
-
 [← Prev: Season 1](/posts/recap-elite-season-1-still-the-best) [Next: Season 3 →](/posts/recap-elite-should-have-ended-season-3)

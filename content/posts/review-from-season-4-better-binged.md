@@ -17,9 +17,7 @@ genres: "Horror, Sci-Fi"
 
 The season premiered in April 2026, and these poor townspeople have been through absolute hell at this point. I made the executive decision early on to wait for the whole season to finish dropping before touching a single episode. Best decision I made all year.
 
-*Heads up: we are diving right into **spoiler territory for Season 4** below.*
-
-Catching up? Here's [my Season 3 review](/posts/review-from-season-3-weakest-yet).
+*This post contains minor spoilers.*
 
 ## The Plot
 
@@ -33,14 +31,16 @@ In the back half, a dangerous escape plan finally starts taking shape. The show 
 
 ## What worked
 
-*   **The villains are terrifying again.** A horror-mystery show like this lives or dies on whether the danger feels real. Season 4 finally made me nervous for these characters again in a way Season 3 just couldn't manage. The stakes felt lethal.
-*   **A plot that moves.** The overarching story was strong from start to finish. Things actually happened, choices had real consequences, and I didn't feel like I was sitting through filler episodes waiting for the "real" story to start.
-*   **They finally learned how to talk!** The communication issue I've been screaming about since Season 2 was *noticeably* better. The residents started sharing what they knew, making them feel like a team working together instead of a bunch of paranoid cliques working around each other.
+* **The villains are terrifying again.** A horror-mystery show like this lives or dies on whether the danger feels real. Season 4 finally made me nervous for these characters again in a way Season 3 just couldn't manage. The stakes felt lethal.
+* **A plot that moves.** The overarching story was strong from start to finish. Things actually happened, choices had real consequences, and I didn't feel like I was sitting through filler episodes waiting for the "real" story to start.
+* **They finally learned how to talk!** The communication issue I've been screaming about since Season 2 was *noticeably* better. The residents started sharing what they knew, making them feel like a team working together instead of a bunch of paranoid cliques working around each other.
 
 ## My only issue
 
-*   **The Boy in White can straight-up piss off.** I have officially found my least favorite character. He never gives a straight answer! He just materializes out of thin air whenever the residents are making a plan and goes, "Don't do this," or "Don't do that," without offering a single syllable of explanation. *Tell us why, you creepy kid!* It's maddening to watch characters I love get undermined by a figure who refuses to communicate, especially in a season that was otherwise doing so much better with that exact issue.
+* **The Boy in White can straight-up piss off.** I have officially found my least favorite character. He never gives a straight answer! He just materializes out of thin air whenever the residents are making a plan and goes, "Don't do this," or "Don't do that," without offering a single syllable of explanation. *Tell us why, you creepy kid!* It's maddening to watch characters I love get undermined by a figure who refuses to communicate, especially in a season that was otherwise doing so much better with that exact issue.
 
 ---
 
 Word on the street is that **Season 5 will be the final season**. If that holds true, they need to wrap this up flawlessly. There is a ton riding on how they land this plane.
+
+[← Prev: Season 3](/posts/review-from-season-3-weakest-yet)

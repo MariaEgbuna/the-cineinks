@@ -17,9 +17,7 @@ It hurts to say this, but this season is the weakest of the three so far. It's n
 
 The Township is getting colder, the food is running out, and the residents are growing more desperate by the second. Yet somehow, after everything they've survived, they still haven't figured out how to have a normal conversation.
 
-*Heads up: huge **spoilers ahead for Season 3**.*
-
-Catching up? Here's [my Season 2 review](/posts/review-from-season-2-still-good).
+*Heads up: minor spoilers.*
 
 ## What happens this season
 
@@ -36,17 +34,17 @@ By the time the final episodes roll around, the tension spikes hard. Someone goe
 
 ## What worked
 
-*   **Victor's emotional heavy lifting.** Once again, **Victor Kavanaugh** is the absolute MVP of this show. Watching him dig into deeply buried childhood memories and finally face a painful piece of his past directly was an absolute gut-punch. The writers consistently treat his character with the most respect, and Scott McCord absolutely nails it every single time.
-*   **A glimmer of hope for communication.** I have to give the show credit for *at least attempting* to fix my biggest pet peeve. When Tabitha finally gets back, there's a brief window where it looks like everyone is actually going to lay their cards on the table and share what they know. It didn't last, but hey, progress is progress.
+* **Victor's emotional heavy lifting.** Once again, **Victor Kavanaugh** is the absolute MVP of this show. Watching him dig into deeply buried childhood memories and finally face a painful piece of his past directly was an absolute gut-punch. The writers consistently treat his character with the most respect, and Scott McCord absolutely nails it every single time.
+* **A glimmer of hope for communication.** I have to give the show credit for *at least attempting* to fix my biggest pet peeve. When Tabitha finally gets back, there's a brief window where it looks like everyone is actually going to lay their cards on the table and share what they know. It didn't last, but hey, progress is progress.
 
 ## What didn't
 
-*   **The characters are insufferable now.** They teased us with open communication, and then walked it back. I know they're all traumatized, terrified, and starving, but *come on*! At this point, keeping secrets is just a lazy writing crutch used to manufacture drama.
-*   **Ellis is a total waste of screen time.** I will absolutely die on this hill. Ellis barely exists as an independent character this season, and his entire identity is just being attached to Fatima. It's wild watching him do absolutely nothing of substance while other side characters do so much more with less. **Kenny is way more of a son to Boyd than Ellis will ever be**, and the show isn't even trying to hide it anymore.
-*   **The mid-season stagnation.** The pacing in the middle stretch slowed to an absolute crawl. The questions keep piling up, but the answers aren't matching the pace. There's a rumor flying around the internet that a lot of these pacing issues stem from the **2023 writers' strike** disrupting the writers' room right before filming. I can't officially confirm that, but if it's true, it would totally explain why this season feels so messy compared to the first two.
+* **The characters are insufferable now.** They teased us with open communication, and then walked it back. I know they're all traumatized, terrified, and starving, but *come on*! At this point, keeping secrets is just a lazy writing crutch used to manufacture drama.
+* **Ellis is a total waste of screen time.** I will absolutely die on this hill. Ellis barely exists as an independent character this season, and his entire identity is just being attached to Fatima. It's wild watching him do absolutely nothing of substance while other side characters do so much more with less. **Kenny is way more of a son to Boyd than Ellis will ever be**, and the show isn't even trying to hide it anymore.
+* **The mid-season stagnation.** The pacing in the middle stretch slowed to an absolute crawl. The questions keep piling up, but the answers aren't matching the pace. There's a rumor flying around the internet that a lot of these pacing issues stem from the **2023 writers' strike** disrupting the writers' room right before filming. I can't officially confirm that, but if it's true, it would totally explain why this season feels so messy compared to the first two.
 
 ---
 
 Season 3 is still totally watchable, Victor is still carrying the emotional core of the series on his back, and that final cliffhanger will immediately make you scream for Season 4. But the frustrating drag in the middle and the characters' stubborn refusal to just *talk to each other* is starting to weigh the show down. I'm really hoping they course-correct next season, because the bones of this mystery are still incredibly strong.
 
-**Have you seen the fourth season?** [Season 4 is better binged. Here's my review →](/posts/review-from-season-4-better-binged)
+[← Prev: Season 2](/posts/review-from-season-2-still-good) [Next: Season 4 →](/posts/review-from-season-4-better-binged)
