@@ -131,6 +131,6 @@ After Omar's livestream, worried parents protest outside the school, and Princip
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](https://cineinks.vercel.app/posts/elite-retrospective).
+My full thoughts on all eight seasons are in the [Elite retrospective](/posts/elite-retrospective).
 
-[← Prev: Season 7](https://cineinks.vercel.app/posts/recap-elite-season-7-actually-enjoyed)
+[← Prev: Season 7](/posts/recap-elite-season-7-actually-enjoyed)

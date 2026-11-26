@@ -68,6 +68,6 @@ Spear and Fang come across an enslaved woman named Mira fighting off a sea creat
 
 ---
 
-My full thoughts on this season are in the [Season 1 review](https://cineinks.vercel.app/posts/primal-s1-review).
+My full thoughts on this season are in the [Season 1 review](/posts/primal-s1-review).
 
-Read the recap for [Season 2 →](https://cineinks.vercel.app/posts/recap-primal-season-2-surprised-me)
+[Next: Season 2 →](/posts/recap-primal-season-2-surprised-me)

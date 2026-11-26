@@ -48,3 +48,5 @@ By the time the final episodes roll around, the tension spikes hard. Someone goe
 ---
 
 Season 3 is still totally watchable, Victor is still carrying the emotional core of the series on his back, and that final cliffhanger will immediately make you scream for Season 4. But the frustrating drag in the middle and the characters' stubborn refusal to just *talk to each other* is starting to weigh the show down. I'm really hoping they course-correct next season, because the bones of this mystery are still incredibly strong.
+
+**Have you seen the fourth season?** [Season 4 is better binged. Here's my review →](/posts/review-from-season-4-better-binged)

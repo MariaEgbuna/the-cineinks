@@ -40,6 +40,16 @@ const nextConfig: NextConfig = {
         source: "/posts/recap-elite-season-2",
         destination: "/posts/recap-elite-season-2-solid-followup",
         permanent: true,
+      },
+      {
+        source: "/posts/recap-elite-season-3",
+        destination: "/posts/recap-elite-should-have-ended-season-3",
+        permanent: true,
+      },
+      {
+        source: "/posts/recap-elite-season-4",
+        destination: "/posts/recap-elite-season-4-awful",
+        permanent: true,
       }
     ];
   },

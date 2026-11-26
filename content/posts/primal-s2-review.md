@@ -36,4 +36,7 @@ Where it lost me a little was the ending. It felt rushed, and from what I have h
 
 Still, even with that stumble, the story this season told was a great one, and it ends as bittersweet in the best and worst ways.
 
-If you want to follow every battle, crossing, and turning point from their overseas rescue mission, check out my recap of [Primal Season 2.](https://cineinks.vercel.app/posts/recap-primal-season-2-surprised-me)
+If you want to follow every battle, crossing, and turning point from their overseas rescue mission, check out my recap of [Primal Season 2.](/posts/recap-primal-season-2-surprised-me)
+
+[← Prev: Season 1](/posts/primal-s1-review) 
+[Next: Season 3 →](/posts/was-primal-s3-needed)

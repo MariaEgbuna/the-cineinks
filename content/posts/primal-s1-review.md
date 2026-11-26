@@ -40,4 +40,6 @@ I have no complaints. The show is exactly what it wants to be, and it does it we
 
 I randomly saw the trailer for the third season and decided to give the show a shot. Ended up binging the first season in one day. This is pure, intense and unhinged drama, stripped down to its rawest form.
 
-If you want to see how Spear and Fang go from mortal enemies to an unstoppable prehistoric duo, check out my recap of the [entire first season.](https://cineinks.vercel.app/posts/recap-primal-season-1-all-action)
+If you want to see how Spear and Fang go from mortal enemies to an unstoppable prehistoric duo, check out my recap of the [entire first season.](/posts/recap-primal-season-1-all-action)
+
+[Next: Season 2 →](/posts/primal-s2-review)

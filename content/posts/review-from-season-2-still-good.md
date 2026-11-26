@@ -50,3 +50,5 @@ By the back half, everything starts cracking. Colony House is facing a massive f
 ---
 
 Season 2 still has everything that made me fall for this universe: the dread, the lore, and characters like Victor who give the show its heartbeat. But the massive communication breakdown between the characters is so frustrating, and the middle episodes drag in a way Season 1 never did.
+
+**The story continues:** [Did Season 3 keep it up? →](/posts/review-from-season-3-weakest-yet)

@@ -82,6 +82,6 @@ The season closes years later, with Fang and her now grown offspring still livin
 
 ---
 
-My full thoughts on this season are in the [Season 2 review](https://cineinks.vercel.app/posts/primal-s2-review).
+My full thoughts on this season are in the [Season 2 review](/posts/primal-s2-review).
 
-[← Prev: Season 1](https://cineinks.vercel.app/posts/recap-primal-season-1-all-action) [Next: Season 3 →](https://cineinks.vercel.app/posts/recap-primal-season-3-wasnt-needed)
+[← Prev: Season 1](/posts/recap-primal-season-1-all-action) [Next: Season 3 →](/posts/recap-primal-season-3-wasnt-needed)

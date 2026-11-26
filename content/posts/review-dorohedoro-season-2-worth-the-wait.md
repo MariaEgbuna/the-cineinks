@@ -51,3 +51,5 @@ And here is the absolute best news: **we are not waiting another six years for t
 This season is exactly what happens when a creative team knows what a show wants to be and executes it without a single second of hesitation. If Season 1 was the brilliant setup, Season 2 is the show fully realized.
 
 *PS: This season will absolutely have you deep-diving into internet theory threads to catch the things you missed on your first pass. Don't be surprised if you end up rewatching a few episodes before you can finally move on.*
+
+[← Prev: Season 1](/posts/review-dorohedoro-season-1-underrated) 

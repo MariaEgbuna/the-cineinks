@@ -10,10 +10,13 @@ import {
   toRelatedPost,
 } from "../../../utils/posts";
 import { scoreTone } from "../../../utils/scoreColor";
+import { splitEndLinks } from "../../../utils/postLinks";
 import { Metadata } from "next";
 import { SITE_URL } from "../../../utils/site";
 import { pageAlternates } from "../../../utils/seo";
 import MarkdownImage from "../../../components/MarkdownImage";
+import MarkdownParagraph from "../../../components/MarkdownParagraph";
+import PostNav from "../../../components/PostNav";
 import RelatedPosts from "../../../components/RelatedPosts";
 import ReadingProgress from "../../../components/ReadingProgress";
 import ShareButtons from "../../../components/ShareButtons";
@@ -89,7 +92,10 @@ export default async function PostPage({ params }: PageProps) {
 
   const hasCover = Boolean(post.coverImage);
 
-  // Text and bar colors for the Rating card (null when the post has no score)
+  // The article text, and the closing post links if there are any
+  const { body, endLinks } = splitEndLinks(post.content);
+
+  // Text color for the score (null when the post has no score)
   const tone = post.score !== null ? scoreTone(post.score) : null;
 
   // Banner info: year, length and genres on one line, like
@@ -196,44 +202,43 @@ export default async function PostPage({ params }: PageProps) {
         >
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
-            components={{ img: MarkdownImage as unknown as MarkdownImageComponent }}
+            components={{
+              img: MarkdownImage as unknown as MarkdownImageComponent,
+              // Post links on their own line get the fade design
+              p: MarkdownParagraph,
+            }}
           >
-            {post.content}
+            {body}
           </ReactMarkdown>
         </div>
 
-        {/* Rating card, only for posts that have a score.
-            The number gets a tier text color and the bar gets a
-            tier fill color. The wrapper carries no color. */}
+        {/* Compact Rating card, only for posts that have a score */}
         {post.score !== null && tone && (
-          <div className="max-w-225 mx-auto px-5 pb-8 md:pb-10">
-            <aside className="border-l-4 border-accent bg-card p-5">
-              <div className="flex items-center gap-4">
-                <span
-                  className={`shrink-0 bg-ink px-3 py-2 font-serif text-2xl font-semibold rounded sm:px-4 sm:py-3 sm:text-3xl ${tone.text}`}
-                >
-                  {post.score}/10
-                </span>
-                <div className="min-w-0 flex-1">
-                  <p className="font-mono text-xs font-medium uppercase tracking-wide text-accent">
-                    Rating
-                  </p>
-                  <div className="mt-2 h-1.5 bg-main/10">
-                    <div
-                      className={`h-full ${tone.bar}`}
-                      style={{
-                        width: `${Math.min(100, Math.max(0, post.score * 10))}%`,
-                      }}
-                    />
-                  </div>
-                </div>
-              </div>
-              {post.verdict && (
-                <p className="mt-4 text-[0.9375rem] leading-relaxed text-main/70 md:text-base">
-                  {post.verdict}
+          <div className="max-w-225 mx-auto px-5 pb-5 md:pb-6">
+            <aside className="flex items-center gap-3 border-l-[3px] border-accent bg-card px-3 py-2.5">
+              <span
+                className={`shrink-0 rounded bg-ink px-2.5 py-1.5 font-serif text-base font-semibold md:text-lg ${tone.text}`}
+              >
+                {post.score}/10
+              </span>
+              <div className="min-w-0">
+                <p className="font-mono text-[11px] font-medium uppercase tracking-wide text-accent">
+                  Rating
                 </p>
-              )}
+                {post.verdict && (
+                  <p className="text-sm leading-snug text-main/70">
+                    {post.verdict}
+                  </p>
+                )}
+              </div>
             </aside>
+          </div>
+        )}
+
+        {/* The closing post links, after the verdict */}
+        {endLinks && (
+          <div className="max-w-225 mx-auto px-5 pb-6 md:pb-8">
+            <PostNav links={endLinks} className="" />
           </div>
         )}
 

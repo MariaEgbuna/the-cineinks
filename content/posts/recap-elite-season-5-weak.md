@@ -104,6 +104,6 @@ The police finally arrive and arrest Benjamín, leading him away in handcuffs wh
 
 ---
 
-My full thoughts on all eight seasons are in the [Elite retrospective](https://cineinks.vercel.app/posts/elite-retrospective).
+My full thoughts on all eight seasons are in the [Elite retrospective](/posts/elite-retrospective).
 
-[← Prev: Season 4](https://cineinks.vercel.app/posts/recap-elite-season-4-awful) [Next: Season 6 →](https://cineinks.vercel.app/posts/recap-elite-season-6-got-tired)
+[← Prev: Season 4](/posts/recap-elite-season-4-awful) [Next: Season 6 →](/posts/recap-elite-season-6-got-tired)

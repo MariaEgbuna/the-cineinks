@@ -38,3 +38,5 @@ Honestly, though? It's barely a downside. Once the narrative hooks you, the uniq
 ---
 
 The plot, the characters, the unhinged tone, everything clicked for me in a way I never saw coming. I loved almost every second of this season, and even the parts that required a little adjustment turned into absolute strengths by the end. If you haven't watched *Dorohedoro* yet, consider this your official sign to jump in.
+
+[Next: Season 2 →](/posts/review-dorohedoro-season-2-worth-the-wait)

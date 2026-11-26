@@ -42,4 +42,6 @@ The Fang and Spear conflict was the hardest part to sit through, because watchin
 
 Still, none of that makes this a bad season. It is just the weakest of the three so far, sitting a notch below what season 1 and season 2 managed to pull off.
 
-Want to see how Spear navigates a darker supernatural world as an undead warrior searching for his past? Check out Season three recap [here.](https://cineinks.vercel.app/posts/recap-primal-season-3-wasnt-needed)
+Want to see how Spear navigates a darker supernatural world as an undead warrior searching for his past? Check out Season three recap [here.](/posts/recap-primal-season-3-wasnt-needed)
+
+[← Prev: Season 2](/posts/primal-s2-review) 

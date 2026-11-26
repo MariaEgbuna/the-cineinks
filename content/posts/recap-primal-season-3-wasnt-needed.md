@@ -82,6 +82,6 @@ The season closes years later. Fang's kids are grown. Spear's daughter is a teen
 
 ---
 
-My full thoughts on this season are in the [Season 3 review](https://cineinks.vercel.app/posts/was-primal-s3-needed).
+My full thoughts on this season are in the [Season 3 review](/posts/was-primal-s3-needed).
 
-[← Prev: Season 2](https://cineinks.vercel.app/posts/recap-primal-season-2-surprised-me)
+[← Prev: Season 2](/posts/recap-primal-season-2-surprised-me)
