@@ -99,8 +99,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Changed: headings inside prose are defined once, here. The same size
-   on phones and desktop (h2 1.25rem, h3 1rem), both semi-bold. */
+/* Headings inside prose are defined here: h2 1.25rem and h3 1rem, both
+   semi-bold. Post pages use a smaller h2 on phones (see below). */
 .prose :where(h2) {
   font-size: 1.25rem;
   font-weight: 600;
@@ -158,6 +158,55 @@ h1, h2, h3, h4, h5, h6 {
    header. The first element now starts flush with the top of the block. */
 .prose > :first-child {
   margin-top: 0;
+}
+
+/* --- Post pages on phones only: smaller text, tighter spacing --- */
+@media (width < 48rem) {
+  #post-body {
+    font-size: 0.875rem; /* 14px */
+    line-height: 1.65;
+  }
+
+  /* Both heading levels share the same spacing */
+  #post-body h2,
+  #post-body h3 {
+    margin-top: 24px;
+    margin-bottom: 8px;
+  }
+
+  #post-body h2 {
+    font-size: 1.125rem; /* 18px */
+  }
+
+  #post-body hr {
+    margin-top: 18px;
+    margin-bottom: 18px;
+  }
+
+  /* The paragraph holding an image controls the space around it */
+  #post-body p:has(> img) {
+    margin-top: 10px;
+    margin-bottom: 12px;
+  }
+
+  #post-body p > img {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  /* Stops the neighbouring paragraphs from making those gaps bigger */
+  #post-body p:has(+ p > img) {
+    margin-bottom: 0;
+  }
+
+  #post-body p:has(> img) + p {
+    margin-top: 0;
+  }
+
+  /* Nothing at the very start of a post gets extra space above it */
+  #post-body > :first-child {
+    margin-top: 0;
+  }
 }
 
 @theme {

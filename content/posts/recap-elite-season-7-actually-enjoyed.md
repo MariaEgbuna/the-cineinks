@@ -47,8 +47,6 @@ At home, Joel gets a package from Ivan: a full scholarship offer to Las Encinas.
 
 When Joel shows up to register, Ivan's thrilled to show him around. Omar turns up too, finally accepting the internship offer to help run the school's app. María and Roberta agree to let Didac stay, which Luis calls the right call. The episode ends with Luis, revealed to be an undercover cop, pinning Didac's photo up on an investigation board.
 
----
-
 ### Sara plays the long game
 
 ![Season 7 Recap](/images/posts/recap-elite-season-7/image-2.jpg)
