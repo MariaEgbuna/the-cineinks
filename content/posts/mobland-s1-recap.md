@@ -44,9 +44,9 @@ The family has other problems:
 
 ![The Harrigans](/images/posts/mobland-s1-recap/image-2.jpg "The Harrigans: Helen Mirren, Pierce Brosnan and Anson Boon (Paramount+)")
 
-The Harrigans attend the funeral with weapons smuggled in as protection, while police watch after information unknowingly supplied by Jan. Maeve and Eddie provoke the Stevensons, and Harry and Kevin drug Maeve to stop things getting worse.
+The Harrigans go to the funeral with weapons smuggled in, just in case. Police are watching too, thanks to details Jan didn't realise she was giving away. Maeve and Eddie provoke the Stevensons, and Harry and Kevin drug Maeve to stop things getting worse.
 
-Richie privately reveals that he never believed Valjon was responsible. He says he doesn't want a war, but Eddie is fair game if the Stevensons can reach him. Maeve shatters that uneasy arrangement by having Richie's wife, Vron, killed with a car bomb. Conrad covers for her and declares war.
+In private, Richie admits he never believed Valjon did it. He doesn't want a war, but if the Stevensons can get to Eddie, he's fair game. Maeve wrecks that uneasy deal by having Richie's wife, Vron, killed with a car bomb. Conrad covers for her and declares war.
 
 Conrad's daughter Seraphina and his eldest son Brendan are in Antwerp for a diamond deal. Maeve, Seraphina's stepmother, secretly gives Richie their location, offering up Seraphina on the condition that Brendan is spared. The deal turns into a massacre, and both siblings are taken.
 
@@ -56,11 +56,11 @@ Harry fights his way across Antwerp as Richie streams their planned execution to
 
 ![The tense Harrigan family dinner with Alice in MobLand Season 1](/images/posts/mobland-s1-recap/image-3.jpg)
 
-Conrad wants a fentanyl deal with Jaime, so Harry asks Kat to broker a meeting, putting himself further in her debt. Harry also questions Freddie, his source inside Richie's operation, and learns that someone close to the Harrigans has been working with Richie. Harry then throws him to his death.
+Conrad wants a fentanyl deal with Jaime, so Harry asks Kat to broker a meeting, putting himself further in her debt. Harry also presses Freddie, his source inside Richie's operation, and learns that someone close to the Harrigans has been working with Richie. Then he throws Freddie to his death.
 
-Detectives Fisk and Mukasa, who have been investigating the family, offer Richie immunity in return for help bringing down Conrad. Richie kills them both. Former senior officer Colin Tattersall, who suggested the deal, turns out to be working for Richie.
+Detectives Fisk and Mukasa, who have been after the family, offer Richie immunity in return for help bringing down Conrad. Richie kills them both. Former senior officer Colin Tattersall, who suggested the deal, turns out to be working for Richie.
 
-Tattersall then pushes Alice, whose real name is Nicola, to collect evidence that can be used to frame Conrad and Maeve. Jaime later tells Harry he'll accept the fentanyl deal on one condition: Harry has to deal with the family's rat.
+Tattersall then pushes Alice (real name Nicola) to collect what he needs to frame Conrad and Maeve. Jaime agrees to the deal, but only if Harry deals with the family's rat.
 
 Kevin, meanwhile, tracks down Rusby and kills him.
 
@@ -70,13 +70,13 @@ Conrad invites Alice to dinner, where the family falls apart. After a confession
 
 ![Harry and Kevin](/images/posts/mobland-s1-recap/image-4.jpg "Tom Hardy and Paddy Considine (Paramount+)")
 
-Harry cleans up after Rusby's killing, then confronts O'Hara, who admits she has been giving Richie information. She says she didn't tell him about Archie or Antwerp. Kevin visits Conrad in prison, tells him that Archie was never the rat and makes clear that things are changing.
+Harry cleans up after Rusby's killing, then confronts O'Hara, who admits she's been feeding Richie information, though she says she never told him about Archie or Antwerp. Kevin visits Conrad in prison, tells him Archie was never the rat and makes it clear that things are changing.
 
 Maeve tells Eddie that Conrad, not Kevin, is his father. She urges him to kill Harry and Seraphina so he can take control. Eddie confronts Bella and tries to choke her, but Kiko, one of Harry's closest associates, pulls him off. Elsewhere, Tattersall betrays Alice, who is drugged and driven away while he tells Richie the job is done.
 
 Harry uses O'Hara to lure Richie into a trap. Richie splits his men between her office and the Harrigans' safehouse. Paul, a Harrigan henchman, blows up the office with Richie's men inside. At the safehouse, Kiko and Harry's other close associate, Zosia, help defeat the second group, but Kiko is shot dead.
 
-Harry and Kevin go after Richie. Kevin kills him, and Harry finishes off O'Hara. They also have a recording of Alice admitting to the evidence tampering, which could help free Conrad and Maeve.
+Harry and Kevin go after Richie. Kevin kills him, and Harry finishes off O'Hara. They also have Alice on tape admitting she tampered with evidence, which could help free Conrad and Maeve.
 
 Kat then asks Harry to help her take down the Harrigans. He refuses, even when she makes it clear that this will make them enemies. Back home, Jan's anger over what Harry's work has done to their family boils over. While arguing as she chops vegetables, she cuts herself, lashes out as Harry tries to help and accidentally stabs him in the chest.
 
@@ -84,8 +84,7 @@ Kat then asks Harry to help her take down the Harrigans. He refuses, even when s
 
 ## Where We Left Everyone
 
-* **Harry:** He stays loyal to the Harrigans and turns Kat into an enemy, then ends the season with a knife in his chest.
-* **Jan:** Her anger at the life they're living comes to a head when she accidentally stabs Harry.
+* **Harry & Jan:** He turns down Kat and makes an enemy of her, then goes home, where Jan's anger boils over and he ends the season with her accidental knife in his chest.
 * **Kevin & Bella:** After sharing their histories of abuse, they agree to stand together as Kevin prepares to lead.
 * **Eddie:** He now knows Conrad is his father, and Maeve wants him to seize control.
 * **Conrad & Maeve:** Both are still in custody. Conrad enjoys a hero's reception from other inmates, while the pair look for a way out.
