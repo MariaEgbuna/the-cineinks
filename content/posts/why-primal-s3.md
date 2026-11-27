@@ -1,7 +1,7 @@
 ---
 title: "Primal Season 3 Review: A Painful Road Back"
 slug: was-primal-s3-needed
-date: 2026-07-08T02:39:10.959Z
+date: 2026-07-08T02:39:10.959+01:00
 category: Quick Take
 labels:
   - Anime

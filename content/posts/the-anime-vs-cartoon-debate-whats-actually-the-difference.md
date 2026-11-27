@@ -1,7 +1,7 @@
 ---
 title: "Anime vs Cartoon: What's Actually the Difference?"
 slug: "the-anime-vs-cartoon-debate-whats-actually-the-difference"
-date: "2026-06-15T12:00:00Z"
+date: "2026-06-15T12:00:00.000+01:00"
 category: "Thoughts"
 labels: ["Anime"]
 score: null

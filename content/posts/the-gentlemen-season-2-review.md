@@ -1,7 +1,7 @@
 ---
 title: "The Gentlemen Season 2 Review: It Plays It Too Safe"
 slug: "the-gentlemen-season-2-review"
-date: "2026-10-11T10:30:00Z"
+date: "2026-10-11T10:30:00.000+01:00"
 category: "Review"
 labels: ["Series"]
 score: 7.0

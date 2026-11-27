@@ -1,7 +1,7 @@
 ---
 title: "Series Recommendations: Interview with the Vampire, The Newsreader, Hellbound and More"
 slug: series-recommendations-june-06-2026
-date: 2026-06-06T10:30:00.000Z
+date: 2026-06-06T10:30:00.000+01:00
 category: Curated
 labels:
   - Series

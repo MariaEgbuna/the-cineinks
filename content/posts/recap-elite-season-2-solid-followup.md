@@ -1,7 +1,7 @@
 ---
 title: "Elite Season 2 Recap: Exposed Secrets and Polo's Return"
 slug: "recap-elite-season-2-solid-followup"
-date: 2026-05-12T10:30:00Z
+date: 2026-05-12T10:30:00.000+01:00
 category: Recap
 labels:
   - Recap

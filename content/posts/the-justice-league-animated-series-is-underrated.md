@@ -1,7 +1,7 @@
 ---
 title: "Justice League Animated Series: Why It's Underrated and Worth Watching"
 slug: "the-justice-league-animated-series-is-underrated"
-date: "2026-06-15T10:00:19.629Z"
+date: "2026-06-15T10:00:19.629+01:00"
 category: "Hall of Fame"
 labels: ["Anime"]
 year: "2001 - 2006"

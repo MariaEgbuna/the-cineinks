@@ -1,7 +1,7 @@
 ---
 title: "Elite Season 3 Recap: Polo's Downfall and the End of an Era"
 slug: "recap-elite-should-have-ended-season-3"
-date: 2026-05-14T11:15:13.863Z
+date: 2026-05-14T11:15:13.863+01:00
 category: Recap
 labels:
   - Recap

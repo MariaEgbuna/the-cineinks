@@ -118,6 +118,35 @@ h1, h2, h3, h4, h5, h6 {
   height: auto;
 }
 
+/* --- Image captions --- */
+
+/* The wrapper takes over the space the image normally has around it */
+.prose .post-figure {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* No gap between the image and its own caption */
+.prose .post-figure img {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.prose .post-caption {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.8125rem; /* 13px */
+  line-height: 1.5;
+  color: var(--page-muted);
+  text-align: left;
+}
+
+/* A captioned image at the very start sits flush, with no extra space */
+.prose > p:first-child > .post-figure:first-child {
+  margin-top: 0;
+}
+
 /* --- Tables in posts (character grids) --- */
 
 /* Equal-width columns, no matter how much text each cell holds */
@@ -184,22 +213,28 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   /* The paragraph holding an image controls the space around it */
-  #post-body p:has(> img) {
+  #post-body p:has(> img, > .post-figure) {
     margin-top: 10px;
     margin-bottom: 12px;
   }
 
-  #post-body p > img {
+  #post-body p > img,
+  #post-body p > .post-figure {
     margin-top: 0;
     margin-bottom: 0;
   }
 
+  #post-body .post-caption {
+    margin-top: 6px;
+    font-size: 0.75rem; /* 12px */
+  }
+
   /* Stops the neighbouring paragraphs from making those gaps bigger */
-  #post-body p:has(+ p > img) {
+  #post-body p:has(+ p > img, + p > .post-figure) {
     margin-bottom: 0;
   }
 
-  #post-body p:has(> img) + p {
+  #post-body p:has(> img, > .post-figure) + p {
     margin-top: 0;
   }
 

@@ -1,7 +1,7 @@
 ---
 title: "Primal Season 3 Recap: The Brutal Road Back for Spear"
 slug: "recap-primal-season-3-wasnt-needed"
-date: "2026-07-08T02:39:10.959Z"
+date: "2026-07-08T02:39:10.959+01:00"
 category: "Recap"
 labels: ["Recap"]
 excerpt: "A darker supernatural turn, an undead protagonist, and a fractured reunion. Here is a complete recap of the key events and turning points in Primal Season 3."

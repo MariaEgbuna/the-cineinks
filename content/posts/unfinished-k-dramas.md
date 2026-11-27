@@ -1,7 +1,7 @@
 ---
 title: "K-Dramas I Quit Halfway: Reply 1988, Marry My Husband & More"
 slug: "unfinished-k-dramas"
-date: "2026-10-25T10:30:00Z"
+date: "2026-10-25T10:30:00.000+01:00"
 category: "Extra"
 labels: ["Extra"]
 score: null

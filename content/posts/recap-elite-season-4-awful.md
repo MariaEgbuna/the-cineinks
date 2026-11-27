@@ -1,7 +1,7 @@
 ---
 title: "Elite Season 4 Recap: Power Struggles and a Fatal New Year's Party"
 slug: "recap-elite-season-4-awful"
-date: 2026-05-20T06:14:10.494Z
+date: 2026-05-20T06:14:10.494+01:00
 category: Recap
 labels:
   - Recap

@@ -1,7 +1,7 @@
 ---
 title: "Frieren Season 2 First Impressions: Something Feels Off"
 slug: "something-feels-off-about-frieren-s2"
-date: "2026-05-29T22:17:48.417Z"
+date: "2026-05-29T22:17:48.417+01:00"
 category: "Thoughts"
 labels: ["Anime"]
 score: null

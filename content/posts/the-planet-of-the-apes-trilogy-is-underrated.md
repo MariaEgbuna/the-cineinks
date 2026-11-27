@@ -1,7 +1,7 @@
 ---
 title: "Planet of the Apes Reboot Trilogy: Why It's Underrated"
 slug: "the-planet-of-the-apes-trilogy-is-underrated"
-date: "2026-06-17T10:30:00Z"
+date: "2026-06-17T10:30:00.000+01:00"
 category: "Hall of Fame"
 labels: ["Movies"]
 score: null

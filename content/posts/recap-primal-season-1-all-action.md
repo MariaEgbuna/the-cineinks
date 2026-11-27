@@ -1,7 +1,7 @@
 ---
 title: "Primal Season 1 Recap: No Words, All Action"
 slug: "recap-primal-season-1-all-action"
-date: 2026-06-26T10:30:00Z
+date: 2026-06-26T10:30:00.000+01:00
 category: "Recap"
 labels: ["Recap"]
 excerpt: Here is how Spear and Fang go from mortal enemies to an unstoppable prehistoric duo.

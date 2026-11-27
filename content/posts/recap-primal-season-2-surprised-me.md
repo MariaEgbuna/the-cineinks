@@ -1,7 +1,7 @@
 ---
 title: "Primal Season 2 Recap: Grief Across Oceans and Centuries"
 slug: "recap-primal-season-2-surprised-me"
-date: "2026-07-01T10:30:00Z"
+date: "2026-07-01T10:30:00.000+01:00"
 category: "Recap"
 labels: ["Recap"]
 excerpt: "Primal Season 2 follows Spear and Fang across the sea to rescue Mira, pitting them against ancient empires, ruthless warlords, and their deadliest threat yet."

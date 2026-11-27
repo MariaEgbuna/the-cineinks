@@ -1,7 +1,7 @@
 ---
 title: "Is The Legend of Vox Machina Worth Watching? Yes, It's Peak"
 slug: "the-legend-of-vox-machina-is-peak"
-date: "2026-07-13T10:30:00Z"
+date: "2026-07-13T10:30:00.000+01:00"
 category: "Hall of Fame"
 labels: ["Anime"]
 score: null

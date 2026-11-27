@@ -1,7 +1,7 @@
 ---
 title: "Elite Season 6 Recap: Grief, Blackmail, and Who Hit Iván"
 slug: "recap-elite-season-6-got-tired"
-date: 2026-05-28T10:30:00.000Z
+date: 2026-05-28T10:30:00.000+01:00
 category: Recap
 labels:
   - Recap

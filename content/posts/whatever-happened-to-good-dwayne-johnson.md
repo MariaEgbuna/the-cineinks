@@ -1,7 +1,7 @@
 ---
 title: "Whatever Happened to Good Dwayne Johnson?"
 slug: "whatever-happened-to-good-dwayne-johnson"
-date: "2026-07-19T09:48:19.207Z"
+date: "2026-07-19T09:48:19.207+01:00"
 category: "Spotlight"
 labels: ["Spotlight"]
 score: null

@@ -1,7 +1,7 @@
 ---
 title: "Primal Season 2 Review: Bigger World, Rushed Ending"
 slug: primal-s2-review
-date: 2026-07-01T10:30:00Z
+date: 2026-07-01T10:30:00.000+01:00
 category: Quick Take
 labels:
   - Anime

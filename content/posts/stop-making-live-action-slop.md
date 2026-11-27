@@ -1,7 +1,7 @@
 ---
 title: "Stop Making Live Action Slop: Animation Isn't a Testing Ground for Remakes"
 slug: "stop-making-live-action-slop"
-date: "2026-07-03T11:30:00Z"
+date: "2026-07-03T11:30:00.000+01:00"
 category: "Rants"
 labels: ["Extra"]
 score: null

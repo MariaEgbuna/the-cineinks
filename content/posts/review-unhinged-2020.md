@@ -1,7 +1,7 @@
 ---
 title: "Unhinged (2020) Review: An Ordinary Drive Turns Into a Nightmare"
 slug: "review-unhinged-2020"
-date: "2026-05-11T10:12:00.004Z"
+date: "2026-05-11T10:12:00.004+01:00"
 category: "Quick Take"
 labels: ["Movies"]
 score: 7.3

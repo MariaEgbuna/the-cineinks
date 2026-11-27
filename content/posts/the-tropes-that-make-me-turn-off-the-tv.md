@@ -1,7 +1,7 @@
 ---
 title: "Movie Tropes I Hate: The Ones That Make Me Turn Off the TV"
 slug: "the-tropes-that-make-me-turn-off-the-tv"
-date: "2026-05-12T06:08:00.001Z"
+date: "2026-05-12T06:08:00.001+01:00"
 category: "Hot Takes"
 labels: ["Extra"]
 score: null

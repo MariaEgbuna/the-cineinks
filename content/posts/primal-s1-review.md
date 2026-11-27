@@ -1,7 +1,7 @@
 ---
 title: "Primal Season 1 Review: Raw and Intense"
 slug: primal-s1-review
-date: 2026-06-26T10:30:00Z
+date: 2026-06-26T10:30:00.000+01:00
 category: Quick Take
 labels:
   - Anime

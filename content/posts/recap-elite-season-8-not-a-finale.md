@@ -1,7 +1,7 @@
 ---
 title: "Elite Season 8 Recap: The End of Las Encinas"
 slug: "recap-elite-season-8-not-a-finale"
-date: 2026-06-19T11:34:00.000Z
+date: 2026-06-19T11:34:00.000+01:00
 category: Recap
 labels:
   - Recap
