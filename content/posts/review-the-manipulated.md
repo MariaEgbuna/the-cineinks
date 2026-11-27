@@ -41,9 +41,9 @@ The first four episodes are fast, intense and wild but still believable, leaving
 
 * It all went downhill once the prisoners were let loose for a game. And by episodes 7 and 8, it was nonstop car chases, plot armor, lucky breaks for the lead and choppy fight scenes.
 
-* The show also skips past what could have given the story some depth. A man is wrongfully convicted, but there's no real focus on the mistaken evidence or how that conviction happened. People keep dying too, and nobody questions it AT ALL.
+* The show also skips past what could have given the story some depth. A man is wrongfully convicted, but there's no real focus on the mistaken evidence AT ALL.
 
-* The ending felt rushed, and there were so many plot holes. Yong-sik, Tae-joong's friend from prison, gets framed for the assemblyman's death, and no one checks for his alibi? Also, what happened to Yo-han's mom? The show reveals that his nanny is his biological mother, then she vanishes before the story wraps up.
+* The ending felt anticlimactic, and there were so many plot holes. Yong-sik, Tae-joong's friend from prison, gets framed for the assemblyman's death, and no one checks for his alibi? Also, what happened to Yo-han's mom? The show reveals that his nanny is his biological mother, then she vanishes before the story wraps up.
 
 * Yo-han destroyed Tae-joong's life, yet there's no satisfying punishment or reckoning. He isn't brought to his knees and he never faces the same kind of suffering he put Tae-joong through. He dies in the end, but for a revenge story, that's simply not enough. I needed to see him lose his power, realize that everything was over and face the consequences, preferably behind bars.
 
