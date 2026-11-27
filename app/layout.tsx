@@ -100,7 +100,8 @@ export default function RootLayout({
             tag; it is harmless and does not appear in production. */}
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body>
+      {/* At least one screen tall, stacked top to bottom */}
+      <body className="flex min-h-dvh flex-col">
         {/* Skip link: invisible until a keyboard user presses Tab, then it
             lets them jump past the header straight to the page content. */}
         <a
@@ -118,8 +119,9 @@ export default function RootLayout({
           }}
         />
         <Header searchablePosts={searchablePosts} />
-        {/* The skip link lands here */}
-        <div id="main-content" tabIndex={-1} className="outline-none">
+        {/* The skip link lands here. flex-1 fills any spare height,
+            which pushes the footer to the bottom on short pages. */}
+        <div id="main-content" tabIndex={-1} className="flex-1 outline-none">
           {children}
         </div>
         <Footer />

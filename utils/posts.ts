@@ -53,7 +53,7 @@ export function toRelatedPost(post: Post): RelatedPost {
 }
 
 // Decap skips optional fields left blank, and a hand-typed year can come
-// through as a number, so every optional text field is cleaned in one place.
+// through as a number, so text fields are cleaned in one place.
 function cleanString(value: unknown): string {
   if (typeof value === "number") return String(value);
   return typeof value === "string" ? value.trim() : "";
@@ -67,6 +67,12 @@ function cleanDate(value: unknown): string {
     return Number.isNaN(value.getTime()) ? "" : value.toISOString();
   }
   return typeof value === "string" ? value.trim() : "";
+}
+
+// Always returns a list of non-empty text, even when labels are missing
+function cleanLabels(value: unknown): string[] {
+  if (!Array.isArray(value)) return [];
+  return value.map(cleanString).filter(Boolean);
 }
 
 // Genres can be written as plain text ("Horror, Comedy") or as a list
@@ -92,15 +98,19 @@ export function getAllPosts(): Post[] {
     const score: number | null =
       typeof data.score === "number" ? data.score : null;
 
-    const coverImage: string =
-      typeof data.coverImage === "string" ? data.coverImage : "";
+    const slug = cleanString(data.slug) || filename.replace(/\.md$/, "");
 
     return {
       ...data,
       content,
+      slug,
+      title: cleanString(data.title) || slug,
+      category: cleanString(data.category),
+      labels: cleanLabels(data.labels),
+      excerpt: cleanString(data.excerpt),
       date: cleanDate(data.date),
       score,
-      coverImage,
+      coverImage: cleanString(data.coverImage),
       verdict: cleanString(data.verdict),
       year: cleanString(data.year),
       length: cleanString(data.length),
@@ -126,11 +136,11 @@ function getMatchingLabel(post: Post): string | undefined {
     .filter((c) => c.isMainType)
     .map((c) => c.label.toLowerCase());
 
-  const mainType = post.labels?.find((label) =>
+  const mainType = post.labels.find((label) =>
     mainTypeLabels.includes(label.toLowerCase())
   );
 
-  return mainType ?? post.labels?.[0];
+  return mainType ?? post.labels[0];
 }
 
 export function getRelatedPosts(post: Post, allPosts: Post[]): Post[] {

@@ -141,7 +141,7 @@ export default function SearchBar({ posts }: SearchBarProps) {
             ))
           )}
 
-          {/* Always offered, since the full page also searches the post text */}
+          {/* Always offered, since the full page shows every match */}
           <Link
             href={`/search?q=${encodeURIComponent(query.trim())}`}
             onClick={closeSearch}
