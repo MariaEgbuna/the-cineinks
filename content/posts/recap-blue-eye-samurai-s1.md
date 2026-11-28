@@ -1,7 +1,7 @@
 ---
 title: "Blue Eye Samurai Season 1 Recap: Mizu's Hunt for Revenge"
 slug: "recap-blue-eye-samurai-s1"
-date: "2026-11-28T00:15:00.000+01:00"
+date: "2026-11-28T12:15:00.000+01:00"
 category: "Recap"
 labels: ["Recap"]
 excerpt: "Disguised as a man, a mixed-race swordsman hunts the white men tied to her birth, and her search leads to a smuggler hiding inside a guarded fortress."

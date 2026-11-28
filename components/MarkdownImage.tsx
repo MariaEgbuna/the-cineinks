@@ -38,6 +38,8 @@ export default async function MarkdownImage({ src, alt, title }: MarkdownImagePr
       className="w-full h-auto"
     />
   ) : (
+    // Fallback for images whose size can't be read, so <Image /> can't be used
+    // eslint-disable-next-line @next/next/no-img-element
     <img src={src} alt={alt ?? ""} loading="lazy" className="w-full h-auto" />
   );
 

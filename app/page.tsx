@@ -120,8 +120,9 @@ export default function Home() {
         </section>
       )}
 
-      {/* Browse by medium: the label on its own line, the pills below */}
-      <section className="bg-page pb-8 md:pb-10">
+      {/* Browse by medium, on phones only. From md up, the header nav
+          already shows these links. */}
+      <section className="bg-page pb-8 md:hidden">
         <div className="max-w-[1600px] mx-auto px-5">
           <p className="mb-3 font-mono text-xs font-medium uppercase tracking-wide text-muted">
             Browse By:
@@ -131,7 +132,7 @@ export default function Home() {
               <Link
                 key={medium.slug}
                 href={`/category/${medium.slug}`}
-                className="rounded-full border border-main/20 px-4 py-1.5 text-sm text-main/80 transition-colors hover:border-accent hover:text-accent"
+                className="rounded-full border border-main/20 px-3 py-1.5 text-sm text-main/80 transition-colors hover:border-accent hover:text-accent"
               >
                 {medium.label}
               </Link>

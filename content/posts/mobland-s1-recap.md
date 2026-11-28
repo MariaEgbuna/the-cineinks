@@ -1,7 +1,7 @@
 ---
 title: "MobLand Season 1 Recap: A Missing Son Sparks a Gang War"
 slug: "mobland-s1-recap"
-date: "2026-11-27T13:30:00.000+01:00"
+date: "2026-11-08T13:30:00.000+01:00"
 category: "Recap"
 labels: ["Recap"]
 excerpt: "When a rival boss's son vanishes after a night out with Eddie Harrigan, fixer Harry Da Souza has to stop a gang war while someone leaks family secrets."
